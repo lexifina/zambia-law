@@ -1,0 +1,3 @@
+# Long title
+An Act to provide for the prohibition and prevention of money laundering; the constitution of the Anti-money Laundering Authority and the Anti-Money Laundering Investigations Unit; to provide for the disclosure of information on suspicion of money laundering activities by Supervisory Autorities and regulated institutions; to provide for the forfeiture of property of persons convicted of money laundering; to provide for international cooperation in investigations, prosecution and other legal processes of prohibiting and preventing money laundering; and to provide for matters connected with or incidental to the foregoing.
+ENACTED by the Parliament of Zambia
