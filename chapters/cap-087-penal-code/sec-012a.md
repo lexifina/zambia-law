@@ -1,0 +1,6 @@
+# 12A. Defence of diminished responsibility
+(1) Where a person kills or is a party to the killing of another, he shall not be convicted of murder if he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or is induced by disease or injury) which has substantially impaired his mental responsibility for his acts or omissions in doing or being party to the killing.
+(2) The provisions of subsection (2) of section thirteen shall apply with necessary modifications to the defence of diminished responsibility under this section:
+Provided that the transient effect of intoxication as described in that subsection shall be deemed not to amount to disease or injury for purposes of this section.
+(3) On a charge of murder, it shall be for the defence to prove the defence of diminished responsibility and the burden of proof shall be on a balance of probabilities.
+(4) Where the defence of diminished responsibility is proved in accordance with this section, a person charged with murder shall be liable to be convicted of manslaughter or any other offence which is less than murder. (As amended by Act No. 3 of 1990)
