@@ -1,0 +1,21 @@
+# Article IV — Provisions common to licences under Articles II and III
+Procedure
+(1) A licence under Article II or Article III may be granted only if the applicant, in accordance with the procedure of the country concerned, establishes either that he has requested, and has been denied, authorisation by the owner of the right to make and publish the translation or to reproduce and publish the edition, as the case may be, or that, after due diligence on his part, he was unable to find the owner of the right. At the same time as making the request, the applicant shall inform any national or international information centre referred to in paragraph (2).
+(2) If the owner of the right cannot be found, the applicant for a licence shall send, by registered airmail, copies of his application, submitted to the authority competent to grant the licence, to the publisher whose name appears on the work and to any national or international information centre which may have been designated, in a notification to that effect deposited with the Director General, by the Government of the country in which the publisher is believed to have his principal place of business.
+(3) Indication of author and title of work
+The name of the author shall be indicated on all copies of the translation or reproduction published under a licence granted under Article II or Article III. The title of the work shall appear on all such copies. In the case of a translation, the original title of the work shall appear in any case on all the said copies.
+(4) Exportation of copies
+(a) No licence granted under Article II or Article III shall extend to the export of copies, and any such licence shall be valid only for publication of the translation or of the reproduction, as the case may be, in the territory of the country in which it has been applied for.
+(b) For the purpose of sub-paragraph (a), the notion of export shall include the sending of copies from any territory to the country which, in respect of that territory, has made a declaration under Article I(5).
+(c) Where a governmental or other public entity of a country which has granted a licence to make a translation under Article II into a language other than English, French or Spanish sends copies of a translation published under such licence to another country, such sending of copies shall not, for the purposes of sub-paragraph (a), be considered to constitute export if all of the following conditions are met:
+(i) the recipients are individuals who are nationals of the country whose competent authority has granted the licence, or organisations grouping such individuals;
+(ii) the copies are to be used only for the purpose of teaching, scholarship or research;
+(iii) the sending of the copies and their subsequent distribution to recipients is without any commercial purpose; and
+(iv) the country to which the copies have been sent has agreed with the country whose competent authority has granted the licence to allow the receipt, or distribution, or both, and the Director General has been notified of the agreement by the Government of the country in which the licence has been granted.
+(5) Notice
+All copies published under a licence granted by virtue of Article II or Article III shall bear a notice in the appropriate language stating that the copies are available for distribution only in the country or territory to which the said licence applies.
+(6) Compensation
+(a) Due provision shall be made at the national level to ensure—
+(i) that the licence provides, in favour of the owner of the right of translation or of reproduction, as the case may be, for just compensation that is consistent with standards of royalties normally operating on licences freely negotiated between persons in the two countries concerned; and
+(ii) payment and transmittal of the compensation; should national current regulations intervene, the competent authority shall make all efforts, by the use of international machinery, to ensure transmittal in internationally convertible currency or its equivalent.
+(b) Due provision shall be made by national legislation to ensure a correct translation of the work, or an accurate reproduction of the particular edition, as the case may be.
