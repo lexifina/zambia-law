@@ -1,0 +1,6 @@
+# FIRST SCHEDULE
+(Section 8)
+TABLE OF EQUAL INSTALMENTS
+PAYABLE FOR FIVE YEARS Table of equal instalments payable at the end of each year for five years, in accordance with the provisions of section 8:
+Equivalent amounts Amount payable at the end of payable each year for 5 years K K 1 . . . . . . . . . . . . . . 0.24 2 . . . . . . . . . . . . . . 0.48 3 . . . . . . . . . . . . . . 0.71 4 . . . . . . . . . . . . . . 0.95 5 . . . . . . . . . . . . . . 1.19 6 . . . . . . . . . . . . . . 1.43 7 . . . . . . . . . . . . . . 1.66 8 . . . . . . . . . . . . . . 1.90 9 . . . . . . . . . . . . . . 2.14 10 . . . . . . . . . . . . . . 2.38 20 . . . . . . . . . . . . . . 4.75 30 . . . . . . . . . . . . . . 7.12 40 . . . . . . . . . . . . . . 9.50 50 . . . . . . . . . . . . . . 11.87 60 . . . . . . . . . . . . . . 14.25 70 . . . . . . . . . . . . . . 16.62 80 . . . . . . . . . . . . . . 18.99 90 . . . . . . . . . . . . . . 21.37 100 . . . . . . . . . . . . . . 23.74 Yearly instalments for any sum not mentioned in this table, such as K89.25, may be ascertained as follows:
+K K80.00 gives . . . . . . . . . . . . . . 18.99 K9.00 gives . . . . . . . . . . . . . . 2.14 K0.25, or 1/4 of K1. . . . . . . . . . . . 0.06 Therefore K89.25 gives. . . . . . . . . . . . K21.19
