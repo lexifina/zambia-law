@@ -1,0 +1,2 @@
+# 13A. Power to suspend practising certificate
+The Legal Practitioners' Committee may, on its own volition or, on the advice of the Disciplinary Committee established pursuant to section four of the Legal Practitioners Act, suspend, for such period as the Legal Practitioners' Commitee may determine, the practising certificate of a practitioner to whom an application under paragraph (b) of subsection (1) of section twenty-two of that Act, relates, pending the outcome of the hearing of the case by the Disciplinary Committee.
