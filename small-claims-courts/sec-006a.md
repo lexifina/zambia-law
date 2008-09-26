@@ -1,0 +1,4 @@
+# 6A. Incidental jurisdiction
+(1) In an action in which the sum claimed does not exceed the jurisdiction of the court and is the balance of an account, the court may enquire into and hear evidence upon the whole account, even though that account relates to items and transactions exceeding the jurisdiction of the court.
+(2) Where the amount claimed or other relief sought does not exceed the jurisdiction of the court, the court shall not pe deprived of that jurisdiction merely because it is necessary for the court, in order to arrive at a decision, to give a finding upon a matter beyond its jurisdiction.
+(3) The plaintiff may only claim for the relief of specific performance if such claim is accompanied by an alternative claim for payment of quantified damages that the plaintiff has suffered as a result of the defendant's failure to comply with the plaintiffs obligations.
