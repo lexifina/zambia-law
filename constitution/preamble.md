@@ -1,9 +1,13 @@
 # Preamble
-WE, THE PEOPLE OF ZAMBIA by our representatives, assembled in our Parliament, having solemnly resolved to maintain Zambia as a Sovereign Democratic Republic;
-DETERMINED to uphold and exercise our inherent and inviolable right as a people to decide, appoint and proclaim the means and style to govern ourselves;
-RECOGNISE the equal worth of men and women in their rights to participate, and freely determine and build a political, economic and social system of their own free choice;
-PLEDGE to ourselves that we shall ensure that the State shall respect the rights and dignity of the human family, uphold the laws of the State and conduct the affairs of the State in such manner as to preserve, develop, and utilise its resources for this and future generations;
-DECLARE the Republic a Christian nation while upholding the right of every person to enjoy that person's freedom of conscience or religion;
-RESOLVE to uphold the values of democracy, transparency, accountability and good governance;
-AND FURTHER RESOLVE that Zambia shall forever remain a unitary, indivisible, multi-party and democratic sovereign state;
-DO HEREBY ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
+WE, THE PEOPLE OF ZAMBIA:
+ACKNOWLEDGE the supremacy of God Almighty;
+DECLARE the Republic a Christian Nation while upholding a person's right to freedom of conscience, belief or religion;
+UPHOLD the human rights and fundamental freedoms of every person;
+COMMIT ourselves to upholding the principles of democracy and good governance;
+RESOLVE to ensure that our values relating to family, morality, patriotism and justice are maintained and all functions of the State are performed in our common interest;
+CONFIRM the equal worth of women and men and their right to freely participate in, determine and build a sustainable political, legal, economic and social order;
+RECOGNISE AND UPHOLD the multi-ethnic, multi-racial, multi-religious and multi-cultural character of our Nation and our right to manage our affairs and resources sustainably in a devolved system of governance;
+RESOLVE that Zambia shall remain a unitary, multi-party and democratic sovereign State;
+RECOGNISE AND HONOUR the freedom fighters who fought for the independence of our Nation in order to achieve liberty, justice and unity for the people of Zambia;
+AND DIRECT that all State organs and State institutions abide by and respect our sovereign will;
+DO HEREBY SOLEMNLY ADOPT AND GIVE TO OURSELVES THIS CONSTITUTION:
