@@ -12,7 +12,7 @@ Any person in Zambia with respect to whom a permit to remain in Zambia has been 
 Class E
 Any person, not being the holder of a valid permit to remain in Zambia, who—
 (a) is likely to become a charge on the Republic in consequence of the person's inability to support the person's self and any of the person's dependants in Zambia and to provide for the removal of the person's self and such dependants from Zambia;
-(b) has contravened any provision of this Act or regulations mad e hereunder or has failed to comply with any lawful requirement made under this Act or such regulations;
+(b) has contravened any provision of this Act or regulations made hereunder or has failed to comply with any lawful requirement made under this Act or such regulations;
 (c) remains in Zambia for a period or periods totaling not less than three months in any period of twelve months; or
 (d) has made any false representation to or concealed any information from an immigration officer which is relevant to the person's entry into or presence within Zambia.
 Class F — Persons entering without proper travel documents

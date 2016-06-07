@@ -10,7 +10,7 @@ Any person—
 (a) who has in the person's own right and at the person's full and free disposition for use in Zambia such financial resources as shall be sufficient to maintain the person; and
 (b) whose presence in Zambia is likely to be of benefit to the inhabitants of Zambia generally.
 Class C
-Any forebear, parent, child or grandchild of a person who is dependent on that person if such person
+Any spouse, forebear, parent, child or grandchild of a person who is dependent on that person if such person
 (a) is the holder of a valid residence permit;
 (b) is capable of maintaining such dependant; and
 (c) undertakes such maintenance.
