@@ -1,0 +1,16 @@
+# FOURTH SCHEDULE
+(Section 376(2))
+TRANSITIONAL PROVISIONS
+1. A person holding office at the commencement of this Act shall remain in office as if that person had been appointed in accordance with thisAct but shall comply with the requirements of this Act within two years of the commencement of this Act.
+2. Any act done or executed in accordance with the repealed Act and in force and operative at the commencement of this Act shall have effect as if done or executed in accordance with this Act.
+3. (1) Existing companies’ articles of association in force and operative at the commencement of this Act shall have effect as if made in accordance with this Act.
+(2) Where a company formed prior to the commencement of this Act has, pursuant to its articles of association, or a resolution of the meeting of shareholders, authorised the board of the company to issue shares and some part of the authorised capital remains unissued, the board shall have authority to issue shares under this Act on the terms and conditions, and up to the limit expressed, in the articles of association, or the resolution, without requiring the authority of a further resolution of the shareholders.
+(3) Where an existing company incorporated in accordance with the repealed Companies Act, adopts articles of association in accordance with this Act the Registrar shall issue to the company a replacement certificate of incorporation worded to meet the circumstances of the case upon payment of the prescribed fee.
+(4) An existing company shall not amend its articles unless, after the amendment, the articles are expressed in terms of and consistent with thisAct.
+(5) If an existing company fails to comply with subsection (4), the company and every officer of the company commit an offence, and is liable on conviction to a fine not exceeding one hundred thousand penalty units or, in the case of the officer, to imprisonment for a period not exceeding two years, or to both.
+4. All proceedings, judicial or otherwise, commenced and pending before the commencement of this Act shall be continued as if commenced in accordance with this Act.
+5. A register, fund or account kept in accordance with the repealed Act, relating to organisation of companies shall be considered to be part of the register, fund or account kept in accordance with this Act.
+6. (1) A company registered in accordance with the repealed Act, shall be considered to be registered under this Act, and this Act shall extend and apply to the company accordingly.
+(2) A reference in this Act, express or implied, to the date of registration of a company referred to in subsection (1) shall be construed as a reference to the date on which the company was registered in accordance with the repealed Act.
+7. A fee, charge or sum paid or unpaid before the coming into force of this Act shall be considered to be paid or unpaid, as the case may be, in accordance with this Act.
+8. An approval given, or authorisation granted, and in force before the coming into force of this Act or any act or thing done in accordance with the repealedAct, shall be considered to have been given, granted or done in accordance with the relevant provisions of this Act and any such approval or authorisation shall remain valid for the period specified under the repealed Act.
