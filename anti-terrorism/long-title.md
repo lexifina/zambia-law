@@ -1,0 +1,3 @@
+# Long title
+An Act to prevent and prohibit the carrying out of terrorism financing and proliferation activities; provide for measures for the detection and prevention of terrorism and proliferation activities; provide for the continued existence of the National Anti-Terrorism Centre and redefine its functions; provide for the offences of proliferation and proliferation financing; domesticate the international conventions and treaties on anti-terrorism and proliferation; repeal the Anti-Terrorism Act, 2007; and provide for matters, connected with, or incidental to the foregoing.
+ENACTED by the Parliament of Zambia
