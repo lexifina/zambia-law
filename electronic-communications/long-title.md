@@ -1,0 +1,3 @@
+# Long title
+An Act to provide a safe and effective environment for electronic transactions; promote secure electronic signatures; facilitate electronic filing of documents by public authorities; provide for the use, security, facilitation and regulation of electronic communications and transactions; promote legal certainty and confidence, and encourage investment and innovation in relation to electronic transactions; regulate the National Public Key Infrastructure; repeal and replace the Electronic Communications and Transactions Act, 2009; and provide for matters connected with, or incidental, to the foregoing.
+ENACTED by the Parliament of Zambia.
