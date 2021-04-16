@@ -1,0 +1,3 @@
+# Long title
+An Act to revise the law relating to procurement so as to enhance transparency, efficiency, effectiveness, economy, value for money, competition and accountability in public procurement; regulate and control practices relating to public procurement in order to promote the integrity of, fairness and public confidence in, the procurement process; promote the participation of citizens in public procurement; continue the existence of the Zambia Public Procurement Authority; repeal and replace the Public Procurement Act, 2008; and provide for matters connected with, or incidental to, the foregoing.
+ENACTED by the Parliament of Zambia.
