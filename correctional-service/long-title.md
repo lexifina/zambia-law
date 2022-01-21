@@ -1,0 +1,3 @@
+# Long title
+An Act to continue the existence of the Zambia Prisons Service and rename it as the Zambia Correctional Service and redefine its functions; provide for the establishment, management and control of prisons and correctional centres; provide for the correction and reformation of inmates; provide for extension services; provide for aftercare orders; establish the National Parole Board and provide for its functions; domesticate the United Nations Standard Minimum Rules for Treatment of Prisoners; repeal and replace the Prisons Act, 1965; and provide for matters connected with, or incidental to, the foregoing.
+ENACTED by the Parliament of Zambia.
