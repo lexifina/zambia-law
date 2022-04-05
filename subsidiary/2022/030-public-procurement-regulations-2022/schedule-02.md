@@ -1,0 +1,4 @@
+# SECOND SCHEDULE
+(Regulations 20, 26, 29, 38, 39, 40, 70 and 184) The Public Procurement Act, 2020 (Act No. 8 of 2020) __________ The Public Procurement Regulations, 2022
+THRESHOLDS FOR PROCUREMENT METHODS
+TYPES OF PROCUREMENT Procurement Method Goods and Non-Consulting Works Services Over K1,000,000.00 Over K1,000,000.00 In appropriate In appropriate circumstances Not applicable circumstances Over K1,000,000.00 and in appropriate circumstances Open National Selection Not applicable Not applicable Open International Selection Not applicable Not applicable Not applicable Not applicable Not applicable Not applicable Up to K1,000,000.00 Up to K1,000,000.00 Direct Bidding on account of Up to K20,000.00 or in Up to K20,000.00 or in appropriate circumstances appropriate circumstances Not applicable Not applicable Statutory Instruments 8thApril, 2022
