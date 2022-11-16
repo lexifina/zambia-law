@@ -1,0 +1,4 @@
+# 2B. Director, Assistant Directors and other officers
+(1) The Civil Service Commission shall appoint as a public officer the Director of Anti-Human Trafficking department who shall be responsible for the administration of the provisions of this Act, subject to the general or specific directions of the Minister and the Permanent Secretary in the ministry responsible for home affairs that are consistent with the provisions of this Act.
+(2) The Director may, subject to the other provisions of the Act, and to the general or special directions of the Permanent Secretary, delegate any of the Director's functions to an Assistant Director, an officer or a member of the Department.
+(3) The Civil Service Commission shall appoint as public officers Assistant Directors and other officers as may be necessary for the administration of this Act.

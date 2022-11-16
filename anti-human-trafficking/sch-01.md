@@ -1,26 +1,32 @@
 # Schedule (Section 100(2))
 Committee on Human Trafficking
 1. Composition of Committee
-(1) The Committee shall consist of the following members:
-(a) one representative each from the Ministries responsible for—
-(i) social welfare;
-(ii) gender;
-(iii) children;
-(iv) local government;
-(v) health;
-(vi) home affairs;
-(vii) labour; and
-(viii) information
+(1) The Committee shall consist of the following part time members appointed by the Minister:
+(a) one representative each from the ministries responsible for—
+(i) home affairs;
+(ii) social welfare;
+(iii) information; and
+(iv) labour;
 (b) one representative each from—
-(i) the Department of Immigration; and
-(ii) the Zambia Police Force;
-(c) a representative of the Attorney-General; and
-(d) a representative of a non-governmental organisation dealing with matters concerning children.
-(2) The members shall be nominated by their institutions and appointed by the Minister.
+(i) the Department of Immigration;
+(ii) the Zambia Police Service;
+(iii) the Judiciary;
+(iv) the Gender Equity and Equality Commission; and
+(v) the National Prosecution Authority;
+(c) a representative of the Attorney-General;
+(d) a representative of a non-governmental organisation dealing with matters relating to trafficking in persons; and
+(e) the Director as an ex-officio member.
+(2) The ministries, institutions or organisations under paragraph (1)(a) to (d) shall nominate their representatives for appointment by the Minister.
+(3) The Minister shall appoint the Chairperson of the Committee, and the members shall elect the Vice-Chairperson of the Committee from among themselves.
+(4) A person shall not be nominated or appointed as a member of the Committee if that person—
+(a) is not a citizen;
+(b) is an undischarged bankrupt;
+(c) is legally disqualified from performing the duties of a member; or
+(d) is convicted of an offence under any other written law and sentenced to a term of imprisonment exceeding six months without the option of a fine.
 2. Tenure of office and vacancies
 (1) Subject to the other provisions of this Act, a member shall hold office for a period of three years from the date of appointment and may be re-appointed for a further like period.
-(2) The members shall elect a chairperson from amongst themselves.
-(3) The office of a member shall become vacant if—
+(2)
+(2) The office of a member shall become vacant if—
 (a) the member has been absent without reasonable excuse from three consecutive meetings of the Committee of which the member has had notice;
 (b) the member dies;
 (c) the member is adjudged bankrupt;
