@@ -1,0 +1,17 @@
+# SCHEDULE
+(Section 23 (2))
+SAVINGS AND TRANSITIONAL PROVISIONS
+1. For the purposes of this Schedule, “former Agency” means the Zambia Development Agency established under the repealed Act.
+2. (1) A person who, before the commencement of this Act, was an officer or employee of the former Agency shall continue to be an officer or employee of the Agency, as if appointed or employed under this Act.
+(2) The service of the persons referred to in subparagraph (1) shall be treated as continuous service.
+(3) Nothing in the Act affects the rights and liabilities of any person employed or appointed by the former Agency before the commencement of this Act.
+3. A person who immediately before the commencement of this Act held office as a member of the Board of the former Agency shall continue to hold office as a member for a period of three months after which the Minister shall appoint the members of the Board in accordance with this Act.
+4. (1) On or after the commencement of this Act, there shall be transferred to, vest in and subsist against the Agency by virtue of this Act and without further assurance, the assets, rights and obligations which immediately before the commencement of this Act were the assets, rights, liabilities and obligations of the former Agency.
+(2) Subject to subparagraph (1), every deed, bond and agreement, other than an agreement for personnel service, to which the former Agency was a party immediately before the commencement of this Act whether or not of a nature that rights, liabilities and obligations could be assigned, shall, unless its subject matter or terms make it impossible that it should have effect as modified, as provided under this paragraph, have effect as if—
+(a) the Agency had been party to it;
+(b) for any reference to the former Agency there was substituted, with respect to anything falling to be done on or after the commencement of this Act, a reference to the Agency; or
+(c) for any reference to any officer of the former Agency not being a party to it and beneficially interested therein, there were substituted, with respect to anything required to be done on or after the commencement of this Act, a reference to such officer of the Agency as the Agency shall designate.
+(3) Where under this Act, any assets, rights, liabilities and obligations of the former Agency are considered to be transferred to the Agency in respect of which transfer a written law provides for registration, the Agency shall make an application, in writing, to the appropriate registration authority for registration of the transfer.
+(4) The registration authority, referred to in subparagraph (3), shall make entries in the appropriate register that shall give effect to the transfer and, where applicable, issue to the transferee concerned a certificate of title in respect of the property or make necessary amendments to the register and shall endorse on the deeds relating to the title, right or obligation concerned and no registration fees or other duties shall be payable in respect of the transaction.
+5. (1) Any legal proceedings or application of the former Agency pending immediately before the commencement of this Act by or against the former Agency, may be continued by or against the Agency.
+(2) After the commencement of this Act, proceedings in respect of any right, liability or obligation which was vested in, held, enjoyed, incurred or suffered by the former Agency, may be instituted by or against the Agency.
