@@ -1,0 +1,3 @@
+# Long title
+An Act to foster economic growth and development by promoting trade, business development and investment in the Republic through an efficient, effective and coordinated private sector led economic development strategy; promote economic diversification through the growth of exports; promote, facilitate, protect and monitor domestic and foreign direct investment; promote investment through joint ventures and partnerships between local and foreign investors; facilitate the development of industrial infrastructure and commercial services; promote research on matters related to industrial development; facilitate the protection of infant industries; and provide for matters connected with, and incidental to, the foregoing.
+ENACTED by the Parliament of Zambia.
