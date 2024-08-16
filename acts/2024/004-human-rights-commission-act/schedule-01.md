@@ -1,0 +1,18 @@
+# SCHEDULE
+(Section 33)
+SAVINGS AND TRANSITIONAL PROVISIONS
+1. For the purposes of this Schedule— “former Commission” means the Human Rights Commission established by the Constitution and provided for under the repealed Act; and “repealed Act” means the Human Rights Commission Act.
+2. A person who immediately before the commencement of this Act held office as a member of the former Commission shall continue to hold office as a member for a period of three months after which the President shall appoint the members of the Commission in accordance with this Act.
+3. (1) A person who, before the commencement of this Act, was an officer or employee of the former Commission shall continue to be an officer or employee of the Commission as if appointed or employed under this Act.
+(2) The service of the persons referred to in subparagraph (1) shall be treated as continuous service.
+(3) Nothing in this Act affects the rights and liabilities of any person employed or appointed by the former Commission before the commencement of this Act.
+4. (1) On or after the commencement of this Act, there shall be transferred to, vest in, and subsist against the Commission by virtue of this Act and without further assurance, assets, rights, liabilities and obligations which immediately before that date were the assets, rights, liabilities and obligations of the former Commission.
+(2) Subject to subparagraph (1), every deed, bond and agreement, other than an agreement for personnel service, to which the former Commission was a party immediately before the commencement of this Act, whether or not of a nature that rights, liabilities and obligations could be assigned, shall unless its subject matter or terms make it impossible that it should have effect as modified, as provided under this paragraph, have effect as if —
+(a) the Commission, had been party to it;
+(b) for any reference to the former Commission there was substituted with respect to anything falling to be done or after the commencement of this Act, a reference to the Commission; or
+(c) for any reference to an officer of the former Commission not being a party to it and beneficially interested, there were substituted, as respects anything falling to be done on or after the commencement of this Act, a reference to that officer of the Commission, that the Commission shall designate.
+(3) Where under this Act, any assets, rights, liabilities and obligations of the former Commission are deemed to be transferred to the Commission in respect of which a written law provides for registration, the Commission shall make an application, in writing, to the appropriate registration authority for registration of the transfer.
+(4) The registration authority, referred to under subparagraph
+(3), shall make entries in the appropriate register that shall give effect to the transfer and, where applicable, issue to the transferor concerned a certificate of title in respect of the property or make necessary amendments to the register and shall endorse the deeds relating to the title, right or obligation concerned and no registration fees or other duties shall be payable in respect of the transaction.
+5. (1) Any legal proceedings or application of the former Commission pending immediately before the commencement of this Act by or against the former Commission may be continued by or against the Commission.
+(2) After the commencement of this Act, proceedings in respect of any right, liability or obligation which was vested in, held, enjoyed, incurred or suffered by the former Commission may be instituted by or against the Commission.
