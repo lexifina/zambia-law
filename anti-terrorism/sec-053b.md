@@ -1,0 +1,5 @@
+# 53B. Prohibition of transit by designated or nationally listed person or group
+(1) A designated person or entity or nationally listed person, group or entity shall not enter or transit through the Republic if the entry or transit would be contrary to a determination of the United Nations Security Council.
+(2) Despite the provisions of any other law, the Director-General of Immigration shall not knowingly grant a visa to a designated or nationally listed person unless the Director-General has obtained the advice of the Centre that the issuance of the visa is consistent with a determination of the United Nations Security Council referred to in subsection (1).
+(3) A person who contravenes this section commits an offence and is liable, on conviction, to a fine not exceeding one million penalty units or to imprisonment for a term not exceeding ten years, or to both.
+(4) The provisions of this section shall not be construed as varying or waiving the requirements imposed by the Immigration and Deportation Act, 2010.

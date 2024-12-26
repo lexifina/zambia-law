@@ -1,0 +1,2 @@
+# 53E. Circumventing prohibitions
+A person who participates in activities knowing that the object or effect of those activities is to directly or indirectly circumvent, enable or formulate the contravention of provisions of this Part, commits an offence and is liable, on conviction, to a fine of one million penalty units or to imprisonment for a term of ten years, or to both.
