@@ -1,7 +1,7 @@
 # 72A. Administrative sanctions
-(1) The Centre may, where a person, group or entity is in breach of a provision of this Act which is not a criminal offence, impose one or more of the following administrative sanctions:
-(a) a caution not to repeat the conduct which led to the non-compliance with a provision of this Act;
-(b) a reprimand;
+(1) A legal person who commits any offence under this Act shall be liable to one or more of the following civil or administrative sanctions and the civil or administrative proceedings shall not preclude parallel criminal proceedings:
+(a) dissolution of the legal person;
+(b) subject to the Forfeiture of Proceeds Crime Act, 2010, forfeiture of funds or other assets;
 (c) a directive to take remedial action or to make specific arrangements to redress the identified non-compliance;
 (d) the restriction or suspension of certain specified business activities; and
 (e) a penalty not exceeding thirty million penalty units.
