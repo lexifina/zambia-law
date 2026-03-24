@@ -1,0 +1,20 @@
+# SECOND SCHEDULE
+(Section 59(2))
+SAVINGS AND TRANSITIONAL PROVISIONS
+1. For purposes of this Part— “former Council” means the Council established under the repealed Act; and “former Disciplinary Committee” means the Disciplinary Committee established under the repealed Act.
+2. (1) A person who, before the commencement of this Act, was an officer or employee of the former Council, shall continue to be an officer or employee of the Council, as if appointed or employed under this Act.
+(2) The service of the persons referred to in sub-paragraph (1) shall be treated as continuous service.
+(3) Nothing in this Act affects the rights and liabilities of a person employed or appointed by the former Council before the commencement of this Act.
+3. A person who immediately before the commencement of this Act—
+(a) held office as a member of the Board of the former Council shall continue to hold office as a member of the Board for a period of three months after which the Minister shall appoint the members of the Board in accordance with the provisions of this Act; and
+(b) held office as a member of the former Disciplinary Committee shall continue to hold office as a member of the Disciplinary Committee for a period of six months after which the Council shall constitute a Disciplinary Committee in accordance with this Act.
+4. A certificate of registration, practising certificate and any other authorisation issued under the repealed Act shall continue to be valid as if issued under this Act until expiry, revocation or surrender of the certificate of registration or practising certificate.
+5. (1) On or after the commencement of this Act, there shall be transferred to, vest in and subsist against, the Council by virtue of this Act and without further assurance, the assets, rights, liabilities and obligations that the Minister may determine which immediately before that date were the assets, rights, liabilities and obligations of the former Council.
+(2) Subject to sub-paragraph (1), every deed, bond and agreement, other than an agreement for personnel service, to which the former Council was a party immediately commencement of this Act whether or not of a nature that rights, liabilities and obligations could be assigned shall, unless its subject matter or terms make it impossible that it should have effect as modified, as provided under this paragraph, have effect as if—
+(a) the Council had been party to it;
+(b) for any reference to the former Council there was substituted, with respect to anything falling to be done on or after the commencement of this Act, a reference to the Council; or
+(c) for any reference to any officer of the former Council, not being a party to it and beneficially interested, there was substituted, with respect to anything required to be done on or after the commencement of this Act, a reference to such officer of the Council that the Council shall designate.
+(3) Where under this Act, any assets, rights, liabilities and obligations of the former Council are considered to be transferred to the Council in respect of which transfer a written law provides for registration, the Council shall make an application, in writing, to the appropriate registration authority for registration of the transfer.
+(4) The registration authority, referred to in sub-paragraph (3), shall make entries in the appropriate register that shall give effect to the transfer and, where applicable issue to the transferee concerned a certificate of title in respect of the property or make necessary amendments to the register and shall endorse the deeds relating to the title, right or obligation concerned and no registration fees or other duties shall be payable in respect of the transaction.
+6. (1) Any legal proceedings or application pending immediately before the commencement of this Act by or against the former Council may be continued by or against the Council.
+(2) After the commencement of this Act, proceedings in respect of any right, liability or obligation which was vested in, held, enjoyed, incurred or suffered by the former Council may be instituted by or against the Council.
