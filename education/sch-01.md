@@ -5,7 +5,7 @@ Savings and transitional provisions
 (2) A public, aided or community educational institution designated as a primary school or secondary school shall continue as a secondary school or primary school, as the case may be, until the designation is revoked on such date as the Minister may, by statutory instrument, determine.
 2. Private educational institutions
 (1) A private educational institution registered under the repealed Act shall be deemed to have been registered under this Act.
-(2) Private educational institutions offering primary or secondary education shall continue to offer primary or secondary education for a period of five years from the appointed date after which the primary and secondary education shall be phased out or be transformed into basic schools or high schools, as the case may be, in accordance with this Act.
+(2) The transformation of an educational institution from a basic school and a high school to a primary school and secondary school referred to under section 132(2)(c) shall commence on 30th May, 2026 until 30th May, 2031, after which the basic school and high school shall be phased out or transformed into a primary school or secondary school, as the case may be, in accordance with this Act.
 3. Proceedings relating to registration
 Any proceedings commenced or pending in relation to the registration of any school or college under the repealed Act shall be continued in terms of this Act.
 4. Education boards
