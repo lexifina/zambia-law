@@ -2,73 +2,83 @@
  "acts": {
   "constitution": [
    {
-    "from": "1996-12-31",
-    "units": 156,
     "changed": 0,
-    "credited": 0
+    "credited": 0,
+    "from": "1996-12-31",
+    "units": 156
    },
    {
-    "from": "2009-08-31",
-    "units": 157,
     "changed": 2,
-    "credited": 2
+    "credited": 2,
+    "from": "2009-08-31",
+    "units": 157
    },
    {
-    "from": "2016-01-05",
-    "units": 294,
     "changed": 256,
-    "credited": 256
+    "credited": 256,
+    "from": "2016-01-05",
+    "units": 294
    },
    {
-    "from": "2025-12-18",
-    "units": 294,
     "changed": 18,
-    "credited": 18
+    "credited": 18,
+    "from": "2025-12-18",
+    "units": 294
    }
   ],
   "constitution:listing": {
    "lii_current": "2025-12-18",
-   "ours": "2025-12-18",
-   "ok": true
+   "ok": true,
+   "ours": "2025-12-18"
   },
   "data-protection": [
    {
-    "from": "2021-03-24",
-    "units": 83,
     "changed": 0,
-    "credited": 0
+    "credited": 0,
+    "from": "2021-03-24",
+    "units": 83
    }
   ],
   "data-protection:listing": {
    "lii_current": "2021-03-24",
-   "ours": "2021-03-24",
-   "ok": true
+   "ok": true,
+   "ours": "2021-03-24"
   },
   "insurance-premium-levy": [
    {
-    "from": "2015-12-24",
-    "units": 10,
     "changed": 0,
-    "credited": 0
+    "credited": 0,
+    "from": "2015-12-24",
+    "units": 10
    },
    {
-    "from": "2019-01-01",
-    "units": 10,
     "changed": 3,
-    "credited": 3
+    "credited": 3,
+    "from": "2019-01-01",
+    "units": 10
    },
    {
-    "from": "2025-01-01",
-    "units": 10,
     "changed": 2,
-    "credited": 2
+    "credited": 2,
+    "from": "2025-01-01",
+    "units": 10
    }
   ],
   "insurance-premium-levy:listing": {
    "lii_current": "2025-01-01",
-   "ours": "2025-01-01",
-   "ok": true
+   "ok": true,
+   "ours": "2025-01-01"
   }
+ },
+ "check": {
+  "acts": 3,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 8
  },
  "law_dates": {
   "act-2009-20": {
