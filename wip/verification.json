@@ -3,25 +3,25 @@
   "constitution": [
    {
     "from": "1996-12-31",
-    "units": 170,
+    "units": 157,
     "changed": 0,
     "credited": 0
    },
    {
     "from": "2009-08-31",
-    "units": 171,
+    "units": 158,
     "changed": 2,
     "credited": 2
    },
    {
     "from": "2016-01-05",
-    "units": 315,
-    "changed": 282,
-    "credited": 282
+    "units": 295,
+    "changed": 257,
+    "credited": 257
    },
    {
     "from": "2025-12-18",
-    "units": 315,
+    "units": 295,
     "changed": 18,
     "credited": 18
    }
