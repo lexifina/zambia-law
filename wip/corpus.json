@@ -21,7 +21,7 @@
    "name": "ZambiaLII (Southern African Institute for Policy and Research, on the Laws.Africa Peachjam platform)",
    "url": "https://zambialii.org",
    "retrieved": "2026-10-28",
-   "requests": 98,
+   "requests": 109,
    "licence": "CC BY-NC 4.0, crediting ZambiaLII as the source (https://zambialii.org/terms-of-use/)",
    "notes": "Point-in-time expressions of each act, /akn/zm/act/<year>/<num>/eng@<date>. ZambiaLII's document pages answer automated clients with a Cloudflare challenge, so each expression page is read from its latest Internet Archive capture (raw id_ form); the capture timestamps and sha256s are pinned in sources.json. Request count covers the Internet Archive and ZambiaLII's open listing pages."
   },
@@ -149,10 +149,10 @@
      "source_url": "https://web.archive.org/web/20240718090746id_/https://zambialii.org/akn/zm/act/1991/1/eng@1996-12-31",
      "sha256": "197b773e90d9eb5240352112788847721591fb96f5543fc3754e202b9df63e17",
      "units": {
-      "preamble": {
-       "label": "Preamble",
+      "long-title": {
+       "label": "Long title",
        "kind": "preface",
-       "text": "# Preamble\nAn Act to provide for the new Constitution of the Republic of Zambia; to provide for the savings and transitional provisions of existing offices, institutions and laws; to provide for the savings of succession to property and assets, rights and liabilities, obligations and legal proceedings; and to provide for matters connected with or incidental to the foregoing.\n"
+       "text": "# Long title\nAn Act to provide for the new Constitution of the Republic of Zambia; to provide for the savings and transitional provisions of existing offices, institutions and laws; to provide for the savings of succession to property and assets, rights and liabilities, obligations and legal proceedings; and to provide for matters connected with or incidental to the foregoing.\n"
       },
       "sec-001": {
        "label": "Section 1",
@@ -234,6 +234,16 @@
        "kind": "sec",
        "text": "# 16. Compulsory retirement of non-citizens\nNotwithstanding anything to the contrary contained in this Act or the Constitution, the President may, with a view to securing the appointment of citizens of Zambia to public offices, direct retirement from public office of any person who is not a citizen of Zambia:\nProvided that a person shall not be retired under the provisions of this section unless notice in writing is given to him specifying the date of retirement which shall not be earlier than six months from the date on which such notice is received by him.\n"
       },
+      "preamble": {
+       "label": "Preamble",
+       "kind": "subpart",
+       "text": "# Preamble\nWE, THE PEOPLE OF ZAMBIA by our representatives, assembled in our Parliament, having solemnly resolved to maintain Zambia as a Sovereign Democratic Republic;\nDETERMINED to uphold and exercise our inherent and inviolable right as a people to decide, appoint and proclaim the means and style to govern ourselves;\nRECOGNISE the equal worth of men and women in their rights to participate, and freely determine and build a political, economic and social system of their own free choice;\nPLEDGE to ourselves that we shall ensure that the State shall respect the rights and dignity of the human family, uphold the laws of the State and conduct the affairs of the State in such manner as to preserve, develop, and utilise its resources for this and future generations;\nDECLARE the Republic a Christian nation while upholding the right of every person to enjoy that person's freedom of conscience or religion;\nRESOLVE to uphold the values of democracy, transparency, accountability and good governance;\nAND FURTHER RESOLVE that Zambia shall forever remain a unitary, indivisible, multi-party and democratic sovereign state;\nDO HEREBY ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.\n"
+      },
+      "intro": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
+      },
       "art-001": {
        "label": "Article 1",
        "kind": "art",
@@ -248,6 +258,11 @@
        "label": "Article 3",
        "kind": "art",
        "text": "# Article 3 — National Anthem, National Flag, National Emblem and National Motto\nThe National Anthem, the National Flag, the National Emblem and the National Motto shall be such as may be prescribed by or under an Act of Parliament.\n"
+      },
+      "intro-2": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
       },
       "art-004": {
        "label": "Article 4",
@@ -394,6 +409,11 @@
        "kind": "art",
        "text": "# Article 32 — Interpretation and savings\n(1) In this Part, unless the context otherwise requires—\n\"contravention\", in relation to any requirement, includes a failure to comply with that requirement and cognate expressions shall be construed accordingly;\n\"court\" means any court of law having jurisdiction in Zambia, other than a court established by a disciplinary law; and in Articles 12 and 14 includes a court established by a disciplinary law;\n\"disciplinary law\" means a law regulating the disciplined force;\n\"disciplined force\" means—\n(a) a naval, military or air force;\n(b) the Zambia Police Force; or\n(c) any other force established by or under an Act of Parliament;\n\"legal representative\" means a person entitled to practice in Zambia as an advocate; and\n\"member\", in relation to a disciplined force, includes any person who, under the law regulating the discipline of that force is subject to that discipline.\n(2) In relation to any person who is a member of a disciplined force raised under the law of Zambia, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Part other than Articles 12, 14 and 15.\n(3) In relation to any person who is a member of a disciplined force raised otherwise than as aforesaid and lawfully present in Zambia, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Part.\n"
       },
+      "intro-3": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
+      },
       "art-033": {
        "label": "Article 33",
        "kind": "art",
@@ -538,6 +558,11 @@
        "label": "Article 61",
        "kind": "art",
        "text": "# Article 61 — Offices for Republic\n(1) Subject to the other provisions of this Constitution and any other law, the power to constitute offices for the Republic and the power to abolish any such offices shall vest in the President.\n(2) Subject to the other provisions of this Constitution and any other law, the power to appoint persons to hold or act in offices constituted for the Republic of Zambia, to confirm appointments, to exercise disciplinary control over persons holding or acting in such offices and to remove any such person from office shall vest in the President.\n"
+      },
+      "intro-4": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996, except for Article 79]\n"
       },
       "art-062": {
        "label": "Article 62",
@@ -684,6 +709,11 @@
        "kind": "art",
        "text": "# Article 90 — The Investigator-General\n(1) There shall be an Investigator-General of the Republic who shall be appointed by the President in consultation with the Judicial Service Commission and shall be the Chairman of the Commission for Investigations.\n(2) A person shall not be qualified for appointment as Investigator-General—\n(a) unless he is qualified to be appointed a judge of the High Court; or\n(b) if he holds the office of the President, Vice-President, Minister or Deputy Minister, is a member of the National Assembly or is a public officer.\n(3) Subject to the provisions of this section, a person appointed Investigator-General shall vacate his office on attaining the age of sixty-five years:\nProvided that the President may permit a person who has attained that age to continue in office for such period as may be necessary to complete and submit any report on, or do any other thing in relation to, any investigation that was commenced by him before he attained that age.\n(4) A person appointed as Investigator-General shall forthwith vacate any office prescribed by an Act of Parliament.\n(5) A person appointed as Investigator-General may be removed from office for incompetence or inability to perform the functions of his office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour, but shall not be so removed except in accordance with the provisions of this Article.\n(6) If the National Assembly by resolution supported by votes of not less than two-thirds of all the members of that House, resolves that the question of removing the Investigator-General ought to be investigated, the Speaker of the National Assembly shall send a copy to the Chief Justice who shall appoint a tribunal consisting of a Chairman and two other persons to inquire into the matter.\n(7) The Chairman and one other member of the tribunal shall be persons who hold or have held high judicial office.\n(8) The tribunal shall inquire into the matter and report thereon to the President.\n(9) Where such a tribunal advises the President that the Investigator-General ought to be removed from office for incompetence or inability or for misbehaviour, the President shall remove the Investigator-General from office.\n(10) If the question of removing the Investigator-General from office has been referred to a tribunal under this Article, the President may suspend him from performing the functions of his office, and any such suspension may at any time be revoked by the President and shall in any case cease to have effect if the tribunal shall advise the President that the Investigator-General ought not to be removed.\n(11) If there is a vacancy in the office of the Investigator-General, or if the Investigator-General is temporarily absent from Zambia or otherwise unable to exercise the functions of his office, the President may appoint a person qualified to be a Judge of the High Court to exercise the functions of the office of the Investigator-General under this Article.\n(12) A person appointed to the office of Investigator-General may resign upon giving three months' notice to the President.\n(13) The functions, powers and procedures of the Investigator-General shall be as provided by an Act of Parliament.\n"
       },
+      "intro-5": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
+      },
       "art-091": {
        "label": "Article 91",
        "kind": "art",
@@ -728,6 +758,11 @@
        "label": "Article 99",
        "kind": "art",
        "text": "# Article 99 — Oaths to be taken by Judge\nA judge of the Supreme Court or of the High Court shall not enter upon the duties of his office unless he has taken and subscribed to the oath of allegiance and such oath for the due execution of his office as may be prescribed by or under an Act of Parliament:\nProvided that a person who has once taken and subscribed to the said oaths may enter upon the duties of any such office without again taking and subscribing such oaths.\n"
+      },
+      "intro-6": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
       },
       "art-100": {
        "label": "Article 100",
@@ -774,10 +809,20 @@
        "kind": "art",
        "text": "# Article 108 — Zambia Security Intelligence Service\n(1) There shall be a Zambia Security Intelligence Service.\n(2) Parliament shall make laws regulating the Zambia Security Intelligence Service, and in particular, providing for—\n(a) the organs and structures of the Zambia Security Intelligence Serivce;\n(b) the recruitment of persons into the Zambia Security Intelligence Service from every district of Zambia;\n(c) the terms and conditions of service of members of the Zambia Security Intelligence Service; and\n(d) the regulation generally of the Zambia Security Intelligence Service.\n"
       },
+      "intro-7": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
+      },
       "art-109": {
        "label": "Article 109",
        "kind": "art",
        "text": "# Article 109 — Local government system\n(1) There shall be such system of local government in Zambia as may be prescribed by an Act of Parliament.\n(2) The system of local government shall be based on democratically elected councils on the basis of universal adult suffrage.\n"
+      },
+      "intro-8": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
       },
       "art-110": {
        "label": "Article 110",
@@ -798,6 +843,11 @@
        "label": "Article 113",
        "kind": "art",
        "text": "# Article 113 — Duties of citizen\nIt shall be the duty of every citizen to—\n(a) be patriotic and loyal to Zambia and to promote its well-being;\n(b) contribute to the well-being of the community where that citizen lives, including the observance of health controls;\n(c) foster national unity and live in harmony with others;\n(d) promote democracy and the rule of law;\n(e) vote in national and local government elections;\n(f) provide defence and military service when called upon;\n(g) carry out with discipline and honesty legal public functions;\n(h) pay all taxes and duties legally due and owing to the State; and\n(i) assist in the enforcement of the law at all times.\n"
+      },
+      "intro-9": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
       },
       "art-114": {
        "label": "Article 114",
@@ -844,6 +894,11 @@
        "kind": "art",
        "text": "# Article 122 — Tenure of office of Auditor-General\n(1) Subject to the provisions of this Article, a person holding the office of Auditor-General shall vacate his office when he attains the age of sixty years.\n(2) A person holding the office of Auditor-General may be removed from office only for inability to perform the functions of his office, whether arising from infirmity of body or mind, or for incompetence or for misbehaviour and shall not be so removed except in accordance with the provisions of this Article.\n(3) If the National Assembly resolves that the question of removing a person holding the office of Auditor-General from office under this Article ought to be investigated then—\n(a) the National Assembly shall, by resolution appoint a tribunal which shall consist of a Chairman and not less than two other members, who hold or have held high judicial office;\n(b) the tribunal shall inquire into the matter and report on the facts thereof to the National Assembly; and\n(c) the National Assembly shall consider the report of the tribunal at the first convenient sitting of the National Assembly after it is received and may, upon such consideration, by resolution, remove the Auditor-General from office.\n(4) If the question of removing a person holding the office of Auditor-General from office has been referred to a tribunal under this Article, the National Assembly may, by resolution, suspend that person from performing the functions of his office, and any such suspension may at any time be revoked by the National Assembly by resolution and shall in any case cease to have effect if, upon consideration of the report of the tribunal in accordance with the provisions of this Article, the National Assembly does not remove the Auditor-General from office.\n(5) A person who holds or has held the office of Auditor-General shall not be appointed to hold or to act in any other public office.\n(6) A person who holds the office of Auditor-General may resign upon giving three months' notice to the President.\n"
       },
+      "intro-10": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
+      },
       "art-123": {
        "label": "Article 123",
        "kind": "art",
@@ -854,6 +909,11 @@
        "kind": "art",
        "text": "# Article 124 — Pension laws and protection\n(1) The law to be applied with respect to any pension benefits that were granted to any person before the commencement of this Constitution shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favourable to that person.\n(2) The law to be applied with respect to any pension benefits not being benefits to which clause (1) applies, shall—\n(a) in so far as those benefits are wholly in respect of a period of service as a public officer, as any officer in the department of the Clerk or the National Assembly, or as a member of the armed forces, that commenced before the commencement of this Constitution, be the law that was in force immediately before that date; and\n(b) in so far as those benefits are wholly or partly in respect of a period of service as a public officer, as any officer in the department of the Clerk of the National Assembly, or as a member of the armed forces, that commenced after the commencement of this Constitution, be the law in force on the date on which that period of service commenced;\nor any law in force at a later date that is not less favourable to that person.\n(3) Where a person is entitled to exercise an option as to which of two or more laws shall apply in his case, the law for which he opts shall, for the purposes of this Article, be deemed to be more favourable to him than the other law or laws.\n(4) All pension benefits shall, except to the extent to which they are a charge on a fund established by or under any law and have been duly paid out of that fund to the person or authority to whom payment is due, be a charge on the general revenues of the Republic.\n(5) In this Article \"pension benefits\" means any pensions, compensation, gratuities or other like allowances for persons in respect of their service as public officers, as officers in the department of the Clerk of the National Assembly or as members of the armed forces or for the widows, children, dependants or personal representatives of such persons in respect of such service.\n(6) References in this Article to the law with respect to pension benefits include, without prejudice to their generality, references to the law regulating the circumstances in which such benefits may be granted or in which the grant of such benefits may be refused, the law regulating the circumstances in which any such benefits that have been granted may be withheld, reduced in amount or suspended, and the law regulating the amount of any such benefits:\nProvided that, notwithstanding anything to the contrary contained in this Constitution or any other written law, such references shall not be so construed as to include the law regulating the age of compulsory retirement.\n(7) In this Article—\n(a) references to service as a public officer includes references to service as a public officer under the Government of the territories which on the 24th October, 1964, became the sovereign Republic of Zambia and references to service as a member of the teaching service of the said Government;\n(b) references to service as an office in the department of the Clerk of the National Assembly includes reference to service as an officer in the department of the Clerk of the Legislative Assembly of the said territories; and\n(c) references to service as a member of the armed forces include references to service as a member of the armed forces of the said territories.\n"
       },
+      "intro-11": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
+      },
       "art-125": {
        "label": "Article 125",
        "kind": "art",
@@ -863,6 +923,11 @@
        "label": "Article 126",
        "kind": "art",
        "text": "# Article 126 — Functions, powers, composition, procedure, etc. of Human Rights Commission\nThe functions, powers, composition, funding and administrative procedures, including the employment of staff, of the Human Rights Commission shall be prescribed by or under an Act of Parliament.\n"
+      },
+      "intro-12": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
       },
       "art-127": {
        "label": "Article 127",
@@ -913,6 +978,11 @@
        "label": "Article 136",
        "kind": "art",
        "text": "# Article 136 — President may make regulations\nSubject to the provisions of this Constitution, the President may by statutory instrument, make regulations for—\n(a) the appointment of the Clerk and other officers of the House of Chiefs;\n(b) provide for the remuneration of the Chairman, the Vice-Chairman and other members of the House;\n(c) the proceedings and conduct of the House of Chiefs;\n(d) the application of any of the privileges and immunities of the National Assembly and its members to the House of Chiefs and its members; and\n(e) such other matters as are necessary or conducive to the better carrying out of the purposes of this Part.\n"
+      },
+      "intro-13": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[As amended by Act No. 18 of 1996]\n"
       },
       "art-137": {
        "label": "Article 137",
@@ -1162,7 +1232,7 @@
        "kind": "art",
        "text": "# Article 60 — Political parties\n(1) A political party has the right to—\n(a) disseminate information on social and economic programmes of a national character and of its political ideology;\n(b) sponsor candidates for election or nomination to a State office in respect of which elections are required to be held; and\n(c) conduct primary elections for the selection of candidates.\n(2) A political party shall—\n(a) promote the values and principles specified in this Constitution;\n(b) have a national character;\n(c) promote and uphold national unity;\n(d) promote and practice democracy through regular, free and fair elections within the party;\n(e) respect the right of its members to participate in the affairs of the political party;\n(f) respect the right of its members to seek redress from a court or tribunal when aggrieved by a decision of the political party; and\n(g) subscribe to and observe the code of conduct for political parties, as prescribed\n(3) A political party shall not—\n(a) be founded on a religious, linguistic, racial, ethnic, tribal, gender, sectoral or provincial basis or engage in propaganda based on any of these factors;\n(b) engage in or encourage violence or intimidate its members, supporters, opponents or other persons;\n(c) engage in corrupt practices; and\n(d) except as prescribed, use public resources to promote its interest or that of its members.\n(4) The following shall be prescribed with regard to political parties:\n(a) the establishment and management of a Political Parties' Fund to provide financial support to political parties with seats in the National Assembly;\n(b) the accounts of political parties which are funded under the Political Parties' Fund and the submission of audited accounts by political parties;\n(c) the sources of funds for political parties;\n(d) the maximum amount of money to be used for campaigns during elections; and\n(e) matters incidental to matters specified in this clause.\n"
       },
-      "art-061-dup2": {
+      "art-061-2": {
        "label": "Article 61",
        "kind": "art",
        "text": "# Article 61 — Principles of legislative authority\nThe legislative authority of the Republic derives from the people of Zambia and shall be exercised in a manner that protects this Constitution and promotes the democratic governance of the Republic.\n"
@@ -2233,10 +2303,120 @@
        "kind": "art",
        "text": "# Article 275 — Exercise of power between publication and commencement of Acts\nWhere an Article provides for a power exercisable by making a statutory instrument to—\n(a) make an appointment; or\n(b) do any other thing for the purposes of the Article;\nthe power may be exercised at any time on or after the date of publication of the statutory instrument in the Gazette.\n"
       },
+      "intro": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part V inserted by section 4 of Act 2 of 2016]\n"
+      },
+      "intro-10": null,
+      "intro-11": null,
+      "intro-12": null,
+      "intro-13": null,
+      "intro-2": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part VI, previously part V, renumbered and headings substituted by section 5 of Act 2 of 2016]\n"
+      },
+      "intro-3": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part XV added by section 8 of Act 2 of 2016]\n"
+      },
+      "intro-4": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part XVI added by section 8 of Act 2 of 2016]\n"
+      },
+      "intro-5": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part XVII added by section 8 of Act 2 of 2016]\n"
+      },
+      "intro-6": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part XVIII added by section 8 of Act 2 of 2016]\n"
+      },
+      "intro-7": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part XIX added by section 8 of Act 2 of 2016]\n"
+      },
+      "intro-8": {
+       "label": "intro",
+       "kind": "intro",
+       "text": "# intro\n[Part XX added by section 8 of Act 2 of 2016]\n"
+      },
+      "intro-9": null,
+      "preamble": {
+       "label": "Preamble",
+       "kind": "subpart",
+       "text": "# Preamble\nWE, THE PEOPLE OF ZAMBIA:\nACKNOWLEDGE the supremacy of God Almighty;\nDECLARE the Republic a Christian Nation while upholding a person's right to freedom of conscience, belief or religion;\nUPHOLD the human rights and fundamental freedoms of every person;\nCOMMIT ourselves to upholding the principles of democracy and good governance;\nRESOLVE to ensure that our values relating to family, morality, patriotism and justice are maintained and all functions of the State are performed in our common interest;\nCONFIRM the equal worth of women and men and their right to freely participate in, determine and build a sustainable political, legal, economic and social order;\nRECOGNISE AND UPHOLD the multi-ethnic, multi-racial, multi-religious and multi-cultural character of our Nation and our right to manage our affairs and resources sustainably in a devolved system of governance;\nRESOLVE that Zambia shall remain a unitary, multi-party and democratic sovereign State;\nRECOGNISE AND HONOUR the freedom fighters who fought for the independence of our Nation in order to achieve liberty, justice and unity for the people of Zambia;\nAND DIRECT that all State organs and State institutions abide by and respect our sovereign will;\nDO HEREBY SOLEMNLY ADOPT AND GIVE TO OURSELVES THIS CONSTITUTION:\n"
+      },
       "sch-01": {
        "label": "Annex (Article 147(2))",
        "kind": "schedule",
        "text": "# Annex (Article 147(2))\nFunctions of national, provincial and local levels of devolved government\nA — Exclusive national functions\nElections\nForeign and international affairs\nBudget\nTaxation including customs and excise\nAirports, other than district airports\nCasinos, racing, gambling and wagering, excluding lotteries and sports pools\nDisaster management and public emergency\nNational parks, national botanical gardens and resources\nNational forests\npassports and National Registration\nPrisons\nRefugees\nRegistration of Births and Deaths\nWildlife\nWater resources management\nEnergy and hydro electricity\nPetroleum and lubricants\nPublic roads\nDefence, security, maintenance of law and order\nCitizenship and immigration\nPublic enterprises\nRegulation of commerce and manufacturing\nRoad traffic regulation\nLand, mines, minerals and natural resources\nCensus and statistics\nTraditional leadership\nNational archives\nNational libraries\nNational museums\nTertiary Education\nB — Concurrent national and provincial functions\nadministration of justice\nlegal affairs\nAdministration of forests\nAgriculture\nAnimal control and diseases\nConsumer protection\nCultural matters\nCustomary law\nEducation at all levels, excluding tertiary education\nEnvironmental management\nHealth services\nHousing\nIndustrial promotion\nLanguage policy and the regulation of official languages\nNature conservation\nParliamentary Business\nlegislative procedures and processess\nPollution control\nPopulation development\nProperty transfer tax\nPublic procurement\nPublic transport\nPublic works only in respect of the needs of provincial administration\nProvincial spatial planning and development\nSoil conservation\nTourism, trade and commerce\nUrban and rural development\nWelfare services\nIndustrial and labour relations\nResettlement\nInvestment\nTelecommunication\nC — Local authorities exclusive functions\nPollution control\nBuilding regulations\nChild-care facilities\nElectricity\nFire fighting services\nLocal tourism\nDistrict airports, Aerodromes and Airships\nDistrict planning\nDistrict health services\nDistrict public transport\nDistrict public works only in respect of the needs of Districts in the discharge of councils responsibilities to administer functions specifically assigned to them under this Constitution or other law\nLevies, tariffs and tolls\nPontoons, ferries, jetties, piers and harbours, excluding the regulation of international and national shipping and matters related thereto\nStorm water management systems in built-up areas\nTrading\nWater and sanitation services limited to potable water supply systems and domestic waste-water and sewage disposal systems\nVeterinary services, excluding regulation of the veterinary profession\nVehicle licensing\nAbattoirs\nAmbulance services\nArchives\nLibraries\nLiquor licencing\nMuseums\nLocal spatial planning\nCultural matters\nRecreation and amenities\nSport\nRoads and traffic automation and maintenance\nAmusement facilities\nBillboards and the display of advertisements in public places\nCemeteries, funeral parlours and crematoria\nLocal cleansing\nControl of public nuisances\nControl of undertakings that sell liquor to the public\nFacilities for the accommodation, care and burial of animals\nFencing and fences\nLicensing of dogs\nLicensing and control of undertakings that sell food to the public\nLocal amenities\nLocal sport facilities\nMarkets\nLocal parks and recreation\nLocal roads\nNoise pollution\nPounds\nPublic places\nRefuse removal, refuse dumps and solid waste disposal\nStreet trading\nStreet lighting\nTraffic and parking\nGardens and landscaping\n"
+      },
+      "wrapup": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part I amended by Act No. 18 of 1996 and substituted by section 3 of Act 2 of 2016]\n"
+      },
+      "wrapup-10": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part XII, previously Part XI amended by Act No. 18 of 1996; renumbered and substituted by section 8 of Act 2 of 2016]\n"
+      },
+      "wrapup-11": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part XIII, previously Part XII amended by Act No. 18 of 1996; renumbered and substituted by section 8 of Act 2 of 2016]\n"
+      },
+      "wrapup-12": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part XIV, previously Part XIII, amended by Act No. 18 of 1996; renumbered and substituted by section 8 of Act 2 of 2016]\n"
+      },
+      "wrapup-2": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part II amended by Act No. 18 of 1996 and substituted by section 3 of Act 2 of 2016]\n"
+      },
+      "wrapup-3": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part IV amended by Act No. 18 of 1996 and substituted by section 4 of Act 2 of 2016]\n"
+      },
+      "wrapup-4": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part VI amended by Act No. 18 of 1996, except for Article 79; substituted by section 6 and 7 of Act 2 of 2016, except for Article 79]\n"
+      },
+      "wrapup-5": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part VII, previously Part VI amended by Act No. 18 of 1996 and by section 2(b) of Act 20 of 2009; renumbered and substituted by section 8 of Act 2 of 2016]\n"
+      },
+      "wrapup-6": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part VIII, previously part VII amended by section 3 of Act 20 of 2009; renumbered and substituted by section 8 of Act 2 of 2016]\n"
+      },
+      "wrapup-7": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part IX, previously part VIII, amended by Act No. 18 of 1996; renumbered and substituted by section 8 of Act 2 of 2016]\n"
+      },
+      "wrapup-8": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part X, previously Part IX amended by Act No. 18 of 1996; renumbered and substituted by section 8 of Act 2 of 2016]\n"
+      },
+      "wrapup-9": {
+       "label": "wrapUp",
+       "kind": "wrapUp",
+       "text": "# wrapUp\n[Part XI, previously Part X amended by Act No. 18 of 1996; renumbered and substituted by section 8 of Act 2 of 2016]\n"
       }
      },
      "credits": {
@@ -2360,7 +2540,7 @@
       "art-060": [
        "act-2016-2"
       ],
-      "art-061-dup2": [
+      "art-061-2": [
        "act-2016-2"
       ],
       "art-062": [
@@ -3005,7 +3185,85 @@
       "art-275": [
        "act-2016-2"
       ],
+      "intro": [
+       "act-2016-2"
+      ],
+      "intro-10": [
+       "act-2016-2"
+      ],
+      "intro-11": [
+       "act-2016-2"
+      ],
+      "intro-12": [
+       "act-2016-2"
+      ],
+      "intro-13": [
+       "act-2016-2"
+      ],
+      "intro-2": [
+       "act-2016-2"
+      ],
+      "intro-3": [
+       "act-2016-2"
+      ],
+      "intro-4": [
+       "act-2016-2"
+      ],
+      "intro-5": [
+       "act-2016-2"
+      ],
+      "intro-6": [
+       "act-2016-2"
+      ],
+      "intro-7": [
+       "act-2016-2"
+      ],
+      "intro-8": [
+       "act-2016-2"
+      ],
+      "intro-9": [
+       "act-2016-2"
+      ],
+      "preamble": [
+       "act-2016-2"
+      ],
       "sch-01": [
+       "act-2016-2"
+      ],
+      "wrapup": [
+       "act-2016-2"
+      ],
+      "wrapup-10": [
+       "act-2016-2"
+      ],
+      "wrapup-11": [
+       "act-2016-2"
+      ],
+      "wrapup-12": [
+       "act-2016-2"
+      ],
+      "wrapup-2": [
+       "act-2016-2"
+      ],
+      "wrapup-3": [
+       "act-2016-2"
+      ],
+      "wrapup-4": [
+       "act-2016-2"
+      ],
+      "wrapup-5": [
+       "act-2016-2"
+      ],
+      "wrapup-6": [
+       "act-2016-2"
+      ],
+      "wrapup-7": [
+       "act-2016-2"
+      ],
+      "wrapup-8": [
+       "act-2016-2"
+      ],
+      "wrapup-9": [
        "act-2016-2"
       ]
      }
@@ -3178,10 +3436,10 @@
      "source_url": "https://web.archive.org/web/20251211064844id_/https://zambialii.org/akn/zm/act/2021/3/eng@2021-03-24",
      "sha256": "da3e7848ed01cff5ff75d569c4eadfe07ffa1be04d1f9a34608cee6b167682cc",
      "units": {
-      "preamble": {
-       "label": "Preamble",
+      "long-title": {
+       "label": "Long title",
        "kind": "preface",
-       "text": "# Preamble\nAn Act to provide an effective system for the use and protection of personal data; regulate the collection, use, transmission, storage and otherwise processing of personal data; establish the Office of the Data Protection Commissioner and provide for its functions; the registration of data controllers and licencing of data auditors; provide for the duties of data controllers and data processors; provide for the rights of data subjects; and provide for matters connected with, or incidental to, the foregoing.\nENACTED by the Parliament of Zambia.\n"
+       "text": "# Long title\nAn Act to provide an effective system for the use and protection of personal data; regulate the collection, use, transmission, storage and otherwise processing of personal data; establish the Office of the Data Protection Commissioner and provide for its functions; the registration of data controllers and licencing of data auditors; provide for the duties of data controllers and data processors; provide for the rights of data subjects; and provide for matters connected with, or incidental to, the foregoing.\nENACTED by the Parliament of Zambia.\n"
       },
       "sec-001": {
        "label": "Section 1",
@@ -3611,10 +3869,10 @@
      "source_url": "https://web.archive.org/web/20250523075532id_/https://zambialii.org/akn/zm/act/2015/21/eng@2015-12-24",
      "sha256": "282af4b3a1fc277205711ab32404cb1640be363b227b355decec6a1d5fb44ffb",
      "units": {
-      "preamble": {
-       "label": "Preamble",
+      "long-title": {
+       "label": "Long title",
        "kind": "preface",
-       "text": "# Preamble\nAn Act to provide for the imposition, payment and collection of an insurance premium levy; and to provide for matters connected with, or incidental to, the foregoing.\nENACTED by the Parliament of Zambia.\n"
+       "text": "# Long title\nAn Act to provide for the imposition, payment and collection of an insurance premium levy; and to provide for matters connected with, or incidental to, the foregoing.\nENACTED by the Parliament of Zambia.\n"
       },
       "sec-001": {
        "label": "Section 1",
