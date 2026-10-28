@@ -98,33 +98,25 @@
  "fidelity": {
   "constitution@1996-12-31": {
    "units": 157,
-   "units_differing": [
-    "preamble"
-   ],
+   "units_differing": [],
    "text_outside_units_chars": 0,
    "text_outside_units_sample": ""
   },
   "constitution@2009-08-31": {
    "units": 158,
-   "units_differing": [
-    "preamble"
-   ],
+   "units_differing": [],
    "text_outside_units_chars": 0,
    "text_outside_units_sample": ""
   },
   "constitution@2016-01-05": {
    "units": 295,
-   "units_differing": [
-    "preamble"
-   ],
+   "units_differing": [],
    "text_outside_units_chars": 0,
    "text_outside_units_sample": ""
   },
   "constitution@2025-12-18": {
    "units": 295,
-   "units_differing": [
-    "preamble"
-   ],
+   "units_differing": [],
    "text_outside_units_chars": 0,
    "text_outside_units_sample": ""
   },
