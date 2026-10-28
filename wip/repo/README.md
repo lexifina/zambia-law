@@ -50,15 +50,15 @@ Each folder's `README.md` lists every provision, how often it changed and when.
 
 | Question | Command |
 | --- | --- |
-| What did sec-001 say on 1996-12-31? | `python tools/on.py 1996-12-31 constitution 1` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="1996-12-31T23:59:59Z" main -- constitution/sec-001.md):constitution/sec-001.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="1996-12-31T23:59:59Z" main -- constitution/sec-001.md; git show "$($r):constitution/sec-001.md"` |
-| Which law wrote each line? | `git blame constitution/sec-001.md` |
-| Every change, word by word | `git log -p --word-diff constitution/sec-001.md` |
+| What did art-117 say on 1996-12-31? | `python tools/on.py 1996-12-31 constitution art-117` |
+| The same, with raw git (bash) | `git show $(git rev-list -1 --before="1996-12-31T23:59:59Z" main -- constitution/art-117.md):constitution/art-117.md` |
+| The same, in PowerShell | `$r = git rev-list -1 --before="1996-12-31T23:59:59Z" main -- constitution/art-117.md; git show "$($r):constitution/art-117.md"` |
+| Which law wrote each line? | `git blame constitution/art-117.md` |
+| Every change, word by word | `git log -p --word-diff constitution/art-117.md` |
 | Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
 | Everything one law changed | `git show law/<key>` (tags `law/<key>` mark each law's commit) |
 | The whole act on a date | `python tools/on.py 1996-12-31 constitution` |
-| Which law gave a provision its wording on a date | `python tools/on.py --law 1996-12-31 constitution sec-001` |
+| Which law gave a provision its wording on a date | `python tools/on.py --law 1996-12-31 constitution art-117` |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 
