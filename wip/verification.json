@@ -1,176 +1,166 @@
 {
  "acts": {
-  "anti-terrorism": [
-   {
-    "changed": 0,
-    "credited": 0,
-    "from": "2018-07-31",
-    "units": 79
-   },
-   {
-    "changed": 46,
-    "credited": 46,
-    "from": "2023-04-18",
-    "units": 84
-   },
-   {
-    "changed": 56,
-    "credited": 56,
-    "from": "2024-12-26",
-    "units": 99
-   }
-  ],
-  "anti-terrorism:listing": {
-   "lii_current": "2024-12-26",
-   "ok": true,
-   "ours": "2024-12-26"
-  },
   "constitution": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "1996-12-31",
-    "units": 157
+    "units": 157,
+    "changed": 0,
+    "credited": 0
    },
    {
-    "changed": 2,
-    "credited": 2,
     "from": "2009-08-31",
-    "units": 158
+    "units": 158,
+    "changed": 2,
+    "credited": 2
    },
    {
-    "changed": 257,
-    "credited": 257,
     "from": "2016-01-05",
-    "units": 295
+    "units": 295,
+    "changed": 257,
+    "credited": 257
    },
    {
-    "changed": 18,
-    "credited": 18,
     "from": "2025-12-18",
-    "units": 295
+    "units": 295,
+    "changed": 18,
+    "credited": 18
    }
   ],
   "constitution:listing": {
    "lii_current": "2025-12-18",
-   "ok": true,
-   "ours": "2025-12-18"
+   "ours": "2025-12-18",
+   "ok": true
   },
   "data-protection": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "2021-03-24",
-    "units": 83
+    "units": 83,
+    "changed": 0,
+    "credited": 0
    }
   ],
   "data-protection:listing": {
    "lii_current": "2021-03-24",
-   "ok": true,
-   "ours": "2021-03-24"
+   "ours": "2021-03-24",
+   "ok": true
   },
   "lands": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "1996-12-31",
-    "units": 34
+    "units": 34,
+    "changed": 0,
+    "credited": 0
    },
    {
-    "changed": 15,
-    "credited": 15,
     "from": "2010-11-19",
-    "units": 34
+    "units": 34,
+    "changed": 15,
+    "credited": 15
    },
    {
-    "changed": 2,
-    "credited": 2,
     "from": "2016-01-01",
-    "units": 34
+    "units": 34,
+    "changed": 2,
+    "credited": 2
    }
   ],
   "lands:listing": {
    "lii_current": "2016-01-01",
-   "ok": true,
-   "ours": "2016-01-01"
+   "ours": "2016-01-01",
+   "ok": true
+  },
+  "anti-terrorism": [
+   {
+    "from": "2018-07-31",
+    "units": 79,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2023-04-18",
+    "units": 84,
+    "changed": 46,
+    "credited": 46
+   },
+   {
+    "from": "2024-12-26",
+    "units": 99,
+    "changed": 56,
+    "credited": 56
+   }
+  ],
+  "anti-terrorism:listing": {
+   "lii_current": "2024-12-26",
+   "ours": "2024-12-26",
+   "ok": true
   }
  },
- "check": {
-  "acts": 4,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 11
- },
  "fidelity": {
-  "anti-terrorism@2018-07-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
-   "units": 79,
-   "units_differing": []
-  },
-  "anti-terrorism@2023-04-18": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
-   "units": 84,
-   "units_differing": []
-  },
-  "anti-terrorism@2024-12-26": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
-   "units": 99,
-   "units_differing": []
-  },
   "constitution@1996-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 157,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2009-08-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 158,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2016-01-05": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 295,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2025-12-18": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 295,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "data-protection@2021-03-24": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 83,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "lands@1996-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 34,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "lands@2010-11-19": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 34,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "lands@2016-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 34,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "anti-terrorism@2018-07-31": {
+   "units": 79,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "anti-terrorism@2023-04-18": {
+   "units": 84,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "anti-terrorism@2024-12-26": {
+   "units": 99,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   }
  },
  "law_dates": {
@@ -224,12 +214,5 @@
     "2025-12-18"
    ]
   }
- },
- "rebuild": {
-  "commits": 11,
-  "history_tip": "3b0f44b2192f7ad10c9f16d806160a73604dd98f",
-  "identical": true,
-  "main_identical": true,
-  "tags": 20
  }
 }
