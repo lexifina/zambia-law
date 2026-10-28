@@ -1,0 +1,125 @@
+{
+ "acts": {
+  "constitution": [
+   {
+    "from": "1996-12-31",
+    "units": 156,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2009-08-31",
+    "units": 157,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2016-01-05",
+    "units": 294,
+    "changed": 256,
+    "credited": 256
+   },
+   {
+    "from": "2025-12-18",
+    "units": 294,
+    "changed": 18,
+    "credited": 18
+   }
+  ],
+  "constitution:listing": {
+   "lii_current": "2025-12-18",
+   "ours": "2025-12-18",
+   "ok": true
+  },
+  "data-protection": [
+   {
+    "from": "2021-03-24",
+    "units": 83,
+    "changed": 0,
+    "credited": 0
+   }
+  ],
+  "data-protection:listing": {
+   "lii_current": "2021-03-24",
+   "ours": "2021-03-24",
+   "ok": true
+  },
+  "insurance-premium-levy": [
+   {
+    "from": "2015-12-24",
+    "units": 10,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2019-01-01",
+    "units": 10,
+    "changed": 3,
+    "credited": 3
+   },
+   {
+    "from": "2025-01-01",
+    "units": 10,
+    "changed": 2,
+    "credited": 2
+   }
+  ],
+  "insurance-premium-levy:listing": {
+   "lii_current": "2025-01-01",
+   "ours": "2025-01-01",
+   "ok": true
+  }
+ },
+ "law_dates": {
+  "act-2009-20": {
+   "commenced": null,
+   "dated": [
+    "2009-08-31"
+   ]
+  },
+  "act-2015-21": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2016-2": {
+   "commenced": null,
+   "dated": [
+    "2016-01-05"
+   ]
+  },
+  "act-2017-15": {
+   "commenced": null,
+   "dated": [
+    "2019-01-01"
+   ]
+  },
+  "act-2018-16": {
+   "commenced": null,
+   "dated": [
+    "2019-01-01"
+   ]
+  },
+  "act-2021-3": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2021-47": {
+   "commenced": null,
+   "dated": [
+    "2025-01-01"
+   ]
+  },
+  "act-2024-28": {
+   "commenced": null,
+   "dated": [
+    "2025-01-01"
+   ]
+  },
+  "act-2025-13": {
+   "commenced": null,
+   "dated": [
+    "2025-12-18"
+   ]
+  }
+ }
+}

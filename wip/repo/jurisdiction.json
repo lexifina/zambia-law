@@ -4,7 +4,8 @@
   "name": "Zambia",
   "level": "country",
   "repo": "https://github.com/lexifina/zambia-law",
-  "build": "ready",
+  "build": "built: Constitution of Zambia Act, 1991 (4 versions, 1996-12-31 to 2025-12-18); Data Protection Act, 2021 (1 versions, 2021-04-01 to 2021-04-01); Insurance Premium Levy Act (3 versions, 2016-01-01 to 2025-01-01)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
-  "register_date": "2026-10-28"
+  "register_date": "2026-10-28",
+  "sources": 2
 }
