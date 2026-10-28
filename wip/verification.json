@@ -2,83 +2,98 @@
  "acts": {
   "constitution": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "1996-12-31",
-    "units": 157
+    "units": 157,
+    "changed": 0,
+    "credited": 0
    },
    {
-    "changed": 2,
-    "credited": 2,
     "from": "2009-08-31",
-    "units": 158
+    "units": 158,
+    "changed": 2,
+    "credited": 2
    },
    {
-    "changed": 257,
-    "credited": 257,
     "from": "2016-01-05",
-    "units": 295
+    "units": 295,
+    "changed": 257,
+    "credited": 257
    },
    {
-    "changed": 18,
-    "credited": 18,
     "from": "2025-12-18",
-    "units": 295
+    "units": 295,
+    "changed": 18,
+    "credited": 18
    }
   ],
   "constitution:listing": {
    "lii_current": "2025-12-18",
-   "ok": true,
-   "ours": "2025-12-18"
+   "ours": "2025-12-18",
+   "ok": true
   },
   "data-protection": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "2021-03-24",
-    "units": 83
+    "units": 83,
+    "changed": 0,
+    "credited": 0
    }
   ],
   "data-protection:listing": {
    "lii_current": "2021-03-24",
-   "ok": true,
-   "ours": "2021-03-24"
+   "ours": "2021-03-24",
+   "ok": true
   },
-  "insurance-premium-levy": [
+  "lands": [
    {
+    "from": "1996-12-31",
+    "units": 34,
     "changed": 0,
-    "credited": 0,
-    "from": "2015-12-24",
-    "units": 10
+    "credited": 0
    },
    {
-    "changed": 3,
-    "credited": 3,
-    "from": "2019-01-01",
-    "units": 10
+    "from": "2010-11-19",
+    "units": 34,
+    "changed": 15,
+    "credited": 15
    },
    {
+    "from": "2016-01-01",
+    "units": 34,
     "changed": 2,
-    "credited": 2,
-    "from": "2025-01-01",
-    "units": 10
+    "credited": 2
    }
   ],
-  "insurance-premium-levy:listing": {
-   "lii_current": "2025-01-01",
-   "ok": true,
-   "ours": "2025-01-01"
+  "lands:listing": {
+   "lii_current": "2016-01-01",
+   "ours": "2016-01-01",
+   "ok": true
+  },
+  "anti-terrorism": [
+   {
+    "from": "2018-07-31",
+    "units": 79,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2023-04-18",
+    "units": 84,
+    "changed": 46,
+    "credited": 46
+   },
+   {
+    "from": "2024-12-26",
+    "units": 99,
+    "changed": 56,
+    "credited": 56
+   }
+  ],
+  "anti-terrorism:listing": {
+   "lii_current": "2024-12-26",
+   "ours": "2024-12-26",
+   "ok": true
   }
- },
- "check": {
-  "acts": 3,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 8
  },
  "law_dates": {
   "act-2009-20": {
@@ -87,9 +102,17 @@
     "2009-08-31"
    ]
   },
-  "act-2015-21": {
+  "act-2010-41": {
    "commenced": null,
-   "dated": []
+   "dated": [
+    "2010-11-19"
+   ]
+  },
+  "act-2015-20": {
+   "commenced": null,
+   "dated": [
+    "2016-01-01"
+   ]
   },
   "act-2016-2": {
    "commenced": null,
@@ -97,32 +120,24 @@
     "2016-01-05"
    ]
   },
-  "act-2017-15": {
+  "act-2018-6": {
    "commenced": null,
-   "dated": [
-    "2019-01-01"
-   ]
-  },
-  "act-2018-16": {
-   "commenced": null,
-   "dated": [
-    "2019-01-01"
-   ]
+   "dated": []
   },
   "act-2021-3": {
    "commenced": null,
    "dated": []
   },
-  "act-2021-47": {
+  "act-2023-6": {
    "commenced": null,
    "dated": [
-    "2025-01-01"
+    "2023-04-18"
    ]
   },
-  "act-2024-28": {
+  "act-2024-30": {
    "commenced": null,
    "dated": [
-    "2025-01-01"
+    "2024-12-26"
    ]
   },
   "act-2025-13": {

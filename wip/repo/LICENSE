@@ -3,14 +3,15 @@ The legal texts come from ZambiaLII (Southern African Institute for Policy and R
   ZambiaLII, https://zambialii.org, point-in-time versions of each act, read from archived copies of its
   pages on the Internet Archive (https://web.archive.org), retrieved 2026-10-28.
 
-ZambiaLII licenses its primary and secondary law content under the Creative Commons
-Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0),
-https://creativecommons.org/licenses/by-nc/4.0/legalcode, and asks to be credited as the source
-(https://zambialii.org/terms-of-use/, s. 9). Attribution:
+Licence and terms, as ZambiaLII states them: CC BY-NC 4.0, crediting ZambiaLII as the source (https://zambialii.org/terms-of-use/).
+CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Attribution:
 
   Source: ZambiaLII (https://zambialii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0).
 
-The texts may be used only for non-commercial purposes.
+The texts may be used only for non-commercial purposes. This repository is private; whether and how it
+may be published is the owner's decision under these terms.
 
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per
 line; spacing, quotes and dashes were normalised; editorial notes, Part and Chapter headings were left out;

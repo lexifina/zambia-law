@@ -10,7 +10,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: | --- |
 | `constitution/` | [Constitution of Zambia Act, 1991](https://zambialii.org/akn/zm/act/1991/1) | 4 | 1996-12-31 to 2025-12-18 |
 | `data-protection/` | [Data Protection Act, 2021](https://zambialii.org/akn/zm/act/2021/3) | 1 | 2021-04-01 to 2021-04-01 |
-| `insurance-premium-levy/` | [Insurance Premium Levy Act](https://zambialii.org/akn/zm/act/2015/21) | 3 | 2016-01-01 to 2025-01-01 |
+| `lands/` | [Lands Act](https://zambialii.org/akn/zm/act/1995/29) | 3 | 1996-12-31 to 2016-01-01 |
+| `anti-terrorism/` | [Anti-Terrorism and Non-Proliferation Act, 2018](https://zambialii.org/akn/zm/act/2018/6) | 3 | 2018-07-31 to 2024-12-26 |
 
 **Constitution of Zambia Act, 1991**
 
@@ -27,13 +28,21 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- |
 | 2021-04-01 | Act 3 of 2021 (as enacted) |
 
-**Insurance Premium Levy Act**
+**Lands Act**
 
 | In force | Author |
 | --- | --- |
-| 2016-01-01 | Act 21 of 2015 (as enacted) |
-| 2019-01-01 | Act 15 of 2017, Act 16 of 2018 |
-| 2025-01-01 | Act 28 of 2024, Act 47 of 2021 |
+| 1996-12-31 | publisher (ZambiaLII): oldest version available |
+| 2010-11-19 | Act 41 of 2010 |
+| 2016-01-01 | Act 20 of 2015 |
+
+**Anti-Terrorism and Non-Proliferation Act, 2018**
+
+| In force | Author |
+| --- | --- |
+| 2018-07-31 | Act 6 of 2018 (as enacted) |
+| 2023-04-18 | Act 6 of 2023 |
+| 2024-12-26 | Act 30 of 2024 |
 
 Each folder's `README.md` lists every provision, how often it changed and when.
 
@@ -94,6 +103,8 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Licence
 
-See [LICENSE](LICENSE). The legal texts come from ZambiaLII under CC BY-NC 4.0 (non-commercial use, with attribution); Lexifina's arrangement, messages, tables and tools are CC0.
+See [LICENSE](LICENSE). Source: ZambiaLII (https://zambialii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0).
+
+ZambiaLII's terms: CC BY-NC 4.0, crediting ZambiaLII as the source (https://zambialii.org/terms-of-use/). Lexifina's arrangement, messages, tables and tools are CC0.
 
 This repository is not legal advice. Zambia's laws are published in English, so there is no separate summary in another language.
