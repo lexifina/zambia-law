@@ -1,0 +1,93 @@
+{
+ "retrieved": "2026-10-28",
+ "lii": {
+  "name": "ZambiaLII",
+  "hosts": [
+   "zambialii.org"
+  ],
+  "cc": "zm",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": ""
+ },
+ "country": {
+  "code": "ZM",
+  "name": "Zambia",
+  "slug": "zambia",
+  "lang": "en",
+  "tz": "Africa/Lusaka",
+  "future_branch": "future",
+  "publisher": {
+   "name": "ZambiaLII",
+   "email": "zambialii@zambialii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by ZambiaLII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://zambialii.org/legislation/"
+  },
+  "licence_note": "Source: ZambiaLII (https://zambialii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "ZambiaLII (Southern African Institute for Policy and Research, on the Laws.Africa Peachjam platform)",
+   "url": "https://zambialii.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting ZambiaLII as the source (https://zambialii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act, /akn/zm/act/<year>/<num>/eng@<date>. ZambiaLII's document pages answer automated clients with a Cloudflare challenge, so each expression page is read from its latest Internet Archive capture (raw id_ form); the capture timestamps and sha256s are pinned in sources.json. Request count covers the Internet Archive and ZambiaLII's open listing pages."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of ZambiaLII pages; the content licence is ZambiaLII's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1991/1",
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Zambia Act, 1991",
+   "label": "Act 1 of 1991",
+   "attachment_prefix": {
+    "att_1": ""
+   }
+  },
+  {
+   "work": "2021/3",
+   "slug": "data-protection",
+   "short": "DPA 2021",
+   "title": "Data Protection Act, 2021",
+   "label": "Act 3 of 2021"
+  },
+  {
+   "work": "1995/29",
+   "slug": "lands",
+   "short": "Lands Act",
+   "title": "Lands Act (Cap. 184)",
+   "label": "Act 29 of 1995"
+  },
+  {
+   "work": "2018/6",
+   "slug": "anti-terrorism",
+   "short": "Anti-Terrorism Act",
+   "title": "Anti-Terrorism and Non-Proliferation Act, 2018",
+   "label": "Act 6 of 2018"
+  }
+ ],
+ "decisions": [
+  "Acts were chosen by what the archived source supports: every expression ZambiaLII lists for the Constitution (4), the Data Protection Act 2021 (1), the Lands Act (3) and the Anti-Terrorism and Non-Proliferation Act 2018 (3) has an Internet Archive copy, so each version is read from its own dated expression.",
+  "The Penal Code (Cap. 87) was not taken: ZambiaLII lists 11 expressions (1996 to 2023), but the Internet Archive holds only 2 (1996-12-31 and 2023-12-26), so nine amending Acts from 2000 to 2023 could only be dated 2023-12-26. It also lists the Penal Code (Amendment) Act 2026 (Act 75 of 2026) as an amendment not yet applied.",
+  "The Companies Act 2017 and the Employment Code Act 2019 were not taken: their archived ZambiaLII pages carry no Akoma Ntoso text (the LII shows only the source PDF), and no OCR is used.",
+  "The Insurance Premium Levy Act 2015 was tried and dropped: 2 of its 5 expressions (2018-01-01, 2022-01-01) have no usable archived copy, so two Acts' changes could only be dated a year late.",
+  "In the Constitution of Zambia Act, the Constitution itself is the Schedule (att_1); its articles are filed as art-NNN beside the Act's own sections (sec-NNN).",
+  "Licence and terms: ZambiaLII licenses its content CC BY-NC 4.0 with attribution, and its terms prohibit scraping and bulk downloading from its website; its robots.txt sends Content-Signal ai-train=no, ai-input=no and Crawl-delay 5, and its document pages answer automated clients with a Cloudflare challenge. No ZambiaLII document page was fetched: every version is read from the Internet Archive's copy, at most one archive.org request per 3 seconds, for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it\"). The repository stays private; CC BY-NC allows only non-commercial use. No legal text was given to a model."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."
+ ]
+}

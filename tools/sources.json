@@ -1,0 +1,104 @@
+{
+ "lii": "ZambiaLII",
+ "acts": {
+  "1991/1": {
+   "expressions": {
+    "1996-12-31": {
+     "capture": "20240718090746",
+     "original": "https://zambialii.org/akn/zm/act/1991/1/eng@1996-12-31",
+     "url": "https://web.archive.org/web/20240718090746id_/https://zambialii.org/akn/zm/act/1991/1/eng@1996-12-31",
+     "sha256": "197b773e90d9eb5240352112788847721591fb96f5543fc3754e202b9df63e17"
+    },
+    "2009-08-31": {
+     "capture": "20240721222037",
+     "original": "https://zambialii.org/akn/zm/act/1991/1/eng@2009-08-31",
+     "url": "https://web.archive.org/web/20240721222037id_/https://zambialii.org/akn/zm/act/1991/1/eng@2009-08-31",
+     "sha256": "1c61338cdd91faaf98a6e402217530411e8230b95763c98680b44b1b7777737e"
+    },
+    "2016-01-05": {
+     "capture": "20260228033618",
+     "original": "https://zambialii.org/akn/zm/act/1991/1/eng@2016-01-05",
+     "url": "https://web.archive.org/web/20260228033618id_/https://zambialii.org/akn/zm/act/1991/1/eng@2016-01-05",
+     "sha256": "b060de85163767950d78a15539d5b9ee08efc26cfa595a7fd0bb86164d35fdee"
+    },
+    "2025-12-18": {
+     "capture": "20260812174607",
+     "original": "https://zambialii.org/akn/zm/act/1991/1/eng@2025-12-18",
+     "url": "https://web.archive.org/web/20260812174607id_/https://zambialii.org/akn/zm/act/1991/1/eng@2025-12-18",
+     "sha256": "f6f10a3703e3f59afd80729c5790df06aef9b5e79f93b3a2ede14aec03e4696d"
+    }
+   }
+  },
+  "2021/3": {
+   "expressions": {
+    "2021-03-24": {
+     "capture": "20251211064844",
+     "original": "https://zambialii.org/akn/zm/act/2021/3/eng@2021-03-24",
+     "url": "https://web.archive.org/web/20251211064844id_/https://zambialii.org/akn/zm/act/2021/3/eng@2021-03-24",
+     "sha256": "da3e7848ed01cff5ff75d569c4eadfe07ffa1be04d1f9a34608cee6b167682cc"
+    }
+   }
+  },
+  "1995/29": {
+   "expressions": {
+    "1996-12-31": {
+     "capture": "20250320060021",
+     "original": "https://zambialii.org/akn/zm/act/1995/29/eng@1996-12-31",
+     "url": "https://web.archive.org/web/20250320060021id_/https://zambialii.org/akn/zm/act/1995/29/eng@1996-12-31",
+     "sha256": "1f56701c13e452f5503ce76eec77b6655d56dab8a86432d2b4d79d5b7a08001b"
+    },
+    "2010-11-19": {
+     "capture": "20250809124205",
+     "original": "https://zambialii.org/akn/zm/act/1995/29/eng@2010-11-19",
+     "url": "https://web.archive.org/web/20250809124205id_/https://zambialii.org/akn/zm/act/1995/29/eng@2010-11-19",
+     "sha256": "70360079bd3693d3ab9d8475aff214439dbd4e0b5670cddf0cce648f4a5919b7"
+    },
+    "2016-01-01": {
+     "capture": "20260608090811",
+     "original": "https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01",
+     "url": "https://web.archive.org/web/20260608090811id_/https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01",
+     "sha256": "08e29ebc795eb56902b1b28f7dec261420b20ce2168776791e8b0b524a0f463b"
+    }
+   }
+  },
+  "2018/6": {
+   "expressions": {
+    "2018-07-31": {
+     "capture": "20250814085042",
+     "original": "https://zambialii.org/akn/zm/act/2018/6/eng@2018-07-31",
+     "url": "https://web.archive.org/web/20250814085042id_/https://zambialii.org/akn/zm/act/2018/6/eng@2018-07-31",
+     "sha256": "f1896a258a8bec61bc416797c8f764e5c958f5c9c1e4b0dadf5e4cafa0f4a35f"
+    },
+    "2023-04-18": {
+     "capture": "20250622152624",
+     "original": "https://zambialii.org/akn/zm/act/2018/6/eng@2023-04-18",
+     "url": "https://web.archive.org/web/20250622152624id_/https://zambialii.org/akn/zm/act/2018/6/eng@2023-04-18",
+     "sha256": "0cde8fcbf195c3dbd585d3f8ebd2a5b5c9794b1fa862c5a7cdea3199d3a34ab0"
+    },
+    "2024-12-26": {
+     "capture": "20260416181243",
+     "original": "https://zambialii.org/akn/zm/act/2018/6/eng@2024-12-26",
+     "url": "https://web.archive.org/web/20260416181243id_/https://zambialii.org/akn/zm/act/2018/6/eng@2024-12-26",
+     "sha256": "c2f2151f3ba165767372c4022ffa8e033c728a3250121287a1bb373d1e8fe9ce"
+    }
+   }
+  }
+ },
+ "laws": {
+  "/akn/zm/act/2009/20": null,
+  "/akn/zm/act/2010/41": null,
+  "/akn/zm/act/2015/20": null,
+  "/akn/zm/act/2016/2": null,
+  "/akn/zm/act/2023/6": null,
+  "/akn/zm/act/2024/30": null,
+  "/akn/zm/act/2025/13": null,
+  "/akn/zm/act/si/2021/22": null
+ },
+ "listings": {
+  "1991/1": "https://zambialii.org/legislation/?years=1991",
+  "2021/3": "https://zambialii.org/legislation/?years=2021",
+  "1995/29": "https://zambialii.org/legislation/?years=1995",
+  "2018/6": "https://zambialii.org/legislation/?years=2018"
+ },
+ "retrieved": "2026-10-28"
+}

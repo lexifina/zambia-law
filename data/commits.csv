@@ -1,0 +1,12 @@
+day,kind,law,acts,files,branch
+1996-12-31,start,,constitution,157,main
+1996-12-31,start,,lands,34,main
+2009-08-31,law,act-2009-20,constitution,2,main
+2010-11-19,law,act-2010-41,lands,15,main
+2016-01-01,law,act-2015-20,lands,2,main
+2016-01-05,law,act-2016-2,constitution,257,main
+2018-07-31,start,act-2018-6,anti-terrorism,79,main
+2021-04-01,start,act-2021-3,data-protection,83,main
+2023-04-18,law,act-2023-6,anti-terrorism,46,main
+2024-12-26,law,act-2024-30,anti-terrorism,56,main
+2025-12-18,law,act-2025-13,constitution,18,main

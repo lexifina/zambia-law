@@ -1,0 +1,103 @@
+{
+ "country": "ZM",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Zambia Act, 1991",
+   "url": "https://zambialii.org/akn/zm/act/1991/1",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 157,
+     "source_url": "https://web.archive.org/web/20240718090746id_/https://zambialii.org/akn/zm/act/1991/1/eng@1996-12-31",
+     "sha256": "197b773e90d9eb5240352112788847721591fb96f5543fc3754e202b9df63e17"
+    },
+    {
+     "from": "2009-08-31",
+     "units": 158,
+     "source_url": "https://web.archive.org/web/20240721222037id_/https://zambialii.org/akn/zm/act/1991/1/eng@2009-08-31",
+     "sha256": "1c61338cdd91faaf98a6e402217530411e8230b95763c98680b44b1b7777737e"
+    },
+    {
+     "from": "2016-01-05",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20260228033618id_/https://zambialii.org/akn/zm/act/1991/1/eng@2016-01-05",
+     "sha256": "b060de85163767950d78a15539d5b9ee08efc26cfa595a7fd0bb86164d35fdee"
+    },
+    {
+     "from": "2025-12-18",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20260812174607id_/https://zambialii.org/akn/zm/act/1991/1/eng@2025-12-18",
+     "sha256": "f6f10a3703e3f59afd80729c5790df06aef9b5e79f93b3a2ede14aec03e4696d"
+    }
+   ]
+  },
+  {
+   "slug": "data-protection",
+   "short": "DPA 2021",
+   "title": "Data Protection Act, 2021",
+   "url": "https://zambialii.org/akn/zm/act/2021/3",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20251211064844id_/https://zambialii.org/akn/zm/act/2021/3/eng@2021-03-24",
+     "sha256": "da3e7848ed01cff5ff75d569c4eadfe07ffa1be04d1f9a34608cee6b167682cc"
+    }
+   ]
+  },
+  {
+   "slug": "lands",
+   "short": "Lands Act",
+   "title": "Lands Act",
+   "url": "https://zambialii.org/akn/zm/act/1995/29",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250320060021id_/https://zambialii.org/akn/zm/act/1995/29/eng@1996-12-31",
+     "sha256": "1f56701c13e452f5503ce76eec77b6655d56dab8a86432d2b4d79d5b7a08001b"
+    },
+    {
+     "from": "2010-11-19",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250809124205id_/https://zambialii.org/akn/zm/act/1995/29/eng@2010-11-19",
+     "sha256": "70360079bd3693d3ab9d8475aff214439dbd4e0b5670cddf0cce648f4a5919b7"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260608090811id_/https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01",
+     "sha256": "08e29ebc795eb56902b1b28f7dec261420b20ce2168776791e8b0b524a0f463b"
+    }
+   ]
+  },
+  {
+   "slug": "anti-terrorism",
+   "short": "Anti-Terrorism Act",
+   "title": "Anti-Terrorism and Non-Proliferation Act, 2018",
+   "url": "https://zambialii.org/akn/zm/act/2018/6",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20250814085042id_/https://zambialii.org/akn/zm/act/2018/6/eng@2018-07-31",
+     "sha256": "f1896a258a8bec61bc416797c8f764e5c958f5c9c1e4b0dadf5e4cafa0f4a35f"
+    },
+    {
+     "from": "2023-04-18",
+     "units": 84,
+     "source_url": "https://web.archive.org/web/20250622152624id_/https://zambialii.org/akn/zm/act/2018/6/eng@2023-04-18",
+     "sha256": "0cde8fcbf195c3dbd585d3f8ebd2a5b5c9794b1fa862c5a7cdea3199d3a34ab0"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 99,
+     "source_url": "https://web.archive.org/web/20260416181243id_/https://zambialii.org/akn/zm/act/2018/6/eng@2024-12-26",
+     "sha256": "c2f2151f3ba165767372c4022ffa8e033c728a3250121287a1bb373d1e8fe9ce"
+    }
+   ]
+  }
+ ]
+}
