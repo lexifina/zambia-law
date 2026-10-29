@@ -26,6 +26,12 @@
     "credited": 18
    }
   ],
+  "constitution:archive": {
+   "last_version": "2025-12-18",
+   "captured": "20260812174607",
+   "via": "wayback",
+   "history_after_last": []
+  },
   "constitution:listing": {
    "lii_current": "2025-12-18",
    "ours": "2025-12-18",
@@ -39,6 +45,14 @@
     "credited": 0
    }
   ],
+  "data-protection:archive": {
+   "last_version": "2021-03-24",
+   "captured": "20251211064844",
+   "via": "wayback",
+   "history_after_last": [
+    "2021-04-01"
+   ]
+  },
   "data-protection:listing": {
    "lii_current": "2021-03-24",
    "ours": "2021-03-24",
@@ -64,6 +78,12 @@
     "credited": 2
    }
   ],
+  "lands:archive": {
+   "last_version": "2016-01-01",
+   "captured": "20260608090811",
+   "via": "wayback",
+   "history_after_last": []
+  },
   "lands:listing": {
    "lii_current": "2016-01-01",
    "ours": "2016-01-01",
@@ -89,6 +109,12 @@
     "credited": 56
    }
   ],
+  "anti-terrorism:archive": {
+   "last_version": "2024-12-26",
+   "captured": "20260416181243",
+   "via": "wayback",
+   "history_after_last": []
+  },
   "anti-terrorism:listing": {
    "lii_current": "2024-12-26",
    "ours": "2024-12-26",
