@@ -1,0 +1,33 @@
+{
+ "parts": {
+  "20-batch2.json": {
+   "acts": [
+    "anti-human-trafficking",
+    "copyright",
+    "correctional-service",
+    "cyber-security-and-cyber-crimes",
+    "education",
+    "electoral-commission",
+    "electronic-communications",
+    "fees-and-fines",
+    "firearms",
+    "immigration-and-deportation",
+    "investment-trade-business",
+    "judgments",
+    "landlord-and-tenant-business-premises",
+    "law-association",
+    "local-courts",
+    "marriage",
+    "matrimonial-causes",
+    "money-laundering",
+    "public-health",
+    "public-procurement",
+    "referendum",
+    "rent",
+    "small-claims-courts"
+   ],
+   "sha256": "2c47a4abe3c7299c2851a45a3db9a020996dae20805821a87413e4773a5555e2"
+  }
+ },
+ "schema": 1
+}
