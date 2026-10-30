@@ -1,0 +1,551 @@
+{
+ "country": "ZM",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Zambia Act, 1991",
+   "url": "https://zambialii.org/akn/zm/act/1991/1",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 157,
+     "source_url": "https://web.archive.org/web/20240718090746id_/https://zambialii.org/akn/zm/act/1991/1/eng@1996-12-31",
+     "sha256": "197b773e90d9eb5240352112788847721591fb96f5543fc3754e202b9df63e17"
+    },
+    {
+     "from": "2009-08-31",
+     "units": 158,
+     "source_url": "https://web.archive.org/web/20240721222037id_/https://zambialii.org/akn/zm/act/1991/1/eng@2009-08-31",
+     "sha256": "1c61338cdd91faaf98a6e402217530411e8230b95763c98680b44b1b7777737e"
+    },
+    {
+     "from": "2016-01-05",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20260228033618id_/https://zambialii.org/akn/zm/act/1991/1/eng@2016-01-05",
+     "sha256": "b060de85163767950d78a15539d5b9ee08efc26cfa595a7fd0bb86164d35fdee"
+    },
+    {
+     "from": "2025-12-18",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20260812174607id_/https://zambialii.org/akn/zm/act/1991/1/eng@2025-12-18",
+     "sha256": "f6f10a3703e3f59afd80729c5790df06aef9b5e79f93b3a2ede14aec03e4696d"
+    }
+   ]
+  },
+  {
+   "slug": "data-protection",
+   "short": "DPA 2021",
+   "title": "Data Protection Act, 2021",
+   "url": "https://zambialii.org/akn/zm/act/2021/3",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20251211064844id_/https://zambialii.org/akn/zm/act/2021/3/eng@2021-03-24",
+     "sha256": "da3e7848ed01cff5ff75d569c4eadfe07ffa1be04d1f9a34608cee6b167682cc"
+    }
+   ]
+  },
+  {
+   "slug": "lands",
+   "short": "Lands Act",
+   "title": "Lands Act",
+   "url": "https://zambialii.org/akn/zm/act/1995/29",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250320060021id_/https://zambialii.org/akn/zm/act/1995/29/eng@1996-12-31",
+     "sha256": "1f56701c13e452f5503ce76eec77b6655d56dab8a86432d2b4d79d5b7a08001b"
+    },
+    {
+     "from": "2010-11-19",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250809124205id_/https://zambialii.org/akn/zm/act/1995/29/eng@2010-11-19",
+     "sha256": "70360079bd3693d3ab9d8475aff214439dbd4e0b5670cddf0cce648f4a5919b7"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260608090811id_/https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01",
+     "sha256": "08e29ebc795eb56902b1b28f7dec261420b20ce2168776791e8b0b524a0f463b"
+    }
+   ]
+  },
+  {
+   "slug": "anti-terrorism",
+   "short": "Anti-Terrorism Act",
+   "title": "Anti-Terrorism and Non-Proliferation Act, 2018",
+   "url": "https://zambialii.org/akn/zm/act/2018/6",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20250814085042id_/https://zambialii.org/akn/zm/act/2018/6/eng@2018-07-31",
+     "sha256": "f1896a258a8bec61bc416797c8f764e5c958f5c9c1e4b0dadf5e4cafa0f4a35f"
+    },
+    {
+     "from": "2023-04-18",
+     "units": 84,
+     "source_url": "https://web.archive.org/web/20250622152624id_/https://zambialii.org/akn/zm/act/2018/6/eng@2023-04-18",
+     "sha256": "0cde8fcbf195c3dbd585d3f8ebd2a5b5c9794b1fa862c5a7cdea3199d3a34ab0"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 99,
+     "source_url": "https://web.archive.org/web/20260416181243id_/https://zambialii.org/akn/zm/act/2018/6/eng@2024-12-26",
+     "sha256": "c2f2151f3ba165767372c4022ffa8e033c728a3250121287a1bb373d1e8fe9ce"
+    }
+   ]
+  },
+  {
+   "slug": "marriage",
+   "short": "Marriage Act",
+   "title": "Marriage Act, 1918",
+   "url": "https://zambialii.org/akn/zm/act/1918/10",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 50,
+     "source_url": "https://zambialii.org/akn/zm/act/1918/10/eng@1996-12-31",
+     "sha256": "716773fa98014a8413ce08b0a3d961ae28b1fdd0396fb598608d519213e374ac"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 50,
+     "source_url": "https://zambialii.org/akn/zm/act/1918/10/eng@2023-12-26",
+     "sha256": "7d5da77a0ba293f63a23030daef9d03628fe332b9727b06d0b4eaf9b1de87548"
+    }
+   ]
+  },
+  {
+   "slug": "public-health",
+   "short": "Public Health Act",
+   "title": "Public Health Act, 1930",
+   "url": "https://zambialii.org/akn/zm/act/1930/12",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 118,
+     "source_url": "https://zambialii.org/akn/zm/act/1930/12/eng@1996-12-31",
+     "sha256": "a0bbea5a2e9a7cf0c69caeae4c876382375f51a41cd0345442d4c4c3229edf7c"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 118,
+     "source_url": "https://zambialii.org/akn/zm/act/1930/12/eng@2020-03-06",
+     "sha256": "0a6cd257d342e4db723bb9184c68c85c9e3c039c17cc90015201fb02eb4e3850"
+    }
+   ]
+  },
+  {
+   "slug": "local-courts",
+   "short": "Local Courts Act",
+   "title": "Local Courts Act, 1966",
+   "url": "https://zambialii.org/akn/zm/act/1966/20",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 72,
+     "source_url": "https://zambialii.org/akn/zm/act/1966/20/eng@1996-12-31",
+     "sha256": "7029372883a960f6ee2ab2d920a184e35a42542b6bb3d06c2a2a0a7bb9f7fb0e"
+    },
+    {
+     "from": "2003-12-12",
+     "units": 72,
+     "source_url": "https://zambialii.org/akn/zm/act/1966/20/eng@2003-12-12",
+     "sha256": "531d414804b194ec4e1db9697aba439c17b86a36c557ece679042705d515231c"
+    },
+    {
+     "from": "2008-09-26",
+     "units": 72,
+     "source_url": "https://zambialii.org/akn/zm/act/1966/20/eng@2008-09-26",
+     "sha256": "3641a02e2c6d5a9700074d7aeaae03509180ed5e79ff6d37093f9cb5dfc151bd"
+    }
+   ]
+  },
+  {
+   "slug": "education",
+   "short": "Education Act",
+   "title": "Education Act, 2011",
+   "url": "https://zambialii.org/akn/zm/act/2011/23",
+   "versions": [
+    {
+     "from": "2011-04-18",
+     "units": 136,
+     "source_url": "https://zambialii.org/akn/zm/act/2011/23/eng@2011-04-18",
+     "sha256": "18030c1646a0a3126be15cfdf473a663c95dd5c087ac6c96c5ef2f3ce234a5bf"
+    },
+    {
+     "from": "2026-06-12",
+     "units": 137,
+     "source_url": "https://zambialii.org/akn/zm/act/2011/23/eng@2026-06-12",
+     "sha256": "7ce3c9bfc337eacce989a864c4373d8cfe163caad743348c8f85f17f29d58eeb"
+    }
+   ]
+  },
+  {
+   "slug": "landlord-and-tenant-business-premises",
+   "short": "Landlord and Tenant (Business Premises) Act",
+   "title": "Landlord and Tenant (Business Premises) Act, 1971",
+   "url": "https://zambialii.org/akn/zm/act/1971/34",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 29,
+     "source_url": "https://zambialii.org/akn/zm/act/1971/34/eng@1996-12-31",
+     "sha256": "ebccdf8a6527bd0dcec96224edec9973d365bc5718b34ab71607f204d1193b16"
+    },
+    {
+     "from": "2020-10-26",
+     "units": 29,
+     "source_url": "https://zambialii.org/akn/zm/act/1971/34/eng@2020-10-26",
+     "sha256": "39d72ab6811055d220c62fff1551586e32b4115512a96c88a74a7ef458a1a83f"
+    }
+   ]
+  },
+  {
+   "slug": "rent",
+   "short": "Rent Act",
+   "title": "Rent Act, 1972",
+   "url": "https://zambialii.org/akn/zm/act/1972/10",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 34,
+     "source_url": "https://zambialii.org/akn/zm/act/1972/10/eng@1996-12-31",
+     "sha256": "682d3364412edecb2a5d2b86239579a93744e8734c32eb34e833a393413a8a40"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 34,
+     "source_url": "https://zambialii.org/akn/zm/act/1972/10/eng@2018-04-11",
+     "sha256": "6b260e00c281d644d75e1b40d8a3069792d76abd83482cc876837116ac7f6312"
+    }
+   ]
+  },
+  {
+   "slug": "law-association",
+   "short": "Law Association of Zambia Act",
+   "title": "Law Association of Zambia Act, 1973",
+   "url": "https://zambialii.org/akn/zm/act/1973/23",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 25,
+     "source_url": "https://zambialii.org/akn/zm/act/1973/23/eng@1996-12-31",
+     "sha256": "65e9773bbd010ef108b9cface22dc3052fa7a853dbfc1082595da7aa839beb76"
+    },
+    {
+     "from": "2006-05-19",
+     "units": 26,
+     "source_url": "https://zambialii.org/akn/zm/act/1973/23/eng@2006-05-19",
+     "sha256": "88345f3ed9bc7f1ed6393e566c15e1367d34c547c163e2e81eb18dc770d7dff8"
+    }
+   ]
+  },
+  {
+   "slug": "small-claims-courts",
+   "short": "Small Claims Courts Act",
+   "title": "Small Claims Courts Act, 1992",
+   "url": "https://zambialii.org/akn/zm/act/1992/23",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 32,
+     "source_url": "https://zambialii.org/akn/zm/act/1992/23/eng@1996-12-31",
+     "sha256": "f288fa371d8acdbda84aee3bff6110d11695daa871e6ebc9b9af236a90c4910d"
+    },
+    {
+     "from": "2008-09-26",
+     "units": 44,
+     "source_url": "https://zambialii.org/akn/zm/act/1992/23/eng@2008-09-26",
+     "sha256": "b398fb33869787f90d6c3ec6dcf26a390ca7a06ba64c23a8fc5157000db63b33"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 44,
+     "source_url": "https://zambialii.org/akn/zm/act/1992/23/eng@2025-12-30",
+     "sha256": "1e26f48b2d410d741d00522b01a87e94f9db41dd96eb58c3655d62cf5f0a0883"
+    }
+   ]
+  },
+  {
+   "slug": "copyright",
+   "short": "Copyright and Performance Rights Act",
+   "title": "Copyright and Performance Rights Act, 1994",
+   "url": "https://zambialii.org/akn/zm/act/1994/44",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 66,
+     "source_url": "https://zambialii.org/akn/zm/act/1994/44/eng@1996-12-31",
+     "sha256": "02f1039be351a32817d982a5c814b970f33cb25f56a346bcc63627363cdb6c33"
+    },
+    {
+     "from": "2010-08-16",
+     "units": 72,
+     "source_url": "https://zambialii.org/akn/zm/act/1994/44/eng@2010-08-16",
+     "sha256": "4d6dbd4854d535259a33645e9363f0139395899c3989e609854f3ffc1011ebec"
+    }
+   ]
+  },
+  {
+   "slug": "money-laundering",
+   "short": "Prohibition and Prevention of Money Laundering Act",
+   "title": "Prohibition and Prevention of Money Laundering Act, 2001",
+   "url": "https://zambialii.org/akn/zm/act/2001/14",
+   "versions": [
+    {
+     "from": "2001-11-09",
+     "units": 33,
+     "source_url": "https://zambialii.org/akn/zm/act/2001/14/eng@2001-11-09",
+     "sha256": "5a52f6203bed64ce577fd7268da2ca98dd8e2f1e5c835fca55b49f05ecd9fbc0"
+    },
+    {
+     "from": "2010-11-29",
+     "units": 33,
+     "source_url": "https://zambialii.org/akn/zm/act/2001/14/eng@2010-11-29",
+     "sha256": "5aedc0b0cb4def914645654edc1a5f6c036aa4303ab30b57d700a4be53203eab"
+    }
+   ]
+  },
+  {
+   "slug": "matrimonial-causes",
+   "short": "Matrimonial Causes Act",
+   "title": "Matrimonial Causes Act, 2007",
+   "url": "https://zambialii.org/akn/zm/act/2007/20",
+   "versions": [
+    {
+     "from": "2007-09-12",
+     "units": 107,
+     "source_url": "https://zambialii.org/akn/zm/act/2007/20/eng@2007-09-12",
+     "sha256": "601663d64ad82c218fc376666ebd3c74053f9525c5bd0b39b72fa42da24ff702"
+    },
+    {
+     "from": "2024-08-16",
+     "units": 107,
+     "source_url": "https://zambialii.org/akn/zm/act/2007/20/eng@2024-08-16",
+     "sha256": "dc07b5956f516ca13c84759889aa90d9bb0f17edcce25d5fc4d334d968010b0b"
+    }
+   ]
+  },
+  {
+   "slug": "anti-human-trafficking",
+   "short": "Anti-Human Trafficking Act",
+   "title": "Anti-Human Trafficking Act, 2008",
+   "url": "https://zambialii.org/akn/zm/act/2008/11",
+   "versions": [
+    {
+     "from": "2008-09-26",
+     "units": 112,
+     "source_url": "https://zambialii.org/akn/zm/act/2008/11/eng@2008-09-26",
+     "sha256": "36196ef598076ab90152bdafe74c59ec3bbc94e8f1cc7cbab323930bedc44453"
+    },
+    {
+     "from": "2022-11-16",
+     "units": 118,
+     "source_url": "https://zambialii.org/akn/zm/act/2008/11/eng@2022-11-16",
+     "sha256": "cd2d63d5d5c3f4eacd8e406eb82f6399239a7befcd23e41a27030e4a4d1e4375"
+    }
+   ]
+  },
+  {
+   "slug": "immigration-and-deportation",
+   "short": "Immigration and Deportation Act",
+   "title": "Immigration and Deportation Act, 2010",
+   "url": "https://zambialii.org/akn/zm/act/2010/18",
+   "versions": [
+    {
+     "from": "2010-09-17",
+     "units": 65,
+     "source_url": "https://zambialii.org/akn/zm/act/2010/18/eng@2010-04-16",
+     "sha256": "4920fdb27aa1b4a8b2e50308f7d366c45a791a60916756ce9d94d436e8ae9e28"
+    },
+    {
+     "from": "2016-06-07",
+     "units": 66,
+     "source_url": "https://zambialii.org/akn/zm/act/2010/18/eng@2016-06-07",
+     "sha256": "d804204b3dbb8ae25d09e790be430ebf16d11c031fc82668057543220bce0f19"
+    }
+   ]
+  },
+  {
+   "slug": "electoral-commission",
+   "short": "Electoral Commission of Zambia Act",
+   "title": "Electoral Commission of Zambia Act, 2016",
+   "url": "https://zambialii.org/akn/zm/act/2016/25",
+   "versions": [
+    {
+     "from": "2016-06-07",
+     "units": 24,
+     "source_url": "https://zambialii.org/akn/zm/act/2016/25/eng@2016-06-07",
+     "sha256": "6d2bd7427b27b5f3ab406c35b82cc3e6bd719a61ce1bf2dfb78bcad706778bbb"
+    },
+    {
+     "from": "2019-04-11",
+     "units": 24,
+     "source_url": "https://zambialii.org/akn/zm/act/2016/25/eng@2019-04-11",
+     "sha256": "73e3c7420c4e551c097db9ff67045b04e6c8c4d999d740159abd146c741326fb"
+    }
+   ]
+  },
+  {
+   "slug": "public-procurement",
+   "short": "Public Procurement Act",
+   "title": "Public Procurement Act, 2020",
+   "url": "https://zambialii.org/akn/zm/act/2020/8",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 116,
+     "source_url": "https://zambialii.org/akn/zm/act/2020/8/eng@2020-11-23",
+     "sha256": "22cbc4e58a223f69bc33580bcb18f2f8e2905c0b827a97226183a7ead7f72001"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 117,
+     "source_url": "https://zambialii.org/akn/zm/act/2020/8/eng@2023-12-26",
+     "sha256": "74bb01c470af5c23ff2053f029470f0b69ee8d3da057897412ddf57850b8c441"
+    }
+   ]
+  },
+  {
+   "slug": "cyber-security-and-cyber-crimes",
+   "short": "Cyber Security and Cyber Crimes Act",
+   "title": "Cyber Security and Cyber Crimes Act, 2021",
+   "url": "https://zambialii.org/akn/zm/act/2021/2",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 91,
+     "source_url": "https://zambialii.org/akn/zm/act/2021/2/eng@2021-03-24",
+     "sha256": "6e96f5a5d1cacbe786d9c606320c262d329bd4fc6bbeb46852463f552f50e474"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-communications",
+   "short": "Electronic Communications and Transactions Act",
+   "title": "Electronic Communications and Transactions Act, 2021",
+   "url": "https://zambialii.org/akn/zm/act/2021/4",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 103,
+     "source_url": "https://zambialii.org/akn/zm/act/2021/4/eng@2021-03-24",
+     "sha256": "2d035e6dc6a3558fc40aa6fecb59a12b276d70f4c4ad4a6c877c63004e016157"
+    }
+   ]
+  },
+  {
+   "slug": "investment-trade-business",
+   "short": "Investment, Trade and Business Development Act",
+   "title": "Investment, Trade and Business Development Act, 2022",
+   "url": "https://zambialii.org/akn/zm/act/2022/18",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 53,
+     "source_url": "https://zambialii.org/akn/zm/act/2022/18/eng@2022-11-16",
+     "sha256": "17d15ecc87030ea7199a50c07f358134fb485ef24e150dad1cb2a1f8dc002b03"
+    },
+    {
+     "from": "2024-04-18",
+     "units": 53,
+     "source_url": "https://zambialii.org/akn/zm/act/2022/18/eng@2024-04-18",
+     "sha256": "9f4cc7ad8ea7ef2e48a8f0888cadbc4c301cf9c6010c7dc366baa6e5de4ed217"
+    }
+   ]
+  },
+  {
+   "slug": "firearms",
+   "short": "Firearms Act",
+   "title": "Firearms Act, 1969",
+   "url": "https://zambialii.org/akn/zm/act/1969/45",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 65,
+     "source_url": "https://zambialii.org/akn/zm/act/1969/45/eng@1996-12-31",
+     "sha256": "39bbc3523b3d06635a6997d55bbb26c7a5b39aed31fe89b31d166434da26ec22"
+    }
+   ]
+  },
+  {
+   "slug": "judgments",
+   "short": "Judgments Act",
+   "title": "Judgments Act",
+   "url": "https://zambialii.org/akn/zm/act/1961/10",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 3,
+     "source_url": "https://zambialii.org/akn/zm/act/1961/10/eng@1996-12-31",
+     "sha256": "86bed9f7975c8730767e0308e895e3732e98f9c5b234cb0c812884253197cb01"
+    },
+    {
+     "from": "1997-11-14",
+     "units": 4,
+     "source_url": "https://zambialii.org/akn/zm/act/1961/10/eng@1997-11-14",
+     "sha256": "7980fa50d06a38d67d0d4bcd8b0ecbe456846b135cec7231424cbf99a73162ee"
+    }
+   ]
+  },
+  {
+   "slug": "fees-and-fines",
+   "short": "Fees and Fines Act",
+   "title": "Fees and Fines Act, 1994",
+   "url": "https://zambialii.org/akn/zm/act/1994/13",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 10,
+     "source_url": "https://zambialii.org/akn/zm/act/1994/13/eng@1996-12-31",
+     "sha256": "693645fb835040e6e445b08f813c84b6f15b2c7fc7e43253f547afb4fe5a7a48"
+    },
+    {
+     "from": "2013-12-19",
+     "units": 11,
+     "source_url": "https://zambialii.org/akn/zm/act/1994/13/eng@2013-12-19",
+     "sha256": "c97ea1ca324921616114a950da817c5c3989d28df0c1829207a448600169895f"
+    }
+   ]
+  },
+  {
+   "slug": "referendum",
+   "short": "Referendum Act",
+   "title": "Referendum Act, 1967",
+   "url": "https://zambialii.org/akn/zm/act/1967/39",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "units": 30,
+     "source_url": "https://zambialii.org/akn/zm/act/1967/39/eng@1996-12-31",
+     "sha256": "09273f7d55b4c4eb7a70109f481c1503d975c0f1d9b6fcbe7cfeede6cccbd440"
+    },
+    {
+     "from": "2015-08-14",
+     "units": 31,
+     "source_url": "https://zambialii.org/akn/zm/act/1967/39/eng@2015-08-14",
+     "sha256": "f7afe4c300c7e6d96d48a54553b60f1ce40377a5fc837bf09241a620c87b6685"
+    }
+   ]
+  },
+  {
+   "slug": "correctional-service",
+   "short": "Zambia Correctional Service Act",
+   "title": "Zambia Correctional Service Act, 2021",
+   "url": "https://zambialii.org/akn/zm/act/2021/37",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 127,
+     "source_url": "https://zambialii.org/akn/zm/act/2021/37/eng@2021-05-20",
+     "sha256": "c872a0d3c625d910032e7f4445e3d57f1b59f64af3cd1ed314df0f88684b90de"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "retrieved": "2026-10-30",
+ "acts": [
+  {
+   "work": "1918/10",
+   "slug": "marriage",
+   "short": "Marriage Act",
+   "title": "Marriage Act",
+   "label": "Act 10 of 1918"
+  },
+  {
+   "work": "1930/12",
+   "slug": "public-health",
+   "short": "Public Health Act",
+   "title": "Public Health Act",
+   "label": "Act 12 of 1930"
+  },
+  {
+   "work": "1966/20",
+   "slug": "local-courts",
+   "short": "Local Courts Act",
+   "title": "Local Courts Act",
+   "label": "Act 20 of 1966"
+  },
+  {
+   "work": "2011/23",
+   "slug": "education",
+   "short": "Education Act",
+   "title": "Education Act, 2011",
+   "label": "Act 23 of 2011"
+  },
+  {
+   "work": "1971/34",
+   "slug": "landlord-and-tenant-business-premises",
+   "short": "Landlord and Tenant (Business Premises) Act",
+   "title": "Landlord and Tenant (Business Premises) Act",
+   "label": "Act 34 of 1971"
+  },
+  {
+   "work": "1972/10",
+   "slug": "rent",
+   "short": "Rent Act",
+   "title": "Rent Act",
+   "label": "Act 10 of 1972"
+  },
+  {
+   "work": "1973/23",
+   "slug": "law-association",
+   "short": "Law Association of Zambia Act",
+   "title": "Law Association of Zambia Act",
+   "label": "Act 23 of 1973"
+  },
+  {
+   "work": "1992/23",
+   "slug": "small-claims-courts",
+   "short": "Small Claims Courts Act",
+   "title": "Small Claims Courts Act",
+   "label": "Act 23 of 1992"
+  },
+  {
+   "work": "1994/44",
+   "slug": "copyright",
+   "short": "Copyright and Performance Rights Act",
+   "title": "Copyright and Performance Rights Act",
+   "label": "Act 44 of 1994"
+  },
+  {
+   "work": "2001/14",
+   "slug": "money-laundering",
+   "short": "Prohibition and Prevention of Money Laundering Act",
+   "title": "Prohibition and Prevention of Money Laundering Act, 2001",
+   "label": "Act 14 of 2001"
+  },
+  {
+   "work": "2007/20",
+   "slug": "matrimonial-causes",
+   "short": "Matrimonial Causes Act",
+   "title": "Matrimonial Causes Act, 2007",
+   "label": "Act 20 of 2007"
+  },
+  {
+   "work": "2008/11",
+   "slug": "anti-human-trafficking",
+   "short": "Anti-Human Trafficking Act",
+   "title": "Anti-Human Trafficking Act, 2008",
+   "label": "Act 11 of 2008"
+  },
+  {
+   "work": "2010/18",
+   "slug": "immigration-and-deportation",
+   "short": "Immigration and Deportation Act",
+   "title": "Immigration and Deportation Act, 2010",
+   "label": "Act 18 of 2010"
+  },
+  {
+   "work": "2016/25",
+   "slug": "electoral-commission",
+   "short": "Electoral Commission of Zambia Act",
+   "title": "Electoral Commission of Zambia Act, 2016",
+   "label": "Act 25 of 2016"
+  },
+  {
+   "work": "2020/8",
+   "slug": "public-procurement",
+   "short": "Public Procurement Act",
+   "title": "Public Procurement Act, 2020",
+   "label": "Act 8 of 2020"
+  },
+  {
+   "work": "2021/2",
+   "slug": "cyber-security-and-cyber-crimes",
+   "short": "Cyber Security and Cyber Crimes Act",
+   "title": "Cyber Security and Cyber Crimes Act, 2021",
+   "label": "Act 2 of 2021"
+  },
+  {
+   "work": "2021/4",
+   "slug": "electronic-communications",
+   "short": "Electronic Communications and Transactions Act",
+   "title": "Electronic Communications and Transactions Act, 2021",
+   "label": "Act 4 of 2021"
+  },
+  {
+   "work": "2022/18",
+   "slug": "investment-trade-business",
+   "short": "Investment, Trade and Business Development Act",
+   "title": "Investment, Trade and Business Development Act, 2022",
+   "label": "Act 18 of 2022"
+  },
+  {
+   "work": "1969/45",
+   "slug": "firearms",
+   "short": "Firearms Act",
+   "title": "Firearms Act",
+   "label": "Act 45 of 1969"
+  },
+  {
+   "work": "1961/10",
+   "slug": "judgments",
+   "short": "Judgments Act",
+   "title": "Judgments Act",
+   "label": "Act 10 of 1961"
+  },
+  {
+   "work": "1994/13",
+   "slug": "fees-and-fines",
+   "short": "Fees and Fines Act",
+   "title": "Fees and Fines Act",
+   "label": "Act 13 of 1994"
+  },
+  {
+   "work": "1967/39",
+   "slug": "referendum",
+   "short": "Referendum Act",
+   "title": "Referendum Act",
+   "label": "Act 39 of 1967"
+  },
+  {
+   "work": "2021/37",
+   "slug": "correctional-service",
+   "short": "Zambia Correctional Service Act",
+   "title": "Zambia Correctional Service Act, 2021",
+   "label": "Act 37 of 2021"
+  }
+ ],
+ "decisions": [
+  "Batch 2 acts were chosen among the principal national Acts for which every point-in-time version ZambiaLII lists is available: Marriage Act, Public Health Act, Local Courts Act, Education Act, 2011, Landlord and Tenant (Business Premises) Act, Rent Act, Law Association of Zambia Act, Small Claims Courts Act, Copyright and Performance Rights Act, Prohibition and Prevention of Money Laundering Act, 2001, Matrimonial Causes Act, 2007, Anti-Human Trafficking Act, 2008, Immigration and Deportation Act, 2010, Electoral Commission of Zambia Act, 2016, Public Procurement Act, 2020, Cyber Security and Cyber Crimes Act, 2021, Electronic Communications and Transactions Act, 2021, Investment, Trade and Business Development Act, 2022, Firearms Act, Judgments Act, Fees and Fines Act, Referendum Act, Zambia Correctional Service Act, 2021.",
+  "Batch 2 left out, because one or more versions ZambiaLII lists was not available: the Penal Code (9 versions), the High Court Act (2), the Legal Practitioners Act (2), the Investment Act 1993 (1), the Companies Act 1994 (2), the National Pension Scheme Act (6), the Health Professions Act 2009 (1), the Competition and Consumer Protection Act 2010 (2), the Registration of Business Names Act 2011 (1), the Insurance Premium Levy Act (2) and the Judiciary Administration Act 2016 (1). The Companies Act 2017, the Employment Code Act 2019 and the Income Tax Act have no structured text on ZambiaLII (source PDF only), and no OCR is used.",
+  "Many batch 2 histories start with the 1996 Revised Edition of the Laws of Zambia (expression 1996-12-31), the oldest version ZambiaLII publishes for those Acts; that version is the publisher's consolidation, not the Act as enacted.",
+  "The Criminal Procedure Code and the Mines and Minerals Development Act 2015 were left out of batch 2: ZambiaLII's newest available page of the Code says amendments from 1997 to 2023 have not been applied to its text, and the Mines and Minerals Development Act's History lists a change of 2025-06-13 whose version was not available."
+ ]
+}
