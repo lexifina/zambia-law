@@ -59,6 +59,7 @@ Each change is credited to the Act ZambiaLII's History names (`Act 2 of 2016`, `
 - Every version is parsed from an archived copy of its own dated expression page, whose sha256 is recorded with it; the newest version of each act is the one ZambiaLII's own listing named as current when it was read.
 - A second build from the same corpus gave identical hashes for all 55 history commits and 96 tags.
 - History is append-only: no merge commits and no commit date that goes backwards.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each change is credited to the Act ZambiaLII's History names (`Act 2 of 2016`, `
 See [`LICENSE`](LICENSE). The texts are ZambiaLII's, under CC BY-NC 4.0 with ZambiaLII credited as the source, so they may be used only for non-commercial purposes; neither ZambiaLII nor Laws.Africa endorses this repository. Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written, and the acts chosen, by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
