@@ -34,7 +34,8 @@ A person shall hold office as a mayor, deputy mayor,
 chairperson or vice-chairperson of the council for only one
 term.
 Where a person has held office once as mayor, deputy
-mayor, chairperson or vice-chairperson of a council, the
+mayor, chairperson or vice-chairperson of a
+council, the
 person may be elected to that office again after five years
 from the date on which the person last held the office.
 (5) On the commencement of this Act, a person holding office
@@ -118,8 +119,10 @@ principal officers and officers of the councils established
 under this Act; and
 do all such things as are necessary or incidental to the
 regulation of service with councils.
-92. (1) A member of the Commission shall, subject to the other Tenure of
-provisions of this Part, hold office for a term of three years and office and
+92. (1) A member of the Commission shall, subject to the other
+Tenure of
+provisions of this Part, hold office for a term of three years and
+office and
 vacancy
 may be re-appointed for a further term of three years.
 Upon the expiration of the term for which a member is
@@ -268,6 +271,8 @@ take part in any consideration or discussion of, or vote on, any
 question relating to that matter.
 (2) A disclosure of interest made under this section shall be
 recorded in the minutes of the meeting at which it is made.
+The Local Government (Amendment)
+[No. 6 of
 103. (1) A person shall not, without the consent in writing
 Prohibition of
 given by or on behalf of, the Commission, publish or disclose to any
