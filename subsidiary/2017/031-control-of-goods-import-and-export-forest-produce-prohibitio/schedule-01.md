@@ -14,4 +14,4 @@
 13. Mitragyna spinosa logs (Mupa)
 14. Pericopsis angolensis logs (Mubanga)
 15. Pterocarpus angolensis logs (Mukwa)
-16. Pterocarpus chrysothrix logs (Mukula) l 7. Bobgunnia madagascariensis logs (N dale) J. KAPATA, LUSAKA Minister of Lands and 4th April, 2017 Natural Resources [MLNREP.64/9/5]
+16. Pterocarpus chrysothrix logs (Mukula) l 7. Bobgunnia madagascariensis logs (N dale) LUSAKA Minister of Lands and 4th April, 2017 Natural [MLNREP.64/9/5]
