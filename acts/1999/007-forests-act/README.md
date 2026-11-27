@@ -30,7 +30,7 @@ Text layer: typeset.
 | 21. | [sec-021.md](sec-021.md) |
 | 22. | [sec-022.md](sec-022.md) |
 | 23. | [sec-023.md](sec-023.md) |
-| 24. | [sec-024.md](sec-024.md) |
+| 24. Forest— | [sec-024.md](sec-024.md) |
 | 25. | [sec-025.md](sec-025.md) |
 | 26. | [sec-026.md](sec-026.md) |
 | 27. | [sec-027.md](sec-027.md) |
