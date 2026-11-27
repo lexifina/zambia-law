@@ -1,6 +1,6 @@
-# Property Transfer Tax (Amendment)Act, 2015 (No. 16 of 2015)
+# Property Transfer Tax (Amendment) Act, 2015 (No. 16 of 2015)
 
-Property Transfer Tax (Amendment)Act, 2015 (No. 16 of 2015): the text as passed, in force from 2015-12-24 (date printed under the long title: publication in the Gazette, from which an Act comes into operation unless it provides otherwise). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/property-transfer-tax-amendment-act-2015-no-16-of-2015-lex-faoc163181/>): <https://faolex.fao.org/docs/pdf/zam163181.pdf>.
+Property Transfer Tax (Amendment) Act, 2015 (No. 16 of 2015): the text as passed, in force from 2015-12-24 (date printed under the long title: publication in the Gazette, from which an Act comes into operation unless it provides otherwise). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/property-transfer-tax-amendment-act-2015-no-16-of-2015-lex-faoc163181/>): <https://faolex.fao.org/docs/pdf/zam163181.pdf>.
 
 Text layer: typeset.
 
