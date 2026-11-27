@@ -40,7 +40,8 @@ or
 to sell prescribed veterinary medicinal products and allied
 substances under the control of a relevant veterinary
 professional as determined by the Authority;
-“ allied substances ” include acaricides, cosmetics,
+“ allied substances ” include acaricides,
+cosmetics,
 disinfectants, food supplements, feed additives and
 supplements, medical and surgical sundries, medical devices
 and condoms;
@@ -54,12 +55,15 @@ Veterinary and Veterinary Para-Professions Act, 2010;
 medicine or allied substance of the same description in a
 container before the medicine or allied substance is sold or
 supplied;
-“ Authority ” means the Zambia Medicines Regulatory
+“ Authority ” means the Zambia Medicines
+Regulatory
 Authority provided for under section three;
 “ biological product ” includes vaccine, immune sera, anti-
-toxin, anti-venom, toxoid, blood and blood components,
+toxin, anti-venom, toxoid, blood and blood
+components,
 allergy products used in the prevention, treatment or cure
-of disease or condition in human beings and animals
+of disease or condition in human beings
+and animals
 synthesised from living organisms or other product;
 “ Board ” means the Board of the Authority constituted under
 section seven;
@@ -78,7 +82,8 @@ use in cleansing, beautifying or altering the hair, eyes, teeth
 or nails, or complexion of the skin, and includes deodorants
 and perfumes;
 “ counterfeit medicine or allied substance ” means a medicine
-or allied substance which is deliberately or fraudulently
+or allied substance which is deliberately or
+fraudulently
 mislabeled or misrepresented with respect to identity or
 source, or a medicine or allied substance which—
 (a) has wrong ingredients;
@@ -141,25 +146,31 @@ or allied substance on the market;
 “ medical device ” includes an instrument, apparatus,
 component, part or accessory manufactured or sold for
 use in the diagnosis, treatment, mitigation or prevention of
-a disease, disorder or abnormal physical state or the
+a disease, disorder or abnormal physical
+state or the
 symptoms of the disease, or abnormal physical state in
 human beings or animals;
-“ medical doctor ” means a person registered as a medical
+“ medical doctor ” means a person registered
+as a medical
 doctor under the Health Professions Act, 2009;
 “ medicine ” means human medicine, veterinary medicine,
-medicinal product, herbal medicine or any substance or
+medicinal product, herbal medicine or any
+substance or
 mixture of substances for human or veterinary use intended
 to be used or manufactured for use for its therapeutic
 Act No. 24
 efficacy or for its pharmacological purpose in the diagnosis,
 of 2009
 treatment, alleviation, modification or prevention of disease
-or abnormal physical or mental state or the symptoms of
+or abnormal physical or mental state or the
+symptoms of
 disease in a person or animal;
-“ medicinal product ” means any substance or combination
+“ medicinal product ” means any substance or
+combination
 of substances which may be administered to human beings
 or animals in order to make a medical diagnosis or to
-restore, correct or modify the physiological functions in
+restore, correct or modify the physiological
+functions in
 human beings or animals;
 “ member ” means a person appointed as a member of the
 Board under section seven;
@@ -239,7 +250,8 @@ Act No. 14 of
 law, do or perform.
 (3) The provisions of the First Schedule apply to the Authority.
 4. (1) The seal of the Authority shall be such device as may be
-determined by the Authority and shall be kept by the Director-
+determined by the Authority and shall be kept by
+the Director-
 General.
 (2) The affixing of the seal shall be authenticated by the
 Seal of
@@ -259,7 +271,8 @@ case may be, without further proof, unless the contrary is proved.
 5. The functions of the Authority are to—
 (a) grant pharmaceutical licences and marketing
 authorisations;
-(b) inspect any premises used for the purpose of
+(b) inspect any premises used for the
+purpose of
 manufacturing, distribution, sale, importation or
 Functions of
 Authority
@@ -276,7 +289,8 @@ veterinary shops;
 establish, maintain and develop standards for the
 operation of pharmacies, health shops and agro-
 Medicines and Allied Substances
-[No. of 2013 11
+[No.
+of 2013 11
 veterinary shops;
 (g) serve and protect the public interest in all matters relating
 to the sale of medicines and allied substances;
@@ -363,7 +377,8 @@ six months without the option of a fine;
 8. The Board shall, subject to the provisions of this Act, perform
 the following functions:
 Medicines and Allied Substances
-[No. of 2013 13
+[No.
+of 2013 13
 (a) review the policy and strategic plan of the Authority;
 (b) oversee the implementation and successful operation of
 the policy and functions of the Authority;
@@ -445,7 +460,8 @@ General
 responsible for the day-to-day administration of the Authority.
 (3) A person shall not be appointed as Director-General unless
 the person is a pharmacist.
-(4) The Director-General may attend meetings of the Board
+(4) The Director-General may attend meetings
+of the Board
 and of any committee and may address such meetings, but shall
 have no vote.
 (5) The Board shall appoint a Board Secretary on such terms
@@ -453,7 +469,8 @@ and conditions as it may determine.
 (6) The Board may, whenever the Director-General is for any
 reason unable to discharge the functions of the Director-General’s
 Medicines and Allied Substances
-[No. of 2013 15
+[No.
+of 2013 15
 office, appoint an acting Director-General to discharge the Director-
 General’s functions.
 (7) The Board may appoint on such terms and conditions as it
@@ -508,7 +525,8 @@ made before the issuance of the certificate of
 registration.
 16 No. of 2013]
 Medicines and Allied Substances
-16. (1) The Authority shall, within sixty days of receipt of an
+16. (1) The Authority shall, within sixty days of
+receipt of an
 application made under section fifteen, issue the applicant with a
 certificate of registration if—
 (a) the application meets the requirements of this Act;
@@ -526,7 +544,8 @@ any other written law.
 section fifteen and the certificate is not granted within sixty days of
 the filing of the application, the certificate shall be deemed to have
 been granted.
-(3) Subject to the other provisions of this Act, a certificate of
+(3) Subject to the other provisions of this Act, a
+certificate of
 registration issued under this section shall be subject to such terms
 and conditions as the Authority may determine.
 17. (1) The Authority shall reject an application for a certificate
@@ -546,7 +565,8 @@ application.
 subsection (1), inform the applicant, in writing, and give the reasons
 for the rejection.
 18. A holder of a certificate of registration shall display the
-certificate in a conspicuous manner and place at the place of
+certificate in a conspicuous manner and place at
+the place of
 business.
 Display of
 19. (1) A holder of a certificate of registration shall submit to
@@ -555,7 +575,8 @@ the Authority an annual return or no-change return in the prescribed
 registration
 manner and form upon payment of the prescribed fee.
 Medicines and Allied Substances
-[No. of 2013 17
+[No.
+of 2013 17
 (2) A holder of a certificate of registration shall, where the
 Annual return
 status of a pharmacy required to file a return under this section has
@@ -609,11 +630,13 @@ registration
 Medicines and Allied Substances
 (d) the name of the pharmacist designated as the manager of
 the pharmacy;
-notify the Authority, in the prescribed manner and form, within
+notify the Authority, in the prescribed manner and
+form, within
 fourteen days of the change.
 (2) The Authority shall, upon receipt of the notice referred to
 in subsection (1), amend the certificate of registration accordingly.
-(3) The Authority shall, where it identifies an error on the
+(3) The Authority shall, where it identifies an
+error on the
 Register relating to any particulars of a certificate of registration,
 inform the holder of the certificate and amend the certificate
 accordingly.
@@ -623,7 +646,8 @@ eight hundred penalty units for each day during which the default
 continues.
 23. (1) Subject to the other provisions of this Act, the Authority
 may suspend or cancel a certificate of registration if—
-(a) the holder obtained the certificate by fraud or deliberate
+(a) the holder obtained the certificate by fraud
+or deliberate
 or negligent submission of false information or
 Suspension
 or
@@ -637,7 +661,8 @@ registration
 (c) the pharmacist or responsible person obtains medicines
 and allied substances from unauthorised suppliers or deals
 in unauthorised products;
-(d) the pharmacy in respect of which it was issued is not
+(d) the pharmacy in respect of which it was
+issued is not
 compliant with prescribed standards of pharmacy
 practice or is not managed or controlled by a registered
 pharmacist or authorised person determined by the
@@ -649,11 +674,13 @@ with this Act; or
 (g) the holder contravenes the terms and conditions of the
 certificate of registration, this Act or any other relevant
 law.
-(2) The Authority shall, before suspending or cancelling a
+(2) The Authority shall, before suspending or
+cancelling a
 certificate of registration in accordance with subsection (1), give
 written notice to the holder thereof of its intention to suspend or
 Medicines and Allied Substances
-[No. of 2013 19
+[No.
+of 2013 19
 cancel the certificate and shall give the reasons for the intended
 suspension or cancellation and require the holder to show cause,
 within a period of not more than thirty days, why the certificate
@@ -728,7 +755,8 @@ supervision of a pharmacist.
 (3) In this section, “ pharmacy technologist ” means a person
 registered as a pharmacy technologist under the Health Professions
 Act, 2009.
-27. For the purposes of this Part, the Minister may, on the
+27. For the purposes of this Part, the Minister
+may, on the
 Act No. 24 of
 recommendation of the Authority, by statutory instrument, provide
 for standards for the practice of pharmacy in pharmacies and hospital
@@ -740,7 +768,8 @@ practice
 a dispensing certificate to the person to dispense medicines and
 allied substances to patients under their care in a health facility.
 Medicines and Allied Substances
-[No. of 2013 21
+[No.
+of 2013 21
 (2) A person who dispenses any medicine or allied substance
 Dispensing
 certificate
@@ -818,7 +847,8 @@ of a fee for inspection, as the Board may determine.
 copy of the certificate of registration, dispensing certificate or permit
 of any person or a copy or extract of any other particulars from the
 Register to be certified by the Director-General.
-(4) Any document purporting to be an extract or copy of any
+(4) Any document purporting to be an extract or
+copy of any
 entry in the Register and duly certified to be a true copy or extract
 under the hand of the Director-General shall be received in evidence
 as to the matters stated therein in any legal proceedings.
@@ -835,7 +865,8 @@ veterinary
 shops and
 health shops
 Medicines and Allied Substances
-[No. of 2013 23
+[No.
+of 2013 23
 33. (1) A person shall not manufacture, distribute or deal in
 any medicine or allied substance without a pharmaceutical licence.
 (2) A person who contravenes subsection (1) commits an
@@ -931,7 +962,8 @@ effective regulation of export permits under this Part.
 37. Where a person intends to import or export a narcotic drug,
 psychotropic substance or precursor for medical or scientific use,
 Medicines and Allied Substances
-[No. of 2013 25
+[No.
+of 2013 25
 the person shall—
 Additional
 requirements
@@ -989,7 +1021,8 @@ pharmacist or by a pharmacist—
 (ii) in a hospital for its use;
 26 No. of 2013]
 Medicines and Allied Substances
-(e)medicine imported or exported in response to a declared
+(e)medicine imported or exported in response
+to a declared
 health emergency;
 (f)medicine imported by an authorised institution for
 administration to patients under its care; and
@@ -1018,7 +1051,8 @@ medicines
 (b) pharmacy medicine; and
 (c) general sale medicine.
 (2) Medicines shall be dispensed in accordance with the
-respective requirements applicable to the categories specified in
+respective requirements applicable to the categories
+specified in
 subsection (1) and as shall be prescribed by statutory instrument.
 41. The Minister may, on the recommendation of the Authority,
 by statutory instrument, provide for a list of substances to be
@@ -1039,7 +1073,8 @@ dispensed only under a prescription by issuing a prescription in the
 without
 prescription
 Medicines and Allied Substances
-[No. of 2013 27
+[No.
+of 2013 27
 prescribed form.
 (3) Unless otherwise provided, all prescriptions shall specify the
 medicine to be administered by reference to the generic name of
@@ -1106,7 +1141,8 @@ Authority.
 (3) A medical doctor, dental surgeon or any other authorised
 prescriber shall not sell any medicine to any person unless it is in a
 package for an individual patient’s use only.
-(4) A wholesaler, manufacturer or importer shall not sell any
+(4) A wholesaler, manufacturer or importer shall
+not sell any
 medicine to any person unless that person is duly authorised to
 handle medicines and allied substances under this Act.
 45. (1) An advertisement of any medicine or allied
@@ -1132,7 +1168,8 @@ this section, it shall be a defence for that person to prove—
 (a) that the person’s business is to publish or arrange for the
 publication of advertisements;
 Medicines and Allied Substances
-[No. of 2013 29
+[No.
+of 2013 29
 (b) that the advertisement was received in the ordinary course
 of business and the person charged had no reason to
 suspect that its publication would amount to an offence
@@ -1204,7 +1241,8 @@ Application
 manner and form upon payment of the prescribed fee.
 for clinical
 trial
-(2) The Authority shall reject an application for a clinical trial
+(2) The Authority shall reject an application for a
+clinical trial
 certificate
 certificate if—
 (a) the application does not meet the requirements of this
@@ -1237,7 +1275,8 @@ effective regulation of clinical trials under this Part.
 51. (1) The Authority shall, within ninety days of receipt of an
 application under section fifty, issue the applicant with a clinical
 Medicines and Allied Substances
-[No. of 2013 31
+[No.
+of 2013 31
 trial certificate if—
 Grant of
 clinical trial
@@ -1310,7 +1349,8 @@ the quality, efficacy and safety of medicines and allied substances
 and the laboratory shall, upon analysis or examination of the
 medicines or allied substances, issue a certificate of analysis.
 (8) A certificate of analysis issued under this section shall be
-received in evidence and shall be deemed to be so issued as the
+received in evidence and shall be deemed to be so
+issued as the
 case may be, without further proof, unless the contrary is proved.
 PART VIII
 INSPECTIONS
@@ -1326,7 +1366,8 @@ Act—
 (a) be in possession of the identification card referred to in
 subsection (2); and
 (b) show the identification card to any person who requests
-to see it or is subject to an inspection or investigation
+to see it or is subject to an inspection or
+investigation
 under this Act.
 (4) An inspector may, for the purpose of enforcing the provisions
 of this Act, at any reasonable time, and on the authority of a warrant,
@@ -1338,7 +1379,8 @@ this Act, and—
 (a) search the pharmacy, health shop, agro-veterinary shop,
 container, vessel, vehicle, aircraft or other conveyance,
 Medicines and Allied Substances
-[No. of 2013 33
+[No.
+of 2013 33
 or the premises of a manufacturer, importer, exporter,
 seller or distributor of any medicine or allied substance
 or any person licensed or regulated under this Act,
@@ -1386,7 +1428,8 @@ computer system or electronic device;
 (ii) reproduce any record from the data; or
 (iii) seize any output from the computer or electronic
 device for examination and copying; and
-(i) attach and, if necessary, remove from the premises for
+(i) attach and, if necessary, remove from the
+premises for
 examination and safeguarding any document, record,
 book or article that has a bearing on an inspection or
 investigation.
@@ -1401,13 +1444,15 @@ removed.
 (a) delays, assaults, threatens or obstructs an inspector in the
 performance of the inspector’s functions;
 (b) refuses to give an inspector such reasonable assistance
-as the inspector may require for the purpose of
+as the inspector may require for the
+purpose of
 exercising the inspector’s powers;
 (c) gives an inspector false or misleading information in answer
 to an inquiry made by the inspector; or
 (d) impersonates an inspector or presents oneself to be an
 inspector;
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction,
+to a fine not
 exceeding five hundred thousand penalty units or to imprisonment
 for a period not exceeding two years, or to both.
 (7) An inspector shall furnish the Authority with a written report
@@ -1418,7 +1463,8 @@ information or a document, if the person would in an action in a
 court be entitled to refuse to disclose or produce the information or
 document.
 Medicines and Allied Substances
-[No. of 2013 35
+[No.
+of 2013 35
 PART IX
 GENERAL PROVISIONS
 56. (1) A person aggrieved with a decision of the Authority
@@ -1467,7 +1513,8 @@ suppliers; or
 registered under this Act;
 36 No. of 2013]
 Medicines and Allied Substances
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction,
+to a fine not
 exceeding four million penalty units or to imprisonment for a period
 not exceeding seven years, or to both.
 (3) In addition to the penalty provided in subsection (1) and (2),
@@ -1488,7 +1535,8 @@ manufacture,
 adulterated or misbranded medicines or allied substances.
 import,
 export, etc.
-(2) A person who contravenes subsection (1) commits an
+(2) A person who contravenes subsection (1)
+commits an
 of sub-
 standard,
 offence and is liable, upon conviction, to a fine not exceeding two
@@ -1510,7 +1558,8 @@ Prohibition
 of supply of
 allied substance.
 expired
-(2) A person who contravenes subsection (1) commits an
+(2) A person who contravenes subsection (1)
+commits an
 medicines
 offence and is liable, upon conviction, to a fine not exceeding one
 million penalty units or to imprisonment for a period not exceeding
@@ -1529,7 +1578,8 @@ misleading or deceptive in respect of its character, constitution, value,
 potency, quality, composition, merit or safety or in contravention of
 any provision of this Act.
 Medicines and Allied Substances
-[No. of 2013 37
+[No.
+of 2013 37
 (2) A person who contravenes subsection (1) commits an offence
 and is liable, upon conviction, to a fine not exceeding one million
 penalty units or to imprisonment for a period not exceeding three
@@ -1594,7 +1644,8 @@ offence and is liable, upon conviction, to a fine not exceeding two
 million penalty units or to imprisonment for a period not exceeding
 four years, or to both.
 General
-66. A person who contravenes a provision of this Act for
+66. A person who contravenes a provision of
+this Act for
 penalty
 which a specific penalty is not provided for under this Act, commits
 an offence and is liable, upon conviction, to a fine not exceeding
@@ -1636,7 +1687,8 @@ for pharmacies, agro-veterinary shops and health shops;
 dispensing and the distribution of medicines and allied
 substances;
 Medicines and Allied Substances
-[No. of 2013 39
+[No.
+of 2013 39
 (d) the compounding of prescriptions and the dispensing of
 medicines or allied substances by medical doctors, dental
 surgeons, veterinary surgeons and the conditions under
@@ -1690,7 +1742,8 @@ THE ZAMBIA MEDICINES REGULATORY AUTHORITY
 PART I
 ADMINISTRATION OF AUTHORITY
 Tenure of
-1. (1) Subject to the other provisions of this Act, a member of
+1. (1) Subject to the other provisions of this Act,
+a member of
 office and
 the Board shall hold office for a period of three years and may be
 vacancy
@@ -1699,7 +1752,8 @@ re appointed for one further period of three years.
 writing, to the Minister.
 (3) The office of a member shall become vacant—
 (a) if the member is absent, without reasonable excuse, from
-three consecutive meetings of the Board of which the
+three consecutive meetings of the Board
+of which the
 member has had notice;
 (b) if the member is adjudged bankrupt;
 (c) if the member is convicted of an offence under this Act or
@@ -1711,7 +1765,8 @@ the institution which recommended the member;
 (f)if the member becomes mentally or physically incapable of
 performing the duties of a member; or
 (g) upon the member’s death.
-(4) On the expiration of the period for which a member is
+(4) On the expiration of the period for which
+a member is
 appointed the member shall continue to hold office until a successor
 has been appointed but in no case shall the further period exceed
 four months.
@@ -1727,10 +1782,12 @@ Proceedings
 of Board
 regulate its own procedure.
 (2) The Board shall meet for the transaction of business at least
-once in every three months at such places and times as the Board
+once in every three months at such places and times
+as the Board
 may determine.
 Medicines and Allied Substances
-[No. of 2013 41
+[No.
+of 2013 41
 (3) A meeting of the Board may be called by the Chairperson,
 upon giving notice of not less than fourteen days, and shall be
 called by the Chairperson if not less than one-third of the members
@@ -1804,7 +1861,8 @@ unauthorised
 knowledge of that person in the course of that person’s duties under
 persons
 this Act.
-(2) A person who contravenes subparagraph (1) commits an
+(2) A person who contravenes subparagraph (1)
+commits an
 offence and is liable, upon conviction, to a fine not exceeding five
 hundred thousand penalty units or to imprisonment for a period not
 exceeding two years, or to both.
@@ -1816,7 +1874,8 @@ upon conviction, to a fine not exceeding five hundred thousand
 penalty units or to imprisonment for a period not exceeding two
 years, or to both.
 Immunity
-7. An action or other proceeding shall not lie or be instituted
+7. An action or other proceeding shall not lie or
+be instituted
 against a member of the Board or a member of a committee of the
 Board for, or in respect of, any act or thing done or omitted to be
 done in good faith in the exercise or performance of, or purported
@@ -1829,7 +1888,8 @@ Funds of
 Authority
 as may—
 Medicines and Allied Substances
-[No. of 2013 43
+[No.
+of 2013 43
 (a) be appropriated to the Authority by Parliament for the
 purposes of the Authority;
 (b) be paid to the Authority by way of fees, grants or donations;
@@ -1876,14 +1936,17 @@ report
 Minister a report concerning its activities during that financial year.
 44 No. of 2013]
 Medicines and Allied Substances
-(2) The report referred to in subparagraph (1) shall include
+(2) The report referred to in subparagraph (1)
+shall include
 information on the financial affairs of the Authority and there shall
 be appended to that report—
 (a) an audited balance sheet;
 (b) an audited statement of income and expenditure; and
 (c) such other information as the Minister may require.
-(3) The Minister shall, not later than seven days after the first
-sitting of the National Assembly next after receipt of the report
+(3) The Minister shall, not later than seven days
+after the first
+sitting of the National Assembly next after receipt
+of the report
 referred to in subparagraph (1), lay the report before the National
 Assembly.
 SECOND SCHEDULE
@@ -1922,7 +1985,8 @@ substituted, with respect to anything required to be done
 on or after the commencement of this Act, a reference
 to the Authority; or
 Medicines and Allied Substances
-[No. of 2013 45
+[No.
+of 2013 45
 (c) for any reference to any officer of the former Authority,
 not being a party to it and beneficially interested, there
 were substituted, with respect to anything required to
