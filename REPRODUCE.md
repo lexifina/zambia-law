@@ -113,3 +113,24 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: the text is parsed by deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code is deterministic code.
+
+## Sources added on 2026-11-27
+
+| Source | Address | Retrieved | Terms |
+| --- | --- | --- | --- |
+| Ministry of Justice | <https://www.moj.gov.zm/?page_id=736> (Acts 2018 to 2021) | 2026-11-27 | No terms stated. Its PDF links return HTTP 500, so the Internet Archive's captures of the same files were used where they exist |
+| Judiciary of Zambia | <https://judiciaryzambia.com> (WordPress REST listing of its Acts, rules and decisions) | 2026-11-27 | No site terms. Decisions published from 2026 carry the Council of Law Reporting's notice that no part may be reproduced without its prior written permission: those are not used |
+| FAOLEX (FAO), listed through ECOLEX | <https://www.ecolex.org/result/?type=legislation&xcountry=Zambia>, PDFs on faolex.fao.org | 2026-11-27 | FAO: reuse for non-commercial purposes with credit to FAOLEX. Secondary copy |
+| WIPO Lex | <https://www.wipo.int/wipolex/en/members/profile/ZM> | 2026-11-27 | WIPO Lex terms of use; secondary copy |
+
+Not used: the National Assembly of Zambia (parliament.gov.zm), whose Use Policy (read 2026-11-27) says "Permission from the Clerk of the National Assembly of Zambia is required for any reproduction of, or extended quotation from, the records"; ZambiaLII's live site (Cloudflare challenge; only its archived copies are used, as before).
+
+Zambian legislation is not excluded from copyright (Copyright and Performance Rights Act, s. 12(2): Government works are protected for fifty years); some copies print "Copyright Ministry of Legal Affairs". Lexifina's decision: the texts are published here unaltered and free, with the source of each in its commit, as for other official sources without an explicit reuse ban.
+
+How the new texts are read and dated (runner in the Lexifina workspace, `scripts/zambia-law/runner/`):
+
+- `fetch.py` lists and fetches the sources, one request in flight per host about a second apart, more only after ten clean minutes, stopping at any 403 or challenge page. `build.py` reads each PDF's text layer (`pdfread.py`; no OCR: scans are held) into one file per section, with marginal notes as section titles and running heads left out, and appends one commit per Act or instrument.
+- An Act as passed is dated by the day printed under its long title (its publication in the Gazette, from which an Act comes into operation unless it provides otherwise), else the record's entry-into-force or assent date; a statutory instrument by the date of the Gazette it was published with. Each commit says which, in `In-force-basis:`.
+- Chapters of the Revised Edition of the Laws of Zambia whose amendment notes end in 1994 are dated 31 December 1996, the day that edition is as at (as the ZambiaLII versions are); chapters with later amendments print no day and are held.
+- Official copies win: a FAOLEX or WIPO Lex copy is used only for an Act or instrument number no official copy holds. Each such commit carries `Source-status: secondary copy (...)`.
+- Corrections (marginal notes read into titles or texts at first) are appended as `Kind: correction` commits; history is never rewritten.

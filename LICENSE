@@ -18,6 +18,22 @@ line; spacing, quotes and dashes were normalised; editorial notes, Part and Chap
 and the versions were arranged as git commits credited to the laws ZambiaLII names for each change.
 The wording of the law was not changed. Neither ZambiaLII nor Laws.Africa endorses this repository.
 
+Further sources (added 2026-11-27):
+
+  Ministry of Justice, Republic of Zambia, https://www.moj.gov.zm (Acts as passed; read from the Internet
+  Archive's captures where the Ministry's own files no longer load). No terms stated.
+
+  Judiciary of Zambia, https://judiciaryzambia.com (court Acts and rules). No terms stated.
+
+  FAOLEX, Food and Agriculture Organization of the United Nations, https://www.fao.org/faolex/ (secondary
+  copies). Terms: reuse for non-commercial purposes with credit. Source: FAOLEX (FAO).
+
+  WIPO Lex, World Intellectual Property Organization, https://www.wipo.int/wipolex/ (secondary copies).
+  Terms: https://www.wipo.int/tools/en/disclaim.html
+
+Zambian legislation is a Government work under the Copyright and Performance Rights Act (s. 12(2)); it is
+reproduced here unaltered, without charge, with its source named in each commit.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
