@@ -44,7 +44,8 @@ Rural Electrification
 “Emoluments Commission” means the Emoluments
 Commission established under the Constitution;
 Cap. 1
-“Energy Regulation Board” means the Energy Regulation
+“Energy Regulation Board” means the Energy
+Regulation
 Act No. 12
 Board established under the Energy Regulation Act, 2019;
 of 2019
@@ -146,7 +147,8 @@ Authority;
 non-governmental organisations and other institutions;
 and
 (k) provide technical guidance and consultancy services to
-a State institution, rural community and any other
+a State institution, rural community and
+any other
 organisation involved in rural electrification.
 (2) The Authority shall, in the performance of its functions—
 (a) prepare programmes and detailed plans for the
@@ -216,7 +218,8 @@ under any written law;
 the Board for a specified period which shall be consistent with the
 provisions of this Act.
 Functions of
-8. (1) Subject to the other provisions of this Act, the Board
+8. (1) Subject to the other provisions of this Act,
+the Board
 Board
 shall perform the functions of the Authority and provide strategic
 policy direction to the Authority.
@@ -313,7 +316,8 @@ Committees
 of Board
 functions under this Act, constitute a committee and delegate any
 of its functions to the committee as it considers necessary.
-(2) The Board may appoint, as members of a committee,
+(2) The Board may appoint, as members of a
+committee,
 persons who are or are not members of the Board, except that at
 least one member of the Board shall be a member of a committee.
 (3) A committee shall have the power to invite a person whose
@@ -321,7 +325,8 @@ presence is, in its opinion, desirable to attend and participate in the
 deliberations of the meeting of the committee but that person shall
 have no vote.
 (4) A member of a committee shall hold office for a period that
-the Board may determine, except that the term of a committee
+the Board may determine, except that the term of a
+committee
 shall not exceed the term of office of the Board.
 (5) Subject to any specific or general direction of the Board, a
 committee constituted under this section may regulate its own
@@ -333,7 +338,8 @@ the recommendation of the Minister, determine.
 Disclosure
 13. (1) A person who is present at a meeting of the Board or
 of interest
-a committee of the Board at which any matter is the subject of
+a committee of the Board at which any matter is the
+subject of
 consideration, and in which matter that person or that person’s
 relative or associate is directly or indirectly interested in a private
 capacity, shall, as soon as practicable after the commencement of
@@ -476,7 +482,8 @@ that the Board considers necessary any of the Authority’s funds
 that the Authority does not immediately require for the performance
 of the Authority’s functions.
 Financial
-23. The financial year of the Authority shall be a period of
+23. The financial year of the Authority shall be
+a period of
 year
 twelve months ending on 31st December in each year.
 Accounts
@@ -509,7 +516,8 @@ Immunity
 26. An action or other proceedings shall not lie or be instituted
 against a member of the Board, a member of a committee of the
 Board or a member of staff of the Authority, for or in respect of
-any act or thing done or omitted to be done in good faith in the
+any act or thing done or omitted to be done in good
+faith in the
 exercise or performance of any of the powers, functions or duties
 conferred under this Act.
 Prohibition of
@@ -580,16 +588,19 @@ this Act held office as a member of the Board of the former Authority
 shall continue to hold office as a member for a period of three
 months after which the Minister shall appoint members of the Board
 in accordance with this Act.
-4. (1) On or after the commencement of this Act, there shall
+4. (1) On or after the commencement of this Act,
+there shall
 Transfer of
 assets and
 be transferred to, vest in and subsist against the Authority by virtue
 liabilities
-of this Act and without further assurance, the assets, rights and
+of this Act and without further assurance, the assets,
+rights and
 obligations which immediately before the commencement of this
 Act were the assets, rights, liabilities and obligations of the former
 Authority.
-(2) Subject to subparagraph (1), every deed, bond and
+(2) Subject to subparagraph (1), every deed,
+bond and
 agreement, other than an agreement for personnel service, to which
 the former Authority was a party immediately before the
 commencement of this Act whether or not of a nature that rights,
