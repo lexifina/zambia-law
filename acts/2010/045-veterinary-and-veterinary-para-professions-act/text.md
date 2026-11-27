@@ -64,12 +64,14 @@ section fifty-three;
 Association in accordance with the provisions of the
 constitution of the Association, and " membership " shal1
 be construed accordingly;
-"peer" means a member of the same veterinary profession
+"peer" means a member of the
+same veterinary profession
 with similar specialisation, if any, and an equivalent num her
 of years of veterinary practice;
 " practising certificate " means a certificate issued to a
 veterinary surgeon under section twenty-two;
-" professional misconduct " has the meaning assigned to it
+" professional misconduct " has
+the meaning assigned to it
 under section sixty-one;
 Para-Professions
 "provisional certificate ofregistration "means the registration
@@ -105,13 +107,15 @@ diagnosis or attendance by a veterinary surgeon;
 is required to register under section fourteen, and
 "veterinary professional " shall be construed accordingly;
 and
-" veterinary surgeon " means a person registered as a
+" veterinary surgeon " means a person registered as
+a
 veterinary surgeon under sectionfourteen;
 " Vice-Chairperson " means the person elected Vice-
 Chairperson of the Association pursuant to section six.
 (2) In this Act, any reference to the removal from, or the
 restoration to, the Register of the name ofa veterinary professional,
-shaU be construed as including a reference to the removal from, or
+shaU be construed as including a reference to the removal from,
+or
 the restoration to, the Register of any other registrable particulars
 relating to that veterinary professional.
 Para-Professions
@@ -231,9 +235,11 @@ Association
 own procedure.
 (2) The meetings of the Association shall be conducted in
 accordance with the provisions of the constitution of the Association.
-(3) The validity of any proceedings, act or decision of the
+(3) The validity of any proceedings, act
+or decision of the
 Association shall not be affected by any person's absence from
-any meeting of the Association or by reason that a person not
+any meeting of the Association or by reason
+that a person not
 entitled to do so took part in the proceedings.
 PART III
 THE VETERINARY COUNCIL OF ZAMBIA
@@ -299,12 +305,14 @@ facilities and services;
 Para-Profess ions
 (f) represent, coordinate and develop the veterinary and
 veterinary para-profession and promote its interest;
-(g) protect and assist the public in all matters relating to the
+(g) protect and assist the public in all
+matters relating to the
 practice of the veterinary profession;
 (h) make recommendations affecting, or relating to, the
 veterinary profession to the general meeting of the
 Association;
-(i) promote continuing professional development among
+(i) promote continuing professional
+development among
 veterinary professionals; and
 (J) do all such things as are necessary, or incidental, to the
 performance of its functions under this Act.
@@ -396,9 +404,11 @@ holder-.
 Para-Profess ions
 (i) has completed at least twelve months of continuous
 employment in an animal health facility; and
-(ii) submits a letter from the veterinary surgeon at
+(ii) submits a letter from the
+veterinary surgeon at
 the animal health facility referred to under sub-
-paragraph (i), stating that the person has
+paragraph (i), stating
+that the person has
 performed satisfactorily and displayed skills and
 knowledge equivalent to those of veterinary
 ~..-ofessionals trained in Zambia.
@@ -429,11 +439,13 @@ registration.
 provisional registration, inform the applicant accordingly and give
 the reasons therefor.
 (4) A person holding a provisional certificate ofregistration
-may engage in employment as a veterinary surgeon or veterinary
+may engage in employment as a veterinary
+surgeon or veterinary
 para-professional in Zambia.
 (5) The Council shall not issue a person with a provisional
 certificate of registration for a period exceeding two years.
-( 6) The Minister ma)', by statutory instrument, on the
+( 6) The Minister ma)', by statutory
+instrument, on the
 recommendation of the Council, make regulations to regulate the
 scope of practice of holders of provisional certificates ofregistration.
 Para-Professions
@@ -506,7 +518,8 @@ of
 surgeon or veterinary para-professional where-
 registration
 (a) the Council has reasonable grounds to believe that the
-registration was obtained through fraud, mis-
+registration was obtained
+through fraud, mis-
 representation or concealment of any material fact;
 (b) the veterinary surgeon or veterinary para-professional is
 found guilty of professional misconduct under this Act
@@ -606,9 +619,11 @@ of a veterinary surgeon under this section, give the veterinary
 surgeon an opportunity to be heard.
 ( 4) The Council may, before cancelling the practising certificate
 of a veterinary surgeon, suspend the veterinary surgeon for such
-period and on such terms and conditions as the Council may
+period and on such terms and conditions
+as the Council may
 determine.
-26. The Minister may, by statutory instrument, on the
+26. The Minister may, by statutory
+instrument, on the
 Regulations
 relating to
 recommendation of the Council, make regulations to provide for-
@@ -634,7 +649,8 @@ Removal and
 restoration
 Council, make regulations prescribing the circumstances and
 of name on
-manner in which a veterinary surgeon or veterinary para-
+manner in which a veterinary surgeon
+or veterinary para-
 Register
 professional-
 (a) may be removed from the Register; and
@@ -695,7 +711,8 @@ Para-Professions
 (j) the applications rejected and the reasons therefor; and
 (g) any other information as the Council may determine.
 (2) The Register shalt be kept in the custody of the Registrar
-at the offices of the Council, and shall be open for inspection by
+at the offices of the Council, and shall be open
+for inspection by
 members of the public during normal office hours upon payment of
 such fee as the Council may determine.
 (3) The Registrar may, upon application by any person, issue
@@ -725,7 +742,8 @@ as veterinary
 veterinary surgeon under this Act-
 surgeon
 ( a) practise as, be employed as, offer animal health care
-services as, be engaged as an agent of, or hold out to
+services as, be engaged as an agent
+of, or hold out to
 be, a veterinary surgeon;
 (b) adopt, use or exhibit the tenn "veterinary surgeon" or
 any other term of like description; or
@@ -805,7 +823,8 @@ of training
 the training programme in the prescribed manner and form upon
 programme
 payment of the prescribed fee.
-(2) The Council may, after review of a proposed training
+(2) The Council may, after review of
+a proposed training
 programme, approve the training programme if the training
 programme meets the requirements of this Act and if the training
 programme shall adequately prepare students for the provision of
@@ -907,9 +926,11 @@ Para-Professions
 or organisational requirements for the licence; or
 (d) the veterinary surgeon to be in charge of the animal health
 facility has not held a certificate of registration for a
-period of at least three years before the date of the
+period of at least three years
+before the date of the
 application, unless the Council determines that the
-veterinary surgeon is properly registered and has the
+veterinary surgeon is properly
+registered and has the
 relevantexperience in another country equivalent to that
 acquired after three or more years of full registration in
 Zambia.
@@ -917,8 +938,8 @@ Zambia.
 subsection (I), infonn the applicant accordingly and give the reasons
 therefor.
 Display of
-46.
-A licensed animal health facility shall display a copy of
+46. A licensed animal health facility
+shall display a copy of
 licence
 the licence in a prominent place at the animal health facility.
 Variation of
@@ -1040,7 +1061,8 @@ Closure of
 animal health
 facility where-
 facility
-( a) the animal health facility is violating the licence
+( a) the animal health facility is
+violating the licence
 requirements in a manner that presents danger or
 imminent harm to animals;
 (b) the animal health facility is not licensed under this Act; or
@@ -1115,7 +1137,8 @@ facility; or
 (g) contravenes any provision of this Act or any other law;
 commits an offence and is liable, upon conviction, to a fine not
 exceeding five hundred thousand penalty units or to imprisonment
-for a period not exceeding than five years, or to both, and to fifty
+for a period not exceeding than five years,
+or to both, and to fifty
 thousand penalty units for each day during which the offence
 continues.
 PART VII
@@ -1144,14 +1167,16 @@ Initiation of
 d iscip Ii nary
 Committee against a veterinary professional where the person
 action
-alleges that the veterinary professional has contravened the Code
+alleges that the veterinary professional has
+contravened the Code
 of Ethics or any provision of this Act.
 (2) The Council may initiate disciplinary action under this section
 where the Council has reasonable grounds to believe that a
 veterinary professional has contravened the Code of Ethics or any
 provision of this Act.
 (3) A complaint or allegation under subsection ( l) shall be made
-to the Registrar in the prescribed manner and form.
+to the Registrar in the prescribed manner
+and form.
 Para-Profess ions
 63. (I) The Council shall establish a Disciplinary Committee
 Disciplinary
@@ -1226,13 +1251,15 @@ to each party to the proceedings and to every person affected by
 the decision.
 (7) If a person is present at a meeting of theDisciplinary
 Committee at which any matter is the subject of consideration, and
-in which matter the person or that person's spouse is directly or
+in which matter the person or that person's
+spouse is directly or
 indirectly interested in a private capacity, that person shall, as soon
 as is practicable after the commencement of the meeting, disclose
 the interest and shall not, unless the Disciplinary Committee
 otherwise directs, take part in any consideration or discussion of,
 or vote on, any question relating to that matter.
-(8) A disclosure of interest made under this section shall be
+(8) A disclosure of interest made under
+this section shall be
 recorded in the minutes of the meeting at which it is made.
 66. ( 1) The Disciplinary Committee may, for the purposes of
 Powers of
@@ -1243,7 +1270,8 @@ the Chairperson of the Disciplinary Committee or the Registrar,
 summon witnesses and require the production of any book, record,
 document, electronic record or anything required for the purposes
 of the proceeding and may through the Chairperson or Vice-
-Chairperson of the Disciplinary Committee administer an oath to
+Chairperson of the Disciplinary Committee
+administer an oath to
 any witness.
 (2) A person summoned to attend before the Disciplinary
 Committee who, without sufficient cause-
@@ -1304,7 +1332,8 @@ practicitioner detennines that a veterinary professional is ofunsound
 mind, suspend the practising certificate of the veterinary
 professional.
 (9) The Disciplinary Committee shall, whereafter due inquiry,
-it finds a veterinary professional not guilty of professional
+it finds a veterinary professional not
+guilty of professional
 misconduct, record a finding that the veterinary professional is not
 guilty of such conduct in respect of matters of which the charge
 relates.
@@ -1328,10 +1357,12 @@ this section.
 (3) A decision of the Disciplinary Committee under this Part
 shall not take effect until the expiration of the time for lodging an
 appeal against the decision or, if an appeal is lodged, until the time
-the appeal is disposed of, withdrawn or struck out for want of
+the appeal is disposed of, withdrawn or
+struck out for want of
 prosecution, as the case may ~-
 ( 4) The High Court may, on any appeal under this section-
-( a) confirm, vary or set aside any finding made, penalty
+( a) confirm, vary or set aside any
+finding made, penalty
 imposed or direction given by the Disciplinary
 Committee;
 Veterinary and Veterinary
@@ -1397,12 +1428,14 @@ Zambia.
 (3) The Mutual Legal Assistance in Criminal Matters Act shall
 Cap. 98
 apply to proceedings under this Act.
-71. In any criminal proceedings against a veterinary
+71. In any criminal proceedings
+against a veterinary
 Presumption
 ofnon-
 professional upon a charge of having performed an act which
 registration
-constitutes an offence if perfonned by an unregistered veterinary
+constitutes an offence if perfonned by an
+unregistered veterinary
 professional, the veterinary professional charged shall be presumed
 to be unregistered unless that veterinary pn;.,fessional proves the
 contrary.
@@ -1433,7 +1466,8 @@ issue
 Association may make such guidelines as are necessary for the
 guidelines
 better carrying out of the provisions of this Act.
-(2) The Association shall publish the guidelines issued under
+(2) The Association shall publish the
+guidelines issued under
 this Act in a daily newspaper of general circulation in Zambia, and
 the guidelines shall not take effect until they are so published.
 (3) The guidelines issued by the Association under this Act
@@ -1504,12 +1538,14 @@ FIRST SCHEDULE
 PART I
 ADMINlSTRATION OF ASSOCIATION
 Seal of
-1. (]) The Seal of the Association shall be such device as
+1. (]) The Seal of the Association
+shall be such device as
 Association
 may be detennined by the Council and shall be kept by the Registrar.
 (2) The Chairperson or the Vice-Chairperson, the Registrar
 or any other person authorised by a resolution of the Council to so
-act, shall authenticate the affixing of the seal.
+act, shall authenticate the affixing of the
+seal.
 (3) Where a contract or instrument is not required to be under
 seal, the Registrar or a person authorised by the Council in that
 behalf, may execute the contract or instrument on behalf of the
@@ -1521,7 +1557,8 @@ may be, without further proof, unless the contrary is proved.
 2. (1) A member of the Council shall, subject to the other
 Tenure of
 office and
-provisions of this Schedule, hold office for a term of three years
+provisions of this Schedule, hold office
+for a term of three years
 vacancy of
 and may be re-appointed or re-elected for a further term of three
 member
@@ -1579,7 +1616,8 @@ majority of the members present and voting at the meeting and, in
 the event of an equality of votes, the person presiding at the meeting
 shall have, in addition to a deliberative vote, a casting vote.
 (7) Where a member is for any reason unable to attend a
-meeting of the Council, the member may, in writing, nominate
+meeting of the Council, the member may,
+in writing, nominate
 another person from the same organisation to attend the meeting in
 that member's stead and such person shall be deemed to be a
 member for the purpose of that meeting.
@@ -1589,7 +1627,8 @@ a meeting of the Council, but that person shall have no vote.
 (9) The validity of any proceedings, act or decision of the Council
 shall not be affected by any vacancy in the membership of the
 Council or any defect in the appointment of any member or by
-reason that any person not entitled to do so, took part in the
+reason that any person not entitled to do
+so, took part in the
 proceedings.
 (10)
 The Council shall cause minutes to be kept of the
@@ -1678,16 +1717,18 @@ Para-Professions
 (2)
 The Association may-
 (a) accept moneys by way of grants or donations from any
-source in Zambia and, subject to the approval of the
+source in Zambia and, subject
+to the approval of the
 Minister, from any source outside Zambia;
 (b) raise by way of loans or otherwise, moneys as the
-Association may require for the discharge of the
+Association may require for
+the discharge of the
 Association's functions; or
 (c) in accordance with the regulations made under this Act,
 charge and collect fees for services provided by the
 Association.
-(3)
-There shall be paid from the funds of the Association-
+(3) There shall be paid from the funds
+of the Association-
 (a) the salaries, allowances and loans of members of staff of
 the Council;
 (b) reasonable travelling, transport and subsistence allowances
