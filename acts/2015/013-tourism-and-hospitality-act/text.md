@@ -39,7 +39,8 @@ PRELIMINARY
 Short title
 1. This Act may be cited as the Tourism and Hospitality Act,
 and
-2015, and shall come into operation on such date as the Minister
+2015, and shall come into operation on such date as
+the Minister
 commencement
 may appoint by statutory instrument.
 Interpretation
@@ -48,7 +49,8 @@ Interpretation
 which the business of providing accommodation, with or
 without any other tourism-related services, are conducted
 for gain, such as a hotel, guesthouse, bed and breakfast,
-bush camp, camping site and caravan park, backpacker,
+bush camp, camping site and caravan park,
+backpacker,
 boarding house, hostel and self-catering facility and any
 building or premises used for accommodation by the public
 and in which lodging is provided and provisions are supplied
@@ -59,8 +61,10 @@ university hostel as the Minister may prescribe by statutory
 instrument;
 “ Agency ” means the Zambia Tourism Agency established
 under section ten;
-“AIDS ” means Acquired Immune-Deficiency Syndrome;
-“ agrotourism ” means any agricultural-related activity that
+“AIDS ” means Acquired Immune-Deficiency
+Syndrome;
+“ agrotourism ” means any agricultural-related
+activity that
 attracts visitation for leisure, entertainment or educational
 purposes;
 “ Board ” means the Board of the Agency constituted in
@@ -114,13 +118,15 @@ and wildlife;
 “ e-tourism ” means an electronic system or platform—
 (a) where a tourist may obtain information on
 destinations, facilities, prices, geography and climate;
-(b) which makes bookings for tourism enterprises,
+(b) which makes bookings for tourism
+enterprises,
 accommodation establishments, flights and transport;
 and
 (c) which enables the marketing of tourism products
 and tourism related services;
 “ e-visa ” means—
-(a) an application process that is undertaken
+(a) an application process that is
+undertaken
 electronically instead of physically by visiting a given
 location;
 (b) an electronic implant in, or electronic strip attached
@@ -148,7 +154,8 @@ and together with the emblem of the Agency, indicate the
 classification or grading awarded in respect of an
 accommodation establishment or other tourism-related
 service;
-“ inspector ” means a person appointed by the Board as an
+“ inspector ” means a person appointed by the
+Board as an
 inspector in accordance with section sixty-seven, or an
 inspectorate committee of the Board, or a joint committee
 of regulatory agencies;
@@ -202,7 +209,8 @@ covers a period of more than twenty-four hours:
 (c)other tourism-related services that are not
 supplementary to accommodation or transport and
 accounting for a significant proportion of the package;
-“ permit ” means an authorisation issued to a licensee or
+“ permit ” means an authorisation issued to
+a licensee or
 certificate holder consisting of a permisshority under
 another law, whether in the form of a licence, permit,
 certificate or written authorisation;
@@ -313,7 +321,8 @@ Act No. 24
 of 2007
 “ responsible tourism ” means tourism that maximises the
 benefits of tourism to local communities, minimises negative
-social or environmental impact and helps local people
+social or environmental impact and helps
+local people
 conserve cultures, habitats and species;
 “ restaurant ” means an eatery, which meets prescribed
 minimum requirements, with waiters’ services, but does
@@ -389,7 +398,8 @@ heritage, location or activity which gives or is intended to
 give Zambian tourism a competitive edge in the international
 tourism market;
 “ tourism product development ” means designing or
-developing new tourism products to meet the needs of
+developing new tourism products to meet
+the needs of
 national and international tourists and which improves the
 profitability, competitiveness and affordability of tourism
 and increases services available for tourists;
@@ -397,7 +407,8 @@ and increases services available for tourists;
 increasing the competitiveness of the country’s tourism
 industry by expanding the scope and diversity of existing
 and potential tourism resources;
-“ tourism-related service ” includes transport, fishing, spa
+“ tourism-related service ” includes transport,
+fishing, spa
 treatment, taxis, arts and cultural centres, carnivals,
 festivals, fairs, outside catering or other business activity
 related to tourism as the Minister may declare by statutory
@@ -450,7 +461,8 @@ certain groups in society, restoring specific environments,
 or researching into certain aspects of the society or
 environment, in an organised manner, whilst enjoying tourist
 products;
-“ whole of Government approach ” means an approach or
+“ whole of Government approach ” means an
+approach or
 coordination system where more than one regulatory
 agency and other public authority combine their expertise
 to address challenges or provide services or products in
@@ -466,7 +478,8 @@ of 2015
 PART II
 TOURISM DEVELOPMENT, POLICY AND PLANNING
 General
-3. (1) The Minister shall be responsible for the development
+3. (1) The Minister shall be responsible for the
+development
 power of
 of sustainable tourism that is economically, culturally, socially and
 Minister for
@@ -548,8 +561,10 @@ with relevant regulatory agencies in the development of the tourism
 industry and may, for such purposes, have joint programmes, plans,
 strategies and policies, taking into account the national
 decentralisation policy of the Government.
-(5) The Ministry responsible for tourism shall ensure that a
-strategic environment assessment is conducted for tourism
+(5) The Ministry responsible for tourism shall
+ensure that a
+strategic environment assessment is conducted
+for tourism
 Act No. 12
 development activities in line with the Environmental Management
 of 2011
@@ -562,7 +577,8 @@ and policy
 of tourism and the tourism industry.
 (2) The Minister shall, in the development of policies in
 accordance with subsection (1), put in place measures to—
-(a) maximise the application of sustainable tourism and
+(a) maximise the application of sustainable
+tourism and
 sustainable development in planning and developing
 tourism in priority areas, protected areas and designated
 areas for rural and urban development;
@@ -623,7 +639,8 @@ civil airport marketing to increase flights and civil aviation
 competition towards establishing Zambian civil airports
 as major domestic, regional and international aviation
 and travel hubs;
-(f) encourage the development of all weather access roads
+(f) encourage the development of all weather
+access roads
 to tourist destinations, national parks and protected
 areas;
 (g) promote international and domestic air connectivity;
@@ -642,7 +659,8 @@ and minimise negative impacts of road development in
 protected areas from planning to implementation;
 (n) pursue road and bridge improvements that positively impact
 access to tourism attractions; and
-(o) coordinate tourism-related infrastructure development
+(o) coordinate tourism-related infrastructure
+development
 activities among Ministries.
 Tourism
 6. (1) The Minister shall cause to be carried out studies and
@@ -892,7 +910,8 @@ regulatory agencies and authorities shall—
 (a) develop a unique identity and personality that is different
 from all competitive destinations;
 (b) promote cultural tourism;
-(c) identify tourism products and use them to approach the
+(c) identify tourism products and use them to
+approach the
 tourism source markets;
 (d) apply tourism market intelligence and innovative products
 according to emerging travel trends;
@@ -939,7 +958,8 @@ if that person—
 (b) is an undischarged bankrupt;
 (c) has a mental or physical disability that makes the person
 incapable of performing the functions of a member; or
-(d) is convicted of an offence under this Act or any other
+(d) is convicted of an offence under this Act
+or any other
 written law and sentenced to imprisonment for a period
 exceeding six months without the option of a fine.
 (5) A member shall hold office for a period of three years and
@@ -948,16 +968,19 @@ may be reappointed for one further period of three years.
 writing, to the Minister.
 (7) The office of a member becomes vacant if the member
 (a) dies;
-(b) is absent, without reasonable excuse, from three
+(b) is absent, without reasonable excuse,
+from three
 consecutive meetings of the Board of which the member
 has had notice;
 (c) is adjudged bankrupt;
-(d) is convicted of an offence under this Act or any other
+(d) is convicted of an offence under this Act
+or any other
 written law and sentenced to imprisonment for a period
 exceeding six months without the option of a fine;
 (e) is removed by the Minister for good cause on the following
 grounds:
-(i) the member acts dishonourably, improperly,
+(i) the member acts dishonourably,
+improperly,
 fraudulently, dishonestly or disorderly; or
 (ii) the institution which the member represents
 withdraws its support of the member as its
@@ -967,7 +990,8 @@ accordingly; or
 incapable of performing the functions of a member.
 (8) A member shall, on the expiration of the period for which
 the member is appointed, continue to hold office until a successor
-is appointed, but in no case shall the further period exceed four
+is appointed, but in no case shall the further period
+exceed four
 months.
 (9) The Minister shall, whenever the office of a member
 becomes vacant before the expiry of the term of office, appoint
@@ -1021,7 +1045,8 @@ the functions of the Agency to the Director or other appropriate
 directions
 regulatory agency.
 (2) Subject to this Act, the Board may, on the recommendation
-of the Director, by directions in writing and subject to any terms
+of the Director, by directions in writing and subject
+to any terms
 and conditions as the Board considers necessary, delegate to a
 regulatory service centre any of the functions of the Agency or the
 Board as it considers necessary for the efficient regulation of the
@@ -1089,7 +1114,8 @@ non-fiscal benefits to a licensee or certificate holder.
 or certificate holder, as provided under sub-section (1), if the
 licensee or certificate holder fails to comply with the provisions of
 this Act or the conditions of the licence or certificate.
-(3) A person aggrieved by a decision of the Minister to
+(3) A person aggrieved by a decision of the
+Minister to
 withdraw a benefit may, within thirty days of receipt of the
 notification of the withdrawal, appeal against the decision to the
 High Court.
@@ -1311,7 +1337,8 @@ accommodation establishment, that—
 (a) the accommodation establishment is being conducted in
 an unclean or unsanitary manner;
 (b) the proprietor, hotelkeeper or the hotel administration is
-involved in, encourages or condones, crime being
+involved in, encourages or condones,
+crime being
 committed in the accommodation establishment;
 (c) the proprietor or hotelkeeper is convicted of an offence
 under this Act; or
@@ -1389,15 +1416,18 @@ on the issuing or replacement of a certificate;
 suspension and revocation of a certificate of registration;
 (e) any notices that are required to be issued with respect to
 the registration process; and
-(f) such other matters as may be necessary to ensure an
+(f) such other matters as may be necessary
+to ensure an
 efficient, simple, cost effective and fair registration and
 certification system.
-(3) A person who contravenes any regulations made under
+(3) A person who contravenes any regulations
+made under
 this section commits an offence and is liable, upon conviction, to a
 fine not exceeding fifty thousand penalty units or to imprisonment
 for a term not exceeding six months, or to both.
 Issue and
-38.(1) The Board shall, within fourteen days of receiving an
+38.(1) The Board shall, within fourteen days of
+receiving an
 display of
 application for registration, register the micro or small tourism
 certificate of
@@ -1412,12 +1442,14 @@ the Board endorses on the certificate with respect to a permit issued
 under the single licensing system.
 (4) A certificate holder shall display a certificate issued, under
 this section, in a conspicuous place at the principal place of business
-and at every subsidiary premise where it carries out business.
+and at every subsidiary premise where it carries out
+business.
 Refusal to
 39. (1) The Board may reject an application for registration, if
 register
 the applicant does not meet the requirements of this Act or any
-prescribed criteria or condition, after notifying the applicant, in
+prescribed criteria or condition, after notifying the
+applicant, in
 writing, of its decision and giving the applicant seven days in which
 to make any objections against the decision or to remedy any defect
 that necessitated that decision.
@@ -1579,7 +1611,8 @@ officer, a committee or police officer the original or
 duplicate copy of an entry in the register when so
 requested.
 (3) A proprietor, hotel-keeper or hotel administration who fails
-to comply with subsection (2) commits an offence and is liable,
+to comply with subsection (2) commits an offence
+and is liable,
 upon conviction, to a fine not exceeding ten thousand penalty units
 or to imprisonment for a period not exceeding three months, or to
 both.
@@ -1602,8 +1635,10 @@ continue to detain the goods and personal property until the debt is
 paid, but shall not detain the clothing which the person is wearing.
 (2) Subject to the other provisions of this section, a proprietor,
 hotel-keeper or hotel administration shall have the right to sell, by
-public auction, goods or other personal property detained in
-accordance with subsection (1), and shall, after the sale, recover
+public auction, goods or other personal property
+detained in
+accordance with subsection (1), and shall, after the
+sale, recover
 out of the proceeds of the sale, the amount of the debt due to the
 hotel-keeper for board and other amenities together with the costs
 and expenses of the sale, and shall pay the surplus, if any remaining
@@ -1666,7 +1701,8 @@ proprietor’s, hotel-keeper’s or hotel administration’s liability to any
 guest shall not exceed such amount as may be prescribed in respect
 of any one article or in aggregate, except that a proprietor or hotel-
 keeper shall not be liable where—
-(a) the property was stolen, lost or damaged through the
+(a) the property was stolen, lost or damaged
+through the
 default, neglect or willful act of the guest;
 (b) the property was not deposited by, or on behalf of, the
 guest for safe custody with the proprietor, hotel-keeper
@@ -1696,8 +1732,10 @@ rates and
 other
 amenities at the accommodation establishment or making
 charges
-arrangements with the proprietor, hotelkeeper or the proprietor’s
-or hotel-keeper’s agent or employee that the rates and charges
+arrangements with the proprietor, hotelkeeper or the
+proprietor’s
+or hotel-keeper’s agent or employee that the rates
+and charges
 owing may be left in abeyance, commits an offence and is liable,
 upon conviction, to a fine not exceeding twenty thousand penalty
 units or to imprisonment for a period not exceeding three months,
@@ -1759,7 +1797,8 @@ hold office for a period of three years from the date of appointment
 and is eligible for reappointment for a further term of three years.
 (5) The office of a member of the Council shall become vacant
 if the member—
-(a) is absent, without reasonable excuse, from three
+(a) is absent, without reasonable excuse,
+from three
 consecutive meetings of the Council of which the
 member had notice;
 (b) dies;
@@ -1842,7 +1881,8 @@ manage;
 (e) has acquired at least two years of post graduate practical
 experience from full time employment under the
 supervision of a registered hotel manager; and
-(f) shows proof of employment from a licenced
+(f) shows proof of employment from
+a licenced
 accommodation establishment.
 (2) A person shall not qualify to be registered as a hotel
 manager if the person—
@@ -1915,7 +1955,8 @@ relating to
 not—
 registration
 and
-(a) practice or offer that person’s services as, or hold that
+(a) practice or offer that person’s services as,
+or hold that
 practising
 certificates
 person out to be, a qualified hotel manager;
@@ -1950,7 +1991,8 @@ or any copy of the practising certificate; or
 (b) procures, or attempts to procure, for oneself or any other
 person, a practicing certificate by means of fraud,
 misrepresentation or concealment of any material fact;
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction,
+to a fine not
 exceeding two hundred thousand penalty units or to imprisonment
 for a period not exceeding two years, or to both.
 63. (1) The Secretary of the Council shall keep a register of
@@ -2001,7 +2043,8 @@ provided under section seventy-nine.
 (6) The tourism levy collected for tourismrelated services shall
 be paid into a special bank account opened for the Fund.
 Administration
-65. (1) Subject to subsection (3), the Fund shall be managed
+65. (1) Subject to subsection (3), the Fund shall
+be managed
 of Fund and
 and administered by the Ministry responsible for tourism for the
 accounts
@@ -2091,16 +2134,19 @@ grounds for believing that the person has personal
 possession of any document or article that has a bearing
 on the investigation, except that a person shall only be
 searched by a person of the same sex;
-(c) examine any document or article found on the premises
+(c) examine any document or article found on
+the premises
 that has a bearing on the investigation;
-(d) require information to be given about any document or
+(d) require information to be given about any
+document or
 article by—
 (i) the owner of the premises;
 (ii) the person in control of the premises;
 (iii) any person who has control of the document or
 article; or
 (iv) any other person who may have the information;
-(e) take extracts from, or make copies of, any book or
+(e) take extracts from, or make copies of,
+any book or
 document found on the premises that has a bearing on
 the investigation;
 (f) use any computer system on the premises, or require
@@ -2111,13 +2157,15 @@ the computer system;
 (ii) reproduce any record from the data; or
 (iii) seize any output from the computer for
 examination and copying; or
-(g) attach and, if necessary, remove from the premises for
+(g) attach and, if necessary, remove from the
+premises for
 examination and safeguarding any document or article
 that appears to have a bearing on the investigation.
 (2) A levy officer, inspector or grading assessor who removes
 any document or article from any premises in accordance with
 paragraph (g) of subsection (4) shall—
-(a) issue a receipt for the document or article to the owner
+(a) issue a receipt for the document or article
+to the owner
 of, or person in control of, the premises; and
 (b) return the document or article as soon as practicable after
 achieving the purpose for which it was removed.
@@ -2171,7 +2219,8 @@ in the register and duly certified to be a true copy or extract under
 the hand of the Director shall be received in evidence as to the
 matters stated in the document in any legal proceedings.
 (5) The Director shall, where a tourism enterprise ceases to
-carry on business, remove the enterprise from the register and
+carry on business, remove the enterprise from the
+register and
 enter the date of such removal.
 Appeals to
 71. (1) A person aggrieved by a decision of the Board or
@@ -2193,7 +2242,8 @@ the entrance or in proximity to the tourism enterprise as a way of
 restricting access to the property by members of the public.
 (2) A proprietor, hotel keeper or hotel administration may display
 the words “right of admission reserved”, except that the proprietor,
-hotelkeeper or hotel administration shall not, on the basis of any
+hotelkeeper or hotel administration shall not, on the
+basis of any
 person’s race, religion or sex, restrict the access of such person to
 the tourism enterprise.
 (3) A person shall not—
@@ -2256,7 +2306,8 @@ Offences by
 body
 corporate or unincorporated body, every director or manager of
 corporate or
-the body corporate or unincorporated body shall be liable, upon
+the body corporate or unincorporated body shall be
+liable, upon
 unincorporated
 body
 conviction, as if the director or manager had personally committed
@@ -2268,7 +2319,8 @@ the commission of the offence.
 General
 78. A person who—
 offences
-(a) willfully publishes, causes or allows to be published, in
+(a) willfully publishes, causes or allows to be
+published, in
 any manner, false or misleading information relating to
 any tourism enterprise or amenity;
 (b) being the person responsible for that tourism enterprise,
@@ -2278,7 +2330,8 @@ fee in terms of this Act;
 functions under this Act; or
 (d) gives false or misleading information to the Board, Council,
 committee or the Director;
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction,
+to a fine not
 exceeding one hundred thousand penalty units or to imprisonment
 for a period not exceeding one year, or to both.
 General
@@ -2346,7 +2399,8 @@ Proceedings
 of Board
 may regulate its own procedure.
 (2) The Board shall meet for the transaction of business at
-least once in every three months at such places and times as the
+least once in every three months at such places and
+times as the
 Board may determine.
 (3) A meeting of the Board may be called by the Chairperson
 upon giving notice of not less than fourteen days, and shall be called
@@ -2427,7 +2481,8 @@ Agency.
 (a) the salaries, allowances, loans, gratuities and pensions of
 members of staff of the Agency;
 (b) such reasonable travelling and other allowances for the
-members of the Board or any committee of the Board
+members of the Board or any committee
+of the Board
 when engaged in the business of the Agency, at such
 rates as the Board may determine with the approval of
 the Minister; and
@@ -2457,7 +2512,8 @@ be appended to the report—
 (b) an audited statement of income and expenditure; and
 (c) such other information as the Minister may require.
 (3) The Minister shall, not later than seven days after the first
-sitting of the National Assembly next after receipt of the report
+sitting of the National Assembly next after receipt
+of the report
 referred to in subparagraph (1), lay the report before the National
 Assembly.
 SECOND SCHEDULE
@@ -2509,7 +2565,8 @@ in respect of which transfer a written law provides for registration,
 the Agency shall make an application, in writing, to the appropriate
 registration authority for registration of the transfer.
 (4) The registration authority, referred to in subparagraph (2),
-shall make such entries in the appropriate register as shall give
+shall make such entries in the appropriate register
+as shall give
 effect to the transfer and, where applicable, issue to the transferer
 concerned a certificate of title in respect of the property or make
 necessary amendments to the register and shall endorse the deeds
@@ -2518,7 +2575,8 @@ fees or other duties shall be payable in respect of the transaction.
 Legal
 4. (1) Any legal proceedings or application of the Board pending
 proceedings
-immediately before the commencement of this Act by or against
+immediately before the commencement of this Act
+by or against
 the Board may be continued by or against the Agency.
 (2) After the commencement of this Act, proceedings in respect
 of any right, liability or obligation which was vested in, held, enjoyed,
