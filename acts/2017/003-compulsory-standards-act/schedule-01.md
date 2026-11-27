@@ -18,7 +18,7 @@ ADMINISTRATION OF BOARD
 2. (1) Subject to the other provisions of this Act, the Board may regulate its own procedure.
 (2) The Board shall meet for the transaction of business at least once in every three months at such places and times as the Board may determine.
 (3) A meeting of the Board may be called by the Chairperson upon giving notice of not less than fourteen days, and shall be called by the Chairperson if one-third or more of the members so request in writing, except that if the urgency of any particular matter does not permit the giving of the notice, a special meeting may be called upon giving a shorter notice.
-(4) Five members shall constitute a quorum at a meeting of the Board.
+(4) Five members shall constitute a quorum at a the Board.
 (5) There shall preside at a meeting of the Board
 (a) the Chairperson;
 (b) in the absence of the Chairperson, the ViceChairperson; and
@@ -26,7 +26,7 @@ ADMINISTRATION OF BOARD
 (6) A decision of the Board on any question shall be by a majority of the members present and voting at the meeting and in the event of an equality of votes, the person presiding at the meeting shall have a casting vote in addition to that person’s deliberative vote.
 (7) A member appointed under section 6 (1) (a) or (b) who is for any reason unable to attend a meeting of the Board may, in writing, nominate another person from the same organisation to attend the meeting in that member’s stead and that person shall be deemed to be a member for the purpose of that meeting.
 (8) The Board may invite a person, whose presence is in its opinion desirable to attend and to participate in the deliberations of the meeting of the Board, but that person shall have no vote.
-(9) The validity of any proceedings, acts or decisions of the Board shall not be affected by any vacancy in the membership of the Board or by any defect in the appointment of any member or by reason that any person not entitled to do so, took part in the proceedings.
+(9) The validity of any proceedings, acts or decisions of the Board shall not be affected by any vacancy in the membership of the Board or by any defect in the appointment of any member or by reason that any person not entitled to do so, took proceedings.
 (10) The Board shall cause minutes to be kept of the proceedings of every meeting of the Board and every meeting of any committee of the Board.
 3. (1) The Board may, for the purpose of performing its functions establish such committees as it considers necessary and delegate to any of those committees any of its functions or the functions of the Agency.
 (2) The Board may appoint as members of a committee persons who are or are not members of the Board, except that at least one member of the Board shall be a member of a Committee.
@@ -61,6 +61,7 @@ FINANCIAL PROVISIONS
 (2) The accounts of the Agency shall be audited annually or whenever necessary by theAuditor-General or an auditor appointed by the Auditor-General.
 (3) The Auditor-General’s fees shall be paid by the Agency.
 10. (1) As soon as practicable, but not later than ninety days after the end of the financial year, the Agency shall submit to the Minister a report concerning its activities during that financial year.
+Compulsory Standards [No. 3 of
 (2) The report referred to in subparagraph (1) shall include information on the financial affairs of the Agency and there shall be appended to that report—
 (a) an audited statement of financial position;
 (b) an audited statement of comprehensive income; and

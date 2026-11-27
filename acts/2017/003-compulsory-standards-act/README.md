@@ -35,8 +35,8 @@ Text layer: typeset.
 | 26. General penalty | [sec-026.md](sec-026.md) |
 | 27. Additional powers of court | [sec-027.md](sec-027.md) |
 | 28. Civil remedy reserved | [sec-028.md](sec-028.md) |
-| 29. Appeals | [sec-029.md](sec-029.md) |
-| 30. Presumption of importation | [sec-030.md](sec-030.md) |
+| 29. the Agency Appeals | [sec-029.md](sec-029.md) |
+| 30. this Act to Presumption of importation the import | [sec-030.md](sec-030.md) |
 | 31. Acts not to be construed as assurances or | [sec-031.md](sec-031.md) |
 | 32. Regulations | [sec-032.md](sec-032.md) |
 | 33. Transitional provisions | [sec-033.md](sec-033.md) |
