@@ -7,5 +7,5 @@ Text layer: publisher OCR.
 | Provision | File |
 | --- | --- |
 | Long title and enacting words | [preamble.md](preamble.md) |
-| 1. | [sec-001.md](sec-001.md) |
-| 2. | [sec-002.md](sec-002.md) |
+| 1. Title | [sec-001.md](sec-001.md) |
+| 2. Area to cease to be local forest S. I. No. 61 | [sec-002.md](sec-002.md) |
