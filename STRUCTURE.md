@@ -17,3 +17,6 @@ Inside each act, chapter or instrument folder: one file per section (`sec-<nnn>.
 Case law is kept in a separate private repository (`zambia-law-caselaw`): `<court>/<year>/<date>-<title>-p<id>.md`.
 
 Each commit is one version on the day it took effect (noon, Africa/Lusaka), with `In-force:` and `In-force-basis:` trailers. Versions before 1970 carry the 1970-01-01 git date (git cannot store earlier days); the real day is in the subject and the `In-force:` trailer. Copies taken from a secondary publisher carry `Source-status: secondary copy (...)`.
+
+Regional law binding on Zambia as a member State (2026-11-27 (second pass)): `sadc/<treaty|protocols|agreements|charters>/<year>/<title>/`
+(SADC instruments, dated by signature) and `comesa/gazette/<year>/<vol-nn-no-n>/` (Official Gazette of COMESA, by issue).

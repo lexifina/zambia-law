@@ -134,3 +134,14 @@ How the new texts are read and dated (runner in the Lexifina workspace, `scripts
 - Chapters of the Revised Edition of the Laws of Zambia whose amendment notes end in 1994 are dated 31 December 1996, the day that edition is as at (as the ZambiaLII versions are); chapters with later amendments print no day and are held.
 - Official copies win: a FAOLEX or WIPO Lex copy is used only for an Act or instrument number no official copy holds. Each such commit carries `Source-status: secondary copy (...)`.
 - Corrections (marginal notes read into titles or texts at first) are appended as `Kind: correction` commits; history is never rewritten.
+
+## Sources added on 2026-11-27 (second pass)
+
+| Source | How it is read | Dating |
+| --- | --- | --- |
+| Ministries and regulators (WordPress media libraries, the Bank of Zambia's JSON:API file list, regulators' download pages) | `wp_list.py`, `boz_list.py`, `pages_list.py`: PDFs whose name looks like an Act or instrument; `build.py` keeps only copies that print an Act or S.I. number, and holds consolidated copies that name later amendments | Act: the day under the long title (Gazette publication); S.I.: the Gazette date, else the day it was signed at Lusaka, printed above the signature (said in `In-force-basis:`) |
+| SADC (`sadc/<kind>/<year>/<title>/`) | `sadc_fetch.py`: English texts from the instrument pages listed in sadc.int's sitemap | the day of signature printed in the instrument ("Done at ... on ..."); its entry into force is not printed |
+| COMESA Official Gazette (`comesa/gazette/<year>/<issue>/`) | `comesa_fetch.py` from the COMESA media library | the issue date printed on its first page |
+
+Held: scans without a text layer (no OCR), copies with no Act/S.I. number, consolidated copies with no as-at day,
+summaries. Still not used: parliament.gov.zm (the Clerk's permission is required).
