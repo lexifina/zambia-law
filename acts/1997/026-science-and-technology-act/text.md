@@ -22,7 +22,8 @@ nine ;
 " chairperson " means a person appointed as Chairperson for
 the Council under section five;
 LH.IC/11.1; tAlltl I C
-" Council " means the National Science and Technology
+" Council " means the National Science
+and Technology
 Council established under section three\
 " Deputy Director " means a person appointed as
 Deputy Director under section twelve;
@@ -40,11 +41,13 @@ Government research institution " means a branch or
 department of the Government whose main function to
 carry out science and technology research;
 " institute " means a science and technology institute
-established by the Government under section seven or
+established by the Government under
+section seven or
 registered as a private institute under section nine;
 management board " means a management board
 constituted under section ten;
-" Secretary " means a person appointed as Secretary of the
+" Secretary " means a person appointed as
+Secretary of the
 Council under section six; and
 " Vice-Chairperson " means a person elected as Vice-
 Chairperson of the Council under section five.
@@ -115,7 +118,8 @@ in the private sector; and
 (/) a member each from the ministries responsible for science
 and technology, environment and natural resources,
 health, commerce and trade, agriculture and mines.
-(2) The Chairperson and Vice Chairperson of the Council shall
+(2) The Chairperson and Vice Chairperson of the
+Council shall
 be elected by the members from amongst themselves.
 Executive
 6. (1) Subject to subsection (3), the Council shall, on such terms
@@ -149,7 +153,8 @@ performance of its functions under this Act.
 PART III
 SCIENCE AND TECHNOLOGY INSTITUTES AND RESEARCH AND
 DEVELOPMENT SUPPORT CENTRES
-7. (1) The Minister may, on the recommendation of the Establish­
+7. (1) The Minister may, on the recommendation of the
+Establish­
 Council, by statutory instrument, establish any science and
 mcnt of
 .
@@ -188,7 +193,8 @@ PART IV
 REGISTRATION OF CENTRES AND INSTITUTES
 9. (1) Every centre or institute shall apply to the Council for
 Registration
-registration as a centre or institute in the prescribed form. L
+registration as a centre or institute in the prescribed form.
+L
 of centres
 and institutes
 (2) An application referred to in subsection (1) shall state: _
@@ -241,7 +247,6 @@ committee or the Director any of its functions under this Act.
 or specific directions with respect to the discharge of its functions
 as it may consider necessary and the management board shall give
 effect to such directions.
-___________________ Science and Technology [No. 26 of 1997
 (4) A management board may collaborate, or enter into agree­
 ment, with any organisation or institution on-any matter relevant to
 the carrying out of the functions of the management board under this
@@ -294,7 +299,8 @@ Rights of
 14, Where any person employed by a management board while
 management
 .
-. . . . , ,.
+. . . . ,
+,.
 boards in carrying out research or other duties makes a discovery, invention
 discoveries or improvement in the course of his duties, the management board
 shall be deemed to be the owner for all purposes of the rights therein:
@@ -316,13 +322,15 @@ capital fund
 to promote new technology in small businesses.
 (2) The Minister may, by statutory instrument, provide for the
 management of the Venture Capital Fund.
-17. (1) Subject to the provisions of this Act, a person who
+17. (1) Subject to the provisions of this Act, a
+person who
 Transitional
 provisions
 immediately before the appointed date held office as a member of
 the former Council shall on the appointed date, hold office as a
 member of the Council for a period of three months.
-(2) After the period referred to in subsection (1) the members
+(2) After the period referred to in subsection (1)
+the members
 shall be appointed in accordance with this Act.
 18. (1) The Minister may, by statutory instrument, regulate the
 Vesting of
@@ -343,12 +351,14 @@ to be
 established under this- Act in respect of which transfer a written law
 transferred
 provides for registration, that institution shall make an application
-in writing to the proper officer or the appropriate registration
+in writing to the proper officer or the appropriate
+registration
 authority for the registration of the transfer.
 (2) The proper officer or the registration authority referred to in
 subsection (1) shall make such entries in the appropriate register as
 shall give effect to the transfer and, where appropriate, issue the
-transferee concerned with a certificate of title in respect of the
+transferee concerned with a certificate of title in respect of
+the
 property or make necessary amendments to the register, as the case
 may be, and shall make endorsements on the deeds relating to the
 title, right or obligation concerned.
@@ -363,13 +373,15 @@ former Council may be continued by or against the Council.
 Appeals
 under this Act by the Council, that person may within thirty days of
 the decision appeal to the Minister.
-(2) The Minister may vary, confirm, amend or rescind any
+(2) The Minister may vary, confirm, amend or rescind
+any
 decision appealed against and shall give reasons for his decision.
 22. (1) The Minister may, on the recommendation of the
 Regulations
 Council, make regulations by statutory instrument for the better
 carrying out of the provisions of this Act.
-(2) Without prejudice to the generality of subsection (1) the
+(2) Without prejudice to the generality of subsection (1)
+the
 Minister may, on the recommendation of the Council, make rules or
 regulations—
 *
@@ -401,19 +413,22 @@ Council.
 (3) Any contract or instrument which, if entered into or executed
 by a person not being a body corporate, would not be required to be
 under seal, may be entered into or executed without seal on behalf
-of the Council by the Secretary or any other person generally
+of the Council by the Secretary or any other person
+generally
 or specifically authorised by the Council in that behalf.
 (4) Any document purporting to be a document under the seal of
 the Council or issued on behalf of the Council shall be received in
 evidence without further proof, unless the contrary is proved.
 Tenure of
 office of
-2. (1) Subject to the other provisions of this Act, a
+2. (1) Subject to the other provisions of this Act,
+a
 member
 member shall
 hold office for a period of three years from the date of appointment
 and may be re-appointed for a further term of three years:
-Provided that the first members shall be appointed for periods
+Provided that the first members shall be appointed
+for periods
 ranging from two to three years in order to facilitate retirement by
 rotation.
 (2) A member may resign by giving one month's notice in writing
@@ -435,7 +450,7 @@ of Council
 member in place of the member who vacates the office.
 4. (1) Subject to the other provisions of this Act, the Council may
 regulate its own procedure.
-__________________ Science and Technology [No. 26 of 1997 167
+__________________ Science and Technology [No. 26 of 1997
 (2) The Council shall meet for the transaction of business, at
 least once in every three months at such places and at such times as
 the Chairperson may decide.
@@ -477,7 +492,8 @@ committee established by the Council.
 the of Council
 functions under this Act, establish committees and delegate to any
 such committee such of its functions as it thinks fit.
-(2) The Council may appoint as members of a committee
+(2) The Council may appoint as members of a
+committee
 established under subsections (1), persons who are or are not
 members of the Council and such persons shall hold office for such
 period as the Council may determine.
@@ -535,19 +551,23 @@ Council
 may—
 (a) be appropriated by Parliament for the purposes of. the
 Council;
-(b) be paid to the Council by way of fees, levy, grants or
+(b) be paid to the Council by way of fees, levy, grants
+or
 donations; or
 (c) vest in or accrue to the Council.
 (2) The Council may—
 (a) accept moneys by way of grants or donations from any
-source in Zambia and, subject to the approval of the
+source in Zambia and, subject to the approval of
+the
 Minister, from any source outside Zambia;
 (b) raise moneys by way of loans or otherwise, from any
-source in Zambia and subject to the approval of the
+source in Zambia and subject to the approval of
+the
 Minister, from any source outside Zambia, such moneys
 as it may require for the discharge of its functions, and
 (c) in accordance with the regulations made under this Act,
-charge and collect fees for services provided by the
+charge and collect fees for services provided by
+the
 Council.
 (3) There shall be paid from the funds of the Council—
 (a) the salaries, allowances and loans of the staff of the
@@ -583,7 +603,8 @@ Minister a report concerning its activities during such financial
 year.
 (2) The report referred to in paragraph (1) shall include
 information on the financial affairs of the Council and the
-management boards for centres and institutes established
+management boards for centres and institutes
+established
 under this Act and there shall be appended thereto—
 (a) an audited balance sheet;
 (b) an audited statement of income and expenditure;
@@ -593,7 +614,8 @@ Development Fund; and
 (d) such other information as the Minister may require.
 (3) The Minister shall, not later than thirty days after the
 first sitting of the National Assembly next after receipt of
-the report referred to in sub-paragraph (1), lay it before the
+the report referred to in sub-paragraph (1), lay it
+before the
 National Assembly: N. - ■■
 SECOND SCHEDULE
 (Section 7)
@@ -608,7 +630,7 @@ board
 Chairperson or the Vice-Chairperson and the Secretary of a
 management board or one other person authorised in that behalf by
 a resolution of the board.
-- ____________Science and Technology [No. 26 of 1997 171
+- ____________Science and Technology [No. 26 of 1997
 (3) Any contract or instrument which, if entered into or executed by
 a person not being a body corporate, would not be required to be
 under seal, may be entered into or executed without seal on behalf
@@ -642,7 +664,8 @@ notice;
 appointed member of a management board under section
 ten; or
 (d) if he is declared bankrupt.
-3. Whenever the office of a member of a management board Filling of
+3. Whenever the office of a member of a management board
+Filling of
 becomes vacant before the expiry of the term of office, the Minister vacancy
 may appoint another member in place of the member who vacates.
 the office.
@@ -672,7 +695,8 @@ Chairperson, such member as the members present may
 elect from amongst themselves for purpose of that meeting.
 (6) A decision of a management board on any question shall be
 by a majority of the members present and voting at the meeting and,
-in the event of an equality of votes, the person presiding at the
+in the event of an equality of votes, the person
+presiding at the
 meeting shall have a casting vote in addition to his deliberative vote.
 (7) Where a member is for any reasonable cause unable to attend
 any meeting of a management board, he may, in writing, nominate
@@ -782,7 +806,8 @@ fit such of its funds as it does not immediately require for the
 performance of its functions.
 N
 Financial
-10. The financial year of a management ".board shall be the
+10. The financial year of a management ".board
+shall be the
 year
 period of twelve months ending on the 31st of December, in each
 year.
