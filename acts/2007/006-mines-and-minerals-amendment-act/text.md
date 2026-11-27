@@ -75,7 +75,8 @@ word “ Government ”;
 (b) by the deletion of subsection (2) and the substitution
 therefor of the following subsection:
 (2) An agreement referred to in subsection
-(1) shall be known as a development agreement
+(1) shall be known as a development
+agreement
 and may, subject to the provisions of the law,
 contain provisions binding on the Government
 in relation to—
@@ -158,7 +159,8 @@ particulars as the Minister may reasonably require;
 (d) a copy of the applicant’s title to the land or written
 consent from a surface right holder or mining right
 holder;
-(e) the proposed programme for mineral processing
+(e) the proposed programme for mineral
+processing
 operations including a forecast of plant capacity,
 capital investment, facilities, mineral processing
 methods and the estimated mineral recoveries;
@@ -241,10 +243,12 @@ and
 (c) include a description and plan of the mineral
 processing area.
 (3) There shall be appended to a mineral processing licence
-a programme of mineral processing operations, as accepted by
+a programme of mineral processing operations, as
+accepted by
 the Minister, which shall form part of the conditions of the licence.
 (4) In determining the date for the commencement of the
-licence, the Minister may take account of any period not
+licence, the Minister may take account of any
+period not
 exceeding twelve months from the date of the grant which is
 required by the applicant to make any necessary preparation
 for mineral processing operations.
@@ -257,7 +261,8 @@ licence
 seven years as the licensee may require, if the holder of the
 licence—
 (a) undertakes to carry out during the renewal period,
-an adequate programme of mineral processing
+an adequate programme of mineral
+processing
 operations;
 (b) is not in breach of any condition of the licence or in
 breach of any of the provisions of this Act or the
@@ -346,7 +351,8 @@ has failed to carry out mineral processing operations in
 processing
 accordance with that holder’s proposed programme of mineral
 licence for
-processing operations and for a period of three successive
+processing operations and for a period of three
+successive
 insufficient
 years has recovered less than fifty per centum of the minerals
 production
@@ -361,7 +367,8 @@ section 54
 the words “ Part III ” of the words “ or Part III A ”;
 (b) by the deletion of subsection (4) and the substitution
 therefor of the following subsection:
-(4) No mining right or mineral processing
+(4) No mining right or mineral
+processing
 licence may be transferred to a person disqualified
 under section seven or section twenty-eight C
 from holding that right or licence; and
@@ -380,7 +387,8 @@ right or licence, without the written consent of the Minister—
 company to any particular person or that
 person’s nominee; or
 (b) enter into an agreement with any particular person,
-if the effect of doing so would be to give that
+if the effect of doing so would be
+to give that
 person control of the company.
 16. Section sixty-one of the principal Act is amended—
 Amendment
@@ -436,7 +444,8 @@ Provided that a company which is party to a development
 agreement signed prior to 1st April, 2007, shall after the
 commencement of this Act renegotiate with the Government
 the rate of mineral royalty to be paid by such company to the
-Government and any such rate which is agreed upon in the
+Government and any such rate which is agreed
+upon in the
 negotiations shall be the rate payable under the development
 agreement.
 (2) In this section—
@@ -469,9 +478,11 @@ replacement
 repeal of section seventy-five and the
 of
 section 75
-substitution therefor of the following
+substitution therefor of the
+following
 section:
-75. In deciding whether or not to grant any
+75. In deciding whether or not to
+grant any
 Environment
 to be
 mining right or mineral processing licence,
@@ -479,7 +490,8 @@ considered
 the Minister shall take into account the
 when granting
 mining rights
-need to conserve and protect —
+need to conserve and protect
+—
 or
 mineral
 processing
@@ -535,11 +547,13 @@ licence or permit, of one or more cash deposits
 for securing the performance by such applicant
 of all or any such conditions.
 Amendment
-21. Section seventy-seven of the principal Act is amended—
+21. Section seventy-seven of the principal Act is
+amended—
 of
 (a) in the side note by the insertion after the word
 section 77
-“ right ” of the words “ or mineral processing
+“ right ” of the words “ or mineral
+processing
 licence ”; and
 (b) by the deletion of subsection (1) and the
 substitution therefor of the following subsection:
@@ -560,18 +574,21 @@ section 79
 the words “ or mineral processing plant ”;
 (b) by the deletion of subsection (1)and the substitution
 therefor of the following subsection:
-(1) The holder of a mining right or mineral
+(1) The holder of a mining right
+or mineral
 processing licence over land that ceases to be
 subject to the mining right or mineral processing
 licence—
 (a) may within the prescribed period; and
 (b) shall, if directed to do so by the Director
-of Mine Safety by notice in writing,
+of Mine Safety by notice
+in writing,
 within the period specified in the notice,
 cause to be removed from the land any
 mining or mineral processing plant
 brought onto, or erected upon that land
-in the course of mining or mineral
+in the course of mining
+or mineral
 processing operations carried out under
 the mining right or mineral processing
 licence.
@@ -636,10 +653,12 @@ section 101
 (i) by the deletion of the words “ mining right granted
 under Part III ” and the substitution therefore
 of the words “ mining right or mineral
-processing licence granted under Part III or
+processing licence granted under
+Part III or
 Part III A, as the case may be ”; and
 (ii) by the insertion in paragraph (b) of the words
-“ or mineral processing licence ” after the words
+“ or mineral processing licence ” after
+the words
 “ mining right ”;
 (b) in subsection (4)—
 (i) by the insertion after the word “ right ” of the
@@ -652,7 +671,8 @@ of
 amended—
 section 104
 (a) by the insertion after the words “mining rights ”, wherever
-they appear, of the words “ or mineral processing
+they appear, of the words “ or mineral
+processing
 licences ”; and
 (b) in subsection (2) by the insertion after the word “ right ”
 of the words “ or licence ”.
@@ -679,7 +699,8 @@ words “ mineral processing ” after the word
 “ prospecting ”; and
 (b) by the deletion of paragraph (g), and the substitution
 therefore of the following paragraph:
-(g) the reporting of cases of accident and death
+(g) the reporting of cases of accident
+and death
 occurring on any prospecting area or mining area
 in connection with prospecting, mining or mineral
 processing operations.
