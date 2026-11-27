@@ -35,7 +35,7 @@ in the information provided in an annual return, a nochange return
 in Form V set out in the Schedule upon payment of the prescribed
 fee.
 (2) The annual return shall cover the period 1st January to 31st
-December of the preceding financial year and the holder of a
+December of the preceding financial year and the holder of
 certificate of registration shall submit the return or nochange return
 by 31st March of the following financial year.
 Transfer of
@@ -53,7 +53,7 @@ fourteen days of the change in Form VII set out in the Schedule.
 registration
 Suspension or cancellation of certificate of registration
 Suspension
-9. (1) The Authority shall, before it suspends or cancels a
+9. (1) The Authority shall, before it suspends or cancels
 or
 certificate of registration, notify the holder of the certificate of
 cancellation
@@ -72,28 +72,18 @@ within the specified time, theAuthority shall suspend or cancel the
 certificate of registration and inform the applicant in Form IX set
 out in the Schedule.
 10. A person whose certificate of registration is cancelled may
-Application
 apply for re-registration one year from the date of the cancellation
-for re-
-registration
 of the certificate in Form I set out in the Schedule upon payment of
 the prescribed fee.
 11. (1) A holder of a certificate of registration may apply for
-Duplicate
 a duplicate certificate in Form X set out in the Schedule upon
-certificate of
-registration
 payment of the prescribed fee.
 (2) The Authority may, with fourteen days of receipt of an
 application under subregulation (1), issue the applicant with a
 duplicate certificate in Form XI set out in the Schedule.
 12. (1) The Authority shall keep and maintain a register of
-Register of
 certificates of registration in Form XII set out in the Schedule.
-certificates
-of
 (2) The register referred to in subregulation (1) shall be kept at
-registration
 the offices of the Authority and shall be open to inspection by the
 public at such times as the Authority may determine and upon
 payment of the prescribed fee.
@@ -102,7 +92,6 @@ Statutory Instruments
 SCHEDULE
 (Regulations 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12)
 PRESCRIBED FORMS
-Form I
 (Regulations 2 and 10)
 The Medicines and Allied Substances Act, 2013
 (Act No. 3 of 2013)
@@ -147,8 +136,6 @@ Application Complete (Proceed for inspection): ……………………………
 Application Deficient (Refer to applicant for additional information): ………………………………………………………..….......
 Statutory Instruments
 21s July, 2017
-Form II
-(Regulation 3)
 The Medicines and Allied Substances Act, 2013
 (Act No. 3 of 2013)
 The Medicines and Allied Substances (Certificate of Registration) Regulations, 2017
@@ -177,13 +164,10 @@ STAMP
 Director-General
 21st July, 2017
 Statutory Instruments
-Form III
-(Regulation 4)
 The Medicines and Allied Substances Act, 2013
 (Act No. 3 of 2013)
 The Medicines and Allied Substances (Certificate of Registration) Regulations, 2017
 CERTIFICATE OF REGISTRATION
-No.: ………………
 This is to certify that (Name of Pharmacy): ………………………………………………………
 of (physical address) ……………………………….............................................................……
 …………………………………..............................................................................…………….
@@ -193,6 +177,5 @@ The terms and conditions of the certificate of registration are attached herewit
 This Certificate is issued on the …… day of ………………………, 20……
 ……………………………………….………………..
 Director-General
-Seal
 (OVERLEAF)
 TERMS AND CONDITIONS
