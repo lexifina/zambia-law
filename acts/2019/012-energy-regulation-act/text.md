@@ -149,7 +149,8 @@ act at a particular time which, in the exercise of reasonable
 judgment, in the light of the facts, including the practices,
 methods, and acts engaged in or approved by a significant
 portion of the electrical utility industry prior thereto, known
-at the time, the decision was made, would have been
+at the time, the decision was made, would
+have been
 expected to accomplish the desired result at the lowest
 reasonable cost consistent with reliability, safety, and
 expedition;
@@ -216,16 +217,19 @@ consumers on—
 (i) tariffs and charges provided by a licensee;
 (ii) qualityof energyproducts and services provided
 by a licensee; or
-(iii) its own initiative concerning the location or
+(iii) its own initiative concerning the
+location or
 construction of an energy facility or an
 installation or the carrying out of any works by
 a licensee;
 (f) approvethe location and construction of a commoncarrier
 or an energy facility or installation or the carrying out of
 any works by a licensee or enterprise and regulate that
-location and construction by attaching terms and
+location and construction by attaching
+terms and
 conditions to the licence or a permit held by a licensee
-and enterprise under this Act or any other applicable
+and enterprise under this Act or any other
+applicable
 written law;
 (g) stipulate conditions relating to the location, installation
 or construction of a common carrier, or an energy facility
@@ -398,11 +402,13 @@ shall, within sixty days of receipt of a complete application under
 licence
 section 11, grant or reject the application and inform the applicant
 of the decision of the Energy Regulation Board.
-(2) Where the Energy Regulation Board fails to inform the
+(2) Where the Energy Regulation Board fails to
+inform the
 applicant of its decision on an application for a licence, within the
 period specified in subsection (1), the application shall be deemed
 to have been granted.
-(3) The Energy Regulation Board shall, where it intends to
+(3) The Energy Regulation Board shall, where it
+intends to
 grant an application under this section, publisha notice in the Gazette
 of its intention to grant a licence.
 Provisional
@@ -413,7 +419,8 @@ authorising the applicant to establish or operate an enterprise in
 accordance with this Act, for a specified period and on conditions
 that may be attached to the provisional licence.
 Conditions
-14. (1) The Energy Regulation Board may, after due
+14. (1) The Energy Regulation Board may,
+after due
 for refusal
 consideration refuse to grant a licence on the ground that the
 to grant
@@ -571,14 +578,16 @@ Register of
 21. (1) The Energy Regulation Board shall cause to be kept a
 licences
 register of licences in the prescribed form.
-(2) The register shall be kept by the Secretary at the offices
+(2) The register shall be kept by the Secretary at
+the offices
 of the Energy Regulation Board, and shall be open for inspection
 by members of the public during office hours on payment of a fee
 that the Energy Regulation Board may determine.
 (3) The Director-General may, on an application by a person,
 issue to the person a certified extract from the applicable register
 or a copy of a licence issued to a licensee in accordance with this
-Act on payment of a fee that the Energy Regulation Board may
+Act on payment of a fee that the Energy Regulation
+Board may
 determine.
 Permit
 22. A person who intends to construct an energy facility,
@@ -659,7 +668,8 @@ Restoration
 27. (1) A law enforcement officer shall, where a person from
 of property
 whom an article or other property has been seized under section
-26 is found not guilty or the proceedings against that person are
+26 is found not guilty or the proceedings against that
+person are
 withdrawn—
 (a) without unnecessary delay, restore the article or property
 to that person; or
@@ -669,7 +679,8 @@ the article or property, apply to the court for an order of
 forfeiture of the article or property.
 (2) The court shall make an order of forfeiture under
 subsection (1) if —
-(a) the law enforcement officer has given notice, by
+(a) the law enforcement officer has given
+notice, by
 publication in the Gazette and in one daily newspaper
 of general circulation in the Republic, to the effect that
 the article or property which has been seized under this
@@ -682,7 +693,8 @@ and
 lawfully entitled to the article or property seized under thisAct that
 the article or property is not liable to forfeiture under this Act, the
 law enforcement officer may order the release of the article or
-property to the claimant if satisfied that there is no dispute
+property to the claimant if satisfied that there is
+no dispute
 concerning the ownership of the article or property and that it is
 not liable to forfeiture.
 (4) A law enforcement officer shall refer a claim to the court
@@ -733,7 +745,8 @@ of the Energy Regulation Board, be responsible for the receipt,
 investigation and resolution of complaints received on behalf of the
 Energy Regulation Board.
 (3) A consumer council shall, where it fails to resolve a
-consumer complaint, refer the matter to the Energy Regulation
+consumer complaint, refer the matter to the Energy
+Regulation
 Board for consideration and determination.
 Quality of
 31. Subject to the provision of the Standards Act, a licensee
@@ -823,14 +836,16 @@ Functions of
 36. (1) The functions of the Tribunal are to—
 Tribunal
 (a) hear appeals made to it under this Act; and
-(b) perform other functions that are assigned to it under
+(b) perform other functions that are assigned
+to it under
 this Act or any other written law.
 (2) The Tribunal may—
 (a) order the parties or either of them to produce to the
 Tribunalinformation thattheTribunalconsidersnecessary
 for purposes of the proceedings; or
 (b) take any other course which may lead to the just, speedy
-and inexpensive settlement of any matter before the
+and inexpensive settlement of any matter
+before the
 Tribunal.
 (3) TheTribunal maysummon witnesses, call for the production
 of, or inspection of, books, documents and other things, and examine
@@ -987,10 +1002,12 @@ General Provisions
 Energy
 46. (1) The Energy Regulation Board may, in the exercise of
 Regulation
-the Energy Regulation Board’s functions under this Act, issue
+the Energy Regulation Board’s functions under this
+Act, issue
 Board to
 issue
-guidelines as are necessary for the better carrying out of the
+guidelines as are necessary for the better carrying
+out of the
 guidelines
 provisions of thisAct.
 (2) The Energy Regulation Board shall publish the guidelines
@@ -1111,13 +1128,16 @@ of the activity, to take, within a reasonable time limited by the notice,
 unlicensed
 all necessary steps to cease operations, and to dismantle, to the
 activity
-satisfaction of the Energy Regulation Board, any plant and
+satisfaction of the Energy Regulation Board, any
+plant and
 equipment used for the purposes of the enterprise.
 (2) Where a direction given under this section is not complied
 with, the Energy Regulation Board by its staff or agents may enter
-into the place where the enterprise is being operated and cause
+into the place where the enterprise is being operated
+and cause
 the direction to be so carried out.
-(3) The costs to the Energy Regulation Board of any action
+(3) The costs to the Energy Regulation Board of
+any action
 under subsection (2) are recoverable, as a debt due to the Energy
 Regulation Board, in any court of competent jurisdiction.
 Regulations
@@ -1136,7 +1156,8 @@ the Republic;
 or damage to property arising from regulated activities
 under the energy sector;
 (e) reporting of and carrying inquiries into accidents
-involving the operation of any licensee or associated
+involving the operation of any licensee or
+associated
 plant, equipment or vehicles; and
 (f) the fees payable under this Act.
 (3) Subject to subsection (2), in the application of any
@@ -1194,7 +1215,8 @@ provisions of this Schedule, hold office for a term of three years
 vacancy of
 and may be re appointed for a further term of three years.
 member
-(2) On the expiration of the term for which a member is
+(2) On the expiration of the term for which a
+member is
 appointed, the member shall continue to hold office until another
 member is appointed, but in no case shall any extension of the
 period exceed three months.
@@ -1202,8 +1224,10 @@ period exceed three months.
 (a) on the member’s death;
 (b) if the member is adjudged bankrupt;
 (c) if the member is absent from three consecutive meetings
-of the Board, of which the member has had notice,
-without the prior approval of the Energy Regulation
+of the Board, of which the member has
+had notice,
+without the prior approval of the Energy
+Regulation
 Board;
 (d) on the expiry of one month’s notice of the member’s
 intention to resign, given by the member in writing to
@@ -1272,7 +1296,8 @@ be recorded in the minutes of the meeting at which the disclosure
 is made.
 Immunity
 6. An action or other proceedings shall not lie or be instituted
-against a member of the Board, a committee of the Board or a
+against a member of the Board, a committee of the
+Board or a
 member of staff of the Energy Regulation Board, for or in respect
 of any act or thing done or omitted to be done in good faith in the
 exercise or performance, of any of the powers, functions or duties
@@ -1283,7 +1308,8 @@ of Board
 functions, establish committees that it considers necessary and
 delegate to any of those committees any of its functions or the
 functions of the Energy Regulation Board.
-(2) The Board may appoint as members of a committee
+(2) The Board may appoint as members of a
+committee
 persons who are or are not members of the Board, except that at
 least one member of the Board shall be a member of a committee.
 (3) Despite the generality of subparagraphs (1) and (2), the
@@ -1310,7 +1336,8 @@ unauthorised
 of duties under this Act.
 persons
 (2) Any person who knowingly contravenes subsection (1),
-commits an offence and is liable on conviction to a fine not
+commits an offence and is liable on conviction to
+a fine not
 exceeding ten thousand penalty units or to imprisonment for a term
 not exceeding three months, or to both.
 PART II
@@ -1386,7 +1413,8 @@ and there shall be appended to the report
 (d) such other information as the Minister may require.
 (3) The Minister shall, not later than seven days after the
 first sitting of the National Assembly next after receipt of the
-report referred to in subparagraph (1), lay the report before the
+report referred to in subparagraph (1), lay the report
+before the
 NationalAssembly.
 SECOND SCHEDULE
 (Section 88(2))
@@ -1433,7 +1461,8 @@ a reference to the Energy Regulation Board; or
 Regulation Board, not beinga partyto it and beneficially
 interested, there were substituted, as respects anything
 falling to be done on or after the commencement of
-this Act, a reference to such officer of the Energy
+this Act, a reference to such officer of
+the Energy
 Regulation Board as the Energy Regulation Board shall
 designate.
 (3) Where under this Act, any assets, rights,liabilities and
@@ -1458,7 +1487,8 @@ authorisation granted in accordance with this Act, but subject to
 any rights or benefits accruing, or any liabilities suffered, under
 the repealed Act, but without the right of renewal.
 Legal
-4. (1) Any legal proceedings or applications of the former
+4. (1) Any legal proceedings or applications of
+the former
 proceedings
 Energy Regulation Board pending immediately before this Act
 comes into force by or against the former Energy Regulation Board
@@ -1466,7 +1496,8 @@ may be continued by or against the Energy Regulation Board.
 (2) After the commencement of this Act, proceedings in
 respect of any right, liability or obligation which was vested in,
 held, enjoyed, incurred or suffered bythe former EnergyRegulation
-Board, may be instituted by or against the Energy Regulation
+Board, may be instituted by or against the Energy
+Regulation
 Board.
 Strategic
 5. At the commencement of this Act all monies held by the
