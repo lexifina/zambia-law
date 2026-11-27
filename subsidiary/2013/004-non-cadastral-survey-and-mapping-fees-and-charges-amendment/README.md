@@ -8,5 +8,5 @@ Text layer: typeset.
 | --- | --- |
 | Long title and enacting words | [preamble.md](preamble.md) |
 | 1. | [sec-001.md](sec-001.md) |
-| 2. | [sec-002.md](sec-002.md) |
+| 2. of Schedule | [sec-002.md](sec-002.md) |
 | SCHEDULE | [schedule-01.md](schedule-01.md) |
