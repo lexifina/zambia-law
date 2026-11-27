@@ -30,7 +30,8 @@ goods without losing the identity of each group of goods
 which maintain their original identity;
 “ account debtor ” means a person liable for payment of an
 account receivable and includes a guarantor or other person
-with secondary liability for payment of the account
+with secondary liability for payment of
+the account
 receivable;
 “ account receivable ” means a right to payment of a monetary
 obligation, excluding a right to payment evidenced by a
@@ -38,14 +39,16 @@ negotiable instrument and to payment of money credited to
 a bank account;
 “ after-acquired property ” means movable property that a
 debtor acquires after the conclusion of a security agreement;
-“ Agency ” means the Patents and Companies Registration
+“ Agency ” means the Patents and Companies
+Registration
 Act No. 15
 Agency established under the Patents and Companies
 of 2010
 Registration Agency Act, 2010;
 “ assignee ” means a person to whom an assignment of an
 account receivable is made;
-“ bank ” has the meaning assigned to it in the Banking and
+“ bank ” has the meaning assigned to it in the
+Banking and
 Cap. 387
 Financial Services Act;
 “ bank account ” means an account, maintained by a bank or
@@ -68,7 +71,8 @@ consignor has reserved an interest in goods that the
 consignor has delivered to the consignee for the purpose of
 sale, lease or other disposition and both the consignor and
 consignee deal in the ordinary course of business in goods
-of that description, excluding an agreement under which
+of that description, excluding an agreement
+under which
 goods are delivered to an auctioneer for sale;
 “ commingled properties ” means goods mixed with goods of
 the same kind to become part of a product or mass so as to
@@ -130,7 +134,8 @@ Banking and Financial Services Act;
 than a negotiable instrument or negotiable document, that
 is the object of a lease agreement, and includes a hire-
 purchase agreement, where—
-(a) the lessee automatically becomes the owner of the
+(a) the lessee automatically becomes the
+owner of the
 tangible asset;
 (b) the lessee may acquire ownership of the tangible asset
 by paying no more than a nominal price; or
@@ -191,7 +196,8 @@ have an option to purchase the leased asset at the end of the
 term of the lease for a nominal price and title to the leased
 asset is not transferred to the lessee automatically at the
 end of the lease term;
-“ perfected security interest ” means a security interest that
+“ perfected security interest ” means a security
+interest that
 has become effective against third parties by control,
 possession, registration or temporarily, as provided in this
 Act;
@@ -219,10 +225,12 @@ such credit is in fact so used;
 a term that exceeds one year; or
 (d) an interest of a consignor who delivers goods to a
 consignee under a commercial consignment,
-excluding a transaction of sale and lease back to
+excluding a transaction of sale and
+lease back to
 the seller;
 “ registered financing statement ” means a financing statement
-that has been registered in the Collateral Registry in
+that has been registered in the Collateral
+Registry in
 accordance with section twelve;
 “ Registrar ” means the person appointed Registrar in
 accordance with the Patents and Companies Registration
@@ -297,11 +305,13 @@ application
 of Act
 agreement that secures payment or other performance of an
 obligation regardless of the form of the transaction, type of movable
-property, status of the debtor or secured creditor or the nature of
+property, status of the debtor or secured creditor or
+the nature of
 the secured obligation, including—
 (a) a security interest in intangible or tangible assets, a lien,
 charge, financial lease, right under a hire-purchase
-agreement, pledge, security trust deed, trust receipt,
+agreement, pledge, security trust deed,
+trust receipt,
 consignment, lease, assignment or other interest in
 movable property that secures payment or performance
 of an obligation;
@@ -356,7 +366,8 @@ business in Zambia;
 (b) the habitual residence of the debtor shall apply if the debtor
 does not have a place of business in Zambia; and
 (c) the location of the property or debtor shall be determined
-at the time of the creation of the security interest and
+at the time of the creation of the security
+interest and
 for purposes of perfection and determining of the priority
 of the security interest, at the time the dispute arose.
 (4) If a security interest in collateral is created and perfected
@@ -385,7 +396,8 @@ relation to—
 (c) ranking of claims; and
 (d) distribution of proceeds.
 (3) For the avoidance of doubt, an unperfected security interest
-created by a debtor shall not be effective against a liquidator or
+created by a debtor shall not be effective against a
+liquidator or
 receiver carrying out insolvency proceedings or official receiver in
 relation to the estate of the debtor.
 Supremacy
@@ -497,7 +509,8 @@ and any amendments to be done to the registered financing statement.
 registration
 (2) A single financing statement may relate to one or more than
 one security interest created by a debtor in favour of the same secured
-creditor whether they arise under one or more than one security
+creditor whether they arise under one or more than
+one security
 agreements between the same parties.
 (3) A creditor or agent of the creditor may register a financing
 statement before or after a security agreement is made.
@@ -565,14 +578,16 @@ from the date and time when the information in the financing
 statement is entered into the Collateral Registry and a registration
 number is assigned to it.
 Confirmation
-16. (1) The Registrar shall, on registration of a financing
+16. (1) The Registrar shall, on registration of
+a financing
 statement
 statement or an amendment to a registered financing statement in
 the Collateral Registry, provide a confirmation statement
 electronically to the person who registered the financing statement
 or amendment to the registered financing statement.
 (2) A secured creditor shall, not later than fourteen working
-days after the day on which the secured creditor received the
+days after the day on which the secured creditor
+received the
 verification statement, give a copy of the verification statement to
 the debtor.
 Invalidity
@@ -637,7 +652,8 @@ defect, irregularity, omission or error is of a material nature and is
 seriously misleading, it shall not be necessary to prove that a person
 was actually misled by it.
 (3) The failure to include a description of any item or kind of
-collateral in a financing statement or amendment to a registered
+collateral in a financing statement or amendment to
+a registered
 financing statement or an inadequate description of the collateral
 shall not affect the validity of the registered financing statement in
 respect of the description of another collateral included in the
@@ -755,7 +771,8 @@ statement or discharge the registered financing statement.
 (a) amend the registered financing statement;
 (b) discharge the registered financing statement; or
 (c) maintain the registered financing statement;
-and the secured creditor shall amend, discharge or maintain the
+and the secured creditor shall amend, discharge or
+maintain the
 registration of the registered financing statement and shall inform
 the debtor accordingly.
 System
@@ -772,7 +789,8 @@ Registry,
 inspection
 Collateral Registry electronically and obtain a copy of the search
 and copies
-results in accordance with this Act and regulations made by the
+results in accordance with this Act and regulations
+made by the
 Minister and upon payment of such fee as may be prescribed for
 the search.
 Evidentiary
@@ -858,7 +876,8 @@ the Collateral Registry; or
 Collateral Registry Office or the Collateral Registry.
 PART III
 CREATION OF SECURITY INTERESTS
-33. (1) Despite any other written law, a security interest may
+33. (1) Despite any other written law, a security
+interest may
 Creation of
 security
 be created by a natural person, a body corporate or an
@@ -866,9 +885,11 @@ interest and
 unincorporated body in accordance with this Act.
 effectiveness
 (2) A security interest may secure any type of obligation,
-whether present, future, determined, determinable, conditional,
+whether present, future, determined, determinable,
+conditional,
 unconditional, fixed or fluctuating.
-(3) A security interest in movable property is created by a
+(3) A security interest in movable property is
+created by a
 security agreement which shall be effective as between a debtor
 and secured creditor according to the terms of the security agreement.
 (4) A security interest in movable property is created where—
@@ -1047,7 +1068,8 @@ Act; and
 (b) there is no intervening period during which the security
 interest is unperfected.
 Continuation
-46. A security interest remains continuously perfected in
+46. A security interest remains continuously
+perfected in
 of perfection
 proceeds if—
 of security
@@ -1173,7 +1195,8 @@ amendment to the registered financing statement.
 does not adversely affect the rights of a party who is not a party to
 the agreement.
 Priority in
-56. A security interest has the same priority in respect of all
+56. A security interest has the same priority in
+respect of all
 secured
 secured obligations and advances, whether existing or future.
 obligations
@@ -1184,7 +1207,8 @@ Priority of
 purchase
 proceeds have priority over a non-purchase money security interest
 money
-in the same collateral created by the same debtor if the purchase
+in the same collateral created by the same debtor if
+the purchase
 security
 interest in
 money security interest is perfected when the debtor receives the
@@ -1303,7 +1327,8 @@ receivable
 the assignor and any defence or claim arising from the
 contract; and
 (b) any other defence or claim of the account debtor against
-the assignor, including a defence by way of a right of
+the assignor, including a defence by way
+of a right of
 set-off that accrues before the account debtor receives
 notification of the assignment.
 (2) Subsection (1) does not apply if the account debtor has made
@@ -1312,7 +1337,8 @@ out of the contract.
 Rights of
 67. (1) A buyer or lessee who acquires goods for value and
 buyer or
-receives their possession, takes the goods free of an unperfected
+receives their possession, takes the goods free of an
+unperfected
 lessee of
 security interest.
 goods
@@ -1405,7 +1431,8 @@ and
 risk.
 disposing
 collateral
-(2) For purposes of subsection (1), collateral is at risk if the
+(2) For purposes of subsection (1), collateral is
+at risk if the
 secured creditor has reasonable grounds to believe that the collateral
 has been or will be destroyed, damaged, endangered, disassembled,
 removed, concealed, sold or otherwise disposed of contrary to the
@@ -1415,13 +1442,15 @@ security agreement.
 (b) without judicial process, if the debtor consented, in the
 security agreement, to relinquish possession without a
 court order.
-(4) A secured creditor may require a debtor to assemble the
+(4) A secured creditor may require a debtor to
+assemble the
 collateral and make it available at a designated place.
 (5) A prior notice to a debtor is not required for the secured
 creditor to repossess or render the collateral unusable under this
 section.
 Secured
-73. (1) A secured creditor may render collateral unusable, if
+73. (1) A secured creditor may render collateral
+unusable, if
 creditor
 the collateral is of a kind that cannot be readily moved from the
 rendering
@@ -1510,7 +1539,8 @@ Extinguishment
 of
 this Part, all security interests in the collateral and its proceeds and
 subordinate
-other rights in the collateral that are subordinate to the security
+other rights in the collateral that are subordinate to
+the security
 security
 interest
 interest of the secured creditor, who disposed of the collateral, are
@@ -1656,7 +1686,8 @@ statement or amendment to a registered financing statement, a court,
 tribunal or Alternative Dispute Resolution proceedings shall take
 judicial notice of any obligation or privilege arising from a
 commercial document, as specified in subsection (1), indicated in a
-registered financing statement or amendment of a registered
+registered financing statement or amendment of
+a registered
 financing statement.
 Entitlement
 89. (1) If a person fails to discharge any duty or obligation
@@ -1726,11 +1757,13 @@ or
 (d) it is delivered by facsimile, electronic mail or other similar
 means of communication.
 (2) Where service in accordance with subsection (1) is not
-possible or if the parties have agreed otherwise, a document or
+possible or if the parties have agreed otherwise, a
+document or
 notice may be served through registered mail.
 (3) This section does not affect any provisions in this Act
 relating to the service of a document or notice or detract from the
-power of any court to direct how the service of any document or
+power of any court to direct how the service of any
+document or
 notice relating to legal proceedings before the court is done.
 Fraudulent
 93. A person who fraudulently lodges a financing statement
