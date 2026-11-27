@@ -10,3 +10,8 @@ Text layer: typeset.
 | 1. Title | [sec-001.md](sec-001.md) |
 | 2. Interpretation | [sec-002.md](sec-002.md) |
 | 3. Proceedings of Council | [sec-003.md](sec-003.md) |
+| 4. Subcommittees to the sub- | [sec-004.md](sec-004.md) |
+| 5. Tenure of office and vacancy | [sec-005.md](sec-005.md) |
+| 6. Disclosure of interest | [sec-006.md](sec-006.md) |
+| 7. Prohibition of publication or disclosure | [sec-007.md](sec-007.md) |
+| 8. Immunity | [sec-008.md](sec-008.md) |
