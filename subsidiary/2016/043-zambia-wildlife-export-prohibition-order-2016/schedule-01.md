@@ -9,4 +9,4 @@ PROHIBITED EXPORTS Copies of this Statutory Instrument can be obtained from the 
 (e) Love-bird, black checked
 (f) Owl, all species
 (g) Vulture, all species
-(h) Secretary bird J. KAPATA, LUSAKA Minister of Tourism and Arts 12th May, 2016 [MTA/64/1/3]
+(h) Secretary bird LUSAKA Minister of Tourism and Arts 12th May, 2016 [MTA/64/1/3]
