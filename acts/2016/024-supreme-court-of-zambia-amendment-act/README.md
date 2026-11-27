@@ -17,3 +17,10 @@ Text layer: typeset.
 | 8. Repeal and replacement of section 17 | [sec-008.md](sec-008.md) |
 | 9. Repeal of section 20 Amendment | [sec-009.md](sec-009.md) |
 | 10. Amendment of section 22 | [sec-010.md](sec-010.md) |
+| 11. Amendment of Part IV | [sec-011.md](sec-011.md) |
+| 12. Repeal and replacement of | [sec-012.md](sec-012.md) |
+| 13. Amendment of section 24 | [sec-013.md](sec-013.md) |
+| 14. Amendment of section 25 | [sec-014.md](sec-014.md) |
+| 15. Amendment of Part V | [sec-015.md](sec-015.md) |
+| 16. Amendment of section 26 | [sec-016.md](sec-016.md) |
+| 17. Amendment of section 29 | [sec-017.md](sec-017.md) |
