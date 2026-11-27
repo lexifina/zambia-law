@@ -18,19 +18,19 @@ Text layer: typeset.
 | 9. Committees of Agency | [sec-009.md](sec-009.md) |
 | 10. Delegation of functions and directions | [sec-010.md](sec-010.md) |
 | 11. Director - General and other staff | [sec-011.md](sec-011.md) |
-| 12. Trade and industry development strategies | [sec-012.md](sec-012.md) |
+| 12. the private Trade and industry development strategies | [sec-012.md](sec-012.md) |
 | 13. Trade and business development | [sec-013.md](sec-013.md) |
 | 14. E c o n o m i c development measures | [sec-014.md](sec-014.md) |
 | 15. Research and articulating country position | [sec-015.md](sec-015.md) |
 | 16. Sector codes | [sec-016.md](sec-016.md) |
-| 17. Investment promotion measures | [sec-017.md](sec-017.md) |
+| 17. Investment promotion create and measures | [sec-017.md](sec-017.md) |
 | 18. Declaration of Multifacility economic | [sec-018.md](sec-018.md) |
 | 19. Protection from acquisition | [sec-019.md](sec-019.md) |
 | 20. Transfer of funds | [sec-020.md](sec-020.md) |
 | 21. Settlement of disputes | [sec-021.md](sec-021.md) |
 | 22. Promotion and development | [sec-022.md](sec-022.md) |
 | 23. Industrial or commercial estates | [sec-023.md](sec-023.md) |
-| 24. Letting of buildings or premises | [sec-024.md](sec-024.md) |
+| 24. institution, Letting of buildings or premises | [sec-024.md](sec-024.md) |
 | 25. Application of Trade Licensing Act Cap. | [sec-025.md](sec-025.md) |
 | 26. Privatisation of State owned enterprises | [sec-026.md](sec-026.md) |
 | 27. Golden share | [sec-027.md](sec-027.md) |
@@ -45,7 +45,7 @@ Text layer: typeset.
 | 36. Declaration by potential investor | [sec-036.md](sec-036.md) |
 | 37. Established funds | [sec-037.md](sec-037.md) |
 | 38. Purchase of shares by citizens of Zambia | [sec-038.md](sec-038.md) |
-| 39. Mode of payment of shares | [sec-039.md](sec-039.md) |
+| 39. Mode of payment of be sold on shares | [sec-039.md](sec-039.md) |
 | 40. Negotiations for offer of sale | [sec-040.md](sec-040.md) |
 | 41. Conversion of private companies | [sec-041.md](sec-041.md) |
 | 42. Trading in shares | [sec-042.md](sec-042.md) |
@@ -61,7 +61,7 @@ Text layer: typeset.
 | 52. Privatization Trust Account | [sec-052.md](sec-052.md) |
 | 53. Use of proceeds | [sec-053.md](sec-053.md) |
 | 54. Regulations on incentives | [sec-054.md](sec-054.md) |
-| 55. Validity period for incentives | [sec-055.md](sec-055.md) |
+| 55. valid for a Validity period for incentives | [sec-055.md](sec-055.md) |
 | 56. Qualification for incentives | [sec-056.md](sec-056.md) |
 | 57. Incentives for machines or equipment | [sec-057.md](sec-057.md) |
 | 58. Major investment | [sec-058.md](sec-058.md) |
@@ -91,7 +91,7 @@ Text layer: typeset.
 | 82. Regulations | [sec-082.md](sec-082.md) |
 | 83. Act to bind Republic | [sec-083.md](sec-083.md) |
 | 84. Repeal Cap. | [sec-084.md](sec-084.md) |
-| 85. Savings and transitional provisions | [sec-085.md](sec-085.md) |
+| 85. transitional Savings and transitional provisions | [sec-085.md](sec-085.md) |
 | FIRST SCHEDULE | [schedule-01.md](schedule-01.md) |
 | SECOND SCHEDULE | [schedule-02.md](schedule-02.md) |
 | THIRD SCHEDULE | [schedule-03.md](schedule-03.md) |

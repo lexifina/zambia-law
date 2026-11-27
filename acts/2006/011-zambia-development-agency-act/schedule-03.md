@@ -49,4 +49,4 @@ FINANCIAL PROVISIONS
 (a) an audited balance sheet;
 (b) an audited statement of income and expenditure; and
 (c) respecting the Fund, such other information as the Minister may require.
-(3) The Minister shall not later than seven days after the first sitting of the National Assembly next after receipt of the report, referred to in subparagraph (1), lay the report before the National Assembly.
+(3) The Minister shall not later than seven days after the first sitting of the National Assembly next after receipt of referred to in subparagraph (1), lay the report before the National Assembly.
