@@ -10,7 +10,7 @@ Text layer: typeset.
 | 1. Short title and commencement | [sec-001.md](sec-001.md) |
 | 2. Interpretation | [sec-002.md](sec-002.md) |
 | 3. Continuation of Commission | [sec-003.md](sec-003.md) |
-| 4. Seal of Commission | [sec-004.md](sec-004.md) |
+| 4. that may be Seal of Commission | [sec-004.md](sec-004.md) |
 | 5. Functions of Commission | [sec-005.md](sec-005.md) |
 | 6. Board of Commission | [sec-006.md](sec-006.md) |
 | 7. Functions of Board | [sec-007.md](sec-007.md) |
@@ -22,13 +22,13 @@ Text layer: typeset.
 | 13. Proceedings of Board | [sec-013.md](sec-013.md) |
 | 14. Committees of Board | [sec-014.md](sec-014.md) |
 | 15. Filling of casual vacancy | [sec-015.md](sec-015.md) |
-| 16. Allowances of member | [sec-016.md](sec-016.md) |
+| 16. the Board, Allowances of member | [sec-016.md](sec-016.md) |
 | 17. Disclosure of interest | [sec-017.md](sec-017.md) |
 | 18. Prohibition of publication or disclosure | [sec-018.md](sec-018.md) |
-| 19. Immunity of member, committee | [sec-019.md](sec-019.md) |
+| 19. Immunity of member, Board, or a committee | [sec-019.md](sec-019.md) |
 | 20. Authorised officer | [sec-020.md](sec-020.md) |
 | 21. Powers of authorised officer | [sec-021.md](sec-021.md) |
-| 22. Prohibition of operation without | [sec-022.md](sec-022.md) |
+| 22. Prohibition of operation without commits an | [sec-022.md](sec-022.md) |
 | 23. Application for registration | [sec-023.md](sec-023.md) |
 | 24. Validity of certificate | [sec-024.md](sec-024.md) |
 | 25. Renewal of certificate of registration | [sec-025.md](sec-025.md) |
@@ -43,10 +43,10 @@ Text layer: typeset.
 | 34. Funds of Commission | [sec-034.md](sec-034.md) |
 | 35. Financial year | [sec-035.md](sec-035.md) |
 | 36. Accounts and Audit | [sec-036.md](sec-036.md) |
-| 37. Annual | [sec-037.md](sec-037.md) |
+| 37. Annual report | [sec-037.md](sec-037.md) |
 | 38. Appeals | [sec-038.md](sec-038.md) |
 | 39. Guidelines | [sec-039.md](sec-039.md) |
 | 40. Regulations | [sec-040.md](sec-040.md) |
 | 41. Repeal of | [sec-041.md](sec-041.md) |
-| 42. Savings and transitional provisions | [sec-042.md](sec-042.md) |
+| 42. transitional Savings and transitional provisions | [sec-042.md](sec-042.md) |
 | SCHEDULE | [schedule-01.md](schedule-01.md) |
