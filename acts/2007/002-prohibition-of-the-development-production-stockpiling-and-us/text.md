@@ -55,13 +55,15 @@ territory of a State Party or in any
 other place under the jurisdiction
 or control of a State Party, for
 purposes not prohibited under the
-Convention, but can be used for
+Convention, but can
+be used for
 chemical weapons purposes; or
 (ii) for filling chemical weapons, including, inter
 alia, the filling of Schedule 1 chemicals
 into munitions, devices or bulk storage
 containers, the filling of chemicals into
-containers that form part of assembled
+containers that form part of
+assembled
 binary munitions and devices or into
 chemical submunitions that form part of
 assembled unitary munitions and devices,
@@ -69,10 +71,12 @@ and the loading of the containers and
 chemical submunitions into the respective
 munitions and devices; but does not
 include —
-(A) any facility having a production
+(A) any facility having a
+production
 capacity for synthesis of
 Stockpiling and use of Chemical Weapons
-chemicals specified in
+chemicals specified
+in
 subparagraph (i) that is less than
 1 tonne;
 (B) any facility in which a chemical
@@ -115,17 +119,20 @@ Stockpiling and use of Chemical Weapons
 “ import ” means to bring toxic chemicals or their precursors
 into any part of the Republic of Zambia whether or not in
 exchange for currency or any other commodity or benefit;
-“ information ” means any record regardless of form or
+“ information ” means any record regardless
+of form or
 medium;
 “ key component of binary or multicomponent chemical
 systems ” (hereinafter referred to as ‘a key component’)
 means the precursor which plays the most important role
 in determining the toxic properties of the final product and
-reacts rapidly with other chemicals in the binary or
+reacts rapidly with other chemicals in the
+binary or
 multicomponent system;
 “ member ” means a member of the Authority;
 “ name plate capacity ” in relation to production
-capacity, means the product output under conditions
+capacity, means the product output under
+conditions
 optimised for maximum quantity for the production facility,
 as demonstrated by one or more test-runs;
 “ OPCW ” means the Organisation for the Prohibition of
@@ -133,7 +140,8 @@ Chemical Weapons established pursuant to Article VIII of
 the Convention;
 “ officer ” has the meaning assigned to it under sub section
 (3) of section seven;
-“ person ”means a natural or juristic person and includes
+“ person ”means a natural or juristic person and
+includes
 a natural or juristic person of Zambian nationality;
 “ precursor ” means—
 (a) any chemical reactant, which takes part at any stage
@@ -142,10 +150,12 @@ chemical and includes any key component of a
 binary or multi- component chemical system; and
 (b) precursors which have been identified for the
 application of verification measures by the OPCW
-and are listed in the First, Second and Third
+and are listed in the First, Second
+and Third
 Schedules;
 “ premises ” means any land, building or structure and includes
-a vehicle, vessel, aircraft or any other means of
+a vehicle, vessel, aircraft or any other
+means of
 conveyance;
 “ production capacity ” means the annual quantitative potential
 for manufacturing a specific chemical based on the
@@ -204,7 +214,8 @@ Application
 Zambian or foreign registered vehicle; and
 (b) all foreign persons living, and all foreign firms and
 companies operating, in the Republic of Zambia.
-(2) For purposes of this section, “ vehicle ” means any
+(2) For purposes of this section, “ vehicle ”
+means any
 conveyance used on land, on the sea or in the air.
 PART II
 THE ZAMBIA NATIONAL AUTHORITY ON THE CHEMICAL WEAPONS
@@ -216,7 +227,8 @@ on the Chemical Weapons Convention, which shall be responsible
 Authority
 for the enforcement of this Act.
 (2) The Authority shall be a unit based in the Ministry
-responsible for foreign affairs and shall be under the control and
+responsible for foreign affairs and shall be under the
+control and
 supervision of the Minister responsible for foreign affairs.
 (3) The expenses of the Authority shall be charged upon and
 issued out of the general revenues of the Republic.
@@ -226,14 +238,17 @@ of
 shall consist of the following part-time members appointed by the
 Authority
 Minister:
-(a) a representative of the Ministry responsible for foreign
+(a) a representative of the Ministry responsible
+for foreign
 affairs, who shall be the Chairperson;
 (b) a representative of the Ministry responsible for defence,
 who shall be the Vice- Chairperson;
 (c) a representative of the Ministry responsible for home
 affairs;
-(d) a representative of the Inspector- Generalof Police;
-(e) a representative of the Ministry responsible for science
+(d) a representative of the Inspector- Generalof
+Police;
+(e) a representative of the Ministry responsible
+for science
 and technology;
 (f) a representative of the Ministry responsible for health;
 (g) a representative of the Ministry responsible for commerce,
@@ -304,7 +319,8 @@ meeting.
 (11) The determination of any matter before the Authority shall
 be according to the votes of the majority of the members present
 and considering the matter.
-(12) The Authority may invite any person whose presence in
+(12) The Authority may invite any person whose
+presence in
 its opinion is desirable to attend and to participate in the deliberations
 of a meeting of the Authority but such person shall have no vote.
 (13) The Authority shall cause minutes to be kept of the
@@ -358,7 +374,8 @@ Director and
 other public
 a public officer appointed by the Public Service Commission.
 officers
-(2) The Director shall, subject to the general or specific
+(2) The Director shall, subject to the general
+or specific
 directions of the Minister—
 (a) be responsible for the administration of the Authority;
 (b) be responsible to the Minister for matters concerning the
@@ -366,7 +383,8 @@ Convention; and
 (c) exercise the functions conferred or imposed upon the
 Director by or under, this Act.
 (3) There shall be appointed by the Public Service Commission
-such other officers as shall be necessary to assist the Director in
+such other officers as shall be necessary to assist the
+Director in
 the performance of the Director’s functions under this Act:
 Provided that an officer from —
 (a) the armed forces;
@@ -437,7 +455,8 @@ jurisdiction to impose any penalty provided for in terms of this Act.
 Prohibitions
 10. (1) No person shall—
 relating to
-(a) produce, acquire, retain or use Schedule 1 chemicals
+(a) produce, acquire, retain or use Schedule 1
+chemicals
 Schedule 1
 outside the territory of the Republic of Zambia unless
 chemicals
@@ -455,7 +474,8 @@ before the transfer:
 Provided that notwithstanding the provisions of this
 subparagraph, notification of the transfer of saxitoxin
 shall be made not less than twenty-four hours before
-the time of transfer, if the transfer is for medical or
+the time of transfer, if the transfer is for
+medical or
 diagnostic purposes and the quantity is five milligrams
 or less; and
 (e) retransfer to a third State chemicals transferred to the
@@ -476,7 +496,8 @@ subsection (2).
 Schedule 2 chemicals in which—
 (a) the product contains one percent or less of a Schedule 2
 chemical listed in Part A of the Second Schedule;
-(b) the product contains ten percent or less of a Schedule 2
+(b) the product contains ten percent or less of a
+Schedule 2
 chemical listed in Part B of the Second Schedule; or
 Stockpiling and use of Chemical Weapons
 (c) the product is identified as a consumer good packaged for
@@ -526,8 +547,10 @@ chemicals
 use a Schedule 1 chemical listed in the First Schedule for a permitted
 purpose except under and in accordance with the conditions of a
 licence granted by the Authority in accordance with section sixteen.
-(2) Any person who produces, acquires, retains, transfers or
-uses a Schedule 1 chemical for a purpose other than a permitted
+(2) Any person who produces, acquires, retains,
+transfers or
+uses a Schedule 1 chemical for a purpose other than
+a permitted
 purpose commits an offence and shall be liable, on conviction, to
 imprisonment for a term of not less than twenty years and may be
 liable to imprisonment for life.
@@ -537,7 +560,8 @@ and 3
 (a) produce, process or consume more than one kilogram of
 chemicals
 and
-BZ: Quinuclidinyl benzilate, a Schedule 2 chemical
+BZ: Quinuclidinyl benzilate, a Schedule
+2 chemical
 unscheduled
 which is listed in Part A of the Second Schedule, per
 discrete
@@ -548,11 +572,14 @@ chemicals
 kilograms of any other Schedule 2 chemical listed in
 Part A of the Second Schedule per year for a permitted
 purpose;
-(c) produce, process or consume more than one tonne of a
-Schedule 2 chemical listed in Part B of the Second
+(c) produce, process or consume more than one
+tonne of a
+Schedule 2 chemical listed in Part B of
+the Second
 Schedule per year for a permitted purpose;
 (d) produce more than three tonnes of a Schedule 3 chemical
-listed in the Third Schedule per year for a permitted
+listed in the Third Schedule per year for
+a permitted
 purpose; or
 (e) produce by synthesis more than two hundred tonnes of
 unscheduled discrete organic chemicals or more than
@@ -638,7 +665,8 @@ or thing;
 accordance with the requirements of this Act, any
 regulations made under it, or the conditions of a
 licence;
-(f) take extracts from, or make copies of, a document;
+(f) take extracts from, or make copies of, a
+document;
 (g) interview any person working on the premises,
 including making sound recordings of such
 interviews;
@@ -708,7 +736,8 @@ enter and inspect the premises.
 conducted pursuant to the provisions of Part II of the Verification
 Annex to the Convention.
 (3) Where the provisions of Part II of the Verification Annex
-to the Convention differ from the provisions of Parts IV to IX of
+to the Convention differ from the provisions of Parts
+IV to IX of
 the Verification Annex relating to specific types of inspections, the
 provisions of Part IV to IX of the Verification Annex shall prevail.
 (4) An inspector may, in connection with any inspection under
@@ -741,7 +770,8 @@ payment, to imprisonment for a term not exceeding six months.
 Identification
 23. ( 1) The Minister may issue a certificate identifying an
 certificates
-OPCW inspector or any officer who may accompany an OPCW
+OPCW inspector or any officer who may accompany
+an OPCW
 inspector.
 (2) The certificate referred to in subsection (1) shall—
 (a) identify the OPCW inspector by name and indicate the
@@ -810,11 +840,14 @@ authorising entry to the premises and produce it if
 required to do so; and
 (d) as soon as is practicable after completing the inspection,
 give the occupier or the person in control of the premises
-a written notice stating that the premises have been
+a written notice stating that the premises
+have been
 entered:
-Provided that if at any time between the time of
+Provided that if at any time between
+the time of
 entry of any premises to be inspected and the time
-the inspection is completed, there is no person
+the inspection is completed, there is
+no person
 appearing to be in control of the premises, the notice,
 which shall be left in a conspicuous place on the
 premises, shall specify—
@@ -832,7 +865,8 @@ that inspection.
 Obstruction
 26. (1) Any person who obstructs, hinders, resists, or deceives
 of inspector
-any national inspector or OPCW inspector who is in exercise of
+any national inspector or OPCW inspector who is in
+exercise of
 any function contemplated, or any power provided for, in this section
 or in the Convention or in any applicable facility agreement, commits
 Stockpiling and use of Chemical Weapons
@@ -986,7 +1020,8 @@ shall be liable, on conviction, to a fine not exceeding five hundred
 thousand penalty units, or to imprisonment for a term not exceeding
 five years, or to both.
 False or
-31. Any person who, in any document prepared under this
+31. Any person who, in any document prepared
+under this
 misleading
 Part, makes a statement or omits any matter knowing that, or being
 statements
@@ -1008,13 +1043,15 @@ Public Prosecutions.
 Prosecutions
 (2) Notwithstanding subsection (1), a person may be charged
 with an offence under this Act and may be arrested for that offence
-or a warrant for the arrest of the person may be issued and
+or a warrant for the arrest of the person may be
+issued and
 executed, and any such person may be remanded by the court, in
 custody or on bail notwithstanding that the written consent of the
 Director of Public Prosecutions to the institution of the prosecution
 for the offence for which the person is charged has not been
 obtained:
-Provided that no person shall be remanded in custody or
+Provided that no person shall be remanded in
+custody or
 bail for a period longer than seven days on any charge unless
 in the meantime the written consent of the Director of Public
 Prosecutions referred to in the subsection has been obtained.
@@ -1103,9 +1140,11 @@ to act under this section may, with a warrant, enter upon any
 and entry
 premises for the purpose of —
 (a) investigating and enforcing compliance with this Act;
-(b) carrying out the provisions of this Act;
+(b) carrying out the provisions of this
+Act;
 (c) preventing or detecting any offence under this Act; or
-(d) assisting or accompanying a member of an OPCW
+(d) assisting or accompanying a member of
+an OPCW
 inspection team investigating allegations of non
 compliance with the Convention:
 Provided that no private dwelling house shall be
@@ -1123,7 +1162,8 @@ is committing, or is about to commit, an offence under this Act, the
 officer may, with a warrant, inspect and search any person or any
 building, tent or any baggage, wagon, caravan, vehicle, boat or
 aircraft in the possession or under the control of that person.
-(2) If the officer during a search conducted in accordance
+(2) If the officer during a search conducted in
+accordance
 with sub section (1) finds any thing, tangible or intangible, that has
 been used or is about to be used in contravention of this Act, the
 officer may seize and detain that thing:
@@ -1228,7 +1268,8 @@ State authority on condition that the competent State authority
 undertakes that such data or information shall only be —
 (a) utilised for purposes consistent with this Act and the
 Convention; and
-(b) used in criminal proceedings if they are obtained in
+(b) used in criminal proceedings if they are
+obtained in
 accordance with the rules governing international legal
 co-operation.
 (5) The Minister may provide the data or information described
@@ -1340,8 +1381,10 @@ Pr)-aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonites and
 corresponding alkylated or protonated salts; e.g QL: O-Ethyl O-2
 diisopropylaminoethyl methylphosphonite
 (57856-11-8)
-(11) Chlorosarin: O-Isopropyl methylphosphonochloridate (1445-76-7)
-(12) Chlorosoman: O-Pinacolyl methylphosphochloridate (7040-57-5)
+(11) Chlorosarin: O-Isopropyl methylphosphonochloridate
+(1445-76-7)
+(12) Chlorosoman: O-Pinacolyl methylphosphochloridate
+(7040-57-5)
 NOTES:
 1. This Schedule sets out Schedule 1 to the Annex on chemicals to the
 Convention as corrected.
