@@ -16,7 +16,7 @@ Text layer: typeset.
 | 7. Establishment of Water Resources Management | [sec-007.md](sec-007.md) |
 | 8. Functions of Authority | [sec-008.md](sec-008.md) |
 | 9. Powers of Authority | [sec-009.md](sec-009.md) |
-| 10. Relations with appropriate and | [sec-010.md](sec-010.md) |
+| 10. Relations with conservancy appropriate and | [sec-010.md](sec-010.md) |
 | 11. Constitution of Board | [sec-011.md](sec-011.md) |
 | 12. Committees of Board | [sec-012.md](sec-012.md) |
 | 13. Exercise of functions of Authority | [sec-013.md](sec-013.md) |
@@ -27,7 +27,7 @@ Text layer: typeset.
 | 18. Functions of catchment council | [sec-018.md](sec-018.md) |
 | 19. Constitution of subcatchment council | [sec-019.md](sec-019.md) |
 | 20. Functions of subcatchment council | [sec-020.md](sec-020.md) |
-| 21. Catchment manager and other staff | [sec-021.md](sec-021.md) |
+| 21. management Catchment manager and other staff | [sec-021.md](sec-021.md) |
 | 22. General functions of catchment manager | [sec-022.md](sec-022.md) |
 | 23. Collection of charges | [sec-023.md](sec-023.md) |
 | 24. Constitution of water users association | [sec-024.md](sec-024.md) |
@@ -39,9 +39,9 @@ Text layer: typeset.
 | 30. Consistency of water resources management | [sec-030.md](sec-030.md) |
 | 31. National water resources strategy and | [sec-031.md](sec-031.md) |
 | 32. Catchment management plan | [sec-032.md](sec-032.md) |
-| 33. Contents of catchment management plan | [sec-033.md](sec-033.md) |
+| 33. Contents of catchment management management plan | [sec-033.md](sec-033.md) |
 | 34. Publication of catchment management plan | [sec-034.md](sec-034.md) |
-| 35. Approval of catchment management plan | [sec-035.md](sec-035.md) |
+| 35. management Approval of catchment management plan | [sec-035.md](sec-035.md) |
 | 36. Effect of catchment management plan | [sec-036.md](sec-036.md) |
 | 37. Review of catchment management | [sec-037.md](sec-037.md) |
 | 38. National monitoring and information | [sec-038.md](sec-038.md) |
@@ -56,27 +56,27 @@ Text layer: typeset.
 | 47. Ambient standards, resource quality | [sec-047.md](sec-047.md) |
 | 48. Pollution of water resources | [sec-048.md](sec-048.md) |
 | 49. Steps to control or prevent water | [sec-049.md](sec-049.md) |
-| 50. Resource quality objectives | [sec-050.md](sec-050.md) |
+| 50. Resource quality resource and objectives | [sec-050.md](sec-050.md) |
 | 51. Declaration of water shortage areas | [sec-051.md](sec-051.md) |
 | 52. Powers of Authority in water shortage | [sec-052.md](sec-052.md) |
 | 53. Sinking, deepening or altering boreholes in | [sec-053.md](sec-053.md) |
 | 54. Maximum volume and rate of abstraction | [sec-054.md](sec-054.md) |
 | 55. Strategy on management of shared water | [sec-055.md](sec-055.md) |
 | 56. Cooperation over shared water resources | [sec-056.md](sec-056.md) |
-| 57. Powers and duties of Minister on management | [sec-057.md](sec-057.md) |
+| 57. Director, do Powers and duties of Minister on management | [sec-057.md](sec-057.md) |
 | 58. Establishment of institutions to implement | [sec-058.md](sec-058.md) |
 | 59. Transitional provisions for existing institutions | [sec-059.md](sec-059.md) |
 | 60. Uses of water | [sec-060.md](sec-060.md) |
 | 61. Allocation of water and prioritising its uses | [sec-061.md](sec-061.md) |
 | 62. Use of water for domestic purposes domestic and | [sec-062.md](sec-062.md) |
-| 63. Water for domestic purposes domestic and | [sec-063.md](sec-063.md) |
+| 63. to use water Water for domestic purposes domestic and | [sec-063.md](sec-063.md) |
 | 64. Use of minimum quantities of water for | [sec-064.md](sec-064.md) |
 | 65. Investigation of use of water | [sec-065.md](sec-065.md) |
 | 66. Wastage of water | [sec-066.md](sec-066.md) |
 | 67. Records of amount of water used to be | [sec-067.md](sec-067.md) |
-| 68. Regulations for use of water | [sec-068.md](sec-068.md) |
+| 68. may, on the Regulations for use of water | [sec-068.md](sec-068.md) |
 | 69. Integrated decisionmaking process and | [sec-069.md](sec-069.md) |
-| 70. Activities where no permits required | [sec-070.md](sec-070.md) |
+| 70. Activities where no permits required for domestic | [sec-070.md](sec-070.md) |
 | 71. Activities where permits required | [sec-071.md](sec-071.md) |
 | 72. Application for permit | [sec-072.md](sec-072.md) |
 | 73. Duty to consider application for permit | [sec-073.md](sec-073.md) |
@@ -84,8 +84,8 @@ Text layer: typeset.
 | 75. Temporary permit | [sec-075.md](sec-075.md) |
 | 76. Grant of permit and conditions of permit | [sec-076.md](sec-076.md) |
 | 77. Duration of permit | [sec-077.md](sec-077.md) |
-| 78. Refusal of permit | [sec-078.md](sec-078.md) |
-| 79. Renewal of permit | [sec-079.md](sec-079.md) |
+| 78. Refusal of permit this Act, the | [sec-078.md](sec-078.md) |
+| 79. period for a Renewal of permit | [sec-079.md](sec-079.md) |
 | 80. Permit to run with land or undertaking | [sec-080.md](sec-080.md) |
 | 81. Variation of permit | [sec-081.md](sec-081.md) |
 | 82. Variation of permit at request of permit | [sec-082.md](sec-082.md) |
@@ -106,8 +106,8 @@ Text layer: typeset.
 | 97. Interference with defective borehole | [sec-097.md](sec-097.md) |
 | 98. Offences | [sec-098.md](sec-098.md) |
 | 99. Information on ground water and confidentiality | [sec-099.md](sec-099.md) |
-| 100. Register of boreholes | [sec-100.md](sec-100.md) |
-| 101. Reporting of existing borehole | [sec-101.md](sec-101.md) |
+| 100. immediately Register of boreholes | [sec-100.md](sec-100.md) |
+| 101. a catchment Reporting of existing borehole | [sec-101.md](sec-101.md) |
 | 102. Definitions | [sec-102.md](sec-102.md) |
 | 103. Permission to construct water works | [sec-103.md](sec-103.md) |
 | 104. Reporting of existing water works | [sec-104.md](sec-104.md) |
@@ -126,19 +126,19 @@ Text layer: typeset.
 | 117. Right of access, inspection, investigation | [sec-117.md](sec-117.md) |
 | 118. Emergencies arising during execution of dam works | [sec-118.md](sec-118.md) |
 | 119. Access to dam for certain purposes | [sec-119.md](sec-119.md) |
-| 120. Declaration of dam with safety risk | [sec-120.md](sec-120.md) |
+| 120. Declaration of dam with safety risk to a dam, by | [sec-120.md](sec-120.md) |
 | 121. Factors to determine whether dam is dam with | [sec-121.md](sec-121.md) |
-| 122. Control measures for dam with safety risk | [sec-122.md](sec-122.md) |
+| 122. Control measures for the dam is a dam with safety risk | [sec-122.md](sec-122.md) |
 | 123. Registration of dam with safety risk | [sec-123.md](sec-123.md) |
 | 124. Responsibilities of constructor or engineer | [sec-124.md](sec-124.md) |
 | 125. Easement not proprietary interest in | [sec-125.md](sec-125.md) |
 | 126. Encumbrances | [sec-126.md](sec-126.md) |
 | 127. Easement includes right of access | [sec-127.md](sec-127.md) |
-| 128. Publication of easement | [sec-128.md](sec-128.md) |
+| 128. be published Publication of easement | [sec-128.md](sec-128.md) |
 | 129. Claim of easement and entry on land | [sec-129.md](sec-129.md) |
 | 130. Method of claiming easement | [sec-130.md](sec-130.md) |
 | 131. Consent of occupier to easement | [sec-131.md](sec-131.md) |
-| 132. Application when occupier does not | [sec-132.md](sec-132.md) |
+| 132. Application when claim for an occupier does not | [sec-132.md](sec-132.md) |
 | 133. Determination of application for easement | [sec-133.md](sec-133.md) |
 | 134. Lapsing of easement | [sec-134.md](sec-134.md) |
 | 135. Damage caused by water works of permit | [sec-135.md](sec-135.md) |
@@ -156,7 +156,7 @@ Text layer: typeset.
 | 147. Measures during floods | [sec-147.md](sec-147.md) |
 | 148. Emergency water works | [sec-148.md](sec-148.md) |
 | 149. Spillage of harmful or toxic substances | [sec-149.md](sec-149.md) |
-| 150. Pricing strategy | [sec-150.md](sec-150.md) |
+| 150. fixed under Pricing strategy | [sec-150.md](sec-150.md) |
 | 151. Water use charges | [sec-151.md](sec-151.md) |
 | 152. Fees | [sec-152.md](sec-152.md) |
 | 153. Recovery of water use charges and fees | [sec-153.md](sec-153.md) |
@@ -180,12 +180,12 @@ Text layer: typeset.
 | 171. Protection of Minister and others from liability | [sec-171.md](sec-171.md) |
 | 172. General penalties for offences | [sec-172.md](sec-172.md) |
 | 173. Offences by corporation | [sec-173.md](sec-173.md) |
-| 174. Prosecutions | [sec-174.md](sec-174.md) |
+| 174. may, at the Prosecutions | [sec-174.md](sec-174.md) |
 | 175. Fine in lieu of prosecution | [sec-175.md](sec-175.md) |
 | 176. Recovery by distress | [sec-176.md](sec-176.md) |
-| 177. Public consultation | [sec-177.md](sec-177.md) |
+| 177. Public consultation in a manner | [sec-177.md](sec-177.md) |
 | 178. No warranty implied by inspection | [sec-178.md](sec-178.md) |
-| 179. Regulations | [sec-179.md](sec-179.md) |
+| 179. for, or with Regulations | [sec-179.md](sec-179.md) |
 | 180. Repeal of | [sec-180.md](sec-180.md) |
 | FIRST SCHEDULE | [schedule-01.md](schedule-01.md) |
 | SECOND SCHEDULE | [schedule-02.md](schedule-02.md) |

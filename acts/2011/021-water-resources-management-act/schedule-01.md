@@ -6,7 +6,7 @@ ADMINISTRATION OF AUTHORITY
 (3) Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not be required to be under seal, may be entered into or executed without seal on behalf of the Authority by the Secretary or any other person generally or specifically authorised by the Board in that behalf.
 (4) Any document purporting to be a document under the seal of the Authority or issued on behalf of the Authority shall be received in evidence and shall be deemed to be so executed or issued, as the case may be, without further proof, unless the contrary is proved.
 2. (1) Subject to this Act, a member of the Board shall hold office for a period of three years from the date of appointment and may be re-appointed for a further like period.
-(2) Subject to the other provisions of this Act, a member shall, on the expiration of the period for which the member is appointed, continue to hold office until another member is appointed to succeed that member but in no case shall the further period exceed four months.
+(2) Subject to the other provisions of this Act, a member shall, on the expiration of the period for which the member is appointed, continue to hold office until another member is appointed to succeed that member but in no case shall the further period months.
 (3) The office of a member becomes vacant—
 (a) upon the member’s death;
 (b) if the member is adjudged bankrupt;
@@ -17,9 +17,9 @@ ADMINISTRATION OF AUTHORITY
 (g) if the member is convicted of an offence under this Act or any other law.
 (4) The Minister shall, where the office of a member becomes vacant, appoint another member in place of the member who vacates office, and such member shall hold office for the remainder of the term.
 (5) A member may resign upon giving one month’s notice, in writing, to the organisation which nominated the member and to the Minister.
-3. Whenever the office of a member becomes vacant before the expiry of the term of office the Minister may appoint in accordance with section eleven, another member in place of the member who vacates office but such member shall hold office only for the unexpired part of the term.
+3. Whenever the office of a member becomes vacant before the expiry of the term of office the Minister may appoint in accordance with section eleven, another member in member who vacates office but such member shall hold office only for the unexpired part of the term.
 4. (1) Subject to this Act, the Board may regulate its own procedure.
-(2) The Board shall meet for the transaction of business at least once in every three months at such places and times as the Chairperson may determine.
+(2) The Board shall meet for the transaction of business at least once in every three months at such places and Chairperson may determine.
 (3) Upon giving notice of not less than fourteen days, a meeting of the Board may be called by the Chairperson and shall be called if not less than one third of the members so request in writing:
 Provided that if the urgency of any particular matter does not permit the giving of such notice, a special meeting may be called upon a shorter notice being given by three members of the Board.
 (4) Seven members of the Board shall form a quorum.
@@ -36,7 +36,7 @@ Provided that if the urgency of any particular matter does not permit the giving
 (2) A disclosure of interest made under this section shall be recorded in the minutes of the meeting at which it is made.
 7. (1) A person shall not, without the consent in writing given by, or on behalf of, the Authority, publish or disclose to any unauthorised person, otherwise than in the course of duties of that person, the contents of any document, communication or information whatsoever, which relates to or which has come to the knowledge of that person in the course of that person’s duties under this Act.
 (2) A person who contravenes subparagraph (1) commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
-(3) A person who, having any information which to the knowledge of that person has been published or disclosed in contravention of sub-paragraph (1), unlawfully publishes or communicates the information to any other person, commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
+(3) A person who, having any information which to the knowledge of that person has been published or contravention of sub-paragraph (1), unlawfully publishes or communicates the information to any other person, offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
 PART II
 FINANCIAL PROVISIONS
 8. (1) The funds of the Authority shall consist of such moneys as may—
@@ -62,4 +62,4 @@ FINANCIAL PROVISIONS
 (a) an audited balance sheet;
 (b) an audited statement of income and expenditure; and
 (c) such other information as the Minister may require.
-(3) The Minister shall not later than seven days after the first sitting of the National Assembly next after receipt of the report referred to in subparagraph (1), lay the report before the National Assembly.
+(3) The Minister shall not later than seven days after the first sitting of the National Assembly next after receipt referred to in subparagraph (1), lay the report before the National Assembly.
