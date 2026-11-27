@@ -8,10 +8,12 @@ ENACTED by the Parliament of Zambia.
 Enactment
 PARTI
 PRELIMINARY
-1. (1) This Act may be cited as the Mines and Minerals Short title
+1. (1) This Act may be cited as the Mines and Minerals
+Short title
 Development Act, 2008.
 (2) This Act shall come into operation on 1st April, 2008.
-2. (1) In this Act, unless the context otherwise requires— Interpretation
+2. (1) In this Act, unless the context otherwise requires—
+Interpretation
 "access agreement" means an agreement entered into between
 the holder of a mining right and an owner or occupier of
 land over which the right subsists, for the regulation of
@@ -28,7 +30,8 @@ titanium, scandium, vanadium and chromium;
 section one hundred and forty four of the Zambia Wild
 Act No. 12 of
 life Act, 1998;
-"cadastre unit" means a quadrilateral formed by the
+"cadastre unit" means a quadrilateral formed
+by the
 intersection of meridians and parallels and with a distance
 equal to six sexagesimal seconds, and that covers an
 average planimetric surface of three point three four
@@ -37,9 +40,11 @@ zero zero_ hectares;
 office established under section one hundred and forty-
 five;
 "citizen -owned company" means a company
-where at least fifty point one per cent of its equity is owned
+where at least fifty point one per cent of its equity is
+owned
 by Zambian citizens and in which the Zambian citizens
-have significant control of the management of the
+have significant control of the management
+of the
 company;
 "Commissioner-General" means the Commissioner-
 General appointed under the Zambia Revenue Authority
@@ -48,7 +53,8 @@ Act;
 "Director" means the Director of Mines appointed under
 section one hundred and forty-four;
 " Director of Geological Survey" means the person
-appointed as such under subsection (3) of section One
+appointed as such under subsection (3) of section
+One
 hundred and forty four;
 "Director of Mines Safety" means the person appointed as
 such under subsection (2) of section One hundred and
@@ -63,7 +69,8 @@ Cap. 204
 Act;
 "environmental impact study" has the meaning assigned to it
 in the Environmental Protection and Pollution Control
-(Environmental Impact Assessment) Regulations, 1997;
+(Environmental Impact Assessment) Regulations,
+1997;
 "Environment Management Plan" means a plan approved by
 the Environmental Council of Zambia in accordance with
 Cap. 204
@@ -123,10 +130,12 @@ from such water; and
 (b) petroleum
 "mineral processing"means the practice of beneficiating or
 liberating valuable minerals from their ores which may
-combine a number of unit operations such as crushing,
+combine a number of unit operations such as
+crushing,
 grinding, sizing, screening, classification, washing, froth
 floatation, gravity concentration, electrostatic separation,
-magnetic separation, leaching, smelting, refining, calcining
+magnetic separation, leaching, smelting, refining,
+calcining
 and gasification or any other processes incidental thereto;
 "mineral process lincence" means a mineral processing licence
 granted under part VI of this Act;
@@ -136,9 +145,12 @@ for the extraction of minerals;
 or gaseous, from land or from beneath the surface of the
 earth in order to win minerals, or any operations directly or
 indirectly necessary or incidental thereto;
-"Mining Advisory Committee" means the Mining Advisory
-Committee established by section one hundred and fifty;
-"mining area" means an area of land subject to a licence or
+"Mining Advisory Committee" means the Mining
+Advisory
+Committee established by section one hundred
+and fifty;
+"mining area" means an area of land subject to a
+licence or
 permit under this Act;
 "Mining Cadastre Office" means the central administrative
 office established in Lusaka which is responsible for the
@@ -150,8 +162,10 @@ an operation carried out under a prospecting permit,
 prospecting licence or mineral processing licence;
 "mining plant" means any building, plant, machinery,
 equipment, tools or other property used for mining, whether
-or not affixed to land, but does not include any timber or
-other material used or applied in the construction or support
+or not affixed to land, but does not include any
+timber or
+other material used or applied in the construction
+or support
 of any shaft, drive, gallery, terrace, race, dam or other work;
 "mining right" means a right granted under subsection (1) of
 section six;
@@ -160,14 +174,17 @@ section eight of the Forests Act;
 "National Park" means an area declared as such under section
 Cap. 199
 ten of the Zambia Wildlife Act;
-"non-mining right" means a mineral processing licence or
+"non-mining right" means a mineral processing
+licence or
 gemstone sales certificate granted under this Act;
 "ore" means a natural aggregate of one or more valuable
 minerals which may be mined or from which some parts
 may be extracted;
-"ore body" means a continous, well defined mass of ore;
+"ore body" means a continous, well defined mass
+of ore;
 Cap. 435
-"petroleum" has the meaning assigned to it in the Petroleum
+"petroleum" has the meaning assigned to it in the
+Petroleum
 (Exploration and Production) Act, but does not include coal
 or oil shale;
 "preliminary investigation rights" uieans rights granted by the
@@ -213,16 +230,19 @@ imposed by that provision on an authorised officer.
 (3) A reference in this Act to land subject to a mining right, is a
 reference to an area of land in respect of which a mining right has
 been granted and subsists.
-3. (1) All rights of ownership in, searching for, mining and Rights to
+3. (1) All rights of ownership in, searching for, mining and
+Rights to
 disposing of, minerals wheresoever located in the Republic are v e g t e < j -m
 hereby vested in the President on behalf of the Republic.
 President
 (2) The provisions of this section have effect notwithstanding
-any right, title or interest which any person may possess in or over
+any right, title or interest which any person may possess
+in or over
 the soil in, on or under which minerals are found.
 PART II
 M INING RIGHTS
-Acquisition 4. Subject to the other provisions of this Act, rights of
+Acquisition 4. Subject to the other provisions of this Act,
+rights of
 ofmining prospecting for, mining and disposing of, minerals shall be acquired
 rights
 and held under and in accordance with this Act.
@@ -235,7 +255,8 @@ mining, etc.
 under this Act.
 without
 mining right
-(2) The Director of Geological Survey may, for a period not
+(2) The Director of Geological Survey may, for a
+period not
 or mineral
 exceeding ninety days, grant in writing, subject to such conditions,
 processing
@@ -248,17 +269,20 @@ by geo-physical, geo-chemical and photo-geological survey or by
 the study of surface geology.
 (3) A right granted by the Director of Geological Survey under
 subsection (2) shall not confer on the holder exclusive rights over
-the area to which it relates or any preference or priority in respect
+the area to which it relates or any preference or priority
+in respect
 of an application for a mining right over that area.
 (4) A person who contravenes subsection (1) commits an
 offence and is liable upon conviction —
 (a) in the case of an individual, to a fine not exceeding one
-million penalty units or to imprisonment for a term not
+million penalty units or to imprisonment for
+a term not
 exceeding ten years, or to both; or
 (b) in the case of a body corporate or un-incorporate body,
 to a fine of five million penalty units.
 Types of
-6 (1) The following mining rights may be granted under this
+6 (1) The following mining rights may be granted
+under this
 rights
 Act:
 (a) a prospecting licence;
@@ -272,8 +296,10 @@ Act:
 this Act:
 (a) a mineral processing licence; and
 (b) a gemstone sales certificate.
-7. (1) A mining right or non-mining right shall not be granted Certain
-to any person except in accordance with the provisions of this Act. persons
+7. (1) A mining right or non-mining right shall not be granted
+Certain
+to any person except in accordance with the provisions of this Act.
+persons
 disqualified
 (2) A mining right or non-mining right shall not be granted to
 from
@@ -300,7 +326,8 @@ exceeding fifty thousand penalty units; or
 part of a scheme for the reconstruction of the
 company or for its amalgamation with another
 company;
-(ii) unless the company is incorporated under the Companies Cap. 388
+(ii) unless the company is incorporated under the Companies
+Cap. 388
 Act.
 (iii) which has not established an office in Zambia; or
 (iv) which has among its directors or shareholders any
@@ -327,13 +354,15 @@ conditions attached to it at the time it is granted and, to the extent
 and mineral
 that the amendment of such conditions during the currency of the
 processing
-mining right or mineral processing licence is permitted under this
+mining right or mineral processing licence is permitted
+under this
 licence
 Act, to the conditions as amended.
 Priority of
 9. Subject to this Act, where more than one person apply for
 applications
-a mining right over the same area of land, the Director of Geological
+a mining right over the same area of land, the Director of
+Geological
 for mining
 rights
 survey as the case may be shall dispose of the applications in the
@@ -354,14 +383,16 @@ position indicated in the approved programmes of
 operations;
 (c) the geological position of the minerals or metals applied
 for is different from the position of the holder's plant
-and infrastructure indicated in the approved programme
+and infrastructure indicated in the approved
+programme
 of operations; or
 (d) the mineral applied for is an industrial mineral and the
 holder is not eligible under the Act.
 (3) An applicant shall, where a holder of a mining right over
 an area in respect of which the application is made withholds
 consent, apply to the Mining Advisory Committee which shall
-determine the matter taking into account the matters referred to
+determine the matter taking into account the matters
+referred to
 under paragraphs (a) to (d) of subsection (2).
 Survey of
 11. The Director or the Director of Geological Survey as the
@@ -401,8 +432,10 @@ with the provisions of this Act.
 (6) The Minister shall grant a licence to the holder with the
 best proposed programme and in so doing shall take into account
 the recommendation of the Mining Advisory Committee.
-13. (1) A holder of a mining right or a mineral processing Preference
-licence issued under this Act, shall, in the conduct of operations for
+13. (1) A holder of a mining right or a mineral processing
+Preference
+licence issued under this Act, shall, in the conduct of operations
+for
 under the mining right or mineral processing licence, and in the
 -Zambian
 purchase, construction and installation of facilities, give preference,
@@ -420,30 +453,36 @@ consultation with the Minister, for the benefit of employees to enable
 the employees qualify for advancement.
 PART III
 LARGE SCALE MINING OPERATIONS
-Division I - Prospecting Licence
+Division I - Prospecting
+Licence
 14. (1) An application for a prospecting licence shall be made
 Application
-to the Director of Geological Survey in the prescribed form upon
+to the Director of Geological Survey in the prescribed
+form upon
 for
 payment of the prescribed fee.
 prospecting
 licence
-(2) An application made under subsection (1) shall
+(2) An application made under subsection
+(1) shall
 include—
 (a) a full description, with geographical coordinates, of the
 area of land over which the licence is sought, but not
 exceeding twenty-nine thousand, nine hundred and forty
 cadastre units, and represented by complete and not
 partial cadastre units;
-(b) a statement of the minerals to be searched for;
+(b) a statement of the minerals to be searched
+for;
 (c) an environmental management plan including the
 applicant's proposals for the prevention of pollution, the
 treatment of waste, the protection and reclamation of
 land and water resources, and for eliminating or
 minimising the adverse effects on the environment of
 prospecting operations;
-(d) the proposed prospecting operations and an indication
-of the investment commitment in the proposed
+(d) the proposed prospecting operations and an
+indication
+of the investment commitment in the
+proposed
 prospecting operations;
 (e) the applicant's proposals with respect to the employment
 and training of citizens of Zambia;
@@ -469,7 +508,8 @@ prospecting
 financial resources, technical competence and
 licence
 experience to carry on effective prospecting operations;
-(b) that the proposed programme of prospecting operations
+(b) that the proposed programme of prospecting
+operations
 is adequate and makes proper provision for
 environmental protection;
 (c) if the land is within the National Park, game management
@@ -517,16 +557,20 @@ respect of an area over which a previous prospecting licence has
 been held for seven years, a new prospecting licence shall not be
 granted before a period of two months has elapsed since the expiry
 of the previous licence.
-16. (1) The Director of Geological Survey shall, within sixty Grant of
-days of receipt of an application under section fourteen, grant a prospecting
-prospecting licence to the applicant, where the application meets licence
+16. (1) The Director of Geological Survey shall, within sixty
+Grant of
+days of receipt of an application under section fourteen, grant a
+prospecting
+prospecting licence to the applicant, where the application meets
+licence
 the requirements of this Act.
 (2) A prospecting licence shall—
 (a) state the date on which the licence shall commence the
 prospecting operation and the conditions on which it is
 granted;
 (^specify the minerals in respect of which it is granted; and
-(c) include a description and plan of the prospecting area.
+(c) include a description and plan of the prospecting
+area.
 (3) There shall be attached to a prospecting licence the
 programme of prospecting operations as approved by the Director
 of Geological Survey, which shall form part of the conditions of the
@@ -536,7 +580,8 @@ licence, the Director of Geological Survey shall take account of
 any period not exceeding six months from the date of the grant
 which is required by the applicant to make any necessary
 preparations for prospecting operations.
-Duration of 17. (1) Subject to the other provisions of this Act, a prospecting
+Duration of
+17. (1) Subject to the other provisions of this Act, a prospecting
 prospecting licence shall be valid for a period of two years.
 licence
 (2) A prospecting licence may, on its expiry, be renewed for a
@@ -554,9 +599,11 @@ do all such other acts and things as are necessary for or
 reasonably incidental to the carrying on of those operations.
 Obligations 19. (1) A holder of a prospecting licence shall —
 of
-(a) commence prospecting operations within ninety days, or
+(a) commence prospecting operations within ninety
+days, or
 holder of
-such further period as the Director of Geological Survey
+such further period as the Director of Geological
+Survey
 prospecting
 licence
 may allow, from the date of the grant of the licence;
@@ -569,7 +616,8 @@ conditions of the prospecting licence to be so expended;
 (d) carry on prospecting operations in accordance with the
 programme of prospecting operations;
 (e) notify the Director of Geological Survey of the discovery
-of the mineral to which the prospecting licence relates
+of the mineral to which the prospecting licence
+relates
 within a period of thirty days of such discovery;
 (f) backfill or otherwise make safe any excavation made
 during the course of the prospecting operations, as the
@@ -619,19 +667,23 @@ and shall furnish, at least once in every three months, digital and
 hard copies of the records to the Director, Director of Geological
 Survey and Director of Mines Safety.
 (3) A person who—
-(a) fails to keep any record or information required to be
+(a) fails to keep any record or information required
+to be
 kept under subsection (2);
 (b) fails to supply any record or mineral samples to the
 Director, Director of Geological Survey and Director of
-Mines Safety in accordance with subsection (2); or
+Mines Safety in accordance with subsection (2);
+or
 (c) supplies any false or misleading record or information;
 commits an offence and is liable, upon conviction, to
-a fine not exceeding two hundred thousand penalty units
+a fine not exceeding two hundred thousand penalty
+units
 or to imprisonment for a period not exceeding two years,
 or to both.
 Amendment 20. (1) A holder of a prospecting licence shall apply to the
 of
-Director of Geological Survey where the holder intends to make
+Director of Geological Survey where the holder intends to
+make
 programme
 any amendments to the programme of prospecting operations in
 of
@@ -647,7 +699,8 @@ modifications and on such terms and conditions as the
 Director of Geological Survey may determine; or
 (b) reject the proposed amendments and give the applicant
 the reasons therefor.
-Transfer of 21. (1) Subjectto subsections (2) and (3), a prospecting licence
+Transfer of
+21. (1) Subjectto subsections (2) and (3), a prospecting licence
 prospecting or any interest therein or any controlling interest in the holder thereof
 licence
 may be transferred to any other person.
@@ -658,20 +711,27 @@ not less than thirty days before the intended transfer.
 referred to'under subsection (2), give to the Minister such details
 of the transferee as would be required in the case of an application
 for a prospecting licence under section fourteen.
-(4) Where the Minister is satisfied that the transferee is not
+(4) Where the Minister is satisfied that the transferee
+is not
 disqualified under any provision of this Act from holding a
-prospecting licence, the Minister shall approve the transfer of the
+prospecting licence, the Minister shall approve the transfer
+of the
 prospecting licence or an interest therein and notify the applicant
 accordingly.
 (5) Upon the transfer of a prospecting licence, the transferee
 shall assume and be responsible for all the rights, liabilities and
 duties of the transferor under the prospecting licence for the
 unexpired period of the licence.
+Mines and Minerals Development
+[No. 7 of
 (6) Any transaction purporting to transfer a prospecting licence
 in contravention of this section is void.
-22. (1) Except for the purpose of having the mineral analysed Restrictions
-or conducting tests on the mineral, a holder of a prospecting licence on removal
-shall not remove any mineral from the prospecting area without of minerals
+22. (1) Except for the purpose of having the mineral analysed
+Restrictions
+or conducting tests on the mineral, a holder of a prospecting licence
+on removal
+shall not remove any mineral from the prospecting area without
+of minerals
 the written permission of the Director of Geological Survey and
 shall, when so removing any mineral, comply with such conditions
 as the Director of Geological Survey may specify in the written
@@ -708,14 +768,16 @@ this Act.
 (5) A holder of an prospecting licence shall, where the holder
 discovers petroleum, report to the Minister within twenty-four hours
 of making the discovery.
-24. (1) A holder of a prospecting licence may, not later than Renewal of
+24. (1) A holder of a prospecting licence may, not later than
+Renewal of
 three months before the expiry of the prospecting licence, apply to
 prospecting
 the Director of Geological Survey for the renewal of the licence in
 licence
 the prescribed manner and form upon payment of the prescribed
 fee.
-(2) The Director of Geological Survey shall renew a
+(2) The Director of Geological Survey shall renew
+a
 prospecting licence for such period, not exceeding two years where
 the holder of the licence
 (a) is not in breach of any condition of the licence or any
@@ -732,16 +794,19 @@ into the prospects for recovery of any mineral deposit and its
 commercial significance, renew the prospecting licence for a further
 period but not exceeding one year.
 Division II - Large-Scale Mining Licence
-Application 25. (1) A holder of a prospecting licence may apply for a
+Application 25. (1) A holder of a prospecting licence may apply
+for a
 for large large-scale mining licence for the mining of minerals within the
 scale
 prospecting area.
 mining
 licence
 (2) An application for a large-scale mining licence shall be
-made to the Director in the prescribed manner and form upon
+made to the Director in the prescribed manner and form
+upon
 payment of the prescribed fee.
-(3) An application for a large-scale mining licence shall
+(3) An application for a large-scale mining licence
+shall
 include—
 (a) a statement of the period for which the licence is sought;
 (b) a statement of the minerals to be mined under the licence;
@@ -754,7 +819,8 @@ including a forecast of capital investment, the estimated
 recovery rate of ore and mineral products, and the
 proposed treatment and disposal of ore and minerals
 recovered;
-(e) the applicant's environmental management plan,
+(e) the applicant's environmental management
+plan,
 including the proposals for the prevention of pollution,
 the treatment of waste, the protection and reclamation
 of land and water resources, and for eliminating or
@@ -783,7 +849,8 @@ area of land for which the large-scale mining licence is
 sought, but not exceeding seven thousand, four hundred
 and eighty-five cadastre units and represented by
 complete and not partial cadastre units;
-(j) a tax clearance certificate issued under the Income Tax Cap. 323
+(j) a tax clearance certificate issued under the Income Tax
+Cap. 323
 Act;
 (k) a plan of the proposed mining area prepared in such
 manner and snowing such particulars as the Director
@@ -795,7 +862,8 @@ respect of radioactive minerals, the application shall contain the
 following additional information:
 (a) a plan and description of the mine, processing facilities
 and disposal sites;
-(b) a copy of the relevant licence issued under the Ionising Act No. 15
+(b) a copy of the relevant licence issued under the Ionising
+Act No. 15
 Radiation Protection Act;
 of 2005
 (c) a programme to educate persons living in the vicinity of
@@ -811,9 +879,12 @@ maintaining personal protective equipment;
 to radiation safety;
 (g) the proposed ventilation and dust control methods and
 associated equipment;
-(h) in relation to security, the proposed measures during
-storage and transportation of any radioactive mineral
-products and measures to alert the holder to acts of
+(h) in relation to security, the proposed measures
+during
+storage and transportation of any radioactive
+mineral
+products and measures to alert the holder to
+acts of
 sabotage at the mine or processing facility;
 (i) the storage, transportation and marketing arrangements;
 and
@@ -825,14 +896,16 @@ approved by the Environmental Council of Zambia.
 Consideration 26. (1) The Director shall, in considering an application under
 o f
 section twenty-five, take the following into account:
-foMarge° n
+foMarge°
+n
 ^ whether or not there are sufficient deposits or reserves
 scale mining
 of minerals to justify their commercial exploitation;
 licence
 (b) that the area of land over which the licence is sought is
 not in excess of the area reasonably required to carry
-out the applicant's proposed programme for mining
+out the applicant's proposed programme for
+mining
 operations;
 (c) taking into account the recognised standards of good
 mining practice, the applicant's proposed programme
@@ -841,32 +914,39 @@ beneficial use of the mineral resources of the area over
 which the licence is sought;
 (d) that the applicant's environmental management plan
 conforms to specifications and practices established by
-national standards for the management of the
+national standards for the management
+of the
 environment as it is affected by mining operations;
 (e) whether the applicant has, or has secured access to,
 adequate financial resources, technical competence and
 experience to carry out effective mining operations;
 (f) if the land is within a national Park, game management
 area, national forest or local forest, or is a bird sanctuary
-or land to which subsection (1) of section one hundred
+or land to which subsection (1) of section one
+hundred
 and twenty-seven applies, the applicant has obtained
 the necessary consent;
 (g) taking account of the size and nature of the proposed
-mining operations, the applicant's proposals for the
+mining operations, the applicant's proposals
+for the
 employment and training of citizens of Zambia are
 adequate; and
 (h) the applicant is not in breach of any condition of the
 prospecting licence or any provision of this Act.
 (2) The Director may cause an investigation to be made or
 consultations to be carried out as the Director may consider
-necessary to enable the Director to assess whether or not the
+necessary to enable the Director to assess whether or
+not the
 requirements of this section are met.
 (3) The Director shall, where an application does not meet
 the requirements of this Act, reject the application and give the
 applicant the reasons therefor.
-27. (1) Subject to the other provisions of this Act, the Director Grant of
-shall, within sixty days of the receipt of an application under section large-scale
-twenty-five, where the application meets the requirements of this mining
+27. (1) Subject to the other provisions of this Act, the Director
+Grant of
+shall, within sixty days of the receipt of an application under section
+large-scale
+twenty-five, where the application meets the requirements of this
+mining
 licence
 Act, grant a large-scale mining licence in respect of such part of
 the prospecting area, on such terms and conditions as the Director
@@ -887,11 +967,13 @@ of citizens of Zambia;
 business development; and
 (e) the applicant's capital investment forecast; which shall
 form part of the conditions of the licence.
-28. A large-scale mining licence shall, unless revoked earlier, Duration of
+28. A large-scale mining licence shall, unless revoked earlier,
+Duration of
 be granted for a period not exceeding twenty five years.
 large-scale
 mining
-29. (1) Subject to the conditions of the licence, a large-scale Rights
+29. (1) Subject to the conditions of the licence, a large-scale
+Rights
 conferred
 mining licence confers on the holder exclusive rights to carry on
 by large-
@@ -917,11 +999,14 @@ gemstones; and
 accordance with the envoironmental management plan.
 Obligations 30. (1) A holder of a large-scale mining licence shall—
 of holder of
-(a) develop the mining area, and carry on mining
+(a) develop the mining area, and carry on
+mining
 large-scale
 operations, with due diligence and in compliance with
 mining
-the programme of mining operations and the
+the programme of mining
+operations
+and the
 licence
 environmental management plan;
 (b) take all reasonable measures on or under the surface to
@@ -996,7 +1081,8 @@ licence
 (2) A holder of a large-scale mining licence who intends to
 transfer, assign, encumber or deal in any manner with the licence
 84 [ No. 7 of 2008
-Mines and Minerals Development
+Mines and Minerals
+Development
 shall apply to the Minister giving such particulars concerning the
 proposed transferee, assignee, or other party concerned as would
 be required in an application for a large-scale mining licence.
@@ -1004,16 +1090,20 @@ be required in an application for a large-scale mining licence.
 subsection (2) meets the requirements of this Act and the transferee
 is not disqualified under any provision of this Act from holding a
 large-scale mining licence, grant approval to the transfer,
-assignment, encumbrance or other dealing with the large-scale
+assignment, encumbrance or other dealing with the
+large-scale
 mining licence or interest therein.
 (4) A right or interest transferred under this section is only for
 the unexpired period of the licence.
 (5) Any transaction purporting to transfer a large-scale mining
 licence in contravention of this section is void.
-(6) For the purposes of this section, "interest" in a large-scale
-mining licence means in the case of a holder who is a private
+(6) For the purposes of this section, "interest" in a
+large-scale
+mining licence means in the case of a holder who
+is a private
 company, a controlling interest in such holder.
-Discovery of 33. (1) Subject to subsection (5), a holder of a large-scale
+Discovery of 33. (1) Subject to subsection (5), a holder of a
+large-scale
 minerals not mining licence shall, where in the course of exercising the rights
 included in under the licence, discovers any deposits of any mineral for which
 large-scale
@@ -1024,14 +1114,17 @@ licence
 days after such discovery, notify the Director thereof, giving
 particulars of the mineral discovered and the site and circumstances
 of the discovery.
-(2) A holder of a large-scale mining licence shall apply to the
-Director to have the mining of any deposit or mineral discovered
+(2) A holder of a large-scale mining licence shall
+apply to the
+Director to have the mining of any deposit or mineral
+discovered
 included in the holder's large-scale mining licence, giving in the
 application, a proposed programme of mining operations in respect
 of that mineral.
 (3) The Director shall, where the proposed programme of
 mining operations submitted under subsection (2) complies with
-the requirements of this Act, approve the application and amend
+the requirements of this Act, approve the application
+and amend
 the large-scale mining licence accordingly.
 (4) The Director shall not reject an application under subsection
 (3) unless the Director gives the applicant an opportunity to amend
@@ -1043,8 +1136,10 @@ six.
 (6) A holder of a large-scale mining lincence shall, where the
 holder discovers petroleum, report to the Director within twenty-
 four hours of making the discovery.
-34. (1) Subject to the other provisions of this section, a holder Suspension
-of a large-scale mining licence may suspend or curtail production ofproduction
+34. (1) Subject to the other provisions of this section, a holder
+Suspension
+of a large-scale mining licence may suspend or curtail production
+ofproduction
 for any of the following reasons:
 (a) an unsafe working environment;
 (b) uncontrolled pollution of the area resulting from the
@@ -1079,8 +1174,10 @@ which makes the mining operations under the licence impossible
 or impractical under the circumstances.
 35. (1) A holder of a large-scale mining licence may, at any
 Renewal of
-time not later than one year before the expiry of the licence, apply large-scale
-to the Director for the renewal of the licence in respect of all or mining
+time not later than one year before the expiry of the licence, apply
+large-scale
+to the Director for the renewal of the licence in respect of all or
+mining
 licence
 any part of the mining area.
 (2) An application for renewal shall be made to the Director in
@@ -1096,21 +1193,26 @@ production costs and revenue forecasts in
 respect of, the period of renewal;
 (iii) any expected changes in methods of mining and
 treatment; and
-(iv) any expected increase or reduction in mining
+(iv) any expected increase or reduction
+in mining
 activities and the estimated life of the mine;
 (c) a proposed programme of mining operations for the period
 of renewal; and
 (d) where the renewal is sought in respect of part only of
 the mining area, a plan identifying that part.
-(4) Subject to subsection (6), the Director shall, where an
-application for renewal of a large-scale mining licence meets the
-requirements of this Act, renew the large scale mining licence for
+(4) Subject to subsection (6), the Director shall,
+where an
+application for renewal of a large-scale mining licence
+meets the
+requirements of this Act, renew the large scale mining
+licence for
 a period not exceeding twenty five years.
 (5) The Director may renew a large-scale mining licence with
 or without a variation of the conditions of the licence.
 (6) The Director shall reject an application for renewal of a
 large-scale mining licence where—
-(a) the development of the mining area has not proceeded
+(a) the development of the mining area has not
+proceeded
 with reasonable diligence;
 (b) minerals in workable quantities do not remain to be
 produced;
@@ -1141,13 +1243,15 @@ out the mining programme.
 licence, attach to the licence the approved program of mining
 operations to be carried out in the period of renewal.
 Division III -Large-Scale Gemstone Licence
-36. (1) A person may apply for a large-scale gemstone Application
+36. (1) A person may apply for a large-scale gemstone
+Application
 licence for the prospecting and mining of gemstones.
 for large-
 scale
 (2) An application for a large scale gemstone licence shall
 gemstone
-be made to the Director in the prescribed manner and form upon licence
+be made to the Director in the prescribed manner and form upon
+licence
 payment of the prescribed fee.
 (3) An application for a large scale gemstone licence shall
 include—
@@ -1184,7 +1288,8 @@ import substitution,and repair and maintenance
 businesses locally;
 (iii) partnership between the Zambian entrepreneurs
 and foreign suppliers and contractors; and
-(iv) skills development to enable the Zambian
+(iv) skills development to enable the
+Zambian
 entrepreneurs attain quality standards in contract
 works and supply;
 (i)& full description, with geographical coordinates, of the
@@ -1198,11 +1303,13 @@ in Zambia;
 (k) a tax clearance certificate issued under the Income
 Tax Act;
 (I) a plan of the proposed mining area prepared in such
-manner and showing such particulars as the Director
+manner and showing such particulars as the
+Director
 may require; and
 (m) such further information as the Director may require
 for the disposal of the application.
-(4) An applicant shall commission and produce to the Director
+(4) An applicant shall commission and produce to the
+Director
 an environmental impact study on the proposed mining operations
 approved by the Environmental Council of Zambia.
 Consideration 3 7 . (1) The Minister shall, in considering an application under
@@ -1247,9 +1354,12 @@ requirements of this section are met.
 (3) The Director shall, where an application does not meet
 the requirements of this Act, reject the application and give the
 applicant the reasons therefor.
-38. (1) Subject to the other provisions ofthis Act, the Director Grant of
-shall, within sixty days of the receipt of an application under section large-scale
-thirty-six, where the application meets the requirements of this gemstone
+38. (1) Subject to the other provisions ofthis Act, the Director
+Grant of
+shall, within sixty days of the receipt of an application under section
+large-scale
+thirty-six, where the application meets the requirements of this
+gemstone
 Act, grant a large-scale gemstone licence on such terms and
 icence
 conditions as the Director may determine.
@@ -1257,9 +1367,11 @@ conditions as the Director may determine.
 (a) state the date of the grant of the licence, the period for
 which it is granted and the conditions on which it is
 granted; and
-(b) include a description and plan of the area of land over
+(b) include a description and plan of the area of
+land over
 which it is granted.
-(3) There shall be attached to a large-scale gemstone licence—
+(3) There shall be attached to a large-scale gemstone
+licence—
 (a) the programme of prospecting and mining operations as
 approved by the Director;
 (b) the applicant's environmental commitment plan;
@@ -1297,11 +1409,13 @@ the mineral recovered in the course of mining operations;
 (d) prospect within the mining area for any gemstones; and
 (e) stack or dump any mineral or waste products in
 accordance with the environmental management plan.
-41. (1) A holder of a large-scale gemstone licence shall— Obligations
+41. (1) A holder of a large-scale gemstone licence shall—
+Obligations
 of
 (a) develop the mining area, and carry on mining operations,
 holder of
-with due diligence and in compliance with the programme large-scale
+with due diligence and in compliance with the programme
+large-scale
 gemstone
 of mining operations and the environmental management
 licence
@@ -1337,13 +1451,17 @@ not connected with the operations under the
 mining licence, separate books of account from
 the operations under the licence;
 (a) permit an authorised officer at any time to inspect the
-books and records maintained in pursuance of paragraph
-(b) and deliver to the Minister, without charge, copies of
+books and records maintained in pursuance of
+paragraph
+(b) and deliver to the Minister, without charge,
+copies of
 any part of the books and records as the Minister may
 require;
-(c) submit to the Director such reports, records and other
+(c) submit to the Director such reports, records
+and other
 information as the Director may require concerning the
-conduct of the operations in the mining area; and
+conduct of the operations in the mining area;
+and
 (d) furnish the Director with a copy of the annual audited
 financial statements within six months of the end of each
 financial year.
@@ -1352,9 +1470,11 @@ financial year.
 kept under subsection (2);
 (b) fails to supply any record or mineral samples to the
 Director, Director of Geological Survey and Director of
-Mines Safety in accordance with subsection (2); or
+Mines Safety in accordance with subsection
+(2); or
 (c) supplies any false or misleading record or information;
-commits an offence and is liable, upon conviction to a fine not
+commits an offence and is liable, upon conviction to
+a fine not
 exceeding two hundred thousand penalty units or to imprisonment
 for a period not exceeding two years, or to both.
 42. (1) A holder of a large-scale gemstone licence shall apply
@@ -1371,7 +1491,8 @@ operations
 (a) approve the proposed amendments with or without any
 modifications and on such terms and conditions as the
 Minister may determine; or
-(b) reject the proposed amendments and give the applicant
+(b) reject the proposed amendments and give the
+applicant
 the reasons therefor.
 43. (1) A large-scale gemstone licence or any interest therein
 Transfer of
@@ -1418,7 +1539,8 @@ of that mineral.
 mining operations submitted under subsection (2) complies with
 the requirements of this Act, approve the application and amend
 the large-scale gemstone licence accordingly.
-(4) The Director shall not reject an application under subsection
+(4) The Director shall not reject an application under
+subsection
 (3) unless the Director gives the applicant an opportunity to amend
 the programme in such manner as the Director may determine.
 (5) A holder of a large-scale gemstone licence shall, where
@@ -1428,17 +1550,21 @@ Suspension 45. (1) Subject to the other provisions of this section, a
 ofproduction holder of a large-scale gemstone licence may suspend or curtail
 production for any of the following reasons:
 (a) an unsafe working environment;
-(b) uncontrolled pollution of the area resulting from the mining
+(b) uncontrolled pollution of the area resulting from
+the mining
 operations;
 (c) any force majeure; or
 (d) any labour disputes that disrupt the mining operations;
 and shall give notice of the suspension of production from the mine
 to the Director and give reasons for the suspension .
-(2) A holder of a large scale gemstone licence shall give notice
+(2) A holder of a large scale gemstone licence shall
+give notice
 to the Director—
 (a) at least ninety days in advance, where the holder without
-abandonment of the licence and for reasons other than
-those specified in paragraphs (a) to (e) of subsection
+abandonment of the licence and for reasons
+other than
+those specified in paragraphs (a) to (e) of
+subsection
 (1), where the holder without abandonment of the licence,
 proposes to suspend production from the mine; and
 (b) at least thirty days in advance, where the holder proposes
@@ -1451,12 +1577,15 @@ curtailment of production, cause the matter to be investigated and
 may—
 (a) approve, on such terms and conditions as the Director
 may determine, including provision for the extension of
-any licence, the suspension or curtailment of production;
+any licence, the suspension or curtailment of
+production;
 or
-(b) direct the holder to resume full production at the mine
+(b) direct the holder to resume full production
+at the mine
 within such period as the Director may specify.
 (4) In paragraph (d) of subsection (1)," force maj eure " means
-an event which is beyond the reasonable control of a holder and
+an event which is beyond the reasonable control of a
+holder and
 which makes the mining operations under the licence impossible or
 impractical under the circumstances.
 46. (1) A holder of a large-scale gemstone licence may, at
@@ -1516,16 +1645,19 @@ representations thereon to the Director; or
 has notified the appl icant and the appl icant has failed to
 propose amendments to the proposed programme of
 mining operations within three months of the notification.
-(8) Subject to the other provisions of this Act, the period of
+(8) Subject to the other provisions of this Act, the
+period of
 renewal of a large-scale gemstone licence shall be such period, not
 exceeding ten years, as is reasonably required to carry out the
 mining programme.
-(9) The Director shall, on the renewal of a large-scale gemstone
+(9) The Director shall, on the renewal of a large-scale
+gemstone
 licence, attach to the licence the approved program of mining
 operations to be carried out in the period of renewal.
 PART IV
 SMALL-SCALE MINING OPERATIONS
-Division I -Prospecting permit
+Division I -Prospecting
+permit
 Application
 47. (1) An application for a prospecting permit shall be made
 for
@@ -1598,7 +1730,8 @@ inform the applicant of the rejection and give the reasons therefor.
 Grant of
 49. (1) The Director of Geological Survey shall, within thirty
 prospecting
-days of receipt of an application under section forty-seven, where
+days of receipt of an application under section forty-seven,
+where
 permit
 the application meets the requirements of this Act, grant a
 prospecting permit to the applicant on such terms and conditions as
@@ -1608,7 +1741,8 @@ the Director may determine.
 which it is granted and the conditions on which it is granted;
 (b) specify the minerals in respect of which it is granted;
 and
-(c) include a description and plan of the prospecting area.
+(c) include a description and plan of the prospecting
+area.
 (3) There shall be appended to a prospecting permit the
 programme of prospecting operations, as approved by the Director
 of Geological Survey, which shall form part of the conditions of the
@@ -1627,7 +1761,8 @@ Rights
 conferred
 rights to carry on prospecting operations in the prospecting area
 by
-for the minerals, except gemstones, specified in the licence, and to
+for the minerals, except gemstones, specified in the licence,
+and to
 prospecting
 permit and
 do all such other acts and things as are necessary for or incidental
@@ -1635,7 +1770,8 @@ transfer of
 to the carrying on of the operations.
 prospecting
 permit
-(2) A prospecting permit or any interest therein shall not be
+(2) A prospecting permit or any interest therein shall
+not be
 transferred, assigned, encumbered or dealt with in any other manner
 without the approval of the Director of Goelogical Survey.
 (3) A holder of a prospecting permit who intends to transfer,
@@ -1697,15 +1833,18 @@ conditions as the authorised officer may specify in the written
 permission.
 (2) The Minister may, by statutory instrument, determine the
 quantities of mineral samples to be removed from a prospecting
-area for the purpose of mineral analysis or conducting tests on the
+area for the purpose of mineral analysis or conducting tests
+on the
 mineral.
 Division II -Small -Scale Mining Licence
 Application
-54. (1) A holder ofa prospecting permit may, at any time during
+54. (1) A holder ofa prospecting permit may, at any time
+during
 for small-
 the currency of the permit, apply to the Director for a small-scale
 scale
-mining licence over any part of the prospecting area, in the
+mining licence over any part of the prospecting area,
+in the
 mining licence
 prescribed manner and form upon payment of the prescribed fee.
 (2) An application made under subsection (1) shall include
@@ -1714,7 +1853,8 @@ prescribed manner and form upon payment of the prescribed fee.
 exceeding one hundred and twenty cadastre units, over
 which the small-scale mining licence is sought, sufficient
 to enable identification of the area;
-(c) a description of the proposed program of mining
+(c) a description of the proposed program of
+mining
 operations, which shall include a forecast of investment,
 the estimated recovery rate of ore and the applicant's
 proposal for its treatment and disposal;
@@ -1723,7 +1863,8 @@ and belief of the mineral deposits in the area over which
 the licence is sought;
 (e) a statement of the duration, not exceeding ten years, for
 which the small-scale mining licence is sought;
-(f) a tax clearance certificate issued under the Income
+(f) a tax clearance certificate issued under the
+Income
 Cap. 323
 Tax Act; and
 (g) such other information as the Director may require for
@@ -1738,13 +1879,16 @@ for small-
 scale
 financial resources, technical competence and
 mining
-experience to carry on effective small-scale mining
+experience to carry on effective small-scale
+mining
 licence
 operations;
-(b) that the proposed programme of small-scale mining
+(b) that the proposed programme of small-scale
+mining
 operations is adequate and makes proper provision for
 environmental protection; and
-(c) where consent is required for the area under any written
+(c) where consent is required for the area under any
+written
 law, the applicant has submitted evidence of the consent.
 (2) The Director may cause such investigations to be made or
 such consultations to be carried on as the Director may consider
@@ -1808,12 +1952,14 @@ measures on or under the surface for the purpose of the
 mining operations;
 (b) erect the necessary equipment, plant and buildings for
 the purposes of mining, transporting, dressing or treating
-the mineral recovered in the course of the mining
+the mineral recovered in the course of the
+mining
 operations;
 (c) dispose of any mineral products recovered;
 (d) prospect within the mining area for any mineral; and
 (e) stack or dump any mineral or waste product.
-Obligations 59. (1) A holder of a small-scale mining licence shall—
+Obligations
+59. (1) A holder of a small-scale mining licence shall—
 of holder of
 , . , , , t , .
 ,
@@ -1832,20 +1978,24 @@ operations in the mining area, in such form as
 the Director may approve;
 (ii) copies of all maps and geological reports,
 including interpretations, mineral analyses, aerial
-photographs, core logs, analyses and test results
-obtained and compiled by the holder in respect
+photographs, core logs, analyses and test
+results
+obtained and compiled by the holder in
+respect
 of the mining area;
 (iii) accurate and systematic financial records of
 the operations in the mining area and such other
 books of account and financial records as the
 Director may require; and
-(iv) where the holder is engaged in any other activity
+(iv) where the holder is engaged in any other
+activity
 not connected with the operations under the
 mining licence, separate books of account of
 the operations under the licence;
 (d) permit an authorised officer at any time to inspect the
 books and records maintained in pursuance of paragraph
-(a) and deliver to the Director, without charge, copies
+(a) and deliver to the Director, without charge,
+copies
 of any part of the books and records as the Director
 may require;
 (e) keep and preserve, as the Minister may prescribe,
@@ -1894,7 +2044,8 @@ or any provision of this Act.
 (4) The Director shall not reject an application on any ground
 referred to in—
 (a) paragraph (a) of subsection (3), unless the Director has
-given the applicant the details of the default and the
+given the applicant the details of the default
+and the
 applicant has failed to remedy the default within three
 months of the notification;
 (b) paragraph (b) of subsection (3), unless the Director has
@@ -1921,11 +2072,14 @@ proposed transferee, assignee, or other party concerned as would
 be required in an application for a small-scale mining licence.
 (3) The Director shall, where an application meets the
 requirements of this Act and the transferee is not disqualified under
-any provision of this Act from holding a small-scale mining licence,
-grant approval to the transfer, assignment, encumbrance or other
+any provision of this Act from holding a small-scale mining
+licence,
+grant approval to the transfer, assignment, encumbrance
+or other
 dealing with the small-scale mining licence or interest therein for
 the unexpired period of the small-scale mining licence.
-(4) For the purposes of this section, " interest " in a small-
+(4) For the purposes of this section, " interest " in
+a small-
 scale mining licence means, in the case of a holder who is a private
 company, a controlling interest in such holder.
 (5) Any transaction purporting to transfer a small-scale mining
@@ -2004,14 +2158,18 @@ mining operations;
 operations is adequate and makes proper provision for
 environmental protection; and
 (c) where consent is required for the area under any written
-law, the applicant has submitted evidence of the consent.
-(2) The Director may cause such investigations to be made
-or such consultations to be carried on as the Director may consider
+law, the applicant has submitted evidence of the
+consent.
+(2) The Director may cause such investigations to
+be made
+or such consultations to be carried on as the Director may
+consider
 necessary to assess whether or not the criteria in subsection (1)
 has been met.
 (3) The Director shall reject an application for a small-scale
 gemstone licence where—
-(a) the applicant has, under section seventy-two, been
+(a) the applicant has, under section seventy-two,
+been
 required to apply for large-scale gemstone licence;
 (b) the applicant is disqualified under section seven;
 (c) the area over which the applicant seeks a small-scale
@@ -2023,7 +2181,8 @@ mine the deposits identified by the applicant; or
 (e) the applicant is in breach of any condition of any other
 mining right or any provision of this Act.
 (4) The Director shall, where the Director rejects an application
-under subsection (3), inform the applicant of the rejection and give
+under subsection (3), inform the applicant of the rejection
+and give
 the reasons therefor.
 Grant of
 66. (1) The Director shall, within thirty days of receipt of an
@@ -2096,7 +2255,8 @@ terms and conditions as the Director may determine.
 small-scale gemstone licence where—
 (a) the development of the mining area has not proceeded
 with reasonable diligence;
-(b) minerals in workable quantities do not remain to be
+(b) minerals in workable quantities do not remain
+to be
 produced;
 (c) the programme of the intended mining operations will
 not ensure the proper conservation and use in the national
@@ -2107,21 +2267,26 @@ or any provision of this Act.
 referred to in—
 (a) paragraph (a) of subsection (3), unless the Director has
 given the applicant the details of the default and the
-applicant has failed to remedy the default within three
+applicant has failed to remedy the default within
+three
 months of the notification;
 (b) paragraph (b) of subsection (3), unless the Director has
-given the applicant reasonable opportunity to make
+given the applicant reasonable opportunity to
+make
 written representations thereon to the Director; or
 (c) paragraph (c) of subsection (3), unless the Director has
 notified the applicant and the applicant has failed to
-propose amendments to the operations within three
+propose amendments to the operations within
+three
 months of the notification.
 (5) The Director shall, on the renewal of a small-scale gemstone
 licence, attach to the licence the program of mining operations to
 be carried out in the period of renewal.
 Transfer of 71. (1) A small-scale gemstone licence or any interest therein
-small-scale shall not be transferred, assigned, encumbered or dealt with in any
-gemstone other manner without the approval of the Director.
+small-scale
+shall not be transferred, assigned, encumbered or dealt with in any
+gemstone
+other manner without the approval of the Director.
 licence
 •
 •
@@ -2133,7 +2298,8 @@ be required in an application for a small-scale gemstone licence.
 (3) The Director shall, where an application meets the
 requirements of this Act and the transferee is not disqualified under
 any provision of this Act from holding a small-scale gemstone licence,
-grant approval to the transfer, assignment, encumbrance or other
+grant approval to the transfer, assignment, encumbrance or
+other
 dealing with the small-scale gemstone licence or interest therein
 for the unexpired period of the licence.
 (4) For the purposes of this section, " interest " in a small-
@@ -2212,12 +2378,14 @@ of an offence under this Act.
 (5) The Director shall, where the Director rejects an
 application under this Part, give the applicant the reasons therefor.
 Duration of
-76. An artisan's mining right shall be valid for a period of two
+76. An artisan's mining right shall be valid for a period
+of two
 artisan's
 years.
 mining right
 Renewal of
-77. (1) A holder of an artisan's mining right may apply to the
+77. (1) A holder of an artisan's mining right may apply
+to the
 artisan's
 Director at least sixty days before the expiry of the artisan's mining
 mining right
@@ -2298,8 +2466,10 @@ land;
 subject to a mining right, of such materials from the land
 with the consent of the holder of the mining right and for
 use on the land; or
-(d) the taking by the Republic, any local authority, a highway
-authority, or any person duly authorised by any such
+(d) the taking by the Republic, any local authority, a
+highway
+authority, or any person duly authorised by
+any such
 authority and acting under the Public Roads Act, of
 such materials for public purposes.
 (2) The provisions of this section shall not affect any
@@ -2389,7 +2559,8 @@ Act; and
 (g) such further information as may be prescribed by the
 Director of Geological Survey by statutory instrument.
 (3) The applicant shall commission and produce to the Director
-of Geological Survey an environmental impact study on the proposed
+of Geological Survey an environmental impact study on the
+proposed
 mineral processing operations approved by the Environmental
 Council of Zambia.
 Consideration
@@ -2397,7 +2568,8 @@ Consideration
 Of
 section eighty-two take the following matters into account:
 application
-(a) that the appl icant has, or has secured access to, adequate
+(a) that the appl icant has, or has secured access to,
+adequate
 for mineral
 processing
 financial resources, technical competence and
@@ -2410,7 +2582,8 @@ operations is adequate and makes proper provision for
 environmental protection; and
 (d) that the applicant is not in default.
 (2) The Minister may cause such investigations to be made or
-such consultations to be carried on as the Minister may consider
+such consultations to be carried on as the Minister may
+consider
 necessary to assess whether or not the criteria in subsection (1) is
 met.
 (3) The Minister shall reject an application for a mineral
@@ -2430,7 +2603,8 @@ the rejection and give the reasons therefor.
 mineral
 days of receipt of an application under section eighty-two, where
 processing
-the applicant meets the requirements of this Act, grant a mineral
+the applicant meets the requirements of this Act, grant
+a mineral
 licence
 processing licence to the applicant, on such terms and conditions
 as the Director of Geological Survey may determine.
@@ -2493,7 +2667,8 @@ other mineral substances fed to the plant;
 standards;
 (iv) labour and production returns as submitted by
 the holder of a mining right; and
-(v) any other records, reports and other information
+(v) any other records, reports and other
+information
 as the Director of Geological Survey may require
 concerning the operations of the mineral
 processing operations.
@@ -2505,7 +2680,8 @@ processing licence shall account for the disparity.
 (a) fails to keep any record or information required to be
 kept under subsection (2);
 (b) fails to supply any record or mineral samples to the
-Director, Director of Geological Survey and Director of
+Director, Director of Geological Survey and
+Director of
 Mines and Safety in accordance with subsection (2); or
 (c) supplies any false or misleading record or information;
 commits an offence and is liable, upon conviction to a
@@ -2521,11 +2697,14 @@ of
 any amendments to the programme of mineral processing operations.
 mineral
 processing
-(2) The Director of Geological Survey may, where a holder of
+(2) The Director of Geological Survey may, where
+a holder of
 operations
-a mineral processing licence applies to the Director of Geological
+a mineral processing licence applies to the Director of
+Geological
 Survey under subsection (1)—
-(a) approve the proposed amendments with or without any
+(a) approve the proposed amendments with or
+without any
 variations, on such terms and conditions as the Director
 of Geological Survey may determine; or
 (b) reject the application and give the applicant reasons
@@ -2603,18 +2782,21 @@ on behalf of a Zambian who is the holder of a gemstone
 certificate
 sales certificate; or
 (c) in the case of a Zambian who is a holder of a gemstone
-certificate, sub-contract a non-Zambian to conduct the
+certificate, sub-contract a non-Zambian to
+conduct the
 business of trading in gemstones.
 (2) A person who contravenes subsection (1) commits an
 offence, and is liable, upon conviction, to a fine not exceeding five
-hundred thousand penalty units or to imprisonment for a period not
+hundred thousand penalty units or to imprisonment for
+a period not
 exceeding five years, or to both.
 (3) A person who is not a holder of a valid gemstone sales
 certificate commits an offence if that person is found in possession
 of uncut and unpolished gemstones.
 (4) A court shall not convict a person under subsection (3)
 where the person satisfies the court that—
-(a) the person is a holder of a large scale or small-scale
+(a) the person is a holder of a large scale or
+small-scale
 gemstone licence under which gemstones are produced;
 or
 (b) the person acquired possession of the gemstones lawfully
@@ -2691,7 +2873,8 @@ be sent and shall give notice to the Director, the Director of Mines
 Zambia
 Safety and the Director of Geological Survey of that address and
 of any changes of that address.
-(2) The use by a holder of an office of a consultant or other
+(2) The use by a holder of an office of a consultant
+or other
 agent of the holder for any purpose related to the requirements of
 this Act shall not be considered as an office for purposes of
 subsection (1).
@@ -2703,7 +2886,8 @@ prospecting
 orientate the prospecting area.
 area
 (2) Where a holder re-orientates the prospecting area—
-(a) no part of the re orientated area shall overlap any area
+(a) no part of the re orientated area shall overlap
+any area
 already subject to another mining right; and
 (b) at least twenty five per centum of the re orientated area
 shall consist of land that was included in the prospecting
@@ -2726,7 +2910,8 @@ gemstone licence, small-scale mining licence or small-scale
 area
 gemstone licence may, at any time during its currency, apply to the
 Director for the alteration of the mining area and the Director may,
-subject to this section, approve or reject the application; and
+subject to this section, approve or reject the application;
+and
 (2) An application under this section shall not be approved
 where to do so would prejudice neighbouring mining rights.
 (3) An alteration of a mining area shall not fall below the
@@ -2831,17 +3016,22 @@ any three successive years is less than half of the deemed
 turnover application to that licence in each of those years;
 and;
 (g) is convicted on giving of false information on recovery
-of ores and mineral products, production costs or sales.
+of ores and mineral products, production costs or
+sales.
 (2) The Director or Director of Geological Survey, as the case
-may be; may, before cancelling a mining right or non-mining right,
+may be; may, before cancelling a mining right or non-mining
+right,
 suspend the mining right or non-mining right on such terms and
-conditions as the Director or Director of Geological Survey, as the
+conditions as the Director or Director of Geological Survey,
+as the
 case may be; may determine.
 (3) The Director or Director of Geological Survey, as the case
 may be; shall not suspend or cancel a mining right or non-mining
-right on grounds referred to in any of paragraphs (a) to (c) of
+right on grounds referred to in any of paragraphs (a) to
+(c) of
 subsection (1) unless—
-(a) the Director or Director of Geological Survey, as the
+(a) the Director or Director of Geological Survey,
+as the
 case may be; has first served on the holder a default
 notice specifying the grounds on which the mining right
 or non-mining right may be suspended or cancelled; and
@@ -2902,7 +3092,8 @@ control
 of company
 or licence, without the written consent of the Minister—
 (a) register the transfer of any share or shares in the
-company to any particular person or that person's
+company to any particular person or that
+person's
 nominee; or
 (b) enter into an agreement with any particular person, if
 the effect of doing so would be to give that person control
@@ -2913,13 +3104,16 @@ necessary, but such consent shall not be unreasonably withheld.
 (3) For the purposes of this section—
 (a) a person is deemed to have control of a company—
 (i) if the person or that person's nominee holds, or
-the person and that person's nominee together
+the person and that person's nominee
+together
 hold, a total of fifty per centum or more of the
 equity shares of the company; or
-(ii) if the person is entitled to appoint, or to prevent
+(ii) if the person is entitled to appoint, or to
+prevent
 the appointment of. half or more than half of
 the number of Directors of the company; and
-(b) " equity shares '" has the meaning assigned to it in the
+(b) " equity shares '" has the meaning assigned to
+it in the
 Cap. 388
 Companies Act.
 Surrender
@@ -2927,7 +3121,8 @@ Surrender
 of records on
 (a) a mining right terminates by abandonment, curtailment,
 termination
-suspension, cancellation or other action under this Act;
+suspension, cancellation or other action under
+this Act;
 of mining
 or
 right
@@ -2937,19 +3132,23 @@ before the termination or expiration shall deliver to the Director or
 Director of Geological Survey and Director of Mines Safety—
 (i) all records which the former holder maintained
 under this Act with respect to the licence;
-(ii) all plans or maps of the area of land that was
+(ii) all plans or maps of the area of land
+that was
 subject to the mining right and which were
 prepared by or on the instructions of the former
 holder; and
 (iii) such other documents as the Director or
 Director of Geological Survey and Director of
 Mines Safety may, by notice given to the former
-holder, require the former holder to so deliver.
+holder, require the former holder to so
+deliver.
 (2) Except as provided by sub-section (1), where a mining
 right granted under this Act terminates or expires, the person who
 was the holder of the right shall deliver to the local office all records
-which the person was required to keep under this Act and all plans
-or maps of the prospecting or mining operations on such area.
+which the person was required to keep under this Act and
+all plans
+or maps of the prospecting or mining operations on such
+area.
 106.(1) A person shall not import or export through the
 Export,
 Republic any mineral, ore or mineral product without a permit issued
@@ -2998,9 +3197,11 @@ acquisition,
 export any radioactive mineral except under and in accordance
 selling, etc.
 of
-with the terms and conditions of a consent granted by the Minister
+with the terms and conditions of a consent granted by the
+Minister
 radioactive
-or in accordance with a large-scale mining licence to mine
+or in accordance with a large-scale mining licence
+to mine
 minerals
 radioactive minerals.
 (2) A person who contravenes subsection (1) commits an
@@ -3021,7 +3222,8 @@ subsection (1) meets the requirements of this Act, give consent to
 Act No.
 the acquisition, storage, transportation, selling or export of the
 of 2005
-radioactive minerals in respect of which the application is made,
+radioactive minerals in respect of which the application
+is made,
 on such terms and conditions as the Minister may determine.
 (3) The Minister shall reject an application made under
 subsection (1) where it does not meet the requirements of this Act.
@@ -3067,21 +3269,28 @@ act committed, on behalf of the Republic.
 an offence and shall be liable, upon conviction to a penalty of one
 million penalty units and to a further penalty twenty thousand penalty
 units for each day the contravention continues.
-110. Any person who, without reasonable excuse, obstructs Obstruction
-or hinders a holder of a mining right from doing any act which the of holder of
-holder is authorised to do by this Act commits an offence and is mining right
+110. Any person who, without reasonable excuse, obstructs
+Obstruction
+or hinders a holder of a mining right from doing any act which the
+of holder of
+holder is authorised to do by this Act commits an offence and is
+mining right
 liable, upon conviction, to a fine not exceeding two hundred thousand
 penalty units or to imprisonment for a term not exceeding two
 years, or to both.
 Production
 111. (1) The Director, the Director of Mines Safety or the
 of
-Director of Geological Survey may direct a holder of a mining right
+Director of Geological Survey may direct a holder of a mining
+right
 information
-or mineral processing licence, at a reasonable time and place
+or mineral processing licence, at a reasonable time and
+place
 specified in the direction, to make available to, or to produce for
-inspection by, themselves or an authorised officer at the local office
-any books, accounts, vouchers, documents or records of any kind
+inspection by, themselves or an authorised officer at the local
+office
+any books, accounts, vouchers, documents or records of any
+kind
 relating to the mining right or mineral processing licence, and the
 holder of the mining right or mineral processing licence shall comply
 with the direction.
@@ -3091,12 +3300,14 @@ offence and is liable, upon conviction—
 (i) to a fine of five hundred thousand penalty units or
 to imprisonment not exceeding five years, or to
 both; and
-(ii) to an additional fine often thousand penalty units
+(ii) to an additional fine often thousand penalty
+units
 for each day that the contravention continues;
 and
 (b) in the case of a body corporate—
 (i) to a fine of one million penalty units; and
-(ii) to an additional fine of fifty thousand penalty units
+(ii) to an additional fine of fifty thousand penalty
+units
 for each day that the contravention continues.
 (3) Where the Director, the Director of Mines Safety or the
 Director of Geological Survey has reason to believe that a person
@@ -3104,10 +3315,12 @@ is capable of giving information or producing or making available
 books or documents relating to minerals obtained, or the value of
 minerals obtained, the Directors may, by notice in writing served
 on that person, require that person—
-(a) to furnish to them in writing, within the period and in the
+(a) to furnish to them in writing, within the period and
+in the
 manner specified in the notice, any such information;
 (b) to attend before them or a person specified in the
-instrument, at a time and place so specified, and there
+instrument, at a time and place so specified, and
+there
 to answer questions relating to minerals obtained or the
 value of minerals obtained; or
 (c) to make available to a person specified in the instrument,
@@ -3147,12 +3360,15 @@ Act; and
 (I) every employment and training plan submitted under this
 Act.
 113. Any person may, upon payment of the prescribed fee, Inspection of
-inspect the Register kept under section one hundred and twelve register
+inspect the Register kept under section one hundred and twelve
+register
 and may obtain certified copies of any document contained therein.
 114. (1) Subject to subsection (2), the Minister may, by statutory Power to
 order, close to prospecting, any area described in the order in respect
-c l o s e a r e a t 0
-of all minerals, or in respect of the minerals named in the order. prospecting
+c l o s e
+a r e a t 0
+of all minerals, or in respect of the minerals named in the order.
+prospecting
 (2) The Minister shall not close to prospecting any area covered
 by a mining right in respect of the minerals to which the mining right
 relates.
@@ -3177,13 +3393,15 @@ scenic attractions; and
 processing
 licences
 (ii) the features of cultural, architectural,
-archaeological, historical or geological interests;
+archaeological, historical or geological
+interests;
 and
 (b) the need to ensure that any mining or mineral processing
 activity prevents any adverse socio-economic impact
 or harm to human health; in or on the land over which
 the right or licence is sought, and the Director or Director
-of Geological Survey may, in consultation with the
+of Geological Survey may, in consultation
+with the
 Environmental Council of Zambia, cause such
 environmental impact studies and other studies to be
 carried out as the Director or Director of Geological
@@ -3210,7 +3428,8 @@ Minister responsible for health;
 contouring of such part of the land over which the right
 or licence has effect as may have been damaged or
 adversely affected by prospecting operations, mining
-operations or mineral processing operations; and
+operations or mineral processing operations;
+and
 (d) the filling in, sealing or fencing off of excavations, shafts
 and tunnels.
 (2) Any conditions of the kind referred to in subsection (1)—
@@ -3283,7 +3502,8 @@ this section even though the prescribed period has not expired.
 months from the date on which the land ceased to be subject to the
 right or such longer period as the Director of Mines Safety, with
 the consent of the Minister, may, in any particular case, allow.
-Saleofmining 120. (1) Where any mining plant or mineral processing plant is
+Saleofmining 120. (1) Where any mining plant or mineral processing
+plant is
 plant or n o t <juiy removed under section one hundred and nineteen, the
 mineral
 Director of Mines Safety may direct that the mining plant or mineral
@@ -3299,16 +3519,19 @@ sold by private treaty.
 of any sale under subsection (2):
 (a) the costs of the sale and of any matter incidental to or
 connected with the sale;
-(b) the costs of removing from the land any mining plant or
+(b) the costs of removing from the land any mining
+plant or
 mineral processing plant remaining unsold after the public
 auction;
-(c) any amount owing in respect of compensation payable
+(c) any amount owing in respect of compensation
+payable
 under Part XI;
 (d) any other amount that the Director of Mines Safety
 certifies to be a deductible amount.
 (4) Any balance remaining shall be paid to the Minister
 responsible for finance, who shall credit the same to a trust account,
-and who may, on application, pay it to any person who is lawfully
+and who may, on application, pay it to any person who is
+lawfully
 entitled to it.
 (5) Where no person applies to the Minister under subsection
 (4) within a period of ninety days, the balance shall be paid to the
@@ -3373,7 +3596,8 @@ sixteen that were lodged by that person.
 immediately required for the purposes of the Fund may be invested
 in such manner as the Minister, with the approval of the Minister
 responsible for finance, may determine.
-Liability and 123. (1) A holder shall be strictly liable for any harm or damage
+Liability and
+123. (1) A holder shall be strictly liable for any harm or damage
 redress
 caused by mining operations or mineral processing operations and
 shall compensate any person to whom the harm or damage is
@@ -3385,7 +3609,8 @@ harm or damage, the liability shall be joint and several.
 (4) Where any harm or damage is caused to the environment
 or biological diversity, compensation shall include the cost of
 reinstatement, rehabilitation or clean-up measures which are
-incurred and where applicable, the costs of preventive measures.
+incurred and where applicable, the costs of preventive
+measures.
 (5) Liability shall also extend to—
 (a) any harm or damage caused directly or indirectly by the
 mining operations or mineral processing operations to
@@ -3395,7 +3620,8 @@ knowledge systems or technologies of any community;
 (c) any disruption or damage to any production or agricultural
 system;
 (d) any reduction in yields of the local community;
-(e) any air, water or soil contamination or damage to biological
+(e) any air, water or soil contamination or damage to
+biological
 diversity;
 (f)my damage to the economy of an area or community; or
 (g) any other consequential disorder.
@@ -3465,7 +3691,8 @@ certificates and valuation certificates in respect of—
 products or samples;
 (b) minerals or mineral products in storage within the Republic;
 and
-(c) minerals or mineral products at mines or mineral
+(c) minerals or mineral products at mines
+or mineral
 processing plants.
 (3) The mineral analysis certificate issued by the Director of
 Geological Survey under subsection (1) shall be admissible as
@@ -3474,7 +3701,8 @@ the Government.
 Geological
 125. The Director of Geological Survey or an authorised officer
 survey,
-may, for the purpose of carrying out the geological mapping of
+may, for the purpose of carrying out the geological
+mapping of
 mapping and
 prospecting
 Zambia or any part thereof—
@@ -3547,16 +3775,15 @@ key personnel of the laboratory or firm;
 (d) the quality of services to be offered by the laboratory or
 firm; and
 (e) the applicant's compliance with the relevant requirements
-of this Act or regulations made under it or any other
+of this Act or regulations made under it or any
+other
 written law.
 PART XI
 MINING RIGHTS AND SURFACE RIGHTS
 Restrictions 127. (1) A holder of a licence or permit shall not exercise
-a n ^
-r ' §
-u n c ^ e r m i s Act or the licence or permit—
-ento^by^
+ento^by^ a n ^ r ' §
 n t s
+u n c ^ e r m i s Act or the licence or permit—
 holder of
 licence or
 permit
@@ -3585,7 +3812,8 @@ building;
 been cleared or ploughed or otherwise prepared
 in good faith for growing of farm crops or upon
 which farm crops are growing;
-(iii) upon any land which is the site of or is within
+(iii) upon any land which is the site of or is
+within
 ninety metres of any cattle dip, tank, dam or
 Cap. 198
 any private water as defined in the Water Act;
@@ -3626,7 +3854,8 @@ which has the control thereof;
 (h) upon any land comprised in a National Park or game
 management area without complying with the Zambia
 Wildlife Act;
-(i) upon any land that, under theTown and Country Planning Act No. 12
+(i) upon any land that, under theTown and Country Planning
+Act No. 12
 Act, cannot be developed without permission, unless the
 o f 1 9 9 8
 requisitepermission is first obtained.
@@ -3640,26 +3869,30 @@ matter, means the Minister responsible for that matter or such public
 officer as the Minister may authorise to give the requisite consent
 in that behalf.
 Rights under
-128. Subject to the terms of any access agreement, the rights
+128. Subject to the terms of any access agreement, the
+rights
 licence or
 conferred by a licence or permit shall be exercised reasonably and,
 permit to be
 except to the minimum extent necessary for the reasonable and
 exercised
-proper conduct of the operations, shall not be exercised so as to
+proper conduct of the operations, shall not be exercised so
+as to
 reasonably
 prejudice the interest of any owner or occupier of the land over
 which those rights extend.
 Right to use
 129. Subject to the terms of any access agreement, the owner
 and access
-or occupier of any land within the area of a licence or permit shall
+or occupier of any land within the area of a licence or permit
+shall
 water or
 graze stock
 retain the right to use and access water and to graze stock upon or
 to cultivate the surface of the land in so far as such use, grazing or
 cultivation does not interfere with the proper working in the area
-for mining, prospecting or other operations to be carried on under
+for mining, prospecting or other operations to be carried on
+under
 the licence or permit, but shall not erect any building or structure
 thereon without the consent of the holder of the licence or permit:
 Provided that where such consent is unreasonably withheld,
@@ -3673,7 +3906,8 @@ portion of the prospecting or mining area for the purpose of the
 holder of
 licence or permit may, in accordance with the laws relating to such
 licence or
-acquisition, acquire a lease thereof or other right to use the same
+acquisition, acquire a lease thereof or other right to use the
+same
 permit
 upon such terms as may be agreed between such holder and the
 owner or occupier of the land.
@@ -3742,21 +3976,27 @@ compensation offered, the dispute shall be determined by arbitration.
 (7) A claim for compensation under the provisions of subsection
 (1) shall be made within a period of three years from the date
 when such claim has accrued, failing which, notwithstanding the
-provisions of any other written law, such claim shall not be
+provisions of any other written law, such claim shall
+not be
 enforceable.
 PART XII
 ROYALTIES AND CHARGES
 133. (1) A holder of a large-scale mining licence, large-scale
-Royalties on gemstone licence, small-scale mining licence, small-scale gemstone
-production licence or an artisan's mining right shall pay a mineral royalty at
-of minerals the rate of —
-(a) three per centum of the norm value of the base metals
+Royalties on
+gemstone licence, small-scale mining licence, small-scale gemstone
+production
+licence or an artisan's mining right shall pay a mineral royalty at
+of minerals
+the rate of —
+(a) three per centum of the norm value of the base
+metals
 produced or recoverable under the licence;
 (b) three per centum of the gross value of the industrial
 minerals produced or recoverable under the licence;
 (c) three per centum of the gross value of the energy minerals
 produced or recoverable under the licence;
-(d) five per centum of the norm value of the precious metals
+(d) five per centum of the norm value of the precious
+metals
 produced or recoverable under the licence; or
 (e) five per centum of the gross value of the gemstones
 produced under the licence.
@@ -3771,8 +4011,10 @@ within Zambia:
 Provided that if the Commissioner-General considers
 that the realised price does not correspond to the price
 that would have been paid for the minerals if they had
-been sold on similar terms in a transaction at arms length,
-between a willing seller and a willing buyer, a notice
+been sold on similar terms in a transaction at arms
+length,
+between a willing seller and a willing buyer, a
+notice
 Cap. 323
 may be given to that effect to the licensee, and the
 amount of the gross value shall be determined in
@@ -3845,9 +4087,11 @@ other examination after taking into account—
 (b) such quantity or value as may be prescribed by regulation.
 Deferment of 140. (1) The Commissioner General may, on application by a
 royalties holder of a mining right defer payment of royalty due from the
-holder if, during any period for which a payment of royalty is due
+holder if, during any period for which a payment of royalty
+is due
 as prescribed under this Act (in this section referred to as "the
-royalty payment period"), the cash operating margin of the holder
+royalty payment period"), the cash operating margin of the
+holder
 in respect of mining operations in the mining area falls below zero,
 and in any such case, the amount payable on account of royalty in
 respect of that period shall be reduced to such an extent as is
@@ -3857,19 +4101,23 @@ that period and the reduced amount shall be deferred.
 (2) Where the payment of any royalty is deferred—
 (a) it shall be accumulated with any other deferred payment
 of royalty which is outstanding;
-(b) the amount outstanding shall become payable when royalty
+(b) the amount outstanding shall become payable when
+royalty
 is due in respect of the next following royalty payment
-period or periods in which, after the deduction of the
+period or periods in which, after the deduction
+of the
 royalty then due, the cash operating margin is positive;
 and
 (c) the sum payable on any particular occasion under paragraph
 (b) shall not exceed that which would reduce the cash
-operating margin for the relevant royalty payment period
+operating margin for the relevant royalty payment
+period
 below zero.
 (3) In this section—
 "cash operating margin" means the amount derived by
 deducting operating costs from revenue;
-"operating costs" means cash expenditures incurred in mining
+"operating costs" means cash expenditures incurred in
+mining
 operations after the commencement of production from
 the mining area, other than
 (i) capital expenditure or any expenditure of a capital
@@ -3920,7 +4168,8 @@ one million penalty units.
 143. (1) There shall be payable to the Republic by a holder of
 Annual charge
 licence or permit, an annual fee of such amount as may be
-in respect of
+in
+respect of
 prescribed, or as may be calculated in the manner prescribed, by
 licences
 the Minister, by statutory instrument.
@@ -3930,35 +4179,45 @@ on the anniversary thereof until the termination of the licence.
 PART XIII
 ADMINISTRATION
 Director and 144. (1) There shall be a Director of Mines, who shall be a
-other officers public officer and who shall have and may exercise and perform
+other officers
+public officer and who shall have and may exercise and
+perform
 the powers and functions conferred or imposed upon the Director
 by or under this Act or any other written law, and who shall generally
 supervise and regulate the proper and effectual carrying out of the
 provisions of this Act.
 (2) There shall be a Director of Mines Safety, who shall be a
-public officer and who shall have and may exercise and perform
-the powers and functions conferred or imposed upon the Director
-of Mines Safety by or under this Act or any other written law, and
+public officer and who shall have and may exercise and
+perform
+the powers and functions conferred or imposed upon the
+Director
+of Mines Safety by or under this Act or any other written
+law, and
 who shall have general responsibility for matters concerning the
-safety of prospecting, exploration, mineral processing and mining
+safety of prospecting, exploration, mineral processing and
+mining
 operations.
 (3) There shall be a Director of Geological Survey, who shall
-be a public officer and who shall have and may exercise and perform
+be a public officer and who shall have and may exercise and
+perform
 the powers and functions conferred or imposed by or under this
 Act or any other written law.
 (4) The Public Service Commission shall appoint such other
 public officers as may be necessary for the due administration of
 this Act.
 (5) The Director may, by statutory notice, designate any public
-officer to be an authorised officer for the purpose of the exercise
+officer to be an authorised officer for the purpose of the
+exercise
 and performance of all or any of the functions conferred on an
 authorised officer by any of the provisions of this Act.
 (6) Every authorised officer who, by virtue of the authorised
-officer's designation as such, has power to enter any land or demand
+officer's designation as such, has power to enter any land or
+demand
 production of any records or documents shall be provided with a
 certificate of appointment, which shall be prima facie evidence of
 the officer's designation.
-(7) An authorised officer shall, on demand by a person affected
+(7) An authorised officer shall, on demand by a person
+affected
 by the exercise of any power under this Act, produce for inspection
 the authorised officer's certificate of appointment.
 (8) The Minister may attach the Director, Director of Mines
@@ -4024,11 +4283,14 @@ drilling logs, or records of any kind; or
 necessary for the administration of this Act.
 (2) The Director of Geological Survey or an authorised officer
 may, for the purpose of carrying on prospecting operations on behalf
-of the Republic, enter upon any land with such number of persons
+of the Republic, enter upon any land with such number of
+persons
 as the Director or authorised officer may consider necessary, and
 exercise the rights of a holder of a prospecting licence.
-(3) Nothing in subsection (2) shall authorise any person to enter
-upon any land referred to in subsection (1) of section one hundred
+(3) Nothing in subsection (2) shall authorise any person
+to enter
+upon any land referred to in subsection (1) of section one
+hundred
 and twenty-seven without obtaining any consent required to be
 obtained under that section.
 (4) The Director, the Director of Mines Safety, the Director
@@ -4037,10 +4299,12 @@ time, inspect and take copies of any books, accounts, vouchers,
 documents, maps, drill logs or records of any kind, kept by a holder
 of a mining right or non-mining right, under or for the purposes of
 this Act or the mining right or non-mining right.
-(5) A holder of a mining right or non-mining right shall provide
+(5) A holder of a mining right or non-mining right shall
+provide
 such reasonable assistance, as is required to enable the Director,
 the Director of Mines Safety, the Director of Geological Survey or
-an authorised officer to exercise or perform any power or function
+an authorised officer to exercise or perform any power or
+function
 under this section.
 Obstruction
 148. Any person who, without reasonable excuse, hinders or
@@ -4112,7 +4376,8 @@ of the holder of the mining right or mineral processing licence.
 information where the disclosure is made—
 (a) for or in connection with the administration of this Act;
 (b) for the purpose of any legal proceedings;
-(c) for the purpose of any investigation or n inquiry conducted
+(c) for the purpose of any investigation or n inquiry
+conducted
 under this Act;
 (d) to any person being a consultant to the Government or
 public officer who is authorised by the Minister to receive
@@ -4120,12 +4385,14 @@ such information; or
 (e) for, or in connection with, the preparation by or on behalf
 of the Government of statistics in respect of prospecting
 or mining:
-Provided that a disclosure authorised by this paragraph
+Provided that a disclosure authorised by this
+paragraph
 shall be no more specific in detail than is necessary
 for the purpose of the statistics concerned.
 (3) Any person who contravenes this section commits an
 offence and is liable, upon conviction, to a fine not exceeding two
-hundred thousand penalty units or to imprisonment for a term not
+hundred thousand penalty units or to imprisonment for
+a term not
 exceeding two years, or to both.
 PART XIV
 Appeals
@@ -4139,14 +4406,17 @@ Geological
 (a) to refuse the grant or renewal of a licence or permit granted
 Survey
 under this Act;
-(b) as to the conditions imposed on any licence or permit
+(b) as to the conditions imposed on any licence
+or permit
 held by the person;
 (c) to cancel or suspend any licence or permit held by the
 person;
-(d) to refuse to consent to the transfer of any licence or permit
+(d) to refuse to consent to the transfer of any licence
+or permit
 held by the person;
 (e) to refuse to grant or renew a gemstone sales certificate;
-(f) to refuse the grant of an artisan's mining right for which
+(f) to refuse the grant of an artisan's mining right
+for which
 the person has applied, or the conditions imposed on an
 artisans mining right held by the person; or
 (g) on any matter prescribed by the Minister by statutory
@@ -4207,7 +4477,8 @@ offences
 a penalty not exceeding one million penalty units.
 157. (1) Any person who—
 (a) in any application under this Act;
-(b) in any report, return or affidavit submitted for the purposes
+(b) in any report, return or affidavit submitted for the
+purposes
 of this Act; or
 (c) in purported compliance with a requirement under this
 Act to furnish any information, make any statement or
@@ -4216,13 +4487,15 @@ furnishes information or makes any statement that is false or
 misleading in a material particular, commits an offence.
 (2) Any person who, in pursuance of a requirement under this
 Act, produces or makes available a document or any books, that
-the person knows to be false or misleading in a material particular
+the person knows to be false or misleading in a material
+particular
 commits an offence.
 (3) Any person who, with intent to deceive—
 (a) places or deposits, or is accessory to the placement or
 deposit of, any mineral or material in any place; or
 (b) mingles or causes to be mingled with any sample of ore
-any substance which will enhance the value or in any
+any substance which will enhance the value
+or in any
 way change the nature of the ore; commits an offence.
 (4) A person convicted of an offence under this section shall
 be liable—
@@ -4298,7 +4571,8 @@ for determination by an expert;
 this Act;
 (k) fees to be paid by a holder of a mining right or non-mining
 right;
-(I) the making of applications for permits for mineral analysis
+(I) the making of applications for permits for mineral
+analysis
 laboratories and geological or mining consulting firms
 and the regulation of the laboratories and firms; and
 (m) fees and annual charges to be specified under this Act.
@@ -4306,7 +4580,8 @@ and the regulation of the laboratories and firms; and
 with the Minister, by statutory instrument, make regulations for the
 better carrying into effect of Part XII of this Act.
 (4) Any regulations made under this Act may prescribe for
-any breach, a fine not exceeding five hundred thousand penalty
+any breach, a fine not exceeding five hundred thousand
+penalty
 units or imprisonment for a term not exceeding five years, or to
 both.
 Repeal of
@@ -4340,8 +4615,8 @@ development;
 (x) the Geological Society of Zambia.
 (2) The members of the Committee shall elect the Vice- C aP-
 Chairperson from among their number;
-C a p '
 (3) The Minister shall in appointing the members of the
+C a p '
 Committee ensure that—
 (a) thirty percent of the members are women; and
 (b) where the Chairperson is a man, the Vice-Chairperson
@@ -4356,7 +4631,8 @@ finance, labour, community development and the Attorney General,
 shall each nominate an alternate member for the members
 nominated to represent them.
 (3) An alternate member shall act in place of the substantive
-member where the member is for any reason unable to attend a
+member where the member is for any reason unable to
+attend a
 meeting.
 3. (1) Subject to the other provisions of this Act, a member of
 Tenure of
@@ -4387,7 +4663,8 @@ dishonesty or fraud under this Act or any other written
 law.
 (4) A member may resign from office by giving not less than
 one month's notice in writing to the Minister.
-(5) The Minister shall, where the office of a member becomes
+(5) The Minister shall, where the office of a member
+becomes
 vacant, appoint another member in place of the member who
 vacates office, and such member shall hold office for the remainder
 of the term.
@@ -4398,7 +4675,8 @@ may regulate its own procedure.
 (2) The Committee shall meet for the transaction of business,
 at least once in every three months at such places and times as the
 Chairperson may determine.
-(3) The Chairperson may, upon giving notice of not less than
+(3) The Chairperson may, upon giving notice of not
+less than
 fourteen days, call a meeting of the Committee and shall call a
 ial meeting upon receiving a written request from at least five
 members of the Committee.
@@ -4415,7 +4693,8 @@ and
 Chairperson, such member as the members present may
 elect from amongst themselves for the purpose of that
 meeting.
-(7) A decision of the Committee on any question shall be by a
+(7)
+A decision of the Committee on any question shall be by a
 majority of votes of the members present and voting at the meeting
 and, in the event of an equality of votes, the person presiding at the
 meeting shall have, in addition to a deliberative vote, a casting vote.
@@ -4456,7 +4735,8 @@ Disclosure of
 7. (1) A member or person who is present at a meeting of the
 interest
 Committee or a sub-committee of the Committee at which any
-matter, in which that person or any member of the person's
+matter, in which that person or any member of the
+person's
 immediate family, is directly or indirectly interested in a private
 capacity, is the subject of consideration, shall, as soon as is
 practicable after the commencement of the meeting, disclose that
@@ -4487,13 +4767,15 @@ knowledge of that person has been published or disclosed in
 contravention of sub-paragraph (1), unlawfully publishes or
 communicates the information to any other person, commits an
 offence and is liable, upon conviction, to a fine not exceeding two
-hundred thousand penalty units or to imprisonment for a term not
+hundred thousand penalty units or to imprisonment for a
+term not
 exceeding two years, or to both.
 SECOND SCHEDULE
 (Section 162 (2))
 SAVINGS AND TRANSITIONAL PROVISIONS
 1. In this Schedule—
-" repealed Act" means the Mines and Minerals Act, 1995. Cap. 213
+" repealed Act" means the Mines and Minerals Act, 1995.
+Cap. 213
 2. (1) A holder of a mining right or a non-mining right
 Transitional
 provisions in
