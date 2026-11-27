@@ -397,8 +397,10 @@ certificate of
 days of receiving the application for registration, and issue that
 registration
 applicant with a certificate of registration.
-(1) The Board may refuse to register any applicant under Refusal to
-section fifteen if the applicant does not meet any prescribed criteria register
+(1) The Board may refuse to register any applicant under
+Refusal to
+section fifteen if the applicant does not meet any prescribed criteria
+register
 or condition, after notifying the applicant of its intended decision
 and giving the applicant fourteen days in which to make any
 objections, in writing, against such decision or to remedy any defect
