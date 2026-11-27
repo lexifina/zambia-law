@@ -1,17 +1,17 @@
 # SECOND SCHEDULE
 (Section 47)
 SAVINGS AND TRANSITIONAL PROVISIONS
-1. In this Schedule “former Association” means the Social Workers’ Association of Zambia registered under the Societies Act.
-2. (1) A person who, before the commencement of this Act, was an employee of the former Association shall continue to be an employee of the Association as if employed under this Act.
+1. In this Schedule “former Association” means Workers’ Association of Zambia registered under the Societies Act.
+2. (1) A person who, before the commencement was an employee of the former Association shall continue to be an employee of the Association as if employed under this Act.
 (2) The service of the persons referred to in sub-paragraph
 (1) shall be treated as continuous service.
-(3) Nothing in this Act affects the rights and liabilities of an employee employed by the former Association before the commencement of this Act.
+(3) Nothing in this Act affects the rights and liabilities of an employee employed by the former Association commencement of this Act.
 3. (1) On or after the commencement of this Act, committees and officers of the former Association operating or holding office immediately before the commencement of this Act, shall operate and hold office as the committees and officers of the Association for a period of four months as if they had been elected or appointed under this Act.
 (2) The Association shall, four months after the commencement of this Act, hold elections for its Association, committees and other office bearers.
-(3) The rules of the former Association in force immediately before the commencement of this Act shall remain in force as if they have been made and issued by the Association until a time that new rules are made.
+(3) The rules of the former Association in force immediately before the commencement of this Act shall remain in they have been made and issued by the Association until a time that new rules are made.
 (4) A representative appointed by the former Association to serve on any Committee or other body shall be deemed to be a representative appointed by the Association under this Act.
-4. (1) On or after the commencement of this Act, there shall be transferred to, vest in and subsist against the Association by virtue of this Act and without further assurance, all assets, rights and obligations which immediately before that date were the assets, rights, liabilities and obligations of the former Association.
-(2) Subject to sub-paragraph(1), every deed, bond and agreement, other than an agreement for personnel service, to which the former Association, was a party immediately before the commencement of this Act, whether or not of a nature that rights, N.A.B. 4, 2022 liabilities and obligations could be assigned, shall unless its subject matter or terms make it impossible that it should have effect as modified, as provided under this paragraph, have effect as if—
+4. (1) On or after the commencement of this Act, be transferred to, vest in and subsist against the Association by virtue of this Act and without further assurance, all assets, rights and obligations which immediately before that date were the assets, rights, liabilities and obligations of the former Association.
+(2) Subject to sub-paragraph(1), every deed, bond and agreement, other than an agreement for personnel service, to which the former Association, was a party immediately commencement of this Act, whether or not of a nature that rights, N.A.B. 4, 2022 liabilities and obligations could be assigned, shall unless its subject matter or terms make it impossible that it should have effect as modified, as provided under this paragraph, have effect as if—
 (a) the Association, had been party to it;
 (b) for any reference to the former Association there was substituted, with respect to anything falling to be done on or after the commencement of this Act, a reference to the Association; or
 (c) for any reference to any officer of the former Association not being a party to it and beneficially interested, there were substituted, as respects anything falling to be done on or after the commencement of this Act, a reference to an officer of the Association, that the Association shall designate.

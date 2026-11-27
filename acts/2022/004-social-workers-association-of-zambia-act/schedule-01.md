@@ -19,7 +19,7 @@ FINANCIAL PROVISIONS
 (2) The Association may—
 (a) accept money by way of grants or donations from any source in the Republic and subject to the approval of the Minister, from any source outside the Republic;
 (b) raise by way of loans or otherwise, monies that the Association may require for the performance of its functions; and
-(c) in accordance with the regulations made under this Act, charge and collect fees for services provided by the Association.
+(c) in accordance with the regulations made Act, charge and collect fees for services provided by the Association.
 (3) There shall be paid from the funds of the Association—
 (a) the salaries, allowances and loans of members of staff of the Association;
 (b) reasonable travelling, transport and subsistence allowances for Council members or any committee of the Council when engaged in the business of the Association at the rates approved by the Council; and
