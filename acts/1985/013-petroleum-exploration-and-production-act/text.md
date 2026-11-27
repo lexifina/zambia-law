@@ -24,11 +24,14 @@ for the conduct of petroleum operations in the Republic;
 " Contractor " means any person with whom the State
 enters into a contract; and includes his agents, re-
 presentatives and assignees;
-" Contract Area " means a geographical area which is
+" Contract Area " means a geographical area
+which is
 covered by a contract; and includes tho whole of, or
 such part or parts of, the original area c1warded to a
-contractor as shall remain at the disposal of such
-contractor from time to time pursuant to the terms of
+contractor as shall remain at the disposal
+of such
+contractor from time to time pursuant to the
+terms of
 the contract;
 " Crude oil" means petroleum which is in liquid state
 at the well head or gas/oil separator or which is extracted
@@ -56,7 +59,8 @@ products, by-products and derivatives that are found
 in conjunction with petroleum;
 "Petroleum operations" means the operations related to
 the exploration, development, extraction, production,
-field separation, transportation, storage, sale or disposal
+field separation, transportation, storage, sale or
+disposal
 of petroleum; but does not include any transportation
 or other operations-
 (i) beyond the point of export; or
@@ -74,7 +78,8 @@ pot:roleum
 and accompanying substitnccs, in whafover phyBic:al state,
 located on or under the territory of the Republie i~i vested
 exclusively in the Preside11t on behalf of the fitatt•.
-(2) Notwithstanding the provis10ns of subsection (1), a
+(2) Notwithstanding the provis10ns of subsection (1),
+a
 contract may provide for a person tc acquire property in,
 title to or control over any petroleum within. the Republic.
 (3)
@@ -96,10 +101,12 @@ perform such other functions as are provided for under this Act
 5. 'rhe Committee shall consist of the following members:
 Composition
 of
-(a) t,hE, Minister responsible for mines, whn shall be
+(a) t,hE, Minister responsible for mines, whn shall
+be
 Committee
 Chairman;
-(b) four Ministers appointed by the President, one of
+(b) four Ministers appointed by the President, one
+of
 whom shall be designated Vice-Chairman;
 (c) the Governor of the Bank of Zambia or in his absence
 the Deputy Governor;
@@ -130,7 +137,8 @@ Proceedings
 of
 Committee may regula,te its own procedure.
 Commit toe
-(2) The Committee sludl meet, as often as is neccssa,ry to
+(2) The Committee sludl meet, as often as
+is neccssa,ry to
 carry out its functions, at such places and at such times as the
 Chairman may decide.
 (3) Upon giving notice of not less than five days, a meeting
@@ -141,22 +149,26 @@ not permit the giving of such notice, a special meeting may be
 called upon giving shorter notice.
 (4) Five members shall form a quorum at any meeting of the
 Committee.
-(5) There shall preside at any meeting of the Committee-
+(5) There shall preside at any meeting of the
+Committee-
 (a) the Chairman; or
 (b) in the absence of the ChaimaH, the Vice-Chainuan; or
 (c) in the absence of the Clrn.irrn::in and the Vice-Chairman,
 such member as the members present may elect for the
 purposes of that meeting.
 (6) A decision of the Committee on any q11estion shall be by
-a majority of the members present and voting at the meeting
+a majority of the members present and voting
+at the meeting
 and, in the event of au equality of votes, the person presiding
-t.t the meeting shall have a casting vote in addition to his
+t.t the meeting shall have a casting vote in
+addition to his
 deliberative vote.
 (7) The Committee may invite any person, whose presence is
 in its opinion desirable, to attend and to participate in the
 deliberations of a meeting of the Committee but such person
 shall have no vote.
-(8) The validity of any proceedings, act or decision of the
+(8) The validity of any proceedings, act or
+decision of the
 Committee shall not be affected by any vacancy in the member-
 ship of the Committee or by any defect in the appointment of
 any member or by reason that any person not entitled so to do
@@ -172,14 +184,16 @@ Chairman.
 10. (1) If a member is present at a meeting of the Committee
 Disclosure
 of interest
-at which any matter is the subject of consideration and in
+at which any matter is the subject of consideration and
+in
 which matter the member or his spouse is directly or indirectly
 interested in a private capacity, he shall, as soon as practicable
 after the commencement of the meeting, disclose such interest
 and shall not, unless the Committee otherwise directs, take
 part in any consideration or discussion of, or vote on, any
 question touching such matter.
-(2) A disclosure of interest made under this section shall be
+(2) A disclosure of interest made under this section shall
+be
 recorded in the minutes of the meeting at which it is made.
 11. No action or other proceedings shall lie or be instituted
 Immunity
@@ -217,14 +231,16 @@ contract;
 entered into pursuant to subsection (I) of section
 eighteen of this Act;
 (c) the contractor's office address in the Republic and
-the name of its resident representative along with a
+the name of its resident representative along with
+a
 copy of the powers of attorney establishing such
 representative's authority to act on behalf of the
 contractor;
 (d) instruments evidencing the termination, revocation.
 or expiration of contracts;
 (e} a map of the Republic illmitrating those areas cmrrently
-under contract and these which remain available for
+under contract and these which remain
+available for
 award in accord.an cc with this Act;
 d) instruments evidencing-
 (i) the nature and extent of any areas relinquished
@@ -249,7 +265,8 @@ of the prescribed fee, allow inspection of the register at all
 register
 reasonable times and shall, upon request, give copies or
 extracts from any entry in such register.
-16. 'rhe Minister shall forward, in such form 11,nd manner
+16. 'rhe Minister shall forward, in such form
+11,nd manner
 Information
 of
 as he may determine, details of every contract and of any
@@ -275,7 +292,8 @@ operations
 (2) No petroleum operations shall be conducted in the
 Republic by any person other than the State unless such person
 has entered into a contra<.it in accordance with this Act.
-18. Snbject to the other provisions of this Act, the Minister
+18. Snbject to the other provisions of this Act,
+the Minister
 Anthorit.
 t;o
 may issue invitations for bids and, following the approval of tho
@@ -283,11 +301,13 @@ may issue invitations for bids and, following the approval of tho
 Committee as to his selection of hidders for negotiations, may
 conduct negoti_ations and enter into contraets:
 Provided that-
-(i) such contrn,cts shall not become effective until the
+(i) such contrn,cts shall not become effective until
+the
 written approval thereto of the C01TI mittee is obtained;
 ,UHJ.
 (ii) the terms a,nd conditiurn, embodied in such contracts
-r;haH not be contrary to or inconsistent with the
+r;haH not be contrary to or inconsistent with
+the
 provisions of this Act.
 19.
 'fhe :\linister ma,y, with the approval of the Committee,
@@ -296,7 +316,8 @@ provide frir the State's participation, djrectly or indirectly, in
 partici-
 ,-ome or 1111 stages of the petroleum operationP and such parti-.
 pation
-cipation IMty include the right to partir.ipato in t.he rights and
+cipation IMty include the right to partir.ipato in t.he rights
+and
 obligations set out in a contract.
 20. (1) A contract shall only be entered into with persons
 (Jualifi.
@@ -317,17 +338,21 @@ employee or representative of the State or public service shall,
 directly or irnlirectly, acquire or hold any right or interest
 under any contract and any instrument purporting to confer
 such right, or interest on any such person shall be null and void.
-(2) No person shall acquire by tra.nsfer, assignment or any
+(2) No person shall acquire by tra.nsfer, assignment or
+any
 other moans any right or interest under any contract which he
-is otherwise barred from obtaining in his own behalf under the
+is otherwise barred from obtaining in his own behalf under
+the
 provisions of this Act.
-22. (1) Except as otherwise provided in subsection (3), the
+22. (1) Except as otherwise provided in subsection (3),
+the
 Bids
 selection of contractors shall be carried out through public
 competitive bidding or such other competitive procedures as
 may be determined by the :Minister.
 (2) 'l'he Minister shall publish in the Gazette a description of
-t,he areas for which bids are to be solicited along with the
+t,he areas for which bids are to be solicited along with
+the
 procedures and rules relating to the submission of such bids.
 (3) Notwithstanding the preceding subsections, the Minister
 may, with the approval of the Committee, select contractors
@@ -352,9 +377,11 @@ shall be entit,led for the duration of such contract to the ex-
 area, and to freely lift, dispose of and export the petroleum to
 which he is entitled under such co11tract.
 (2) Except as may otherwise be provided: in a contract, the
-contractor shall take upon himself all the risks inherent in
+contractor shall take upon himself all the risks
+inherent in
 petroleum operations and shall commit himself to supply
-exclusively for his account, the technology, capital, equipment,
+exclusively for his account, the technology, capital,
+equipment,
 machinery and all other investments required for petroleum
 operations in the contract area:
 Provided that-
@@ -392,9 +419,11 @@ of
 contractor
 obligations:
 (a) to employ and train Zambian nationals to the fullest
-extent possible with a view to the replacement of
+extent possible with a view to the replacement
+of
 foreign personnel as soon as may be practicable;
-such training and employment to be carried out in
+such training and employment to be carried out
+in
 .accordance with a programme approved by the
 Minister;
 (b) to maintain, and furnish to the Minister, periodic
@@ -402,7 +431,8 @@ reports, records, return.fl, m1mple8 and data concerning
 petroleum operations;
 (c) to keep current financial and cost accounting records
 of petroleum operations, with pertinent records
-a.nd vouchers; during the term of the contract, in
+a.nd vouchers; during the term of the contract,
+in
 ;accordance with normal accounting practices in the
 international petroleum industry;
 (d) to permit the State or its authorised representatives
@@ -450,7 +480,8 @@ exploration period and a, development nnd p.rndunt.ion [K·,·iocl.
 (2)
 The exploration period shall not exceed ten years in
 duration:
-Provided that under exceptional circumstances such duration
+Provided that under exceptional circumstances
+such duration
 may be extended for such period and upon such terms and
 conditions as may be specified in a contract, or as may be
 approved by the Comnuttee.
@@ -463,7 +494,8 @@ commence.
 28. Every contract shall provide for the relinquishment
 Relinquish-
 ment
-of part or parts of the contract urea at such time or times
+of part or parts of the contract urea at such
+time or times
 as shall be prescribed therein:
 ProYidcd that the obligation to relinquish piut vr p,lrL" of
 the contract area shall not apply to any part of the contract
@@ -471,9 +503,11 @@ area encompassing the area of a commercial discovery.
 29. Except with the prior approyal of the l\1iniBter, no
 Tr1i.nsfors
 nnu
-contractor shall assign, encumber or transfer any contract,
+contractor shall assign, encumber or transfer
+any contract,
 1isBi1?nments
-or any rights or obiigations arising out of a contract; an<l
+or any rights or obiigations arising out of a
+contract; an<l
 any such transfer, assignment or encumberancc shall ho null
 and void.
 30. :r,:n:ry contract shall stipulate the terms and condit10ns
@@ -481,7 +515,8 @@ Tcrminutfon
 upon which the contract may b0 terminated by the Sl;:it;e or
 the contractor a.11d the effects of such termina.tion:
 Provided tha.t the termination of any contmct, fot· whatever
-reason, shall not affect in any way any liability incurred by a
+reason, shall not affect in any way any liability
+incurred by a
 con tractor before such terminatfon.
 31.
 Each contmctor shall at ail tinrns .indemnify the State
@@ -552,17 +587,20 @@ areas
 l'resident, carry out petroleum operations--
 (a) upon any land dedicated as a place of burial;
 (b) upon a,ny land containing any ancient monument or
-national monument .. as defined in the Na.tural and
+national monument .. as defined in the
+Na.tural and
 Cap. 266
 Historical Monuments and Relics Act;
 (c)
-upon any land 1Ybieh is the site of or is within one
+upon any land 1Ybieh is the site of or
+is within one
 hundred n10tr0s of nny bnildin1s or dam owned by
 the Republic;
 (d)
 upon any land forming pnrt of a Govern111eut aero-
 Cap. UO,
-drome as d.-,Hned in the Air Xnvi~i«tion Reguhtions;
+drome as d.-,Hned in the Air Xnvi~i«tion
+Reguhtions;
 p. 18
 (e)
 upon any land occupied as a village; or
@@ -571,9 +609,11 @@ upon any land occupied as a village; or
 owner or legal occupier thereof or his duly 11,uthorised agent,
 carry out any petroleum operations--
 (a,} upon a,ny land which is the site of or which is within
-two hundred metres of any inhabited, occupied or
+two hundred metres of any inhabited,
+occupied or
 temporarily unoccupied house or building;
-(b) within fifty metres of any land which has been cleared
+(b) within fifty metres of any land which has
+been cleared
 or ploughed or otherwise bona fide prnpared for the
 growing of farm erops or upon which farm <'rop,~
 are growing;
@@ -592,8 +632,10 @@ determine.
 President carry out petroleum operation.s upon any land-
 (a) reserved for the purposes of any railway tra,ck or within
 fifty metres of any ra.ilway track;
-(b) used as a forest, nursery or plantation or as a timber
-depot, aawmill or other installation foi< working ri
+(b) used as a forest, nursery or plantation or
+as a timber
+depot, aawmill or other installation foi<
+working ri
 fore.st;
 (c,) used as a street, road or highw,iy;
 and no contnwtor shall carry out petroleum operations upon
@@ -608,9 +650,12 @@ thirty of the National Parks and Wildlife Act.
 Cap, 316
 (4)
 Every person carrying out petroleum operations shall,
-when so requested, produce evillence of the T'ight to carry out
-such operations to the legal owner or occupier of the land
-upon which such operations are being carried out, or to t,he
+when so requested, produce evillence of the T'ight to
+carry out
+such operations to the legal owner or occupier of
+the land
+upon which such operations are being carried out,
+or to t,he
 duly authorised agent of such owner or occupiei·, and in
 defa"Nlt of such prnduction such person may be treated as a
 trespasser.
@@ -627,19 +672,24 @@ in the contract area and whilst engaged therein may:
 (a) within the contract area erect temporary or permanent
 houses, buildings, engines, machinery, plant and other
 works, and acquire in the prescribed manner such
-rights of way, easements and other rights of access
+rights of way, easements and other rights
+of access
 as may be necessary for the proper execution of
 petroleum operations;
-(b) tak~ and use water for dowestic use and for the pur-
-poses of petroleum operations in accordance with the
+(b) tak~ and use water for dowestic use and for
+the pur-
+poses of petroleum operations in accordance
+with the
 provisions of the Water Act;
 Cap, 312
 (c) subject t,o the provisions of the Roads and Road
 Cap. 766
-Traffic Act and the Aviation Act, construct, maintain
+Traffic Act and the Aviation Act, construct,
+maintain
 Cap. 740
 and operate all such airfields, roads, bridges, com-
-munication systems and conveniences as may be
+munication systems and conveniences as
+may be
 nec,e&<;a,ry;
 (d) subject to the provisions of the Water Act, lay water
 Oap.312
@@ -655,23 +705,28 @@ Republic such other facilities and works ati
 may he ne(Jessa,ry for carrying out pe1,roleum
 operatiom;.
 {2) The rights conferred by subsection (1) shall be exercised
-reasonably so as not to affect adversely the interests of any
+reasonably so as not to affect adversely the
+interests of any
 legal owner or occupier of the land on which such rights are
 exercised to any greater extent than is necessitated by the
 reasonable and proper conduct of the operations concerned.
 (3)
 Where the contract area includes an area of land which
-is owned by or vested in the State, such land shall, subject to
-the other provisions of this Act, be at the disposal of the
+is owned by or vested in the State, such land
+shall, subject to
+the other provisions of this Act, be at the
+disposal of the
 contractor to the extent required for petroleum operations by
 virtue of the existence of the contract.
 Cap. 289
 (4) (a) Subject to the provisions of the Land (Conversion
 of Titles) Act, where the contract area includes an
-area of land over which any person other than the
+area of land over which any person
+other than the
 State has a lawful interest or the land is in use by the
 State, the contractor shall negotiate with such
-person or the State, as the case may be, for the grant.
+person or the State, as the case may
+be, for the grant.
 of a right-of-way, easement or such other right of
 access as may l;>e necessary for the conduct of petro-
 leum operations thereon;
@@ -692,11 +747,13 @@ shall be made in accordance with the regulations made here-
 under and any other applicable law.
 (6)
 Any and all rights acquired or conferred pursuant to
-this section shall automatically expire when the contract to
+this section shall automatically expire when
+the contract to
 which they relate is terminated.
 (7) Without prejudice to the preceding subsections of this
 section, the contractor shall, on demand being made by any
-person having a lawful interest in land upon or under which
+person having a lawful interest in land upon
+or under which
 petroleum operations are being carried out, pay to such person
 fair and reasonable compensation for any disturbance of his
 surface rights, and for damage done to the surface of the land,
@@ -774,7 +831,8 @@ Surface
 40. Every contract shall require the contractor to make
 rentals
 annual surface rental payments in respect of the contract area,
-and the amount of such surface rental shall be prescribed in the
+and the amount of such surface rental shall be
+prescribed in the
 regulations.
 Other fee,,,
 41. Provision may be made in the regulations or in in-
@@ -791,16 +849,19 @@ tractor is entitled to export pursuant to his contract.
 (2) A contractor, his contractors and subcontractors may be
 granted, upon approval by the Minister responsible for the
 administration thereof, relief from the following-
-(a) any tax or customs duties payable on the importation
+(a) any tax or customs duties payable on
+the importation
 and subsequent exportation of machinery, equipment,
 materials and other items required for petroleum
 operations;
-(b) any tax or customs duties payable on the importation
+(b) any tax or customs duties payable on
+the importation
 and subsequent exportation of reasonable quantities
 of household goods and personal effects by non-
 Zambian employees of such contractor, his con-
 tractors and subcontra,crors; and
-(c) such other taxes, imposts, levies and duties imposed
+(c) such other taxes, imposts, levies and
+duties imposed
 within the Republic, except for income tax as provided
 for in section thirty-seven.
 PART VIII
@@ -815,7 +876,8 @@ Prohibition
 44. (l) No person shall, without the consent in writing
 of
 publioa.tion
-given by or on behalf of the Minister, publish or disclose to any
+given by or on behalf of the Minister, publish or
+disclose to any
 or
 person, otherwise than in the course of his duties, the contents
 disolosure
@@ -892,14 +954,17 @@ Penalty
 this Act, and such contravention is not an offence under any
 other written law, sha,ll be guilty of an offence and shall upon
 conviction. be liable to a fine not exceeding ten thou~:ma
-kwacha or to a term of imprisonment not exceeding three years,
+kwacha or to a term of imprisonment not exceeding three
+years,
 or to both such fine and imprisonment
 Regulations
 50.
-The Minister may make regulations for the better
+The Minister may make regulations for the
+better
 carrying out of the purposes of this Act.
 Non.-
-SL Except ns otherwise specifirn,,H_y provide(~ in or under
+SL Except ns otherwise specifirn,,H_y provide(~ in or
+under
 application
 this Act, the provisions of the Mines and Minerals Act shall not
 of the
