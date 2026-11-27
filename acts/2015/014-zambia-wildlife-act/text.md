@@ -27,17 +27,21 @@ Management Areas to local communities and wildlife;
 involve local communities in the management of Game
 Management Areas; provide for the development and
 implementation of management plans; provide for the
-regulation of game ranching; provide for the licensing of
-hunting and control of the processing, sale, import and
+regulation of game ranching; provide for the
+licensing of
+hunting and control of the processing, sale,
+import and
 export of wild animals and trophies; provide for the
 implementation of the Convention on International Trade
-in Endangered Species of Wild Fauna and Flora, the
+in Endangered Species of Wild Fauna and
+Flora, the
 Convention on Wetlands of International Importance
 especially as Waterfowl Habitat, the Convention on
 Biological Diversity, the Lusaka Agreement on
 Cooperative Enforcement Operations Directed at Illegal
 Trade in Wild Fauna and Flora and other international
-instruments to which Zambia is party; repeal the Zambia
+instruments to which Zambia is party; repeal
+the Zambia
 Wildlife Act, 1998; and provide for matters connected with,
 or incidental to, the foregoing.
 [ 14th August, 2015
@@ -61,11 +65,13 @@ for the arrival, departure or surface movement of aircraft;
 “ aircraft ” includes flying machines, aeroplanes, seaplanes,
 helicopters, flying boats and other aircraft designed to be
 heavier than air, airships, microlites, balloons, kites and
-other aircraft designed to be lighter than air, whether
+other aircraft designed to be lighter than
+air, whether
 captive, navigable or free and whether controlled by a
 human agency or not;
 “ animal ” means a vertebrate animal, and includes a mammal,
-bird, fish, reptile and amphibian and the egg of a bird or
+bird, fish, reptile and amphibian and the egg
+of a bird or
 reptile, but does not include a human being;
 “ appointed date ” means the date appointed by the Minister
 under section one;
@@ -130,7 +136,8 @@ and hunting;
 Cap. 281
 established under the Local Government Act;
 “ court ” means a subordinate court or High Court;
-“dangerous animal” means an elephant, a rhinoceros,
+“dangerous animal” means an elephant, a
+rhinoceros,
 hippopotamus, buffalo, lion, leopard or crocodile, and
 includes an animal that poses a threat to property or human
 life;
@@ -139,9 +146,11 @@ and Wildlife established under section five;
 “ Director ” means the Director of National Parks and Wildlife
 appointed in accordance with section six;
 “domestic animal ” means a horse, donkey, mule, camel, cow,
-sheep, pig, goat, dog, cat or domestic fowl, or any other
+sheep, pig, goat, dog, cat or domestic fowl,
+or any other
 animal of any kind or species, whether quadruped or not,
-which is tame or which has been or is being sufficiently
+which is tame or which has been or is being
+sufficiently
 tamed to serve some purpose for the use of a human being;
 “ eco-system ” means a living functional system which
 contains all organisms including human beings, their
@@ -184,7 +193,8 @@ specified hunting block issued under section forty-eight;
 of conducting safari hunting, which holds a tourism
 enterprise licence and a hunting concession;
 Act No. 11
-“ investor ” has the meaning assigned to it in the Zambia
+“ investor ” has the meaning assigned to it in
+the Zambia
 of 2006
 Development Agency Act, 2006;
 “ ivory ” means ivory from an elephant, and includes an article
@@ -215,7 +225,8 @@ Game Management Area, where wild animals are found;
 “ owner ” in relation to land, includes the person or persons
 entitled to the immediate and exclusive possession of land
 under any right, a licensee in lawful occupation of land
-under a licence and a person authorised by the owner to
+under a licence and a person authorised by
+the owner to
 act on behalf of the owner in respect of land during the
 owner’s absence from Zambia;
 “ photographic or viewing safari ” means an organised
@@ -272,7 +283,8 @@ Act No. 3 of
 the Business Regulatory Act, 2014;
 “ species ” means a kind of animal, plant or other organism
 that does not normally interbreed with an animal, plant or
-organism of another kind, and includes any sub-species,
+organism of another kind, and includes any
+sub-species,
 cultivar, variety, geographic race, strain, hybrid or
 geographically separate population;
 “ sustainable ” in relation to the use of wildlife, means the use
@@ -295,10 +307,12 @@ Act. No. 13
 of 2015
 Hospitality Act, 2015;
 “ tourism block ” means a National Park, bird sanctuary,
-wildlife sanctuary, Community Partnership Park, Game
+wildlife sanctuary, Community Partnership
+Park, Game
 Management Area or an area within a National Park, bird
 sanctuary, wildlife sanctuary, Community Partnership Park
-or Game Management Area that has been set aside for
+or Game Management Area that has been
+set aside for
 non-consumptive tourism;
 “ tourism block concession ” means an authority, given by the
 Committee for a specific period of time, to conduct non-
@@ -351,7 +365,8 @@ ownership of every wild animal within Zambia is vested in the
 animals
 President on behalf of the Republic, except that —
 (a) where a wild animal, which is not a game animal or
-protected animal, is captured or killed or reduced into
+protected animal, is captured or killed or
+reduced into
 possession by a person in accordance with this Act, the
 absolute ownership of that animal or the carcass of
 that animal is transferred to and vested in that person;
@@ -442,7 +457,8 @@ direction of the Permanent Secretary of the Ministry.
 the Department are to —
 (a) control, manage, conserve, protect and administer National
 Parks, Community Partnership Parks, bird and wildlife
-sanctuaries and Game Management Areas and
+sanctuaries and Game Management
+Areas and
 coordinate activities in these areas;
 (b) in partnership with local communities, share the
 responsibilities of management in Community
@@ -513,7 +529,8 @@ with the requirements set by the Ministry;
 (s) regulate private wildlife estates;
 (t)carry out commercial activities related to consumptive and
 non-consumptive tourism; and
-(u) carry out any other activities relating to wildlife
+(u) carry out any other activities relating
+to wildlife
 conservation and management that are necessary to the
 performance of its functions under this Act.
 Director,
@@ -522,7 +539,8 @@ Assistant
 officer the Director of National Parks and Wildlife who shall be
 Directors
 and
-responsible for the administration of the provisions of this Act,
+responsible for the administration of the provisions
+of this Act,
 delegation of
 subject to the general or special directions of the Minister and the
 functions
@@ -547,7 +565,8 @@ Committee
 (a) consider applications for licences, permits and certificates
 and grant, renew or refuse to grant or renew licences,
 permits and certificates;
-(b) terminate, suspend or revoke licences, permits and
+(b) terminate, suspend or revoke licences,
+permits and
 certificates;
 (c) amend the terms and conditions of licences, permits and
 certificates;
@@ -606,7 +625,8 @@ as are necessary for the administration of the provisions of this
 officers
 Act.
 (2) A wildlife police officer shall, on being employed, be attested
-to serve as a wildlife police officer for such period and on such
+to serve as a wildlife police officer for such period
+and on such
 conditions as may be prescribed.
 (3) A wildlife officer and wildlife police officer shall exercise
 such functions and perform such duties as are conferred upon the
@@ -619,9 +639,12 @@ Director, or the officer-in-charge, all arms, ammunition, uniforms
 and other apparatus which were supplied to the wildlife officer or
 wildlife police officer for purposes of this Act and which are the
 property of the Government.
-(5) A wildlife officer or wildlife police officer who fails to
-surrender the arms, ammunition, uniforms or other apparatus in
-possession of that officer commits an offence and is liable, upon
+(5) A wildlife officer or wildlife police officer
+who fails to
+surrender the arms, ammunition, uniforms or other
+apparatus in
+possession of that officer commits an offence and is
+liable, upon
 conviction, to a fine not exceeding three hundred thousand penalty
 units or to imprisonment for a term not exceeding four years, or to
 both, and the court that convicts that officer may issue a warrant
@@ -674,7 +697,8 @@ impact on wildlife and the environment and monitor such
 research and development programmes to ensure that
 they are appropriate for wildlife conservation and
 management;
-(d) set up mechanisms for the sharing of appropriate
+(d) set up mechanisms for the sharing of
+appropriate
 knowledge and technology for the collection of data for
 the development of the wildlife sector;
 (e) increase cooperation with international organisations
@@ -699,10 +723,13 @@ or protection and enhancement of wildlife, eco-systems, biological
 Parks
 diversity and natural beauty so demands, the President may, after
 consultation with the Minister and the local community in the area,
-by statutory order, declare an area of land within the Republic to
-be a National Park for the purposes of this Act and may, in like
+by statutory order, declare an area of land within the
+Republic to
+be a National Park for the purposes of this Act and
+may, in like
 manner, declare that a National Park shall cease to be a National
-Park or that the boundaries of a National Park shall be altered or
+Park or that the boundaries of a National Park shall
+be altered or
 extended.
 Establishment
 12. (1) The Minister may, on the application of a local
@@ -716,7 +743,8 @@ value or significance to be a Community Partnership Park for
 environmental education and recreation or for the purpose of
 conserving, preserving and restoring genes, species or biological
 diversity and natural amenities and their underlying ecological
-structure, and may, in like manner, declare that any Community
+structure, and may, in like manner, declare that any
+Community
 Partnership Park shall cease to be a Community Partnership Park
 or that the boundaries of a Community Partnership Park shall be
 altered or extended.
@@ -757,10 +785,13 @@ and management;
 (f) keep the Director informed of any development, change
 and occurrence within the Community Partnership Park
 that is critical for the conservation of biological diversity;
-(g) help in fire fighting within and around the Community
+(g) help in fire fighting within and around the
+Community
 Partnership Park; and
-(h) do any other thing that is necessary for the efficient
-conservation and management of the Community
+(h) do any other thing that is necessary for
+the efficient
+conservation and management of the
+Community
 Partnership Park.
 Effect of
 13. (1) Where a person has any right in or over any land which
@@ -793,7 +824,8 @@ land in
 bird or wildlife sanctuary.
 National
 Park,
-(2) A person who contravenes subsection (1) commits an
+(2) A person who contravenes subsection (1)
+commits an
 Community
 Partnership
 offence and is liable, upon conviction, to a fine not exceeding one
@@ -805,7 +837,8 @@ sanctuary
 Grant of
 16. (1) Subject to subsection (2), nothing in this Act shall be
 mining and
-construed as preventing or restricting the granting in respect of
+construed as preventing or restricting the granting
+in respect of
 other rights
 any land within a National Park, Community Partnership Park or
 in National
@@ -880,7 +913,8 @@ of 2002
 (5) The Director, a wildlife police officer or honorary wildlife
 police officer may, where it is necessary to do so, cause a person
 or vehicle using a public road within or leading to, or from, a National
-Park or Community Partnership Park to stop for search,
+Park or Community Partnership Park to stop
+for search,
 examination or questioning for the purposes of the enforcement of
 this Act, and may, for such purposes, erect and control barriers or
 check points on the public road.
@@ -912,10 +946,12 @@ officer;
 Partnership Park along a public road within the confines
 of the road reserve;
 (e) a person in possession of a permit to enter or reside in the
-National Park or Community Partnership Park issued
+National Park or Community Partnership
+Park issued
 by the Director or an officer duly authorised, in writing,
 by the Director to issue the permit;
-(f) a person who enters a National Park or Community
+(f) a person who enters a National Park or
+Community
 Partnership Park with authority granted under any
 provision of this Act;
 (g) the employees of persons referred to in paragraphs (e)
@@ -986,7 +1022,8 @@ snare, net trap or poisonous substance.
 (3) The Director, or a wildlife police officer duly authorised in
 writing by the Director, may subject to such conditions as the
 Director considers fit, issue a permit to a person to convey into a
-National Park, Community Partnership Park, bird or wildlife
+National Park, Community Partnership Park, bird
+or wildlife
 sanctuary, or within the confines of a National Park, Community
 Partnership Park or bird or wildlife sanctuary or to possess, carry
 or use for any purpose expressly stated in the permit, a firearm,
@@ -1014,12 +1051,15 @@ Partnership
 Park or bird
 (b) drives or conveys a wild animal out of a National Park,
 or wildlife
-Community Partnership Park or bird or wildlife
+Community Partnership Park or bird
+or wildlife
 sanctuary
 sanctuary.
-(2) A wildlife police officer, community scout or honorary
+(2) A wildlife police officer, community scout
+or honorary
 wildlife police officer who finds within the confines of a National
-Park, Community Partnership Park, bird or wildlife sanctuary a
+Park, Community Partnership Park, bird or wildlife
+sanctuary a
 wild animal which was driven, conveyed or introduced into the
 National Park, Community Partnership Park, bird or wildlife
 sanctuary in contravention of subsection (1) may kill the wild animal.
@@ -1116,7 +1156,8 @@ historical
 of geological, pre-historic, archaeological, historical or scientific
 interest, etc.
 from
-interest, or who causes or permits the object to be damaged or
+interest, or who causes or permits the object to be
+damaged or
 National
 removed.
 Park,
@@ -1153,7 +1194,8 @@ National
 Parks,
 (a) the conditions under which a person, vehicle, boat, aircraft
 Community
-or animal may enter into, travel through, reside or be
+or animal may enter into, travel through,
+reside or be
 Partnership
 Parks, bird
 kept within a National Park, Community Partnership
@@ -1211,14 +1253,16 @@ bird or wildlife sanctuary;
 a National Park,Community Partnership Park or bird or
 wildlife sanctuary;
 (n) the regulation of traffic on a road within a National Park,
-Community Partnership Park or bird or wildlife
+Community Partnership Park or bird
+or wildlife
 sanctuary;
 (o) the carriage of passengers and goods within a National
 Park, Community Partnership Park or bird or wildlife
 sanctuary, whether for hire or otherwise;
 (p) the points at which persons or vehicles may enter or leave
 and the routes by which they may pass through or over
-a National Park, Community Partnership Park or bird
+a National Park, Community Partnership
+Park or bird
 or wildlife sanctuary on roads other than public roads;
 (q) the prohibition, control or regulation of any trade or business
 carried on within a National Park, Community
@@ -1236,7 +1280,8 @@ National Parks, Community Partnership Parks, bird or wildlife
 sanctuaries and categories of businesses and premises for purposes
 of this Act.
 (3) Any regulation made under this section may prescribe, for
-a breach of the regulations, a fine not exceeding two hundred
+a breach of the regulations, a fine not exceeding
+two hundred
 thousand penalty units or imprisonment for a term not exceeding
 two years, or to both.
 PART IV
@@ -1315,19 +1360,22 @@ concession issued under this Act relevant to such hunting, hunts a
 Management
 game or protected animal, except elephant and rhinoceros, in any
 Area
-Game Management Area commits an offence and is liable, upon
+Game Management Area commits an offence and is
+liable, upon
 conviction, to a fine not exceeding four hundred thousand penalty
 units or to imprisonment for a term not exceeding five years, or to
 both.
 PART V
 COMMUNITY RESOURCES BOARDS
-32. (1) A local community along geographic boundaries
+32. (1) A local community along geographic
+boundaries
 Community
 resources
 contiguous to a chiefdom in a Game Management Area, an open
 boards
 area or a particular chiefdom with common interest in the wildlife
-and natural resources in that area, may apply to the Minister for
+and natural resources in that area, may apply to the
+Minister for
 registration as a community resources board.
 (2) The Minister shall register as a board, a local community
 which, in addition to the pre-requisites described in subsection (1),
@@ -1378,7 +1426,8 @@ management agreements with hunting outfitters and
 photographic tour operators;
 (b) manage the wildlife under its jurisdiction within quotas
 specified by the Department;
-(c) appoint community scouts to exercise and perform the
+(c) appoint community scouts to exercise and
+perform the
 duties of a wildlife police officer under the supervision
 of a wildlife police officer in the area falling under the
 board’s jurisdiction;
@@ -1456,15 +1505,19 @@ the Republic or in a specified area of the Republic; or
 wild animal or species, class or variety of a class of
 wild animal specified in the order and may make different
 provisions for different sexes of the specified wild animal.
-(4) Except as otherwise provided by this Act, a person who
+(4) Except as otherwise provided by this Act, a
+person who
 hunts or is found in circumstances showing that the person intends
 to hunt a protected animal commits an offence.
-37. Except as otherwise provided by this Act, a person who
+37. Except as otherwise provided by this Act, a
+person who
 Restriction
 on hunting
-hunts a game animal or protected animal, except under or in
+hunts a game animal or protected animal, except
+under or in
 game or
-accordance with the conditions of a hunting licence, commits an
+accordance with the conditions of a hunting licence,
+commits an
 protected
 animals
 offence.
@@ -1475,7 +1528,8 @@ proposed or existing government plan or activity of the Government,
 assessment
 an organisation or person may have an adverse effect on wildlife
 in a National Park, Community Partnership Park, bird or wildlife
-sanctuary, Game Management Area or open area, may request
+sanctuary, Game Management Area or open area,
+may request
 the Minister through the Director that a wildlife impact assessment
 be conducted.
 (2) Where the Minister requires an environmental impact
@@ -1565,7 +1619,8 @@ hunter;
 (b) allow the licensee to be employed by a hunting outfitter
 with a hunting concession or with an unfenced private
 wildlife estate;
-(c) engage and supervise such number of apprentice
+(c) engage and supervise such number of
+apprentice
 professional hunters on such terms and conditions as
 may be prescribed; and
 (d) while accompanied by a bona fide client, authorise the
@@ -1633,14 +1688,16 @@ Fishing
 permit
 authorised, in writing, by the Committee, may issue a fishing permit
 to authorise a person to fish for non-consumptive purposes in a
-National Park or Community Partnership Park and shall impose
+National Park or Community Partnership Park and
+shall impose
 such conditions upon the use of the fishing permit as the Minister
 may prescribe.
 (2) A fishing permit issued under subsection (1) shall specify
 the species and number of fish which may be caught under the
 fishing permit.
 Professional
-45. (1) The Committee may, upon application made to the
+45. (1) The Committee may, upon application
+made to the
 guide’s
 Committee in the prescribed manner and form, and upon payment
 permit
@@ -1657,9 +1714,11 @@ viewing safari; and
 specified in the permit.
 (3) A person commits an offence who, not being a holder of a
 professional guide’s permit—
-(a) conducts for reward in a National Park, Community
+(a) conducts for reward in a National Park,
+Community
 Partnership Park, bird sanctuary, wildlife sanctuary,
-Game Management Area or game ranch any
+Game Management Area or game
+ranch any
 photographic or viewing safari;
 (b) offers to conduct for reward any photographic or viewing
 safari;
@@ -1717,7 +1776,8 @@ under this Part if—
 or permit
 (a) the applicant fails to comply with any prescribed conditions
 precedent to the issue of the licence or permit;
-(b) a licence or permit formerly held by the applicant is
+(b) a licence or permit formerly held by the
+applicant is
 revoked by the Committee;
 (c) the applicant has been or is convicted of an offence under
 this Act;
@@ -1731,7 +1791,8 @@ management, the licence or permit should not be issued;
 or
 (g) the applicant has been convicted of an offence relating
 to hunting outside Zambia or the applicant’s licence or
-permit was withdrawn by the wildlife authority of
+permit was withdrawn by the wildlife
+authority of
 another country.
 (2) The Committee shall notify the applicant, in writing, of the
 refusal to issue a licence or permit and shall state the reasons for
@@ -1759,7 +1820,8 @@ Amendment
 or variation
 validity of the licence or permit, if there are any changes to the
 of licence or
-licensee’s or permit holder’s business operations, apply to the
+licensee’s or permit holder’s business operations,
+apply to the
 permit
 Committee for the amendment or variation of the terms and
 conditions of the licence or permit.
@@ -1819,7 +1881,8 @@ expiration of the period of validity of the licence or permit, apply to
 permit
 the Committee for the renewal of the licence or permit in the
 prescribed manner and form upon payment of the prescribed fee.
-(2) The Committee shall, within thirty days of receiving an
+(2) The Committee shall, within thirty days of
+receiving an
 application for the renewal of a licence or permit, approve or reject
 the application and give reasons where it rejects the application for
 renewal of the licence or permit.
@@ -1849,9 +1912,11 @@ Act No. 3 of
 Business Regulatory Act, 2014.
 (2) A regulatory agency shall not issue or grant a licence,
 permit, certificate or other authorisation for the doing of an activity
-by a person, which may have an adverse effect on wildlife
+by a person, which may have an adverse effect
+on wildlife
 management and conservation, before the regulatory agency first
-consults the Department whether the issuing or the grant of the
+consults the Department whether the issuing or the
+grant of the
 licence, permit, certificate or other authorisation will have an adverse
 effect on wildlife management and conservation.
 (3) The Department may, where consulted under subsection
@@ -1925,17 +1990,21 @@ Counting of
 60. (1) For the purpose of—
 hunted game
 animals or
-(a) computing the numbers of game animals or protected
+(a) computing the numbers of game animals
+or protected
 protected
 animals authorised to be hunted under a hunting licence;
 animals
-(b) computing the numbers of game animals or protected
-animals permitted to be hunted or captured in a National
+(b) computing the numbers of game animals
+or protected
+animals permitted to be hunted or captured
+in a National
 Park,Community Partnership Park, Game Management
 Area or open area under a hunting licence granted under
 section forty or a capture permit granted under section
 forty-three; or
-(c) recording the numbers of hunted animals or protected
+(c) recording the numbers of hunted animals
+or protected
 animals in a record required to be kept under section
 fifty-nine; only the game animals or protected animals
 killed, wounded or captured shall be counted.
@@ -2005,7 +2074,8 @@ animal;
 licence or hunting concession authorising that person to
 hunt the game animal or protected animal;
 (c) has previously sought and obtained the written consent of
-the owner to do so and is in possession of a hunting
+the owner to do so and is in possession
+of a hunting
 licence authorising that person to hunt a game animal or
 protected animal; or
 (d) is an authorised officer while acting under instructions in
@@ -2027,7 +2097,8 @@ owner of the private wildlife estate.
 (2) Notwithstanding subsection (1), a person found in possession
 of meat of a game or protected animal hunted in a fenced private
 wildlife estate without the written consent of the owner of the
-private wildlife estate commits an offence and is liable, upon
+private wildlife estate commits an offence and is
+liable, upon
 conviction, to a fine not exceeding four hundred thousand penalty
 units or to imprisonment for a term not exceeding five years, or to
 both.
@@ -2082,10 +2153,13 @@ aircraft, boat or other conveyance.
 aircraft, boat or other conveyance for—
 (a) hunting a game animal or protected animal under a hunting
 licence or hunting concession issued under Part VII or
-under any permit issued under this Act where those
-means are expressly permitted under the terms of the
+under any permit issued under this Act
+where those
+means are expressly permitted under the
+terms of the
 licence or permit; or
-(b) driving away a game animal or protected animal from
+(b) driving away a game animal or protected
+animal from
 any aerodrome by a person concerned with the
 maintenance of the aerodrome, or driving a game animal
 or protected animal by a person off any land being used,
@@ -2094,7 +2168,8 @@ emergency, when necessary, to ensure the safety of an
 aircraft which is about to alight on or take off from the
 land.
 Restrictions
-67. (1) Except as provided by subsection (2), a person who,
+67. (1) Except as provided by subsection (2), a
+person who,
 on use of
 without the written permission of the Committee, uses dogs for the
 dogs while
@@ -2109,7 +2184,8 @@ section commits an offence.
 Prohibition
 68.A person who, for the purpose of hunting or assisting in hunting
 of
-a game animal or protected animal, causes a fire or drives or
+a game animal or protected animal, causes a fire
+or drives or
 use of fire in
 hunting
 surrounds a game animal or protected animal with fire commits an
@@ -2169,7 +2245,8 @@ life, property or the protection of human, animal or plant health.
 (a) hunts a wild animal in contravention of any regulation
 made under this section; or
 (b) possesses, makes, buys or sells, for the purpose of hunting
-or assisting in the hunting of a wild animal, an
+or assisting in the hunting of a wild
+animal, an
 instrument, weapon, missile or explosive the use of which
 for such purpose is prohibited by any regulation made
 under this section.
@@ -2189,7 +2266,8 @@ Committee, suspend the operation of this section in a specified
 area for a specified period of time or in respect of a specified
 game or protected animal.
 (3) A person who prevents an animal or bird to have access to
-water or introduces poisonous substances into water commits an
+water or introduces poisonous substances into water
+commits an
 offence.
 73. (1) Except with the written permission of the Committee,
 Prohibition
@@ -2264,12 +2342,14 @@ animal that is identified as causing or has caused material damage
 to the land, building, crops or livestock, as the case may be, and a
 report shall be made to the nearest authorised officer.
 (2) Except as is otherwise provided by this Act or by the terms
-and conditions of a licence or permit issued under this Act, the
+and conditions of a licence or permit issued under
+this Act, the
 killing of a game or protected animal in accordance with subsection
 (1) shall not be deemed to transfer the absolute ownership to any
 person of the game animal or protected animal, or the carcas, trophy
 or meat of the game or protected animal.
-(3) Where a game animal or protected animal is killed in
+(3) Where a game animal or protected animal
+is killed in
 accordance with subsection (1), the person who has killed that
 animal shall, within a period of twenty-four hours, make a report
 of the fact to the nearest authorised officer and shall, unless
@@ -2297,7 +2377,8 @@ make a report of the facts to the nearest authorised officer and
 accident or
 shall hand over to the authorised officer the carcas, trophy or meat
 error
-of the game or protected animal as the authorised officer may
+of the game or protected animal as the authorised
+officer may
 direct.
 (2) Nothing in subsection (1) shall apply to a person who kills
 a game animal or protected animal through accident or error if—
@@ -2354,7 +2435,8 @@ wounding to the nearest authorised officer.
 and
 (g) any other information which might be of use in locating or
 identifying the animal.
-(3) If the dangerous animal wounded, but not killed, is an
+(3) If the dangerous animal wounded, but not
+killed, is an
 elephant or rhinoceros, the report made under subsection (1) shall,
 in addition, be made to the Committee within forty-eight hours of
 the wounding of the animal.
@@ -2368,7 +2450,8 @@ to kill it;
 the Committee may direct that a trophy of the animal be delivered
 to the licensee or permit holder.
 (5) A report required to be made under subsection (1) or (3)
-shall, whenever possible, be made in person by the person who
+shall, whenever possible, be made in person by the
+person who
 wounded the dangerous animal or, on that person’s instructions, by
 a person accompanying or assisting that person at the time when
 the wounding took place.
@@ -2464,7 +2547,8 @@ consultation with the Committee.
 (2) A trophy dealer who fails to keep or maintain a record or
 make a return prescribed under subsection (1) commits an offence.
 Prescribed
-86. (1) Subject to subsection (2), the Minister may, on the
+86. (1) Subject to subsection (2), the Minister
+may, on the
 trophies
 advice of the Committee, by statutory instrument, prescribe any
 trophy or class of trophy as being “prescribed trophy” for the
@@ -2551,7 +2635,8 @@ and the other in the name of the transferee indicating the number
 and type of trophies which have been transferred.
 (6) Subject to section ninety-three, a person who, by way of
 gift, purchase or otherwise, obtains or purports to obtain from any
-other person the ownership of a prescribed trophy, shall ensure
+other person the ownership of a prescribed trophy,
+shall ensure
 that the certificate of ownership for that trophy has been lawfully
 transferred to that person as provided for in subsections (2), (3),
 (4) and (5).
@@ -2570,7 +2655,8 @@ of ivory or
 seventy-five or seventy-six, kills an elephant or rhinoceros shall,
 horn of killed
 elephant or
-within forty-eight hours from the date of the killing, produce the
+within forty-eight hours from the date of the killing,
+produce the
 rhinoceros
 ivory or rhinoceros horn of the animal to a wildlife police officer or
 to such other person as may be nominated, in writing, in that regard
@@ -2655,9 +2741,11 @@ an offence.
 95. A trophy to which absolute ownership has not passed to
 Government
 trophies
-any person under section three, or under any other provision of
+any person under section three, or under any other
+provision of
 this Act, shall be a Government trophy for the purposes of this Act.
-96. (1) A person who obtains possession of a Government
+96. (1) A person who obtains possession of a
+Government
 Report of
 possession
 trophy shall, as soon as practicable after obtaining possession of it,
@@ -2764,13 +2852,15 @@ issued in respect of the game or protected animal or the meat of a
 or protected
 animal
 game animal or protected animal, as the case may be, and a permit
-to sell the game or protected animal or the meat of the game or
+to sell the game or protected animal or the meat of
+the game or
 protected animal.
 (2) Except as may otherwise be prescribed, a seller shall, upon
 the sale of a game animal or protected animal or any meat of a
 game animal or protected animal, endorse upon the certificate of
 ownership issued in respect of the game animal or protected animal,
-or of the meat of a game animal or protected animal, such details
+or of the meat of a game animal or protected animal,
+such details
 of the authority to sell the animal as may be prescribed, and the
 seller shall deliver up to the buyer the endorsed certificate of
 ownership, or a note of such certificate and endorsement, in the
@@ -2778,7 +2868,8 @@ prescribed form, before or at the time of the delivery of the game
 animal or protected animal, or of the meat of a game animal or
 protected animal, as the case may be.
 (3) If the seller has not previously delivered to the buyer the
-endorsed certificate of ownership of a game animal or protected
+endorsed certificate of ownership of a game animal
+or protected
 animal or of any meat of a game animal or protected animal, as the
 case may be, or the prescribed note of the certificate and
 endorsement required under subsection (2), the buyer shall, at the
@@ -2846,15 +2937,18 @@ or trophies
 prescribed trophy, documentary evidence that the wild
 animal, trophy or prescribed trophy has been lawfully
 exported from the country of origin.
-(2) A person who contravenes subsection (1) commits an
+(2) A person who contravenes subsection (1)
+commits an
 offence.
 (3) A customs officer may, where an importer or exporter fails
 at the time of the import or export to comply with the requirements
-of paragraph (a) or (b) of subsection (2), give the importer or
+of paragraph (a) or (b) of subsection (2), give the
+importer or
 exporter three months from the date of the attempted import or
 export to comply with the requirements.
 (4) A customs officer shall detain the wild animal, trophy or
-prescribed trophy to which subsection (3) applies and the cost
+prescribed trophy to which subsection (3) applies
+and the cost
 incurred in connection with the detention and storage of the wild
 animal, trophy or prescribed trophy shall be borne by the importer
 or exporter, as the case may be, and be recoverable from the
@@ -2866,12 +2960,14 @@ importer produces to the customs officer documentary evidence
 that the wild animal or meat of a wild animal was lawfully exported
 from the country of export.
 Certificate of
-106. A person who imports any live wild animal shall, within
+106. A person who imports any live wild animal
+shall, within
 ownership of
 one month from the date of the importation of the live wild animal,
 imported live
 wild animal
-apply to the Director for a certificate of ownership in respect of
+apply to the Director for a certificate of ownership
+in respect of
 the live wild animal.
 Wild animals
 107. (1) This Part does not apply to a wild animal, trophy or
@@ -2886,7 +2982,8 @@ prescribed trophy and enters through a customs port of
 entry; or
 (b) accompanied by a person who is in possession of, and
 surrenders to a customs officer, a certificate issued by
-the country of origin or of export of the wild animal,
+the country of origin or of export of the
+wild animal,
 trophy or prescribed trophy, stating that the person is
 lawfully authorised to export the wild animal, trophy or
 prescribed trophy and the person satisfies the customs
@@ -3012,7 +3109,8 @@ or other conveyance entering Zambia to furnish a list of
 the names of persons in the vehicle, boat, aircraft or
 other conveyance and such other prescribed information
 which is within the power of such person to furnish;
-(e) search any person whom the authorised officer has
+(e) search any person whom the authorised
+officer has
 reasonable grounds to believe is carrying any wild animal,
 trophy, prescribed trophy, nest, habitat, stone, vegetation,
 object, firearm, dart gun, ammunition, spear, bow, arrow,
@@ -3029,7 +3127,8 @@ artificial light, appliance, article, device or any other thing
 in relation to or in connection with which, the authorised
 officer has reason to believe, an offence has been
 committed or is likely to be committed;
-(g) seize any wild animal, trophy, prescribed trophy, nest,
+(g) seize any wild animal, trophy, prescribed
+trophy, nest,
 habitat, stone, vegetation, object, firearm, dart gun,
 ammunition, spear, bow, arrow, explosive, snare, net trap,
 poison, bird-lime, gin, mist net, contrivance, missile, torch,
@@ -3046,7 +3145,8 @@ wildlife estate without a permit;
 offence under this Act;
 (k) apply or order the application of measures which are
 necessary or prescribed for the control or prevention
-of the spread of animal infections or diseases in
+of the spread of animal infections or
+diseases in
 consultation with other relevant institutions;
 (l)destroy or order the destruction of any wild animal, trophy
 or prescribed trophy which is moved or used contrary
@@ -3106,9 +3206,11 @@ land, building, premises, tent, vehicle, boat, aircraft or
 other conveyance; or
 (c) conduct such other tests as the authorised officer considers
 necessary.
-(2) An authorised officer may, for the purpose of obtaining
+(2) An authorised officer may, for the purpose
+of obtaining
 statistics, weigh, measure and check any wild animal, trophy or
-prescribed trophy and any person in charge of the wild animal,
+prescribed trophy and any person in charge of the
+wild animal,
 trophy or prescribed trophy shall, on demand being made to that
 person by an authorised officer, produce that wild animal, trophy or
 prescribed trophy to the authorised officer for that purpose.
@@ -3186,7 +3288,8 @@ to which the officer is entitled; or
 (d) impersonates or falsely represents oneself to be an
 authorised officer or to be a person acting under an
 authorised officer’s orders;
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction,
+to a fine not
 exceeding two hundred thousand penalty units or to imprisonment
 for a period not exceeding two years, or to both.
 Demanding
@@ -3203,7 +3306,8 @@ person fails to produce it, restrain that person and the employees
 and agents of that person from doing such thing until the licence,
 permit, certificate or authorisation is produced.
 Prosecution
-119. (1) The Director of Public Prosecutions may, at the
+119. (1) The Director of Public Prosecutions
+may, at the
 by officers
 request of the Director, in writing, appoint by name or rank a wildlife
 officer to undertake the prosecution of any offence alleged to
@@ -3212,10 +3316,12 @@ have been committed under this Act.
 subsection (1), act in accordance with the general or special
 instructions of the Director of Public Prosecutions.
 Seizure of
-120. Where there is reason to believe that an offence has
+120. Where there is reason to believe that an
+offence has
 property
 been committed under this Act, any tool, instrument, machinery,
-equipment, vehicle and other property suspected of having been
+equipment, vehicle and other property suspected of
+having been
 used in the commission of the offence may be seized by an
 authorised officer and detained until an order of the court is made
 regarding the disposal thereof.
@@ -3291,7 +3397,8 @@ and the Director finds that—
 (a) there is dispute regarding its ownership;
 (b) there is insufficient evidence to determine its ownership;
 or
-(c) the Director is unable to ascertain whether it is liable to
+(c) the Director is unable to ascertain whether
+it is liable to
 forfeiture or not.
 Traffic
 122. (1) Notwithstanding the provisions of any other law, if a
@@ -3306,12 +3413,15 @@ or around any public place in such manner as the officer
 may think fit; or
 (b) cause a cordon to be placed in or across or around any
 public place or private property in such manner as the
-officer may think fit, and for the purpose, the wildlife
-police officer forming the cordon may, without the
+officer may think fit, and for the purpose,
+the wildlife
+police officer forming the cordon may,
+without the
 consent of any person, enter any property and do an act
 or thing necessary for the effective formation of the
 cordon.
-(2) Where a barrier has been erected or placed or a cordon
+(2) Where a barrier has been erected or placed
+or a cordon
 formed under subsection (1), a wildlife police officer may take all
 reasonable steps to prevent a person passing or a vehicle being
 driven past the barrier or cordon.
@@ -3393,7 +3503,8 @@ dealing with
 into possession an elephant or rhinoceros in contravention of any
 elephant or
 rhinoceros
-provision of this Act commits an offence and is liable, upon
+provision of this Act commits an offence and is
+liable, upon
 conviction—
 (a) for a first offence, to a term of imprisonment of not less
 than five years but not exceeding twenty years, without
@@ -3403,7 +3514,8 @@ imprisonment of not less than ten years but not exceeding
 twenty-five years, without the option of a fine.
 (2) If the court is satisfied that an offence, referred to in
 subsection (1), was committed for the purpose of, or in connection
-with, illegal trafficking in ivory or rhinoceros horn, the offender
+with, illegal trafficking in ivory or rhinoceros horn,
+the offender
 shall be liable, upon conviction—
 (a) for a first offence, to a term of imprisonment of not less
 than seven years but not exceeding twenty years, without
@@ -3518,7 +3630,8 @@ returns
 (b) fails to make an entry in the register or to furnish the
 return or information within the prescribed time; or
 (c) with intent to mislead, makes an entry in the register or
-furnishes a return or information which is false in a
+furnishes a return or information which
+is false in a
 material particular.
 (2) A person who is required to surrender a licence, permit,
 certificate or authorisation to the Director under this Act who fails
@@ -3600,7 +3713,8 @@ as required under subsection (5);
 or
 (c) in any manner, misuses or puts to personal use any payment
 made under this section;
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction,
+to a fine not
 exceeding three hundred thousand penalty units or to imprisonment
 for a period not exceeding three years, or to both.
 Additional
@@ -3685,13 +3799,15 @@ person convicted, the Director shall, within seven days of the date
 of publication of the notice in the Gazette, cause a copy to be sent
 by registered post in a sealed envelope addressed to the person at
 the address appearing on the register, and the registration of the
-letter shall be conclusive evidence of service of the notice upon
+letter shall be conclusive evidence of service of the
+notice upon
 that person.
 (5) A person who claims a right to a vehicle, boat, aircraft or
 other conveyance may, within three months from the date of the
 making of the order referred to in subsection (2), serve upon the
 Director and lodge with the clerk of the court an application, in
-writing, for the discharge of the order setting out the claim of
+writing, for the discharge of the order setting out
+the claim of
 ownership in the vehicle, boat, aircraft or other conveyance,
 whereupon the clerk of the court shall fix a date, of one month or
 more from the date of the lodgement of the application for a hearing
@@ -3754,7 +3870,8 @@ declaring the trophy, firearm or other weapon, trap, net, poison or
 instrument, vehicle, aircraft, boat, conveyance, material or article,
 as the case may be, to be forfeited without compensation and
 ordering it to be disposed of as the Director may consider fit.
-(2) If a person claims any right of ownership in any vehicle,
+(2) If a person claims any right of ownership in
+any vehicle,
 aircraft, boat or other conveyance, to which a notice published
 under subsection (1) applies, the person may, within one month
 from the date of publication, lodge with the clerk of the court a
@@ -3764,13 +3881,15 @@ one hundred and forty shall apply, with the necessary
 modifications, to the claim of ownership.
 (3) If a wild animal or trophy is seized under this Act or any
 written law in relation to or in connection with the commission of
-an offence under this Act or such other written law, the Director
+an offence under this Act or such other written law,
+the Director
 may apply to the court by way of original application, exparte, for
 an order for the immediate disposal by sale or otherwise of the
 wild animal or trophy, and the court may order the sale and in the
 event of a sale of the wild animal or trophy, the proceeds shall be
 held by the Director pending the determination of any proceedings
-brought in respect of the offence and shall be dealt with by the
+brought in respect of the offence and shall be dealt
+with by the
 Director as the court may direct or, if the person suspected of
 having committed the offence is unknown or cannot be found for
 the purposes of service of the process of the court, subsection (1)
@@ -3864,7 +3983,8 @@ such boards;
 (q) the terms and conditions under which an honorary wildlife
 police officer may exercise the functions of a wildlife
 police officer;
-(r) the implementation of the Convention on Wetlands of
+(r) the implementation of the Convention on
+Wetlands of
 International Importance Especially as Waterfowl
 Habitat, the Lusaka Agreement on Cooperative
 Enforcement Operation Directed at Illegal Trade in Wild
@@ -3922,7 +4042,8 @@ exceed three months.
 (b) if the member is adjudged bankrupt;
 (c) if the member is absent, without reasonable excuse, from
 three consecutive meetings of the Committee of which
-the member had notice, without the prior approval of
+the member had notice, without the prior
+approval of
 the Committee;
 (d) upon the expiry of one month’s notice of the member’s
 intention to resign, given by the member, in writing, to
@@ -3948,14 +4069,16 @@ perform its functions and at such places and times as the Chairperson
 may determine.
 (3) The Chairperson may, upon giving notice of not less than
 fourteen days, call a meeting of the Committee and shall call a
-special meeting to be held within fourteen days of receipt of a
+special meeting to be held within fourteen days of
+receipt of a
 written request to the Chairperson by at least five members of the
 Committee.
 (4) If the urgency of any particular matter does not permit the
 giving of the notice required under sub-paragraph (3), a special
 meeting may be called by the Chairperson on giving a shorter
 notice.
-(5) The quorum at a meeting of the Committee shall be half
+(5) The quorum at a meeting of the Committee
+shall be half
 of the members of the Committee.
 (6) There shall preside at a meeting of the Committee—
 (a) the Chairperson;
@@ -4011,7 +4134,8 @@ is the subject of consideration and in which matter that member or
 person or the member’s or that person’s associate or relative, is
 directly or indirectly interested in a private capacity shall, as soon
 as is practicable, after the commencement of the meeting, declare
-that interest and shall not, unless the Committee or the sub-
+that interest and shall not, unless the Committee
+or the sub-
 committee otherwise directs, take part in any consideration or
 discussion of, or vote on any question relating to, that matter.
 (2) A declaration of interest made under this paragraph shall
@@ -4033,13 +4157,15 @@ capital; or
 (v) the trustee of a trust, where the trust has been
 created by that person or the total value of the
 assets contributed by that person before or after
-the creation of the trust amounts, at any time,
+the creation of the trust amounts,
+at any time,
 to twenty percent or more of the total value of
 the assets of the trust; and
 (b) “ relative ” in relation to a person means—
 (i) a parent, son, daughter, brother, sister, niece, uncle,
 aunt, grandparent or cousin of that person; or
-(ii) that person’s spouse or the spouse of a person
+(ii) that person’s spouse or the spouse
+of a person
 mentioned in sub-item (i).
 7. (1) A person shall not, without the consent in writing, given
 Prohibition
@@ -4067,7 +4193,8 @@ communicates the information to any other person commits an
 offence and is liable, upon conviction, to a fine not exceeding two
 hundred thousand penalty units or to imprisonment for a period not
 exceeding two years, or to both.
-8. An action or other proceeding shall not lie or be instituted Immunity
+8. An action or other proceeding shall not lie or be instituted
+Immunity
 against a member of the Committee or sub-committee in respect
 of an act or thing done or omitted to be done in good faith in the
 exercise or performance of any of the powers or functions conferred
@@ -4107,7 +4234,8 @@ the affairs of the Authority.
 (a) the assets of the Authority are properly inventoried, valued
 and disposed of subject to the instructions of the
 Secretary to the Treasury;
-(b) ensure that all debts due to the Authority are properly
+(b) ensure that all debts due to the Authority
+are properly
 recovered;
 (c) ensure that the claims of all creditors, including employees
 and tax liabilities, if any, are proved and settled in full;
