@@ -49,9 +49,9 @@ Text layer: typeset.
 | 40. Rejection of application for approval of name | [sec-040.md](sec-040.md) |
 | 41. Reservation of company name | [sec-041.md](sec-041.md) |
 | 42. Change of name | [sec-042.md](sec-042.md) |
-| 43. Registrar may direct change of name | [sec-043.md](sec-043.md) |
+| 43. name of a Registrar may direct change of name | [sec-043.md](sec-043.md) |
 | 44. Document with incorrect name not | [sec-044.md](sec-044.md) |
-| 45. Liability where company name | [sec-045.md](sec-045.md) |
+| 45. stated in a Liability where company name | [sec-045.md](sec-045.md) |
 | 46. Publication of change of company name prior | [sec-046.md](sec-046.md) |
 | 47. Legal effect of change of name | [sec-047.md](sec-047.md) |
 | 48. Conversion of private company limited by | [sec-048.md](sec-048.md) |
@@ -66,7 +66,7 @@ Text layer: typeset.
 | 57. Annual general meeting | [sec-057.md](sec-057.md) |
 | 58. Business to be transacted at annual general | [sec-058.md](sec-058.md) |
 | 59. Extraordinary general meeting | [sec-059.md](sec-059.md) |
-| 60. Class meetings | [sec-060.md](sec-060.md) |
+| 60. Class meetings necessary; | [sec-060.md](sec-060.md) |
 | 61. Requisition of general meeting | [sec-061.md](sec-061.md) |
 | 62. Entitlement to receive notice of meetings | [sec-062.md](sec-062.md) |
 | 63. Length of notice for convening meeting | [sec-063.md](sec-063.md) |
@@ -78,8 +78,8 @@ Text layer: typeset.
 | 69. Right to demand poll | [sec-069.md](sec-069.md) |
 | 70. Voting on poll | [sec-070.md](sec-070.md) |
 | 71. Proxies | [sec-071.md](sec-071.md) |
-| 72. Representation of body corporates and | [sec-072.md](sec-072.md) |
-| 73. Circulation of members’ resolutions and | [sec-073.md](sec-073.md) |
+| 72. association Representation of body corporates and | [sec-072.md](sec-072.md) |
+| 73. Circulation of members’ request the resolutions and | [sec-073.md](sec-073.md) |
 | 74. Circulation of members’ statements | [sec-074.md](sec-074.md) |
 | 75. Refusal to circulate member’s statements | [sec-075.md](sec-075.md) |
 | 76. Reference to ordinary, extraordinary, and special | [sec-076.md](sec-076.md) |
@@ -92,7 +92,7 @@ Text layer: typeset.
 | 83. Responsibilities of company secretary | [sec-083.md](sec-083.md) |
 | 84. Appointment of body corporate as company | [sec-084.md](sec-084.md) |
 | 85. Appointment of directors | [sec-085.md](sec-085.md) |
-| 86. Powers and duties of directors | [sec-086.md](sec-086.md) |
+| 86. Powers and duties of a board of directors | [sec-086.md](sec-086.md) |
 | 87. Limitations on powers of directors | [sec-087.md](sec-087.md) |
 | 88. Delegating powers of board | [sec-088.md](sec-088.md) |
 | 89. Board committees | [sec-089.md](sec-089.md) |
@@ -106,8 +106,8 @@ Text layer: typeset.
 | 97. Alternate directors | [sec-097.md](sec-097.md) |
 | 98. Removal of director from office | [sec-098.md](sec-098.md) |
 | 99. Vacancy in office of director and filling up of | [sec-099.md](sec-099.md) |
-| 100. Notice of change of directorship and | [sec-100.md](sec-100.md) |
-| 101. Executive director | [sec-101.md](sec-101.md) |
+| 100. Notice of change of directorship and result of a | [sec-100.md](sec-100.md) |
+| 101. Executive director considers | [sec-101.md](sec-101.md) |
 | 102. Acts done in dual capacity as director and | [sec-102.md](sec-102.md) |
 | 103. Loans to directors by company | [sec-103.md](sec-103.md) |
 | 104. Directors to comply with Act and articles | [sec-104.md](sec-104.md) |
@@ -129,13 +129,13 @@ Text layer: typeset.
 | 120. Liability of director for breach of duty | [sec-120.md](sec-120.md) |
 | 121. Validity of decisions by executive officer | [sec-121.md](sec-121.md) |
 | 122. Liability and indemnity with regard to decisions | [sec-122.md](sec-122.md) |
-| 123. Declaration in respect of beneficial interest in | [sec-123.md](sec-123.md) |
+| 123. Declaration in respect of holder of a beneficial interest in | [sec-123.md](sec-123.md) |
 | 124. Beneficial ownership of shares | [sec-124.md](sec-124.md) |
 | 125. Liability of shareholders | [sec-125.md](sec-125.md) |
 | 126. Liability of former shareholders | [sec-126.md](sec-126.md) |
 | 127. Liability of person ceasing to be shareholder | [sec-127.md](sec-127.md) |
 | 128. Shareholders not required to acquire shares by | [sec-128.md](sec-128.md) |
-| 129. Liability of personal representative | [sec-129.md](sec-129.md) |
+| 129. Liability of personal of a share representative | [sec-129.md](sec-129.md) |
 | 130. Liability of assignee | [sec-130.md](sec-130.md) |
 | 131. Exercise of powers reserved for shareholders | [sec-131.md](sec-131.md) |
 | 132. Power to acquire shares of minority on | [sec-132.md](sec-132.md) |
@@ -164,7 +164,7 @@ Text layer: typeset.
 | 155. Consideration to issue of options and convertible | [sec-155.md](sec-155.md) |
 | 156. Subsequent issue of shares | [sec-156.md](sec-156.md) |
 | 157. When share is issued | [sec-157.md](sec-157.md) |
-| 158. Board to authorise distribution | [sec-158.md](sec-158.md) |
+| 158. Board to authorise distribution authorise a | [sec-158.md](sec-158.md) |
 | 159. Dividends to be paid out of profits | [sec-159.md](sec-159.md) |
 | 160. Shares in lieu of dividends | [sec-160.md](sec-160.md) |
 | 161. Recovery of distributions of dividends | [sec-161.md](sec-161.md) |
@@ -194,7 +194,7 @@ Text layer: typeset.
 | 185. Holding companies and subsidiary | [sec-185.md](sec-185.md) |
 | 186. Subsidiary may not hold shares in holding | [sec-186.md](sec-186.md) |
 | 187. Statement of shareholder’s rights | [sec-187.md](sec-187.md) |
-| 188. Transfer of shares | [sec-188.md](sec-188.md) |
+| 188. shares in a Transfer of shares | [sec-188.md](sec-188.md) |
 | 189. Restrictions on transferability | [sec-189.md](sec-189.md) |
 | 190. Transmission of shares by operation of law | [sec-190.md](sec-190.md) |
 | 191. Evidence of transmission of shares by operation of | [sec-191.md](sec-191.md) |
@@ -224,7 +224,7 @@ Text layer: typeset.
 | 215. Oversubscription in debenture issue | [sec-215.md](sec-215.md) |
 | 216. Reference to stock exchange listing in | [sec-216.md](sec-216.md) |
 | 217. Civil liability for misstatements or omissions | [sec-217.md](sec-217.md) |
-| 218. | [sec-218.md](sec-218.md) |
+| 218. Offence of misstatement or omission in | [sec-218.md](sec-218.md) |
 | 219. Stop trading order | [sec-219.md](sec-219.md) |
 | 220. Enforceability of agreement before end of waiting | [sec-220.md](sec-220.md) |
 | 221. Withdrawal of application after waiting | [sec-221.md](sec-221.md) |
@@ -237,13 +237,13 @@ Text layer: typeset.
 | 228. Appointment as assignee for debenture | [sec-228.md](sec-228.md) |
 | 229. Right to copies of trust deed | [sec-229.md](sec-229.md) |
 | 230. Unsecured debentures to be so described | [sec-230.md](sec-230.md) |
-| 231. Register of debenture holders | [sec-231.md](sec-231.md) |
+| 231. debentures Register of debenture holders | [sec-231.md](sec-231.md) |
 | 232. Holders of debentures secured by trust deed | [sec-232.md](sec-232.md) |
-| 233. Meetings of other debenture holders | [sec-233.md](sec-233.md) |
+| 233. Meetings of other debenture resolutions holders | [sec-233.md](sec-233.md) |
 | 234. Reissue of redeemed debentures | [sec-234.md](sec-234.md) |
 | 235. Charge to secure fluctuating amount | [sec-235.md](sec-235.md) |
 | 236. Company’s register of charges | [sec-236.md](sec-236.md) |
-| 237. Registrar’s register of charges | [sec-237.md](sec-237.md) |
+| 237. containing, Registrar’s register of charges | [sec-237.md](sec-237.md) |
 | 238. Registration of charges by companies | [sec-238.md](sec-238.md) |
 | 239. Certificate to be issued by Registrar | [sec-239.md](sec-239.md) |
 | 240. Priorities | [sec-240.md](sec-240.md) |
@@ -275,7 +275,7 @@ Text layer: typeset.
 | 266. Standards for financial statement preparation | [sec-266.md](sec-266.md) |
 | 267. Obligation to provide consolidated financial | [sec-267.md](sec-267.md) |
 | 268. Comprehensive income statement when | [sec-268.md](sec-268.md) |
-| 269. Date for financial statement of subsidiary | [sec-269.md](sec-269.md) |
+| 269. subsidiary Date for financial statement of subsidiary | [sec-269.md](sec-269.md) |
 | 270. Annual return to Registrar | [sec-270.md](sec-270.md) |
 | 271. Filing of annual returns in receivership | [sec-271.md](sec-271.md) |
 | 272. No change return | [sec-272.md](sec-272.md) |
@@ -343,9 +343,9 @@ Text layer: typeset.
 | 334. Compromise, settlement, or withdrawal | [sec-334.md](sec-334.md) |
 | 335. Actions by member against director | [sec-335.md](sec-335.md) |
 | 336. Actions by members against company | [sec-336.md](sec-336.md) |
-| 337. Actions by member to require company to | [sec-337.md](sec-337.md) |
-| 338. Representative actions | [sec-338.md](sec-338.md) |
-| 339. Ratification of certain actions of directors | [sec-339.md](sec-339.md) |
+| 337. Actions by member to require to be taken company to | [sec-337.md](sec-337.md) |
+| 338. Representative actions the subject | [sec-338.md](sec-338.md) |
+| 339. of a power Ratification of certain ratified or actions of directors | [sec-339.md](sec-339.md) |
 | 340. Exercise of discretionary power | [sec-340.md](sec-340.md) |
 | 341. Appeal against a decision of Registrar | [sec-341.md](sec-341.md) |
 | 342. Registrar to sit with assessors in determining | [sec-342.md](sec-342.md) |
@@ -358,14 +358,14 @@ Text layer: typeset.
 | 349. Registration of documents | [sec-349.md](sec-349.md) |
 | 350. Extension of time | [sec-350.md](sec-350.md) |
 | 351. Documents to be in official language | [sec-351.md](sec-351.md) |
-| 352. Oaths and affirmations | [sec-352.md](sec-352.md) |
+| 352. Oaths and affirmations relating to | [sec-352.md](sec-352.md) |
 | 353. Evidence of entries and documents | [sec-353.md](sec-353.md) |
 | 354. Loss or destruction of certificate | [sec-354.md](sec-354.md) |
 | 355. Electronic transactions | [sec-355.md](sec-355.md) |
 | 356. Retention of records | [sec-356.md](sec-356.md) |
 | 357. Failure to keep books | [sec-357.md](sec-357.md) |
 | 358. Failure to provide documents | [sec-358.md](sec-358.md) |
-| 359. Furnishing false document | [sec-359.md](sec-359.md) |
+| 359. director or Furnishing false document | [sec-359.md](sec-359.md) |
 | 360. Fraudulent use or destruction of property | [sec-360.md](sec-360.md) |
 | 361. Falsification of records | [sec-361.md](sec-361.md) |
 | 362. Penalties for carrying on business fraudulently | [sec-362.md](sec-362.md) |
@@ -377,7 +377,7 @@ Text layer: typeset.
 | 368. Aiding and abetting offences | [sec-368.md](sec-368.md) |
 | 369. False representation about Companies | [sec-369.md](sec-369.md) |
 | 370. Administrative penalties | [sec-370.md](sec-370.md) |
-| 371. Offences by body corporate or unincorpo- | [sec-371.md](sec-371.md) |
+| 371. Offences by body manager or corporate or unincorpo- | [sec-371.md](sec-371.md) |
 | 372. General offences | [sec-372.md](sec-372.md) |
 | 373. General penalty | [sec-373.md](sec-373.md) |
 | 374. Prescribed fee | [sec-374.md](sec-374.md) |

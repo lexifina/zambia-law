@@ -22,7 +22,7 @@ Matters to be specified in Prospectus
 12. Other than for a proposed company, the names, addresses and professional qualifications of the company’s auditors.
 13. The name and address of any underwriter of the invitation.
 14. The names and addresses of the company’s bankers, stockbrokers and legal practitioners.
-15. If the invitation relates to debentures, the names and addresses of any trustees for debenture holders, the date of the resolutions creating the debentures, and short particulars of the security therefor or, if the debentures are unsecured, a statement to that effect.
+15. If the invitation relates to debentures, the addresses of any trustees for debenture holders, the resolutions creating the debentures, and short particulars of the security therefor or, if the debentures are unsecured, a statement to that effect.
 16. The nature of the business or businesses of the company or, if the company has no business, its principal objects.
 17. The restrictions, if any, upon the business of the company contained in the articles.
 18. A brief summary of the history of the company.
@@ -46,7 +46,7 @@ Matters to be specified in Prospectus
 (iv) working capital; and
 (c) the amounts to be provided in respect of the matters stated in paragraph (b) otherwise than out of the proceeds of the issue, and the sources out of which these amounts are to be provided.
 29. Where a person other than the company is inviting the public to purchase any shares or debentures of the company (whether or not the invitation is also made by the company)—
-(a) if the shares or debentures were issued by the company for cash-a statement of the price per share or debenture at which those shares or debentures were issued, and of the total net proceeds of the issue;
+(a) if the shares or debentures were issued by the company for cash-a statement of the price per share or debenture at which those shares or debentures were of the total net proceeds of the issue;
 (b) if the shares or debentures were issued by the company for a consideration other than cash-a statement of the nature of the consideration and an estimate by the directors of its fair value and of the price per share or debenture which it represents;
 (c) if the person making the invitation did not acquire the shares or debentures directly from the company on their issue—
 (i) if he purchased them for cash-a statement of the price per share or debenture at which he purchased them (or, if purchased over a period of time at different prices, the lowest and highest prices) and the total purchase price paid by him; or
@@ -65,7 +65,7 @@ Matters to be specified in Prospectus
 39. The amount of the outstanding debentures issued or agreed to be issued bythe company and any of its subsidiaries and proposed subsidiaries or, if none, a statement to that effect.
 40. Particulars of any bank overdrafts of the company and any of its subsidiaries and proposed subsidiaries as at the latest practical date (which shall be stated) or, if there are no bank overdrafts, a statement to that effect.
 41. The nature of the consideration for the issue of any of the company’s shares or debentures issued or proposed to be issued otherwise than for cash.
-42. Particulars of any share or debentures of any of the company’s subsidiaries andproposed subsidiarieswhich have,within two years immediately proceeding the publication of the prospectus, been issued, or which are proposed to be issued otherwise than for cash and the nature of the consideration.
+42. Particulars of any share or debentures of company’s subsidiaries andproposed subsidiarieswhich have,within two years immediately proceeding the publication of the prospectus, been issued, or which are proposed to be issued otherwise than for cash and the nature of the consideration.
 43. Particulars of any shares or debentures of the company or any of its subsidiaries and proposed subsidiaries which have, within two years immediately proceeding the publication of the prospectus, been issued, or which are proposed to be issued, for cash, the price and terms upon which the same have been or are to be issued and (if not already fully paid) the dates when any instalments are payable.
 44. Particulars of any shares or debentures of the company or any of its subsidiaries and proposed subsidiaries which are under option, or agreed conditionally or unconditionally to be put option, with the price to be paid for the securities option, the duration of the option, the consideration for which the option was granted and—
 (a) where the option is to all the shareholders or debenture holders or any class thereof or to employees generally-a statement of that fact; or
@@ -89,13 +89,13 @@ Matters to be specified in Prospectus
 (c) the amount of any cash or securities paid, or benefit given or proposed to be given, to any promoter and the consideration for such payment or benefit; and
 (d) full particulars of the nature and extent of the interest of every director and proposed director in the promotion of the company.
 47. Where the prospectus includes a statement purporting to be made by an expert, a statement that the expert has given and has not withdrawn his written consent to the publication of the prospectus with the statement included in the formand in the context in which it is included.
-48. The dates of, parties to, and general nature of, everymaterial contract (other than contracts entered into in the ordinary course of business or completed more than two years before the date of publication of the prospectus).
+48. The dates of, parties to, and general nature of, everymaterial contract (other than contracts entered into in the ordinary course of business or completed more than two years before publication of the prospectus).
 49. (1) A reasonable time (not being less than twenty-eight days) during which, and place at which, subject to this clause, the following documents (or certified copies thereof), may be inspected—
 (a) the company’s certificate of incorporation, certificate of share capital and articles;
 (b) where the invitation relates to debentures-the debenture trust deed;
-(c) each contract disclosed pursuant to clause 48 of this Schedule or, in the case of a contract not reduced to writing, a memorandum giving full particulars thereof;
-(d) the annual accounts (including any group accounts), auditor’s report and directors’ report for each of the last five financial years, or, where part of that period fell before the commencement of this Act, all similar accounts and reports produced by the company in respect of that part of the period;
-(e) the annual accounts (including any group accounts), auditors’ report and directors’ report in respect of each subsidiary and proposed subsidiary, for each of the last five financial years, or where—
+(c) each contract disclosed pursuant to clause Schedule or, in the case of a contract not writing, a memorandum giving full particulars thereof;
+(d) the annual accounts (including any group auditor’s report and directors’ report for last five financial years, or, where part of fell before the commencement of this Act, accounts and reports produced by the company in respect of that part of the period;
+(e) the annual accounts (including any group auditors’ report and directors’ report in respect of each subsidiary and proposed subsidiary, for each of the last five financial years, or where—
 (i) part of that period fell before the commencement of this Act; or
 (ii) the subsidiary or proposed subsidiary is not a company to which this Act applies; all similar accounts and reports produced by the subsidiary or proposed subsidiary in respect of that period or part of the period;
 (f) all other reports, letters, statement of financial position s, valuations and statements by an expert any part of which is extracted or referred to in the prospectus; and
@@ -111,8 +111,8 @@ Reports to be set out in Prospectus
 (b) if the company has subsidiaries-a report as required by paragraph (a) with respect to the profits or losses of the company and of its subsidiaries, so far as such profits or losses can properly be regarded as attributable to the interests of the company.
 52. A report with respect to—
 (a) the assets and liabilities of the company as at the end of its last financial year or, if the financial year ended ninety days or more before the date of publication of the prospectus, as at the latest practicable date, being a date less than ninety days before the date of publication of the prospectus; or
-(b)if the companyhas subsidiaries-a report of the kind required by paragraph (a) with respect to the assets and liabilities of the company, and of its subsidiaries so far as such assets can properly be regarded as attributable to the interests of the company.
-53. A report with respect to the aggregate emoluments paid by the company to the directors of the company or any related body body corporate during the last period for which the accounts have been made up and the amount, if any, by which such emoluments would differ from the amounts payable under any arrangement in force at the date of publication of the prospectus.
+(b)if the companyhas subsidiaries-a report of the kind required by paragraph (a) with respect to the assets and liabilities of the company, and of its subsidiaries so assets can properly be regarded as attributable to the interests of the company.
+53. A report with respect to the aggregate emoluments paid by the company to the directors of the company or body body corporate during the last period for which the accounts have been made up and the amount, if any, by which such emoluments would differ from the amounts payable under any arrangement in force at the date of publication of the prospectus.
 54. (1) A report with respect to profits or losses of—
 (a) each proposed subsidiary of the company;
 (b) each business acquired by the company within ten years before the date of publication of the prospectus; and
@@ -120,7 +120,7 @@ Reports to be set out in Prospectus
 (i) each of the ten financial years immediately preceding the publication of the prospectus, (or each financial year since the commencement of that business or the incorporation of that subsidiary or proposed subsidiary, if less than ten years); and
 (ii) if the last financial year of that business, subsidiary or proposed subsidiary ended ninety days or more before the date of the publication of the prospectus-the period from the end of the last financial year to the latest practicable date, being a date less than ninety days before the date of the publication of the prospectus.
 (2) The report shall deal with such of the profits or losses of a subsidiary or proposed subsidiary as can properly be regarded as attributable to the interests of the company.
-(3) Where the report relates to any financial year before the subsidiary became a subsidiary of the company or relates to a proposedsubsidiary, onlysuchofits profitsorlossesshall beregarded as attributable to the interests of the company as would have been properly so attributable if the company had held the securities in the subsidiary or proposed subsidiary which it holds at the date of publication of the prospectus or proposes to acquire.
+(3) Where the report relates to any financial year before the subsidiary became a subsidiary of the company or proposedsubsidiary, onlysuchofits profitsorlossesshall beregarded as attributable to the interests of the company as would have been properly so attributable if the company had held the securities in the subsidiary or proposed subsidiary which it holds at the date of publication of the prospectus or proposes to acquire.
 (4) Where any such subsidiary or proposed subsidiary itself has subsidiaries, the report shall extend to the profits or losses of its subsidiaries so far as the same can properly be regarded as attributable to the interests of the company.
 (5) The report need not extend to any period in respect of which the profits or losses of that business or the appropriate part of the profits or losses of that subsidiary are dealt with in the report required under clause 51.
 55. (1) A report with respect to the assets and liabilities of each proposed subsidiary of the company and each business or subsidiary acquired since the latest date up to which the accounts of the company have been made, as at the end of the last financial year of the business, subsidiary or proposed subsidiary, or, if the financial year ended ninety days or more before the date of publication of the prospectus, as at the latest practicable date not being more than ninety days before the date of publication of the prospectus.

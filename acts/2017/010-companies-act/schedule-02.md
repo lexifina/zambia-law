@@ -31,7 +31,7 @@ No person shall be admitted as a member of the company unless by a resolution of
 3. A member may at any time withdraw from the company by giving at least seven days’ written notice to that effect.
 General Meetings
 4. All general meetings other than annual general meetings shall be called extraordinary general meetings.
-5. The Directors may call a general meeting whenever they consider necessary and, on the requisition of members pursuant to the provisions of the Act, shall forthwith proceed to convene an extraordinary general meeting on a date not later than six weeks after receipt of the requisition. If there are no sufficient directors present within Zambia to call a general meeting, any one Director, or any two members may convene a general meeting in the same manner, or in a manner as similar as possible to that in which such a meeting may be convened by a Director.
+5. The Directors may call a general meeting whenever they consider necessary and, on the requisition of members pursuant to the provisions of the Act, shall forthwith proceed to extraordinary general meeting on a date not later than six weeks after receipt of the requisition. If there are no sufficient directors present within Zambia to call a general meeting, any one Director, or any two members may convene a general meeting in the same manner, or in a manner as similar as possible to that in which such a meeting may be convened by a Director.
 6. A general meeting shall be held in Zambia unless all the members entitled to vote at the meeting agree in writing to hold the meeting at a place outside Zambia.
 Notice of General Meeting
 7. An annual general meeting and a general meeting called for the passing of a special resolution or resolution appointing a person as a Director shall be called by at least twenty-one days’ notice.
@@ -51,7 +51,7 @@ Proceedings at General Meetings
 (b) the chairman is not present within fifteen minutes after the time appointed for the holding of the meeting or is unwilling act; the members present shall elect one of their number to be chairman of the meeting.
 13. (1) The chairman may, with the consent of a meeting at which a quorum is present (and shall if so directed by the meeting), adjourn the meeting from time to time and from place to place, but no business shall be transacted at an adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 (2) When a meeting is adjourned for thirty days or more, notice of the adjourned meeting shall be given as in the case of an original meeting. Except as provided in the preceding paragraph, it shall not be necessary to give notice of an adjournment or of the business to be transacted at an adjourned meeting.
-14. (1) At a general meeting, a resolution put to the vote of the meeting shall be decided on a show of hands unless a poll is demanded (before or on the declaration of the result of the show of hands)—
+14. (1) At a general meeting, a resolution put to the meeting shall be decided on a show of hands unless a poll is demanded (before or on the declaration of the result of hands)—
 (a) by the chairman;
 (b) by at least three members present in person or by proxy; or
 (c) by a member or members present in person or by proxy and representing not less than one tenth of the total rights of all the members having the right to vote at the meeting.
@@ -75,7 +75,7 @@ Or in his absence ..............................................................
 As my/our proxy to vote for me/us on my/our behalf at the annual/ extraordinary general meeting of the company to be held on the ………… day of .................. 20….…. * in favour of/against resolution No.: ………….……………. * in favour of /resolution No.: ……………………………….. * in favour resolution No.: ………………………….………… Unless otherwise instructed, the proxy will vote as he thinks fit.
 Signed: ………………………………..……………………..
 Date:……………………….……………………................... *Strike out whichever is not desirable.
-20. An instrument appointing a proxy shall not be treated as valid unless the instrument and the power of attorney or other authority(if any) under which the instrument is signed or a notarially certified copy of that power or authority are deposited, not less than forty-eight hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, or in the case of a poll, not less that twenty-four hours before the time appointed for the taking of the poll, at the registered office of the company or at such other place in Zambia as shall be specified for that purpose in the notice convening the meeting.
+20. An instrument appointing a proxy shall not be treated as valid unless the instrument and the power of attorney or other authority(if any) under which the instrument is signed or a notarially certified copy of that power or authority are deposited, not less than forty-eight hours before the time for holding the adjourned meeting at which the person named in the proposes to vote, or in the case of a poll, not less that twenty-four hours before the time appointed for the taking of the registered office of the company or at such other place in Zambia as shall be specified for that purpose in the notice convening the meeting.
 21. A vote given in accordance with the terms of an instrument of proxy or of a power of attorney shall be valid notwithstanding that the principal has since died, become of unsound mind or revoked the instrument (or the authority under which the instrument was executed) or the power, unless notice in writing of the death, unsoundness of mind or revocation has been received by the company at the company’s registered office before the commencement of the meeting or adjourned meeting at which the instrument is to be used or the power exercised.
 Directors
 22. In addition to the circumstances in which the office of director becomes vacant by virtue of the Act, the office of director makes any arrangement or composition with his creditors generally.
@@ -91,16 +91,15 @@ Alternate Directors
 (2) An alternate director may, subject to the instrument of appointment, exercise any powers that the appointer may exercise.
 28. (1) At a meeting of directors, the quorum shall be two, or such larger number as shall be determined by resolution of the company.
 (2) In the event of a vacancy or vacancies in the office of director, the remainingdirectors or director mayact but if the number of remaining directors is not sufficient to constitute a quorum at a meeting of directors, the remaining directors or director may act only for purposes of increasing the number of director to a number sufficient to constitute such quorum or of convening a general meeting of the company.
-29. (1) The directors may delegate any of their powers to committees consisting of such of their number as they consider appropriate. Powers so delegated and exercised shall be deemed to have been exercised by the directors.
-(2) The members of such a committee may elect one of their number as chairman of their meetings. Where such a meeting is held, and a chairman has not been elected as provided above, or the chairman is not present within ten minutes after the appointed time for the holdingof themeeting or is unwillingto act, the members present may choose one of their number to be chairman of the meeting.
+29. (1) The directors may delegate any of their powers to committees consisting of such of their number as they consider appropriate. Powers so delegated and exercised shall to have been exercised by the directors.
+(2) The members of such a committee may elect one of their number as chairman of their meetings. Where such a held, and a chairman has not been elected as provided above, or the chairman is not present within ten minutes after the appointed time for the holdingof themeeting or is unwillingto act, the members present may choose one of their number to be chairman of the meeting.
 (3) Questions arising at a meeting of a committee shall be determined by a majority of votes of the members present and voting. In the event of an equality of votes, the chairman, in addition to his deliberate vote (if any) shall have a casting vote.
 Executive Director
-30. The board of directors may, upon such terms and conditions and with such restrictions as it considers necessary, appoint an executive director in accordance with the Act and confer upon the executive director any of the powers exercisable by the board.
-Any powers so conferred may be concurrent with, or to the exclusion of the powers of the board. The board may at any time withdraw or vary any of the power so conferred on the executive director.
+30. The board of directors may, upon such terms and conditions and with such restrictions as it considers necessary, executive director in accordance with the Act and confer upon the executive director any of the powers exercisable by Any powers so conferred may be concurrent with, or to the exclusion of the powers of the board. The board may at any time withdraw or vary any of the power so conferred on the executive director.
 Remuneration of Directors
 31. The directors shall be entitled to such remuneration as the company may, by ordinary resolution, determine and, unless the resolution provides otherwise, the remuneration shall be deemed to accumulate from day to day.
 Directors’ Expenses
-32. The directors may be paid all travelling, hotel, and other expenses properly incurred by them in connection with their attendance at meetings of directors or committees of directors or general meetings of the company or otherwise in connection with the discharge of their duties as directors.
+32. The directors may be paid all travelling, hotel, and other expenses properly incurred by them in connection attendance at meetings of directors or committees of general meetings of the company or otherwise in connection with the discharge of their duties as directors.
 Secretary
 33. A secretary of the company shall hold office on such terms and conditions as to remuneration and otherwise, as the board may determine.
 Minutes
@@ -118,7 +117,8 @@ Indemnity
 (2) We agree that if, upon the winding up of the company, there remains after the discharge of all its debts and liabilities any propertyof the company, that property will not be distributed among the members, but will be transferred to some other company having similar objects, or applied to some other charitable object, such other company or charity to be determined by ordinary resolution of the members in a general meeting prior to the dissolution of the company.
 (3) We respectively declare that if, upon the winding up of the company, the assets of the company prove insufficient to discharge allthe debts and liabilities of thecompany, weguarantee to contribute to the discharge of those debts and liabilities an amount set against our respective names.
 SUBSCRIBERS’ NAMES, ADDRESSES AND
-GUARANTEED AMOUNT Residential, Forenames Postal, Email Nationality and Addresses and NRC No. or Guaranteed Surnames Phone No Passport No. Amount Signature WITNESS:
+GUARANTEED AMOUNT Residential, Forenames Postal, Email Nationality and Addresses and NRC No. or Guaranteed Surnames Phone No Passport No.
+Amount WITNESS:
 Full Name: .............................................................................
 Occupation: ...........................................................................
 Address: ................................................................................
