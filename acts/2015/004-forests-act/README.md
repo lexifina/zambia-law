@@ -20,8 +20,8 @@ Text layer: typeset.
 | 11. Acquisition of land for National Forest | [sec-011.md](sec-011.md) |
 | 12. Purpose of National Forest | [sec-012.md](sec-012.md) |
 | 13. Rights in National Forest | [sec-013.md](sec-013.md) |
-| 14. Control and management of National Forests | [sec-014.md](sec-014.md) |
-| 15. Grant of right or interest in National | [sec-015.md](sec-015.md) |
+| 14. the Director Control and management of National Forests | [sec-014.md](sec-014.md) |
+| 15. Grant of right or law for any interest in National | [sec-015.md](sec-015.md) |
 | 16. Restrictions in National Forest | [sec-016.md](sec-016.md) |
 | 17. Establishment of Local Forest | [sec-017.md](sec-017.md) |
 | 18. Acquisition of land for Local Forest | [sec-018.md](sec-018.md) |
@@ -30,17 +30,17 @@ Text layer: typeset.
 | 21. Control and management of Local Forest | [sec-021.md](sec-021.md) |
 | 22. Grant of right or interest in Local Forest | [sec-022.md](sec-022.md) |
 | 23. Restrictions in Local Forest | [sec-023.md](sec-023.md) |
-| 24. Establishment of botanical reserve | [sec-024.md](sec-024.md) |
+| 24. Establishment of botanical reserve woodland or | [sec-024.md](sec-024.md) |
 | 25. Prohibition of certain activities in botanical | [sec-025.md](sec-025.md) |
 | 26. Registration of private forest | [sec-026.md](sec-026.md) |
 | 27. Entitlement of owner of registered private | [sec-027.md](sec-027.md) |
-| 28. Deregistration of private forest | [sec-028.md](sec-028.md) |
+| 28. forest if the Deregistration of private forest | [sec-028.md](sec-028.md) |
 | 29. Community forest management group | [sec-029.md](sec-029.md) |
 | 30. Recognition of group | [sec-030.md](sec-030.md) |
 | 31. Community forestry agreements | [sec-031.md](sec-031.md) |
 | 32. Rights and obligations of local community | [sec-032.md](sec-032.md) |
 | 33. Assignment of rights under community | [sec-033.md](sec-033.md) |
-| 34. Termination of community forestry | [sec-034.md](sec-034.md) |
+| 34. the Director, Termination of community forestry | [sec-034.md](sec-034.md) |
 | 35. Register of community forestry agreements | [sec-035.md](sec-035.md) |
 | 36. Declaration of joint forest management | [sec-036.md](sec-036.md) |
 | 37. Joint forest management committee | [sec-037.md](sec-037.md) |
@@ -52,15 +52,15 @@ Text layer: typeset.
 | 43. Publication of forest management plan | [sec-043.md](sec-043.md) |
 | 44. Registration of forest management plan | [sec-044.md](sec-044.md) |
 | 45. Conservation orders | [sec-045.md](sec-045.md) |
-| 46. Apportioning costs due on conservation order | [sec-046.md](sec-046.md) |
+| 46. to apportion Apportioning costs due on occupier has conservation order | [sec-046.md](sec-046.md) |
 | 47. Declaration of protected flora | [sec-047.md](sec-047.md) |
-| 48. Recovery plans for protected flora | [sec-048.md](sec-048.md) |
-| 49. Purpose of conserving trees on State Land | [sec-049.md](sec-049.md) |
+| 48. the relevant Recovery plans for protected flora | [sec-048.md](sec-048.md) |
+| 49. Purpose of conserving of the local trees on State Land | [sec-049.md](sec-049.md) |
 | 50. Control and management of major forest | [sec-050.md](sec-050.md) |
 | 51. Sale of forest produce | [sec-051.md](sec-051.md) |
 | 52. Licences | [sec-052.md](sec-052.md) |
 | 53. Permits | [sec-053.md](sec-053.md) |
-| 54. Integrated decision-making process and single licensing | [sec-054.md](sec-054.md) |
+| 54. Integrated decision-making establish an process and single licensing | [sec-054.md](sec-054.md) |
 | 55. Terms and conditions of licences and permits | [sec-055.md](sec-055.md) |
 | 56. Limitations of licences and permits | [sec-056.md](sec-056.md) |
 | 57. Obligations of licensee and permit holder | [sec-057.md](sec-057.md) |
@@ -78,7 +78,7 @@ Text layer: typeset.
 | 69. Marking of timber for export | [sec-069.md](sec-069.md) |
 | 70. Establishment of Fund | [sec-070.md](sec-070.md) |
 | 71. Administration and management of Fund | [sec-071.md](sec-071.md) |
-| 72. Auditing of Fund | [sec-072.md](sec-072.md) |
+| 72. the AuditorAuditing of Fund | [sec-072.md](sec-072.md) |
 | 73. Statement of income and expenditure | [sec-073.md](sec-073.md) |
 | 74. Powers of authorised officer | [sec-074.md](sec-074.md) |
 | 75. Power to carry out tests and take | [sec-075.md](sec-075.md) |
@@ -86,10 +86,10 @@ Text layer: typeset.
 | 77. Obstruction of authorised officer | [sec-077.md](sec-077.md) |
 | 78. Demanding production of licence or permit | [sec-078.md](sec-078.md) |
 | 79. Prevention of offences | [sec-079.md](sec-079.md) |
-| 80. Search with warrant | [sec-080.md](sec-080.md) |
-| 81. Prosecution by officers | [sec-081.md](sec-081.md) |
-| 82. Seizure of property | [sec-082.md](sec-082.md) |
-| 83. Forfeiture and restoration of property | [sec-083.md](sec-083.md) |
+| 80. Search with warrant in respect of | [sec-080.md](sec-080.md) |
+| 81. may, at the Prosecution by officers | [sec-081.md](sec-081.md) |
+| 82. Seizure of property instruments, | [sec-082.md](sec-082.md) |
+| 83. from whom Forfeiture and restoration of property | [sec-083.md](sec-083.md) |
 | 84. Assistance in extinguishing fire | [sec-084.md](sec-084.md) |
 | 85. Offences by authorised officers | [sec-085.md](sec-085.md) |
 | 86. Prohibition of removal, felling, cutting, | [sec-086.md](sec-086.md) |
@@ -109,7 +109,7 @@ Text layer: typeset.
 | 100. Payment of fine without appearing in court | [sec-100.md](sec-100.md) |
 | 101. Additional powers of court | [sec-101.md](sec-101.md) |
 | 102. Civil remedy reserved | [sec-102.md](sec-102.md) |
-| 103. Evidence | [sec-103.md](sec-103.md) |
+| 103. the question Evidence | [sec-103.md](sec-103.md) |
 | 104. Exhibits | [sec-104.md](sec-104.md) |
 | 105. Regulations | [sec-105.md](sec-105.md) |
 | 106. Repeal of | [sec-106.md](sec-106.md) |
