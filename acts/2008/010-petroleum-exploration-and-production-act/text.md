@@ -66,7 +66,8 @@ petroleum industry testing methods;
 " drilling " means the perforation of the earth's surface,
 whether the hole is vertical, inclined or horizontal, and
 includes all operations for preventing the collapse of the
-sides of the hole or for preventing the hole from becoming
+sides of the hole or for preventing the hole from
+becoming
 filled by extraneous materials (including water) and the
 filling of wellheads, or coring or logging, and any operations
 incidental thereto;
@@ -114,7 +115,8 @@ petroleum;
 accumulation of petroleum in any form;
 " prescribed " means prescribed by regulations made by the
 Minister;
-" production " in relation to petroleum operations means the
+" production " in relation to petroleum operations
+means the
 recovery of petroleum from its natural insitu source up to
 the well head;
 " production well" means the infrastructure required for the
@@ -125,7 +127,8 @@ Cap. 440
 Production) Act;
 " resettlement plan " means a plan that outlines the actions to
 be undertaken by a holder of a licence in order to
-compensate and resettle persons displaced by petroleum
+compensate and resettle persons displaced by
+petroleum
 operations;
 " Technical Committee " means the Petroleum Technical
 Committee constituted by section ninety-one;
@@ -133,26 +136,33 @@ Committee constituted by section ninety-one;
 section one hundred and one; and
 " well " means a hole made by drilling in land of the subsoil of
 land in connection with exploration or development
-operations, but does not include a seismic shot hole.
+operations, but does not include a seismic shot
+hole.
 Application
 3. ( 1 ) This Act applies to the exploration for, exploitation,
-conservation and management of petroleum existing in its natural
+conservation and management of petroleum existing in
+its natural
 condition in land in Zambia.
-(2) A right to search for or mine any mineral, as defined in
+(2) A right to search for or mine any mineral, as
+defined in
 Act No. 7 of
-section two of the Mines and Minerals Development Act, 2008.
+section two of the Mines and Minerals Development
+Act, 2008.
 shall not be granted or exercised under this Act.
 4. ( 1 ) The entire property in and control over petroleum and
 Title to
-accompanying substances, in whatever physical state, located in
+accompanying substances, in whatever physical state,
+located in
 petroleum
 any land in Zambia is hereby vested exclusively in the President on
 behalf of the State.
 (2) Notwithstanding the provisions of subsection (1), a licence
 issued under this Act may provide for a person to acquire property
 in, title to or control over any petroleum within the Republic.
-(3) The provisions of subsections ( 1 ) and (2) shall have effect
-notwithstanding any rights which any other person may possess in
+(3) The provisions of subsections ( 1 ) and (2) shall
+have effect
+notwithstanding any rights which any other person may
+possess in
 or over the soil on or under which petroleum is discovered.
 PART II
 RIGHTS TO CONDUCT PETROLEUM OPERATIONS
@@ -228,20 +238,27 @@ persons, the obligations to be observed and performed by the licensee
 under this Act shall be joint and several obligations, but without
 prejudice to any right of contribution which may exist between all
 or any of them.
-Constitution 8. (1) For the purposes of this Act, the territory of the Republic,
-of blocks or parts of it, shall be divided into blocks, according to a grid system,
+Constitution
+8. (1) For the purposes of this Act, the territory of the
+Republic,
+of blocks
+or parts of it, shall be divided into blocks, according to a grid system,
 in accordance with regulations prescribed by the Minister, with the
 approval of the Committee.
 (2) The Minister may reserve blocks to be exploited by the
 Government.
 Bids
-9. (1) Subject to the other provisions ofthis Act, the Minister
+9. (1) Subject to the other provisions ofthis Act, the
+Minister
 may, by notice in the Gazette and in two newspapers of general
-circulation in the Republic, issue invitations for bids for the grant
-of a petroleum exploration licence in respect of any block or blocks
+circulation in the Republic, issue invitations for bids for
+the grant
+of a petroleum exploration licence in respect of any block
+or blocks
 specified in the notice.
 (2) The notice referred to in subsection (1) shall include—
-(a) a description of the blocks for which the bids are to be
+(a) a description of the blocks for which the bids
+are to be
 solicited;
 (b) the procedures and conditions relating to the submission
 of the bids; and
@@ -264,7 +281,8 @@ Act; and
 Cap. 323
 (h) such further information as the Minister may, by statutory
 instrument, prescribe.
-(4) The area described in a bid under this section shall be
+(4)
+The area described in a bid under this section shall be
 constituted by blocks which —
 (a) form a single area; and
 (b) are such that each block in that area has a side in common
@@ -276,13 +294,15 @@ for evaluation.
 (6) The Technical Committee shall consider the matters
 referred to in paragraphs (a) to (h) of subsection (3) in evaluating
 the bids.
-(7) The Technical Committee shall, where a bid complies with
+(7)
+The Technical Committee shall, where a bid complies with
 the requirements of this Act, recommend to the Committee that
 the bidder with the best proposed programme be granted a petroleum
 exploration licence in accordance with the provisions of this Act.
 PART III
 PETROLEUM EXPLORATION LICENCES
-Application for 10. (1) A person whose bid under section nine is successful
+Application for
+10. (1) A person whose bid under section nine is successful
 petroleum
 may apply for a petroleum exploration licence to the Minister in the
 exploration
@@ -308,10 +328,12 @@ notice—
 (a) such further information relevant to the application as
 may be specified in the notice; and
 (b) if the applicant, or any of the applicants, is a body corporate,
-such information as may be specified in the notice to
+such information as may be specified in the
+notice to
 enable the Minister to ascertain to what extent the
 controlling power, whether directly or indirectly, in the
-direction of the affairs of the body corporate is vested
+direction of the affairs of the body corporate
+is vested
 in a corporation, or an individual or individuals, resident
 outside Zambia.
 (2) Where an applicant for a petroleum exploration licence
@@ -319,7 +341,8 @@ fails to comply with the requirements of a notice served on the
 applicant under subsection (1) within the period specified in the
 notice, the application shall lapse.
 Consideration
-12. (1) The Technical Committee shall within thirty days of
+12. (1) The Technical Committee shall within thirty
+days of
 of application
 receiving an application forwarded to it under subsection (3) of
 for petroleum
@@ -366,14 +389,16 @@ granted.
 (3) There shall be attached to a petroleum exploration licence
 the programme of exploration operations as approved by the Minister,
 which shall form part of the conditions of the licence.
-(4) There may be included in an petroleumexploration licence
+(4)
+There may be included in an petroleumexploration licence
 a condition requiring the applicant to agree to the State or a person
 nominated on its behalf, on such terms as may be agreed, acquiring
 or having an interest in any venture to explore for petroleum in any
 block in the exploration area.
 (5) The Minister may specify in a petroleum exploration licence
 a period not exceeding six months from the date of the grant of the
-licence as the period to enable the applicant to make any necessary
+licence as the period to enable the applicant to make any
+necessary
 preparations to carry on exploration operations.
 Refusal to
 14. (1) The Minister shall not grant a petroleum exploration licence
@@ -382,7 +407,8 @@ to an applicant where—
 petroleum
 exploration
 licence
-(a) the applicant is disqualified from holding a petroleum
+(a) the applicant is disqualified from holding a
+petroleum
 exploration licence under section seven;
 (b) the applicant is the holder of another exploration licence
 and is in breach of any condition of that licence or any
@@ -394,7 +420,8 @@ granted.
 under subsection (1), inform the applicant of the rejection and give
 the reasons therefor.
 Duration of
-15. (1) Subject to the other provisions of this Act, a petroleum
+15. (1) Subject to the other provisions of this Act, a
+petroleum
 petroleum
 exploration licence shall be valid for a period of four years.
 exploration
@@ -407,12 +434,14 @@ conferred by
 specified in the licence, a petroleum exploration licence confers on
 petroleum
 exploration
-the holder of the licence exclusive rights to explore for petroleum
+the holder of the licence exclusive rights to explore for
+petroleum
 licence
 in the exploration area and to carry on such operations and execute
 such works as are necessary for that purpose.
 Obligations of
-17. ( 1 ) A holder of a petroleum exploration licence shall—
+17. ( 1 ) A holder of a petroleum exploration licence
+shall—
 holder of
 petroleum
 exploration
@@ -462,16 +491,20 @@ by statutory instrument;
 and shall furnish, at least once in every three months, digital
 and hard copies of the records to the Minister.
 (3) A person who—
-(a) fails to keep any record or information required to be kept
+(a) fails to keep any record or information required
+to be kept
 under subsection (2);
 (b) fails to supply any record or petroleum samples to the
 Minister; or
 (c) supplies any false or misleading record or information;
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction, to
+a fine not
 exceeding two hundred thousana penalty units or to imprisonment
 for a period not exceeding two years, or to both.
-(4) Where the holder of a petroleum exploration licence fails
-to carry out any part of the requirement with respect to work and
+(4)
+Where the holder of a petroleum exploration licence fails
+to carry out any part of the requirement with respect to
+work and
 expenditure stipulated in the petroleum exploration licence, or of
 each programme submitted by the holder pursuant to subsection
 (5), without prejudice to any other right which may be invoked by
@@ -479,11 +512,14 @@ the Minister in respect of that failure, the relevant provision of the
 licence, if any, shall apply for the purpose of determining the
 liquidated damages payable to the State by the licensee on account
 of such failure.
-( 5 ) The requirement in subsectior ( 4 ) with respect to an
+( 5 )
+The requirement in subsectior ( 4 ) with respect to an
 adequate programme with respect to work and expenditure shall
 be deemed to have been met in any case where the programme
-submitted pursuant to that subsection is consistent with the
-requirements, if any, with respect to work and expenditure contained
+submitted pursuant to that subsection is consistent
+with the
+requirements, if any, with respect to work and expenditure
+contained
 in a petroleum exploration licence.
 18. (1) Where, in the course of exercising the holder's rights
 Discovery of
@@ -500,14 +536,15 @@ commits an offence and is liable, upon conviction—
 (a) in the case of an individual, to a fine not exceeding five
 hundred thousand penalty units or to imprisonment for a
 term not exceeding ten years, or to both; or
-(b) in the case of a body corporate, to a fine not exceeding
+(b) in the case of a body corporate, to a fine not
+exceeding
 one million penalty units.
 19. ( 1 ) A holder of a petroleum exploration licence shall apply
 Amendment
 to the Minister, where the holder intends to make any amendments
 of programme
-o l ? e x P l o r a t '
 to the programme of exploration operations in the prescribed manner
+o l ? e x P l o r a t '
 o n
 operations
 and form.
@@ -536,7 +573,8 @@ the date of the relinquishment.
 subsection (1), any block or blocks relinquished under subsection
 (1) shall, unless the Minister otherwise directs, be such as to ensure
 that the remaining exploration area constitutes a continuous area.
-(4) Where any block or blocks are rel inquished under subsection
+(4)
+Where any block or blocks are rel inquished under subsection
 (1), the exploration licence concerned shall cease to have effect
 from the date of the relinquishment with respect to that block or
 blocks.
@@ -553,7 +591,8 @@ shall notify the Minister not less than thirty days before the intended
 transfer.
 (3) A holder of a petroleum exploration licence shall, in the
 notification referred to under subsection (2), give to the Minister
-such details of the transferee as would be required in the case of
+such details of the transferee as would be required in
+the case of
 an application for a petroleum exploration licence under section
 ten.
 (4) Where the Minister is satisfied that the transferee is not
@@ -561,22 +600,27 @@ disqualified under any provision of this Act from holding a petroleum
 exploration licence, the Minister shall, with the approval of the
 Committee, authorise the transfer of the exploration licence or an
 interest therein and notify the applicant accordingly.
-( 5 ) Upon the transfer of a petroleum exploration licence, the
+( 5 )
+Upon the transfer of a petroleum exploration licence, the
 transferee shall assume and be responsible for all the rights, liabilities
 and duties of the transferor under the petroleum exploration licence
 for the unexpired period of the licence.
-(6) Any transaction purporting to transfer a petroleum exploration
+(6)
+Any transaction purporting to transfer a petroleum
+exploration
 licence in contravention of this section is void.
 22. ( 1 ) A holder of a petroleum exploration licence may, not
 Renewal of
 petroleum
-later than three months before the expiry of the petroleum exploration
+later than three months before the expiry of the petroleum
+exploration
 exploration
 licence, and not more than twice, apply to the Minister for the
 licence
 renewal of the licence in respect of any block in the exploration
 area upon payment of the prescribed fee.
-(2) An application under this section shall be in the prescribed
+(2) An application under this section shall be in the
+prescribed
 manner and form and—
 (a) shall be accompanied by—
 (i) particulars of the work carried out and the amount
@@ -585,7 +629,8 @@ the term of the licence, or, where the application is
 for a second renewal of the licence, during the period
 of the previous renewal, up to and including the date
 of the application; and
-(ii) adequate proposals concerning the work to be carried
+(ii) adequate proposals concerning the work to
+be carried
 out and the minimum amount to be expended during
 the period of the renewal for which application is
 made; and
@@ -641,25 +686,31 @@ to subparagraph (ii) of paragraph (a) of subsection (2)
 of section twenty-two in respect of work and expenditure
 during the renewal period are not adequate.
 (2) The Minister shall not refuse to grant a renewal of a
-petroleum exploration licence on application being duly made under
+petroleum exploration licence on application being duly made
+under
 section twenty-two—
-(a) before giving to the applicant notice in writing of the
+(a) before giving to the applicant notice in writing
+of the
 Minister's intention to do so, such notice to state
 particulars of the grounds for the intended refusal and
 the date before which the applicant may take remedial
 action or make representations in relation to such
 grounds; and
 (b) where the applicant has, before the date specified in a
-notice under paragraph (a), remedied the breach or, by
+notice under paragraph (a), remedied the breach
+or, by
 notice in writing to the Minister, made representations
 which, in the opinion of the Minister, remove the grounds
 for the intended refusal.
-( 3 ) Where an application for a renewal of a petroleum
+( 3 )
+Where an application for a renewal of a petroleum
 exploration licence has been duly made and the licence expires
 before the Minister grants or refuses to grant a renewal thereof
 the licence shall be deemed to continue in force until the Minister
-grants or refuses to grant a renewal of the licence, except where
-the licence is cancelled under this Act or the application for a
+grants or refuses to grant a renewal of the licence, except
+where
+the licence is cancelled under this Act or the application
+for a
 renewal is withdrawn.
 Directions
 24. (1) The Minister may, by notice served on the holder of a
@@ -688,7 +739,8 @@ be noli lied
 (b) within a period of thirty days after the date of the discovery,
 furnish to the Minister particulars in writing of the
 discovery.
-(2) Any person who contravenes the provisions of subsection
+(2)
+Any person who contravenes the provisions of subsection
 (1) commits an offence and is liable, upon conviction—
 (a) in the case of an individual, to a fine not exceeding five
 hundred thousand penalty units or to imprisonment for a
@@ -716,7 +768,8 @@ part of the reservoir which is within the exploration area;
 and
 (d) any other matters relating to the discovery that are specified
 in the notice.
-(2) The holder of a petroleum exploration licence referred to
+(2)
+The holder of a petroleum exploration licence referred to
 in subsection ( 1 ) shall, upon receipt of the direction given under
 that subsection, run tests in respect of the discovery and thereafter,
 by notice in writing, furnish to the Minister evaluated test results in
@@ -729,9 +782,11 @@ in the notice, the Minister shall—
 (a) by notice in writing to the holder cancel the petroleum
 exploration licence concerned: and
 (b) cause to be done all or any of the things required by the
-direction to be done, and the costs and expenses incurred
+direction to be done, and the costs and expenses
+incurred
 in doing so shall be recoverable by the Minister in the
-same manner as revenues due to the State may be
+same manner as revenues due to the State
+may be
 recovered.
 Commercial
 27. (1) Where a notice served under subsection (2) of section
@@ -739,13 +794,17 @@ discovery
 twenty-six states that the discovery of petroleum in an exploration
 area is, in the opinion of the holder of the petroleum exploration
 licence, a commercial discovery, the holder may, unless the licence
-is sooner determined by surrender or cancellation under this Act,
-within a period of two years after the date on which such notice is
+is sooner determined by surrender or cancellation under
+this Act,
+within a period of two years after the date on which such
+notice is
 so served or such further period as the Minister may allow, apply
-under subsection (1) of section thirty-one, for a petroleum
+under subsection (1) of section thirty-one,
+for a petroleum
 development and production licence in respect of the discovery
 block.
-(2) If the holder of a petroleum exploration licence fails within
+(2) If the holder of a petroleum exploration
+licence fails within
 the period specified in subsection (1), or within such further period
 as the Minister may allow, to apply for a petroleum development
 and production licence for the whole or part of any discovery block,
@@ -756,7 +815,8 @@ whole or part, as the case may be, of the discovery block with
 effect from the date specified therein.
 (3) Where the holder of a petroleum exploration licence
 referred to in subsection (1) fails to apply for a petroleum
-development and production licence within the period specified
+development and production licence within the period
+specified
 under subsection (1), the Minister shall invite applications for a
 petroleum development and production licence in respect of the
 discovery block in accordance with subsection (2) of section thirty-
@@ -768,7 +828,8 @@ twenty-six states that the discovery of petroleum in any discovery
 discovery
 block is not, in the opinion of the holder of the petroleum exploration
 licence, a commercial discovery, the Minister may, if the petroleum
-exploration licence is in force in respect of the discovery block or
+exploration licence is in force in respect of the discovery
+block or
 blocks, direct, by notice in writing served on the holder, that the
 licence shall cease to have effect with respect to such discovery
 block from the date specified in the notice, and thereupon the licence
@@ -809,11 +870,13 @@ for industrial and town purposes;
 (ii) the location and design of a suitable airstrip and
 associated landing and terminal facilities, if so
 required, for the industry;
-(iii) the generation and transmission of electricity
+(iii) the generation and transmission of
+electricity
 required for the industry; and
 (iv) the development, if required, of a suitable town
 forthe industry, includingthe design of housing
-and associated civic, cultural and social facilities;
+and associated civic, cultural and social
+facilities;
 (e) investigations of any other works, services or facilities in
 relation to the production area which may be required
 forthe industry;
@@ -826,11 +889,15 @@ by statutory instrument prescribe.
 in writing to-the Minister, within the period specified in a notice
 under subsection (1), such reports, analyses and data resulting from
 the investigations and studies carried out under this section as the
-Minister may, by notice in writing served on the holder, require.
-Restriction on 30. ( 1 ) A holder of a petroleum explorationlicence shall not,
+Minister may, by notice in writing served on the holder,
+require.
+Restriction on
+30. ( 1 ) A holder of a petroleum explorationlicence
+shall not,
 removal
 of without the written permission of the Minister and subject to such
-petroleum conditions as the Minister may, with the approval of the Committee
+petroleum
+conditions as the Minister may, with the approval of the Committee
 determine, remove any petroleum from an exploration area except
 for the purposes of having such petroleum analysed, determining
 its value or conducting tests thereon.
@@ -840,8 +907,10 @@ to be removed from an exploration area for the purpose of analysis
 and conducting tests on the petroleum samples.
 P A R T V
 PETROLEUM DEVELOPMENT AND PRODUCTION LICENCES
-Application for 31. ( 1 ) A holder of a petroleum explorationlicence whose
-petroleum licence is in force in respect of a discovery block may, within two
+Application for
+31. ( 1 ) A holder of a petroleum explorationlicence whose
+petroleum
+licence is in force in respect of a discovery block may, within two
 development
 s immediately following the date on which a commercial
 y e a r
@@ -860,7 +929,8 @@ licence, apply for the grant of a development and production licence
 in respect of any block which is not part of a discovery block within
 the exploration area if the holder satisfies the Minister that the
 block contains a petroleum reservoir or part of a petroleum reservoir.
-( 3 ) Subject to the other provisions of this Act, where the holder
+( 3 )
+Subject to the other provisions of this Act, where the holder
 of a petroleum exploration licence in respect of a discovery block
 fails to apply for a petroleum development and production licence
 under subsection (1), the Minister may, by notice in the Gazette
@@ -874,16 +944,19 @@ the applications are to be solicited;
 (b) the procedures and conditions relating to the submission
 of the applications; and
 (c) the period within which the applications shall be submitted.
-( 5 ) The Minister shall, within five days of receiving an
+( 5 )
+The Minister shall, within five days of receiving an
 application under subsection (1) or (3) forward the application to
 the Technical Committee for consideration.
-(6) The Technical Committee shall, within thirty days of
+(6)
+The Technical Committee shall, within thirty days of
 receiving an application forwarded to it under subsection ( 5 ) ,
 consider such application and may, within that period, cause such
 investigations to be made or such consultations to be carried on as
 the Technical Committee may consider necessary to assess whether
 or not the criteria in subsection (7) has been met.
-( 7 ) The Technical Committee shall, in considering an
+( 7 )
+The Technical Committee shall, in considering an
 application made under subsection ( 1 ) or (3), take into account the
 matters referred to in paragraphs (a) to (m) of section thirty-two.
 (8) The Technical Committee shall after considering an
@@ -894,14 +967,21 @@ of this Act: or
 (b) the refusal to grant a petroleum development and
 production licence where the application does not meet
 the requirements of this Act.
-Application 32. An application for a licence referred to in section thirty-
-a " ^ m a c *
+Production)
+Application
+32. An application for a licence referred to in section thirty-
 devefopment
-1 u m s n e e t 0 t n
+u m s n
+a " ^
+e
+m a c *
+e t 0 t n
 e Minister in the prescribed form upon
 and
-payment of the prescribed fee and shall contain the following
-production p a r t j c u i a r s :
+payment of the prescribed fee and shall contain the
+following
+production
+p a r t j c u i a r s :
 licence to be "
 made to
 Minister
@@ -930,7 +1010,8 @@ by products,
 (v) the marketing arrangements made for the sale of
 the petroleum and by-products, and
 (vi) a detailed programme for the progressive
-reclamation and rehabilitation of lands disturbed
+reclamation and rehabilitation of lands
+disturbed
 by petroleum extraction and for the minimisation
 of the effect of such extraction on adjoining land
 or water area;
@@ -1006,7 +1087,8 @@ of a petroleum production licence on any grounds under subsection
 therefor; and
 (b) specified in the notice a date prior to which the applicant
 may make appropriate proposals to remove the grounds
-for refusal or make representations in relation thereto
+for refusal or make representations in relation
+thereto
 and the applicant has not, prior to such date, in writing
 made proposals or representations to the Minister.
 Contents of
@@ -1022,7 +1104,8 @@ production
 granted; and
 (d) particulars necessary for the purpose of giving effect to
 subsection (2).
-(2) There may be included in a petroleum development and
+(2)
+There may be included in a petroleum development and
 production licence such conditions as may be determined by the
 Minister in respect of the duty and the extent thereof of the holder
 of a petroleum development and production licence to supply
@@ -1044,12 +1127,14 @@ operations in the development and production area; and
 development and production area as may be considered
 necessary for the purpose of carrying into effect the
 provisions of this section.
-(2) Where, in the course of exercising the holder's rights under
+(2)
+Where, in the course of exercising the holder's rights under
 a petroleum development and production licence, the holder of the
 licence discovers any other mineral, the holder shall, within thirty
 days immediately following such discovery, notify the Minister of
 the discovery in writing.
-( 3 ) Any person who contravenes subsection (2) commits an
+( 3 )
+Any person who contravenes subsection (2) commits an
 offence and is liable on conviction—
 (a) in the case of an individual, to a fine not exceeding five
 hundred thousand penalty units or to imprisonment for a
@@ -1065,7 +1150,8 @@ not exceeding twenty-five years, as may be specified therein.
 development
 and production
 licence
-(2) The holder of a petroleum development and production
+(2)
+The holder of a petroleum development and production
 licence may apply to the Minister, in the prescribed form and upon
 payment of the prescribed fee, for a renewal of the licence at any
 time not later than one year immediately prior to the expiry of such
@@ -1076,7 +1162,8 @@ and production licence shall be accompanied by—
 (a) a proposed programme of production operations to be
 carried on in the period of renewal; and
 (b) details of—
-(i) the latest proved, estimated and inferred petroleum
+(i) the latest proved, estimated and inferred
+petroleum
 and by products reserves;
 (ii) the capital investment to be made in, and
 production costs and revenue forecasts in
@@ -1085,19 +1172,24 @@ respect of, the period of renewal;
 and
 (iv) such further information as the Minister may
 require;and shall be presented in such a way as
-to give a clear indication of any expected
-increase or reduction in the production activities
+to give a clear indication of any
+expected
+increase or reduction in the production
+activities
 and the estimated life of the reservoir.
-( 4 ) The Minister shall, within five days of receiving an
+( 4 )
+The Minister shall, within five days of receiving an
 application under subsection ( 2 ) forwardthe application to the
 Technical Committee for consideration.
-( 5 ) The Technical Committee shall, within thirty days of
+( 5 )
+The Technical Committee shall, within thirty days of
 receiving an application forwarded to it under subsection (4),
 consider such application and may, within that period, cause such
 investigations to be made or such consultations to be carried on as
 the Technical Committee may consider necessary to assess whether
 or not the criteria in subsection (6) has been met.
-( 6 ) The Technical Committee shall, in considering an
+( 6 )
+The Technical Committee shall, in considering an
 application made under subsection (2), take the following into
 account:
 (a) that the applicant is in breach of any provision of this Act
@@ -1106,6 +1198,8 @@ or of a condition of a licence;
 be carried out in the renewal period is adequate;
 (c) that the production of petroleum in the production area
 has proceeded with reasonable diligence;
+Petroleum (Exploration and Production) [No. 10 of
+2008 207
 (d) that petroleum in workable quantities remains to be
 produced; and
 (e) that the proposed programme or development and
@@ -1143,43 +1237,55 @@ Minister may allow;
 unless the applicant has been given a reasonable
 opportunity to make written representations thereon to
 the Minister; or
+Production)
 (c) subparagraph (iii) of paragraph (b) of subsection (8),
 unless the applicant has in writing been so notified and
-has failed to propose amendments to the applicants
-proposed programme of production and processing
+has failed to propose amendments to the
+applicants
+proposed programme of production and
+processing
 operations satisfactory to the Minister within such time
 as the Minister may allow.
 (10) The period of renewal of a petroleum development and
 production licence shall be for such period, not exceeding twenty
 years, as the Minister may, with the approval of the Committee
-determine to be reasonably necessary in accordance with good
-oilfield practices to recover from the production area, the maximum
+determine to be reasonably necessary in accordance
+with good
+oilfield practices to recover from the production area, the
+maximum
 amount of petroleum.
-(11) Where an application for a renewal of a petroleum
+(11) Where an application for a renewal of a
+petroleum
 development and production licence has been duly made and the
-licence expires before the Minister grants or refuses to grant a
+licence expires before the Minister grants or refuses
+to grant a
 renewal thereof, the licence shall be deemed to continue in force
 until the Minister grants or refuses to grant a renewal of the licence,
 except where the licence is cancelled under this Act or the
 application for a renewal is withdrawn.
 Unit
 38. (1) For the purposes of this section "unit development", in
-development relation to a petroleum reservoir, means the co-ordination of
+development
+relation to a petroleum reservoir, means the co-ordination of
 operations for the recovery of petroleum being carried on, or to be
 carried on, in a development and production area, in which part of
-the reservoir is located, with operations for the recovery of petroleum
+the reservoir is located, with operations for the recovery of
+petroleum
 being carried on, or to be carried on, in any other area in which
 another part of the same reservoir is located.
-(2) A holder of a petroleum development and production licence
+(2)
+A holder of a petroleum development and production licence
 may from time to time enter into an agreement in writing with one
-or more other holders of petroleum development and production
+or more other holders of petroleum development and
+production
 licences for or in connection with the unit development of a
 petroleum reservoir and shall forthwith submit the agreement to
 the Minister for approval.
 (3) For the purpose of securing a more effective recovery of
 petroleum from a petroleum reservoir, the Minister may, on the
 Minister's own motion, or on application made to the Minister in
-writing by the holder of a petroleum development and production
+writing by the holder of a petroleum development and
+production
 licence in whose development and production area part of a
 petroleum reservoir is located, direct in writing that such holder—
 (a) enter into a written agreement with any other licensee,
@@ -1223,10 +1329,13 @@ Cap. 393
 erect any building or other structure for the purpose of carrying on
 any such business without the consent of the holder of the licence.
 P A R T V I
-RESTRICTION ON EXERCISE OF RIGHTS UNDER LICENCES AND
+RESTRICTION ON EXERCISE OF RIGHTS UNDER LICENCES
+AND
 SURFACE RIGHTS
-Restrictions 40. (1) A holder of a licence shall not exercise any rights under
-on exercise this Act or the licence—
+Restrictions
+40. (1) A holder of a licence shall not exercise any rights under
+on exercise
+this Act or the licence—
 of rights by
 holder
 (a) without the written consent of the appropriate authority,
@@ -1234,8 +1343,9 @@ upon —
 (i) any land dedicated as a place of burial whether in
 use or not;
 (ii) any land containing any ancient monument or
-national monument, as defined in the National
-C aP- 1 7 3
+national monument, as defined in the
+National
+C aP-
 Heritage Conservation Commission Act;
 (iii) any land which is the site of or within ninety
 metres of any building or dam owned by the
@@ -1243,14 +1353,17 @@ Republic; or
 (iv) any land forming part of a Government aerodrome
 Cap. 444
 as defined in the Aviation Act;
-(b) without the written consent of the owner or legal occupier
+(b) without the written consent of the owner or legal
+occupier
 thereof or the duly authorised agent—
-(i) upon any land which is the site of or which is
+(i) upon any land which is the site of or
+which is
 within one hundred and eighty metres of any
 inhabited, occupied or temporarily uninhabited
 house or building;
 (ii) within forty five metres of any land which has
-been cleared or ploughed or otherwise prepared
+been cleared or ploughed or otherwise
+prepared
 in good faith for growing of farm crops or upon
 which farm crops are growing;
 (iii) upon any land which is the site of or is within
@@ -1276,7 +1389,8 @@ track or within one hundred metres of any railway track;
 or the local authority concerned, upon any land within,
 or within sixty metres of the boundaries of, any city,
 municipality or district for which a council is established
-under the provisions of the Local Government Act; Cap. 281
+under the provisions of the Local Government Act;
+Cap. 281
 (f) without —
 (i) the written consent of the appropriate authority,
 upon any land used as a forest nursery or
@@ -1285,8 +1399,8 @@ installation for working a forest; and
 (ii) due compliance with the relevant provisions of
 the Forests Act, upon any land declared to be a
 national forest or local forest, as defined in that
-t ;
 A c
+t ;
 Cap. 199
 (g) upon any street, road or highway, without the written
 consent of the appropriate authority or the public body
@@ -1296,8 +1410,10 @@ Act No. 12
 of 1998
 complying with the ZambiaWildlife Act;
 Cap. 283
-(i) upon any land that,under the Town and Country Planning
-Act, cannot be developed without permission, unless the
+(i) upon any land that,under the Town and Country
+Planning
+Act, cannot be developed without permission,
+unless the
 requisite permission is first obtained.
 (2) Any consent given for the purposes of this section by the
 Minister or the appropriate authority may be given unconditionally
@@ -1308,14 +1424,16 @@ matter, means the Minister responsible for that matter or such public
 officer as the Minister may authorise to give the requisite consent
 in that behalf.
 Rights under
-41. Subject to the terms of any access agreement, the rights
+41. Subject to the terms of any access agreement,
+the rights
 licence to be
 conferred by a licence shall be exercised reasonably and, except
 exercised
 to the minimum extent necessary for the reasonable and proper
 reasonably
 conduct of the petroleum operations, shall not be exercised so as to
-prejudice the interest of any owner or occupier of the land over
+prejudice the interest of any owner or occupier of the
+land over
 which those rights extend.
 Right to
 42. Subject to the terms of any access agreement, the owner
@@ -1325,17 +1443,21 @@ use of water
 or graze
 shall retain the right to access and use water and to graze stock
 stock
-upon or to cultivate the surface of the land in so far as such use,
+upon or to cultivate the surface of the land in so far as
+such use,
 grazing or cultivation does not interfere with the exploration or
 development operations in the area.
-(2) In the case of a production area, the owner or lawful
+(2) In the case of a production area, the owner
+or lawful
 occupier of any land within such area shall not erect any building
 or structure thereon without the consent of the holder of the licence,
 or, if such consent is unreasonably withheld, the written consent of
 the Minister.
-(3) The rights conferred by a licence shall be exercised
+(3) The rights conferred by a licence shall be
+exercised
 reasonably so as to affect as little as possible the interests of any
-owner or lawful occupier of the land over which such rights are
+owner or lawful occupier of the land over which such
+rights are
 exercised and exploration or development operations shall be carried
 out in a proper manner.
 43. (1) Subject to subsection (2), a holder of a licence who
@@ -1395,15 +1517,18 @@ any land shall be the extent to which the market value of the land
 damage has occurred has been reduced by reason of such damage,
 but without taking into account any enhanced value due to the
 presence of petroleum.
-(4) No demand made in terms of this section shall entitle the
+(4)
+No demand made in terms of this section shall entitle the
 owner or lawful occupier to prevent or hinder the exercise by the
 holder of a licence pending the determination of compensation to
 be paid.
 (5) Compensation shall not be payable under subsection (1) in
 respect of any indigenous wood or timber taken —
-(a) upon land that has been declared a local forest or a national
+(a) upon land that has been declared a local forest
+or a national
 Cap. 199
-forest under the provisions of the Forests Act; or
+forest under the provisions of the Forests
+Act; or
 (b) upon other land that has not been alienated by the President
 Cap. 198
 in accordance with the Lands Act.
@@ -1458,10 +1583,12 @@ area in the prescribed manner.
 (3) No surrender of any block covered by a licence shall be
 effective until the Minister has issued a certificate of surrender in
 respect of that block.
-(4) A surrender shall be without prejudice to any liabilities or
+(4)
+A surrender shall be without prejudice to any liabilities or
 obligations incurred by the holder in relation to the block surrendered
 prior to the date of surrender.
-( 5 ) On the issue of a certificate of surrender the Minister
+( 5 )
+On the issue of a certificate of surrender the Minister
 shall, where the surrender is in respect of—
 (a) all the blocks in an area covered by a licence, cancel such
 licence; or
@@ -1475,13 +1602,17 @@ suspend or
 m
 ,.
 , , , , , ^ , >•
-cancel licence licence where the holder ot the licence—
-(a) is in breach of any provision of this Act or of a condition
+cancel licence
+licence where the holder ot the licence—
+(a) is in breach of any provision of this Act or of a
+condition
 of a licence;
 (b) dies or becomes insolvent or commits any act of
-bankruptcy or enters into any agreement or scheme of
+bankruptcy or enters into any agreement or
+scheme of
 composition with the holder's creditors or takes
-advantage of any written law for the benefit of debtors
+advantage of any written law for the benefit
+of debtors
 or. in the case of a company, goes into liquidation, except
 as part of a scheme for the reconstruction or
 amalgamation of the holder;
@@ -1490,7 +1621,8 @@ with the holder's licence which the holder knows or ought
 to have known was false in a material particular; or
 (d) for any reason becomes ineligible to apply for a licence
 under the provisions of section seven.
-(2) Before suspending or cancelling a licence under paragraph
+(2) Before suspending or cancelling a licence under
+paragraph
 (a) of subsection (1), the Minister shall give the holder of the licence
 notice in writing specifying the provisions of this Act or the condition
 of any licence in respect of which the holder is in breach and
@@ -1500,7 +1632,8 @@ being not less than thirty days, as may be specified in such notice.
 specified in paragraph (a) of subsection ( 1 ) within the period
 specified in a notice issued under subsection (2), or where there is
 an event specified in paragraph (b). (c) or (d) of subsection (I), the
-Minister may. by notice to the holder, cancel the licence forthwith.
+Minister may. by notice to the holder, cancel the licence
+forthwith.
 (4) On cancellation of a licence under the provisions of this
 section, the rights of the holder of the licence shall cease but without
 prejudice to any liabilities or obligations incurred in relation to the
@@ -1522,7 +1655,8 @@ production operations and every amendment thereto;
 and the conditions of the renewal; and
 (e) every employment and training plan submitted under this
 Act.
-( 2 ) Any person may, upon payment of the prescribed fee,
+( 2 )
+Any person may, upon payment of the prescribed fee,
 inspect the register kept under subsection (1) and may obtain
 certified copies of any document contained therein.
 50. A legal or equitable interest in or affecting a licence shall
@@ -1553,16 +1687,19 @@ instrument shall be of no effect.
 or determined by the Minister.
 (3) Subject to subsections (4) and (5), on application made
 under subsection (2) the Minister may give or refuse to give
-approval, or give approval subject to such conditions as the Minister
+approval, or give approval subject to such conditions as the
+Minister
 considers necessary in the circumstances to impose.
 (4) The Minister shall give approval to the transfer of a
 petroleum exploration licence where the transferee—
-(a) is a person controlling, controlled by or under common
+(a) is a person controlling, controlled by or under
+common
 control with the transferor; and
 (b) is not a person disqualified under any provision of this Act
 from holding a petroleum exploration licence.
 (5) Where the Minister gives approval under subsection (4),
-the Minister shall cause the name of the transferee to be recorded
+the Minister shall cause the name of the transferee to be
+recorded
 as the holder of the licence, and any legal proceedings which may
 be or have been commenced against that holder may be commenced
 or continued notwithstanding the transfer.
@@ -1630,37 +1767,47 @@ petroleum gas (not being petroleum or water);
 (b) prevent the escape in the exploration or development and
 production area of any mixture of water or drilling fluid
 and petroleum or any other substance;
-(c) prevent damage to petroleum bearing strata in an area in
+(c) prevent damage to petroleum bearing strata in an
+area in
 respect of which the licence is not in force;
 (d) keep separate in the manner prescribed—
-(i) each petroleum reservoir discovered in the
+(i) each petroleum reservoir discovered
+in the
 exploration or development and production area;
 and
 (ii) such of the sources of water, if any, discovered in
 the exploration or development and production
-area, as the Minister may, by notice in writing
+area, as the Minister may, by notice in
+writing
 served on the holder, direct;
 (e) except where required by and in accordance with good
 oilfield practices, prevent water or any other substance
 entering a petroleum reservoir through any well in the
 exploration or development and production area;
-(f) prevent the pollution of any water well, spring, stream,
+(f) prevent the pollution of any water well, spring,
+stream,
 river, lake, reservoir or estuary by the escape of
 petroleum, salt water, drilling fluid, chemical additive,
 gas (not being petroleum) or any other waste product or
 effluent;
-(g) where a pollution occurs, treat or dispose of it in an
+(g) where a pollution occurs, treat or dispose of
+it in an
 environmentally acceptable manner; and
 (h) prior to the drilling of a well, furnish the Minister with a
 detailed report on the technique to be employed, an
-estimate of the time to be taken, the material to be used
-and the safety measures to be employed in the drilling
+estimate of the time to be taken, the material to
+be used
+and the safety measures to be employed in the
+drilling
 of the well.
 (3) Where the consent in writing of the Minister has been
-obtained, nothing in this section shall prevent a holder of a licence
+obtained, nothing in this section shall prevent a holder of a
+licence
 from flaring natural gas in accordance with the terms of the notice
 of consent.
-(4) Nothing in this section shall prevent a holder of a licence
+(4)
+Nothing in this section shall prevent a holder of a
+licence
 from flaring natural gas without the prior written consent of the
 Minister where, in an emergency, flaring is necessary to safeguard
 the health and safety of persons in the exploration or development
@@ -1681,7 +1828,8 @@ practices
 and require the holder to show cause, within such time as the
 Minister shall specify, why the holder should not cease to use such
 practices.
-(2) Where, within the time specified in any notice issued under
+(2)
+Where, within the time specified in any notice issued under
 subsection (1), the holder of a licence fails to satisfy the Minister
 that the holder is not using wasteful production practices, or that
 the use of such practices is justified, the Minister may order the
@@ -1710,15 +1858,18 @@ and
 vicinity of any such structure, equipment or other
 property of the presence thereof and the possible hazards
 which may result therefrom.
-(2) The provisions of subsection (1) shall not apply to a structure,
+(2)
+The provisions of subsection (1) shall not apply to a structure,
 equipment or other property which was, without the authority of
 the holder of the licence brought into the exploration or development
 and production area subject to a licence.
 (3) A holder of a petroleum exploration licence or petroleum
-development and production licence who contravenes any provisions
+development and production licence who contravenes any
+provisions
 of subsection (1) commits an offence and is liable on conviction—
 (a) in the case of an individual, to a fine not exceeding fifty
-thousand penalty units or to imprisonment for a term not
+thousand penalty units or to imprisonment for
+a term not
 exceeding one year, or to both; or
 (b) in the case of a body corporate, to a fine not exceeding
 seven hundred thousand penalty units.
@@ -1726,7 +1877,8 @@ seven hundred thousand penalty units.
 Drilling near
 boundaries
 holder of a licence shall not drill a well any part of which is less
-than one thousand metres from a boundary of the area subject to
+than one thousand metres from a boundary of the area
+subject to
 the licence.
 (2) Where a holder of a licence does not comply with
 subsection (1), the Minister may, by notice in writing served on the
@@ -1752,7 +1904,8 @@ subject to a petroleum exploration or development and production
 holder
 licence—
 (a) may, within the prescribed period; and
-(b) shall, if directed to do so by the Minister by notice in
+(b) shall, if directed to do so by the Minister by
+notice in
 writing, within the period specified in the notice;
 (i) cause to be removed from the land any plant
 brought onto, or erected upon that land in the
@@ -1783,7 +1936,8 @@ exceeding six months, or to both; or
 fifteen thousand penalty units.
 (5) The Minister may give a direction under this section even
 though the prescribed period has not expired.
-(6) In this section," prescribed period "means a period of six
+(6)
+In this section," prescribed period "means a period of six
 months from the date on which the land ceased to be subject to the
 licence or such longer period as the Minister may allow.
 59. (1) Where any plant is not duly removed under section fifty-
@@ -1791,7 +1945,8 @@ Sale of plant
 eight, the Minister may direct that the plant be sold by public auction.
 (2) Any plant remaining unsold after the public auction under
 subsection (1) has been held, may be sold by private treaty.
-(3) The following amounts shall be deducted from tne proceeds
+(3) The following amounts shall be deducted from tne
+proceeds
 of any sale under subsection (2):
 (a) the costs of the sale and of any matter incidental to or
 connected with the sale;
@@ -1801,21 +1956,26 @@ unsold after the public auction;
 under the Act; and
 (d) any other amount that the Minister certifies to be a
 deductible amount.
-( 4 ) Any balance remaining shall be paid to the Minister
+( 4 )
+Any balance remaining shall be paid to the
+Minister
 responsible for finance, who shall credit the same to a trust account,
 and who may, on application, pay it to any person who is lawfully
 entitled to it.
-( 5 ) Where no person applies to the Minister under subsection
+( 5 )
+Where no person applies to the Minister under subsection
 (4) within a period of ninety days, the balance shall be paid to the
 revenues of the Republic.
 (6) Where the proceeds of sale are less than the amounts to
 be deducted—
-(a) the shortfall shall be a debt due to the Republic from the
+(a) the shortfall shall be a debt due to the Republic
+from the
 person to whom the relevant direction was given and
 shall be recoverable in any court of competent
 jurisdiction; and
 (b) the proceeds of sale shall be applied in meeting those
-amounts in such manner as the Minister may direct.
+amounts in such manner as the Minister may
+direct.
 (7) A debt due to the Republic under this section is recoverable
 whether or not the person by whom it is due is prosecuted or
 convicted of an offence under this Part.
@@ -1824,12 +1984,15 @@ wells, etc
 a holder of a licence, direct the holder to—
 o n
 (a) demarcate and keep demarcated, in such a manner as
-may be prescribed, the production area, and submit to
+may be prescribed, the production area, and
+submit to
 the Minister, within such time as may be prescribed, a
 diagram of the production area;
-(b) carry out a survey of the position of any well or of any
+(b) carry out a survey of the position of any well
+or of any
 structure or equipment; or
-(c) furnish to the Minister in writing, within a period specified
+(c) furnish to the Minister in writing, within a period
+specified
 in the notice, a report of the survey.
 (2) Where the Minister is not satisfied with a report furnished
 by the holder under subsection (1), the Minister may, by notice in
@@ -1883,10 +2046,12 @@ Holder to have
 office in
 petroleum development and production licence shall maintain an
 Zambia
-office in Zambia to which communications may be sent and shall
+office in Zambia to which communications may be sent
+and shall
 give notice to the Director of that address and of any changes of
 that address.
-(2) The use by a holder of an office of a consultant or other
+(2) The use by a holder of an office of a consultant
+or other
 agent of the holder for any purpose related to the requirements of
 this Act shall not be considered as an office for purposes of
 subsection (1).
@@ -1900,7 +2065,8 @@ purchase, construction and installation of facilities, give preference
 to the maximum extent possible consistent with safety, efficiency
 and economy, to—
 (a) materials and products made in Zambia; and
-(b) service agencies located in Zambia and owned by Zambian
+(b) service agencies located in Zambia and owned by
+Zambian
 citizens or bodies corporate registered under the
 Cap. 388
 Companies Act.
@@ -1954,7 +2120,8 @@ million penalty units and to a further penalty of twenty thousand
 penalty units for each day the contravention continues.
 65. Any person who, without reasonable excuse, obstructs,
 obstruction
-molests, hinders or prevents a holder of a licence in or from doing of
+molests, hinders or prevents a holder of a licence in or from doing
+of
 any act authorised to be done under the provisions of this Act
 holder of
 commits an offence and is liable, on conviction, to a fine not
@@ -1981,16 +2148,20 @@ scenic attractions; and
 (ii) the features of cultural, architectural,
 archaeological, historical or geological interests;
 and
-(b) the need to ensure that any exploration or production activity
-prevents any adverse socio-economic impact or harm to h u m a n
-health in or on the land over which the licence is sought, and the
+(b) the need to ensure that any exploration or production
+activity
+prevents any adverse socio-economic impact or harm to
+h u m a n
+health in or on the land over which the licence is sought,
+and the
 Minister may require the applicant to submit the results of any
 environmental impact studies conducted in accordance with or as
 Cap. 204
 required by the Environmental Protection and Pollution Control Act
 to enable such a decision to be made.
 Conditions
-67. (1) The conditions subject to which the licence is granted
+67. (1) The conditions subject to which the licence is
+granted
 for protection
 or renewed shall include such conditions as may be prescribed by
 of
@@ -2003,9 +2174,11 @@ health
 (i) the air, water, soil, flora, fauna, fish, fisheries and
 scenic attractions; and
 (ii) the features of cultural, architectural,
-archaeological, historical or geological interest;
+archaeological, historical or geological
+interest;
 in or on the land subject to the licence;
-(b) the protection of human health, in consultation with the
+(b) the protection of human health, in consultation
+with the
 Minister responsible for health;
 (c) the rehabilitation, levelling, re grassing, re foresting or
 contouring of such part of the landover which the licence
@@ -2065,14 +2238,17 @@ the Minister may, by statutory instrument, prescribe.
 Fund
 (2) There shall be paid into the Fund the amount of any cash
 deposit referred to in paragraph (b) of section sixty-seven.
-( 3 ) Moneys from the Fund may be applied—
+( 3 )
+Moneys from the Fund may be applied—
 (a) at the expiry or termination of a licence by way of refund
 to the holder thereof of the amount of any cash deposits
 referred to in paragraph (b) of subsection (2) of section
-sixty-seven that were paid by the holder, to the extent
+sixty-seven that were paid by the holder, to
+the extent
 that such moneys are not appropriated under paragraph
 (b): or
-(b) to the payment of any debt due under this Part to the
+(b) to the payment of any debt due under this
+Part to the
 extent that the debt is not paid by or recovered from,
 the person from whom it is due, and regardless of
 whether proceedings have been taken against that
@@ -2085,21 +2261,30 @@ person's debts shall not exceed the amount of any
 cash deposits referred to in subsection (2)that were
 lodged by that person.
 (4) Moneys standing to the credit of the Fund that are not
-immediately required for the purposes of the Fund may be invested
+immediately required for the purposes of the Fund may
+be invested
 in such manner as the Minister, with the approval of the Minister
 responsible for Finance, may determine.
-Liability and 71. (1) A holder shall be strictly liable for any harm or damage
+Liability and
+71. (1) A holder shall be strictly liable for any harm
+or damage
 redress
-caused by exploration or development and production operations
-and shall compensate any person to whom the harm or damage is
+caused by exploration or development and production
+operations
+and shall compensate any person to whom the harm or
+damage is
 caused.
-(2) Liability shall attach to the person who directly contributes
+(2) Liability shall attach to the person who directly
+contributes
 to the act or omission which results in the harm or damage.
-( 3 ) Where there is more than one person responsible for the
+( 3 )
+Where there is more than one person responsible for the
 harm or damage, the liability shall be joint and several.
 (4) Where any harm or damage is caused to the environment
-or biological diversity, compensation shall include the cost of
-reinstatement, rehabilitation or clean-up measures which are
+or biological diversity, compensation shall include
+the cost of
+reinstatement, rehabilitation or clean-up measures
+which are
 incurred and where applicable, the costs of preventive measures.
 (5) Liability shall also extend to—
 (a) any harm or damage caused directly or indirectly by the
@@ -2141,11 +2326,14 @@ person whose interests are affected;
 diversity.
 (8) No costs shall be awarded against any of the persons
 specified under subsection (7) who fail in any action if the action
-was instituted reasonably out of concern for the public interest or
+was instituted reasonably out of concern for the public
+interest or
 the interest of protecting human health, biological diversity and in
 general, the environment.
-(9) Where any harm or damage is caused to human and animal
-health by exploration operations or development and production
+(9) Where any harm or damage is caused to human
+and animal
+health by exploration operations or development and
+production
 operations, compensation shall include—
 (a) any costs and medical expenses;
 (b) compensation for any disability suffered; and
@@ -2153,31 +2341,39 @@ operations, compensation shall include—
 P A R T XI
 GOVERNMENT REVENUES
 Income tax
-72. A holder of a petroleum development and production
-licence shall be liable forthe payment of income tax in accordance
+72. A holder of a petroleum development and
+production
+licence shall be liable forthe payment of income tax in
+accordance
 Cap. 323
-with the Income Tax Act on the income deriving from petroleum
+with the Income Tax Act on the income deriving from
+petroleum
 operations.
-Employee 73. (1) The income of individuals who are employed by a holder
+Employee 73. (1) The income of individuals who are employed
+by a holder
 taxation
 of a licence, or who hire their services out to a holder shall be
 subject to the payment of income tax in accordance with the Income
 Cap. 323
 Tax Act.
 (2) A holder of a licence shall be obliged to withhold and pay
-to the State any income tax assessed on the taxable income of
+to the State any income tax assessed on the taxable
+income of
 such individuals in accordance with and as required by the Income
 Cap. 323
 Tax Act.
-74. (1) The Commissioner-General shall require a holder of a
+74. (1) The Commissioner-General shall require a
+holder of a
 Royalty or
 petroleum development and production licence to pay to the State
 production
 payment
 a royalty or production payment in cash or in kind, at the option of
-the State, on the gross value or volume, as the case may be, of
+the State, on the gross value or volume, as the case
+may be, of
 crude oil produced and saved in the production area after deducting
-the amount of crude oil used and consumed in the conduct of
+the amount of crude oil used and consumed in the
+conduct of
 petroleum operations.
 (2) The Commissioner-General shall require a holder of a
 petroleum development and production licence to pay to the State
@@ -2222,23 +2418,33 @@ offence and should be liable, on conviction to a fine not exceeding
 thirty thousand penalty units or to imprisonment for a term not
 exceeding one year, or to both.
 234 No. 10 of 2008) Petroleum (Exploration and Production)
-Remission of 77. ( 1 ) Where the Commissioner-General considers it expedient
-royalty, etc. in the interests of the production of petroleum, the Commissioner-
+Remission of
+77. ( 1 ) Where the Commissioner-General considers
+it expedient
+royalty, etc.
+in the interests of the production of petroleum, the Commissioner-
 General may, for such period as the Commissioner-General may
-determine, remit, in whole or in part, any royalty payable on
+determine, remit, in whole or in part, any royalty
+payable on
 petroleum obtained from a particular production area.
-(2) The Commissioner-General may, on application made by a
+(2)
+The Commissioner-General may, on application made by a
 holder of a development and production licence, defer, for such
 period and subject to such conditions as the Commissioner-General
 may determine, payment of any royalty due from the holder.
-(3) The Commissioner-General may exempt from liability to
+(3) The Commissioner-General may exempt from
+liability to
 pay royalty, samples of petroleum required for the purpose of analysis
 or other examination.
-Recovery of 78. ( 1 ) Any royalty, fee, rent or other payment which may
-royalty, etc. become due in respect of any right under the provisions of this Act
+Recovery of
+78. ( 1 ) Any royalty, fee, rent or other payment
+which may
+royalty, etc.
+become due in respect of any right under the provisions of this Act
 shall be a debt due to the Government and recoverable in a court
 of competent jurisdiction.
-(2) Without prejudice to the right to adduce evidence in rebuttal,
+(2)
+Without prejudice to the right to adduce evidence in rebuttal,
 a certificate issued by the Commissioner-General certifying that a
 specified amount of royalty, is payable by a specified person shall,
 in any proceedings instituted against that person for the recovery
@@ -2246,14 +2452,20 @@ of any such royalty, be received as evidence of that fact.
 Annual fee in
 79. ( 1 ) There shall be payable to the Government by the holder
 respect of
-of a licence an annual fee of such amount as may be determined
+of a licence an annual fee of such amount as may be
+determined
 licence
 by the Minister by statutory instrument.
-(2) The annual fee payable pursuant to subsection (1) shall be
+(2)
+The annual fee payable pursuant to subsection
+(1) shall be
 payable on the grant of a licence and thereafter annually on the
 anniversary of the grant until the termination of the licence.
-Security for 80. The Minister may make such arrangements as appear
-compliance appropriate to the Minister to secure the compliance of a holder
+Security for
+80. The Minister may make such arrangements as appear
+compliance
+appropriate to the Minister to secure the compliance
+of a holder
 with the provisions of this Act and, in particular may accept
 guarantees, whether from shareholders or otherwise, in respect of
 such compliance.
@@ -2306,32 +2518,42 @@ P u b l i c
 officer not
 any right or interest in any licence issued under this Act, and any
 to acquire or
-document or transaction purporting to confer any right or interest
+document or transaction purporting to confer any right
+or interest
 hold certain
 on any such officer shall be null and void.
 rights
-( 2 ) A public officer employed in the Ministry responsible for
+( 2 )
+A public officer employed in the Ministry responsible for
 mines shall not acquire or retain any share in any company carrying
 on exploration or development operations in Zambia:
 Provided that the Minister may authorise a departure from
-the provisions of this subsection where, in the Minister's
-opinion, the operations in Zambia of the company
-concerned form a negligible part of the total operations
+the provisions of this subsection where, in the
+Minister's
+opinion, the operations in Zambia of the
+company
+concerned form a negligible part of the total
+operations
 of that company.
-( 3 ) Any person who contravenes subsection ( 2 ) commits an
+( 3 )
+Any person who contravenes subsection ( 2 ) commits an
 offence and is liable on conviction to a fine not exceeding fifty
-thousand penalty units or to imprisonment for a term not exceeding
+thousand penalty units or to imprisonment for a term not
+exceeding
 twelve months, or to both.
 Indemnity
-85. No public officer shall be liable for anything done or omitted
+85. No public officer shall be liable for anything done
+or omitted
 of officers
-to be done in good faith in the performance, or purported
+to be done in good faith in the performance, or
+purported
 performance of any function conferred on or delegated to that
 officer by or under this Act.
 Prohibition
 86. ( 1 ) A person shall not disclose any information—
 of disclosure
-(a) obtained by that person in connection with the
+(a) obtained by that person in connection
+with the
 of
 information
 administration of this Act; or
@@ -2347,7 +2569,8 @@ functions under the consultancy arrangement;
 (d) for the purpose of preparing official statistics or publications
 relating to exploration or development and production
 operations;
-(e) for the purpose of determining the licensee's liability to
+(e) for the purpose of determining the licensee's
+liability to
 the State; or
 (j) for any purpose which may be prescribed.
 (2) Where an area has been but is no longer subject to a licence,
@@ -2394,7 +2617,8 @@ from the Technical Committee.
 (3) The Committee shall, in the performance of its functions
 under this Act, take into consideration the recommendations of the
 Technical Committee.
-Composition 89. The Committee shall consist of the following part-time
+Composition
+89. The Committee shall consist of the following part-time
 of Committee
 m e m b e r s :
 (a) the Minister responsible for mines, who shall be
@@ -2412,14 +2636,16 @@ for mines shall be the Secretary to the Committee.
 (2) The Secretary shall be responsible for the day to day affairs
 of the Committee under the general supervision of the Chairperson.
 Petroleum
-91. (1) There is hereby constituted the Petroleum Technical
+91. (1) There is hereby constituted the Petroleum
+Technical
 Technical
 Committee which shall comprise the following part-time members
 Committee
 appointed by the Minister:
 (a) the Permanent Secretary in the Ministry responsible for
 mines, who shall be the Chairperson;
-(b) a representative each of the following
+(b) a representative each of the
+following
 departments of the Ministry:
 (i) Geological Survey Department;
 (ii) Mines Development Department;
@@ -2430,7 +2656,8 @@ Ministry responsible for energy;
 (d) a representative of the Environmental Council of Zambia;
 (e) a representative of the Bank of Zambia;
 (j) a representative of the Energy Regulation Board;
-(g) a representative of the School of Mines of the University
+(g) a representative of the School of Mines of the
+University
 of Zambia;
 (h) a representative of the Attorney-General;
 (i) a representative of the Zambia National Tender Board;
@@ -2449,7 +2676,8 @@ the Technical Committee from among themselves.
 Committee shall hold office for a period of three years from the
 date of appointment and may be re-appointed for a further period
 of three years.
-(4) The office of a member shall become vacant—
+(4)
+The office of a member shall become vacant—
 (a) upon the member's death;
 (b) if the member is adjudged bankrupt;
 (c) if the member is absent from three consecutive meetings
@@ -2475,11 +2703,13 @@ member shall hold office for the remainder of the term.
 (7) Subject to the other provisions of this Act, the Technical
 Committee may regulate its own procedure.
 (8) The Technical Committee shall meet for the transaction of
-business, at least once in every three months at such places and
+business, at least once in every three months at such
+places and
 times as the Chairperson may determine.
 (9) The Chairperson may, upon giving notice of not less than
 fourteen days, call a meeting of the Technical Committee and shall
-call a special meeting upon giving a shorter notice where the
+call a special meeting upon giving a shorter notice
+where the
 urgency of any particular matter so determines.
 (10) The quorum at a meeting of the Technical Committee shall
 be half of the members of the Technical Committee.
@@ -2496,12 +2726,16 @@ meeting.
 majority of votes of the members present and voting at the meeting
 and, in the event of an equality of votes, the person presiding at the
 meeting shall have, in addition to a deliberative vote, a casting vote.
-(13) Where a member is for any reason unable to attend any
-meeting of the Technical Committee, the member may, in writing,
+(13) Where a member is for any reason unable to
+attend any
+meeting of the Technical Committee, the member may,
+in writing,
 nominate another person from the same organisation to attend such
-meeting in that member's stead and such person shall be considered
+meeting in that member's stead and such person shall be
+considered
 to be a member for the purpose of that meeting.
-(14) The Committee may invite any person whose presence in
+(14) The Committee may invite any person whose
+presence in
 its opinion is desirable to attend and to participate in the deliberations
 of a meeting of the Technical Committee but such person shall
 have no vote.
@@ -2552,13 +2786,17 @@ that matter.
 recorded in the minutes of the meeting at which it is made.
 PART X I V
 INSPECTION
-Appointment 94. (1) The Minister shall appoint inspectors to monitor, inspect
-of inspectors and enforce the provisions of this Act.
+Appointment
+94. (1) The Minister shall appoint inspectors to monitor, inspect
+of inspectors
+and enforce the provisions of this Act.
 (2) The Minister shall issue an identity card to each inspector.
 Powers of
 95. (1) An inspector shall have power, on production of an
-inspectors identity card issued to the inspector under subsection (2) of section
-ninety-four, to inspect the premises and records of a holder of a
+inspectors
+identity card issued to the inspector under subsection (2) of section
+ninety-four, to inspect the premises and records of a
+holder of a
 licence under this Act in order to ensure that the provisions of this
 Act are being complied with.
 (2) An inspector may—
@@ -2566,9 +2804,11 @@ Act are being complied with.
 premises, area, building, structure, vehicle, vessel, aircraft
 or carriage of any description which the inspector has
 reason to believe has been, is being or is to be used in
-connection with exploration, development or production
+connection with exploration, development or
+production
 operations;
-(b) inspect and test, or have tested by a qualified person, any
+(b) inspect and test, or have tested by a qualified
+person, any
 machinery or equipment, which in the inspector's opinion
 has been, is being or is to be used in connection with
 exploration, development or production operations;
@@ -2579,12 +2819,15 @@ the provisions of this Act;
 (d) inspect, make copies of or take extracts from any document,
 book or data relating to exploration, development or
 production operations;
-(e) by notice in writing, issue directions to, or impose restrictions
-on, the holder of a licence to safeguard the health and
+(e) by notice in writing, issue directions to, or impose
+restrictions
+on, the holder of a licence to safeguard the
+health and
 safety of persons employed in connection with
 exploration, development or production operations;
 (f) by notice in writing, direct—
-(i) the cessation of operations in, and the withdrawal
+(i) the cessation of operations in, and the
+withdrawal
 of all persons from, any area, building or
 structure which is being used in connection with
 exploration, development or production
@@ -2642,15 +2885,18 @@ may appeal to the High Court, which shall determine the appeal,
 having regard to the provisions of this Act and the circumstances
 of the case.
 (2) A determination of the High Court under this section may
-include such directions to the Minister as the Court considers
+include such directions to the Minister as the Court
+considers
 appropriate for the disposal of the matter, and the Minister shall
 give effect to the directions.
 Notification
-98. Whenever the Minister, makes a decision against which an
+98. Whenever the Minister, makes a decision against
+which an
 of decisions
 appeal lies by virtue of a provision of this Act, the licensee or
 applicant affected by the decision shall be informed by notice in
-writing of the decision and of the reasons therefor and any such
+writing of the decision and of the reasons therefor and
+any such
 notice shall inform the person so notified of that person's right of
 appeal.
 P A R T X V I
@@ -2699,15 +2945,19 @@ penalties
 Act to furnish any information;
 furnishes any information or makes any statement that is false or
 misleading in a material particular commits an offence.
-(2) Any person who, in pursuance of a requirement under this
+(2) Any person who, in pursuance of a requirement
+under this
 Act, produces or makes available a document or any books, that
-the person knows to be false or misleading in a material particular
+the person knows to be false or misleading in a material
+particular
 commits an offence.
-( 3 ) Any person who, with intent to deceive—
+( 3 )
+Any person who, with intent to deceive—
 (a) places or deposits, or is accessory to the placement or
 deposit of, any petroleum or material in any place; or
 (b) mingles or causes to be mingled with any sample of
-petroleum any substance which will enhance the value
+petroleum any substance which will enhance
+the value
 or in any way change the nature of the petroleum;
 commits an offence.
 (4) A person convicted of an offence under this section shall
@@ -2717,7 +2967,8 @@ hundred thousand penalty units or to imprisonment for a
 term not exceeding five years, or to both; or
 (b) in the case of a body corporate or un-incorporate body, to
 a fine not exceeding one million penalty units.
-103. If a body corporate or un-incorporate body is convicted
+103. If a body corporate or un-incorporate body is
+convicted
 Offence
 committed
 of an offence under this Act, every person who—
@@ -2729,7 +2980,8 @@ incorporate
 management of, the body corporate or un-incorporate
 body
 body;and
-(b) knowingly authorised or permitted the act or omission
+(b) knowingly authorised or permitted the act or
+omission
 constituting the offence;
 shall be deemed to have committed the same offence and shall be
 liable, on conviction, to the penalty specified for that offence.
@@ -2744,7 +2996,8 @@ six months after the commencement of this Act.
 conduct of petroleum operations in the Republic shall cease to be
 binding on the Republic after six months from the date of
 commencement of this Act.
-105. ( 1 ) The Minister may make regulations for carrying out Reeulations
+105. ( 1 ) The Minister may make regulations for carrying out
+Reeulations
 the purposes of this Act.
 (2) Without prejudice to the generality of subsection (1), the
 regulations may provide for the following matters:
@@ -2786,7 +3039,8 @@ water and other substances from a well;
 of persons employed in or in connection with the
 exploration for, or the development and production of,
 petroleum;
-(n) taking, preserving and furnishing to the Minister of samples
+(n) taking, preserving and furnishing to the Minister of
+samples
 of petroleum;
 (o) giving to the Minister reports, returns and other information;
 (p) the registration of instruments and the effect of the
@@ -2797,7 +3051,8 @@ down hole investigations;
 (s) annual charges;
 (t) fees;
 (u) the division of the geographic area of Zambia into blocks;
-(v) the participation of Zambians in the petroleum industry;
+(v) the participation of Zambians in the petroleum
+industry;
 or
 (w) any other matter that may be, or is required to be,
 prescribed by the Minister under this Act.
@@ -2807,12 +3062,15 @@ and shall be liable, on conviction—
 (a)'m the case of an individual, to a fine not exceeding five
 hundred thousand penalty units or to imprisonment for a
 term not exceeding five years, or to both; or
-(b) in the case of a body corporate or un-incorporate body, to
+(b) in the case of a body corporate or un-incorporate
+body, to
 a fine not exceeding one million penalty units;and where
 the offence is a continuing one. to a further penalty not
 exceeding three thousand penalty units for each day
 during which the offence continues.
-Repeal of 106. The Petroleum (Exploration and Production) Act, 1985, is
+Repeal of
+106. The Petroleum (Exploration and Production) Act,
+1985, is
 Cap. 440
 r e p e a ] e d .
 h e r e b y
@@ -2872,7 +3130,9 @@ deliberative vote, a casting vote.
 Committee, the member may. in writing, nominate another person from the same
 organisation to attend such meeting in that member's stead and such person shall
 be considered to be a member for the purpose of that meeting.
-( 9 ) The Committee may invite any person whose presence in its opinion is
+( 9 )
+The Committee may invite any person whose presence in
+its opinion is
 desirable to attend and to participate in the deliberations of a meeting of the
 Committee but such person shall have no vote.
 (10) The validity of any proceedings, act or decision of the Committee shall
@@ -2883,7 +3143,8 @@ entitled so to do. look part in the proceedings.
 every meeting of the Committee and every meeting of any sub-committee
 established by the Committee.
 Sub-
-3. (1) The Committee may. for the purpose of performing its functions
+3. (1) The Committee may. for the purpose of performing
+its functions
 committees of
 under this Act. constitute any sub-committee and delegate to any such sub-
 Committee
