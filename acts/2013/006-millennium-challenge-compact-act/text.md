@@ -53,7 +53,8 @@ United States Government corporation established under
 the laws of the United States of America;
 “ MCC Funding ” means the Program Funding and Compact
 Implementation Funding, and includes any refunds or
-reimbursements of Program Funding or Compact
+reimbursements of Program Funding or
+Compact
 Implementation Funding paid by the Government of Zambia
 in accordance with the Millennium Challenge Compact;
 “ Millennium Challenge Account Zambia ” or “ MCA-
@@ -61,7 +62,8 @@ Zambia” means the company incorporated in Zambia under
 the Companies Act for purposes of this Act and the
 Cap. 388
 Millennium Challenge Compact;
-“ Millennium Challenge Compact ” means the five year
+“ Millennium Challenge Compact ” means the
+five year
 agreement entered into by and between the Republic of
 Zambia and the United States of America, through the
 MCC, on 10th May, 2012, and signed in Lusaka, Zambia,
@@ -141,14 +143,16 @@ Agreement and is not used for any purpose that may
 contravene the United States law or policy as specified
 under the Millennium Challenge Compact and Program
 Guidelines;
-(e) ensuring that measures are put in place for the active
+(e) ensuring that measures are put in place for
+the active
 participation of the private sector in the implementation
 of the Millennium Challenge Compact;
 (f) putting in place activities and measures to build human
 resource capacity for the successful implementation of
 the Millennium Challenge Compact;
 (g) ensuring that the procurement of goods, works and services
-for the implementation of the Millennium Challenge
+for the implementation of the Millennium
+Challenge
 Compact comply with this Act and any relevant Program
 Guidelines;
 (h) ensuring compliance with the Program Guidelines; and
@@ -254,7 +258,8 @@ Public
 procurement
 or any other written law, the procedures for procurement of works,
 Act No. 12
-goods and services for the Project shall be as provided under the
+goods and services for the Project shall be as provided
+under the
 of 2008
 relevant Program Guidelines.
 (2) The following principles shall apply to the procurement of
@@ -333,7 +338,8 @@ to proceedings or actions for its liquidation or receivership, other
 than as provided under the Millennium Challenge Compact or the
 Program Implementation Agreement.
 (4) Notwithstanding any other written law that would have the
-effect of allowing a lien, attachment, enforcement of judgment,
+effect of allowing a lien, attachment, enforcement of
+judgment,
 pledge or encumbrance of assets, the assets of the Project shall
 not be subject to such lien, attachment, enforcement of judgment,
 pledge or encumbrance, other than as provided under the Millennium
@@ -366,7 +372,8 @@ Provided that the Minister shall not indemnify any such
 person if and to the extent that any claims, losses, actions,
 liabilities, costs, damages or expenses are attributable to the
 fraud, gross negligence or willful misconduct of such person.
-(3) Notwithstanding anything to the contrary in any other
+(3) Notwithstanding anything to the contrary in
+any other
 written law, no liability or claim shall attach to, or lie against, MCC
 and the United States of America government with respect to the
 implementation of, or arising as a result of, the Millennium Challenge
@@ -473,7 +480,8 @@ MILLENNIUM CHALLENGE COMPACT
 PREAMBLE
 This MILLENNIUM CHALLENGE COMPACT (this “Compact”) is between the Republic
 of Zambia (“Zambia”), acting through its Government (the “Government”), and the United
-States of America, acting through the Millennium Challenge Corporation, a United States
+States of America, acting through the Millennium Challenge Corporation, a
+United States
 Government Corporation (“MCC’), (individually a “Party” and collectively, the “Parties”).
 Capitalized terms used in tills Compact will have the meanings provided in Annex V.
 Recognizing that the Parties are committed to the shared goals of promoting economic growth
@@ -503,7 +511,8 @@ ARTICLE 2
 FUNDING AND RESOURCES
 Section 2.1—Program Funding
 Upon entry into force of this Compact in accordance with Section 7.3, MCC will grant to the
-Government, under the terms of this Compact, an amount not to exceed Three Hundred and
+Government, under the terms of this Compact, an amount not to exceed Three
+Hundred and
 Thirty-Nine Million Four Hundred and Sixty-Eight Thousand Seven Hundred and One United
 States Dollars (US$339,468,701) (“Program Funding”) for use by the Government to implement
 the Program. The allocation of Program Funding is generally described in Annex II.
@@ -547,7 +556,8 @@ CIF Amount”). In such event, the amount of Compact Implementation Funding
 granted to the Government under Section 2.2(a) will be reduced by the Excess CIF
 Amount, and MCC will have no further obligations with respect to such Excess CIF
 Amount.
-(e) MCC, at its option by written notice to the Government, may elect to grant to the
+(e) MCC, at its option by written notice to the Government, may elect to
+grant to the
 Government an amount equal to all or a portion of such Excess CIF Amount as an
 increase in the Program Funding, and such additional Program Funding will be subject
 to the terms and conditions of this Compact applicable to Program Funding.
@@ -574,8 +584,10 @@ are necessary to carry out the Government’s responsibilities under this Compac
 (b) The Government will use its best efforts to ensure that all MCC Funding it receives or
 is projected to receive in each of its fiscal years is fully accounted for in its annual
 budget on a multi-year basis.
-(c) The Government will not reduce the normal and expected resources that it would
-otherwise receive or budget from sources other than MCC for the activities
+(c) The Government will not reduce the normal and expected resources
+that it would
+otherwise receive or budget from sources other than MCC for
+the activities
 contemplated under this Compact and the Program.
 (d) Unless the Government discloses otherwise to MCC in writing, MCC Funding will be
 in addition to the resources that the Government would otherwise receive or budget
@@ -592,7 +604,8 @@ substantial displacement of United States production;
 (c) to undertake, fund or otherwise support any activity that is likely to cause a significant
 environmental, health or safety hazard, as further described in MCC’s environmental
 and social assessment guidelines and any guidance documents issued in connection
-with the guidelines posted from time to time on the MCC Website or otherwise
+with the guidelines posted from time to time on the MCC Website
+or otherwise
 made available to the Government (collectively, the “MCC Environmental
 Guidelines”); or
 (d) to pay for the performance of abortions as a method of family planning or to motivate
@@ -611,7 +624,8 @@ by a national, regional, local or other governmental or taxing authority of or i
 Specifically, and without limiting the generality of the foregoing, MCC Funding will be
 free from the payment of—
 (i) any tariffs, customs duties, import taxes, export taxes and other similar charges
-on any goods, works or services introduced into Zambia in connection
+on any goods, works or services introduced into Zambia
+in connection
 with the Program;
 (ii) sales tax, value added tax, excise tax, property transfer tax and other similar
 charges on any transactions involving goods, works or services in connection
@@ -653,11 +667,13 @@ Section 3.2—Government Responsibilities
 (a) The Government has principal responsibility for overseeing and managing the
 implementation of the Program.
 (b) The Government hereby designates Millennium Challenge Account-Zambia as the
-accountable entity to implement the Program and to exercise and perform the
+accountable entity to implement the Program and to exercise and
+perform the
 Government’s right and obligation to oversee, manage and implement the Program,
 including without limitation, managing the implementation of the Project and its
 Activities, allocating resources and managing procurements. Such entity will be
-referred to herein as “MCA-Zambia,” and will have the authority to bind the
+referred to herein as “MCA-Zambia,” and will have the authority
+to bind the
 Government with regard to all Program activities. The designation of MCA-Zambia
 contemplated by this Section 3.2(b) will not relieve the Government of any obligations
 or responsibilities hereunder or under any related agreement, for which the
@@ -704,7 +720,8 @@ to solicit, award and administer contracts and to procure goods, works and
 services;
 (ii) solicitations for goods, works, and services must be based upon a clear and
 accurate description of the goods, works and services to be acquired;
-(iii) contracts must be awarded only to qualified contractors that have the
+(iii) contracts must be awarded only to qualified contractors
+that have the
 capability and willingness to perform the contracts in accordance with
 their terms on a cost effective and timely basis; and
 (iv) no more than a commercially reasonable price, as determined, for example,
@@ -775,7 +792,8 @@ the Compact Term. In addition, upon MCC’s request, the Government will ensure
 that such audits are conducted by an independent auditor approved by MCC and
 named on the list of local auditors approved by the Inspector General or a United
 States-based certified public accounting firm selected in accordance with the
-“Guidelines for Financial Audits Contracted by MCA” (the “Audit Guidelines”)
+“Guidelines for Financial Audits Contracted by MCA” (the “Audit
+Guidelines”)
 issued and revised from time to time by the Inspector General, which are posted on
 the MCC Website. Audits will be performed in accordance with the Audit Guidelines
 and be subject to quality assurance oversight by the Inspector General. Each audit
@@ -785,7 +803,8 @@ June 30 and December 31 thereafter, or such other period as the parties may othe
 agree in writing.
 (b) Audits of Other Entities: The Government will ensure that MCC-financed agreements
 between the Government or any Provider, on the one hand, and—
-(i) a United States non-profit organisation, on the other hand, state that the
+(i) a United States non-profit organisation, on the other hand,
+state that the
 United States non-profit organisation is subject to the applicable audit
 requirements contained in OMB Circular A-133, “Audits of States, Local
 Governments, and Non-Profit Organisations,” issued by the United States
@@ -802,7 +821,8 @@ Covered Provider—
 to audits;
 (ii) considers whether the results of the Covered Provider’s audit necessitates
 adjustment of the Government’s records; and
-(iii) permits independent auditors to have access to its records and financial
+(iii) permits independent auditors to have access to its records
+and financial
 statements as necessary.
 (d) Audit by MCC: MCC will have the right to arrange for audits of the Government’s use
 of MCC Funding.
@@ -849,7 +869,8 @@ foregoing, a “Principal Representative”). Each Party, by written notice to t
 designate one or more additional representatives (each, an “Additional Representative”) for all
 purposes other than signing amendments to this Compact. The Government hereby designates
 the chairperson of the Board of MCA-Zambia as an Additional Representative. A Party may
-change its Principal Representative to a new representative that holds a position of equal or
+change its Principal Representative to a new representative that holds a position
+of equal or
 higher authority upon written notice to the other Party.
 Section 4.3—Signatures
 Signatures to this Compact and to any amendment to this Compact will be original signatures
@@ -892,7 +913,8 @@ other provision of law;
 (vi) the Government has engaged in a pattern of actions inconsistent with the
 criteria used to determine the eligibility of Zambia for assistance under the
 MCA Act;
-(vii) Zambia is classified as a Tier three (3) country in the United States
+(vii) Zambia is classified as a Tier three (3) country in the
+United States
 Department of State’s annual Trafficking in Persons Report; and
 (viii) the Government or another person or entity receiving MCC Funding or
 using Program Assets is found to have been convicted of a narcotics offence
@@ -901,13 +923,16 @@ Section 5.2—Consequences of Termination, Suspension or Expiration
 (a) Upon the suspension or termination, in whole or in part, of this Compact or any MCC
 Funding, or upon the expiration of this Compact, the provisions of Section 4.2 of
 the Program Implementation Agreement will govern the post-suspension, post-
-termination or post-expiration treatment of MCC Funding, any related
+termination or post-expiration treatment of MCC Funding,
+any related
 Disbursements and Program Assets. Any portion of this Compact, MCC Funding,
 the Program Implementation Agreement or any other Supplemental Agreement that
 is not suspended or terminated will remain in full force and effect.
 (b) MCC may reinstate any suspended or terminated MCC Funding under this Compact if
-MCC determines that the Government or other relevant person or entity has
-committed to correct each condition for which MCC Funding was suspended or
+MCC determines that the Government or other relevant person
+or entity has
+committed to correct each condition for which MCC Funding was
+suspended or
 terminated.
 Section 5.3—Refunds; Violation
 (a) If any MCC Funding, any interest or earnings thereon, or any Program Asset is used for
@@ -982,7 +1007,8 @@ document as it may, from time to time, be amended, revised, replaced, or extende
 any law, regulation, policy, guideline or similar document issued under or otherwise applicable or
 related to such law, regulation, policy, guideline or similar document.
 Section 6.8—MCC Status
-MCC is a United States government corporation acting on behalf of the United States
+MCC is a United States government corporation acting on behalf of the
+United States
 Government in the implementation of this Compact. MCC and the United States Government
 assume no liability for any claims or loss arising out of activities or omissions under this Compact.
 The Government waives any and all claims against MCC or the United States Government or any
@@ -1026,7 +1052,8 @@ household connections to the sanitation infrastructure assets to be financed und
 Compact, which plan must be in form and substance satisfactory to MCC;
 (e) the Government must have delivered to MCC a certified copy of a resolution of the board
 of directors of LWSC (or such similar instrument as may be proposed by the Government
-and is acceptable to MCC) demonstrating, to MCC’s satisfaction, that at least fifty
+and is acceptable to MCC) demonstrating, to MCC’s satisfaction, that
+at least fifty
 percent (50 percent) of LWSC’s Retained Earnings will be reserved for asset renewal
 and capital expansion;
 (f) MCC will have determined that the Government has verified a reasonable amount of its
@@ -1080,7 +1107,8 @@ binding constraints to Zambia’s economic growth—
 (i) low quality of human capital;
 (ii) poor infrastructure services; and
 (iii) coordination failures.
-To elicit feedback on these constraints, the Government undertook a targeted consultative
+To elicit feedback on these constraints, the Government undertook a targeted
+consultative
 process in accordance with all applicable MCC policies and guidelines, which included over 500
 representatives from the government, private sector and civil society, as well as the donor
 community. Feedback from these consultations resulted in a list of prioritised sectors deemed to
@@ -1127,11 +1155,13 @@ of state-owned enterprises to create commercial utilities throughout the country
 implementation of cost reflective tariffs, as facilitated through the creation of an autonomous
 water utility regulator, the National Water Supply and Sanitation Council (“NWASCO”).
 2. Project Objective
-The Program consists of the Lusaka Water Supply, Sanitation And Drainage Project, (the
+The Program consists of the Lusaka Water Supply, Sanitation And Drainage
+Project, (the
 “LWSSD Project” or the “Project”), which in turn consists of the Infrastructure Activity and
 the Institutional Strengthening Activity, as each is further described in this Annex 1.
 The Project Objective is to expand access to, and improve the reliability of, water supply and
-sanitation, and improve drainage services in select urban and peri-urban areas of the city of
+sanitation, and improve drainage services in select urban and peri-urban areas
+of the city of
 Lusaka in order to decrease the incidence of water-borne and water-related diseases, generate time
 savings for households and businesses and reduce non-revenue water in the water supply network.
 3. Environmental and Social Safeguards
@@ -1171,7 +1201,8 @@ with the MCC Gender Policy, the Government will—
 (b) develop a comprehensive social and gender integration plan (“Social and Gender
 Integration Plan”), in form and substance satisfactory to MCC and reflecting the
 MCC Social and Gender Integration Plan Guidelines, which, at a minimum, identifies
-approaches for regular, meaningful and inclusive consultations with women and
+approaches for regular, meaningful and inclusive consultations with
+women and
 other vulnerable/under-represented groups, consolidates the findings and
 recommendations of the Project- (and, as applicable, Activity-) specific social and
 gender analyses and social and gender-focused sub-activities, and sets forth strategies
@@ -1192,7 +1223,8 @@ and sewage networks, reduce Non-Revenue Water (“NRW’) and improve select dra
 infrastructure (the “Infrastructure Activity”).
 The provision of technical assistance to the Lusaka Water and Sewerage Company
 (“LWSC”), the provincial utility responsible for the management of Lusaka’s water and
-sanitation assets and for the provision of water and sanitation services, and the Lusaka
+sanitation assets and for the provision of water and sanitation services, and
+the Lusaka
 City Council (“LCC’), the Government entity that manages the city’s drainage infrastructure
 and services. This Activity will also include support for comprehensive information,
 education and communication campaigns, and a competitive grant program designed to
@@ -1335,7 +1367,8 @@ women and vulnerable groups to Project benefits and expand opportunities
 for entrepreneurship and income generating activities related to water,
 sanitation and drainage.
 Activities will thus enhance the functioning of the systems, complementing
-and supplementing the Compact’s other investments. Grants issued under
+and supplementing the Compact’s other investments. Grants
+issued under
 this sub-activity will be awarded, implemented and managed pursuant to
 open, fair and competitive procedures administered in a transparent manner
 in accordance with all relevant MCC policies and guidelines (including the
@@ -1365,7 +1398,8 @@ Infrastructure Activity have confirmed that the majority of the anticipated envi
 social impacts are positive in nature. However, these assessments also identified the following
 potential environmental- and social-related challenges and impacts that must be managed carefully
 through effective project design, implementation and monitoring:
-Involuntary Resettlement: The Infrastructure Activity is anticipated to result in the
+Involuntary Resettlement: The Infrastructure Activity is anticipated to
+result in the
 physical and/or economic displacement of approximately 1,800 households due to Project-
 related land use and acquisition, although most of these households will only experience
 minor or temporary resettlement or displacement. A resettlement policy framework has
@@ -1423,7 +1457,8 @@ investment master plans, the Government has been in dialogue with donors such as
 Investment Bank, the African Development Bank and the Japanese International Cooperation
 Agency with regard to further investments in Lusaka’s water supply and sanitation sector.
 5. USAlD
-MCC has been in a continuing dialogue with the United States Agency for International
+MCC has been in a continuing dialogue with the United States Agency for
+International
 Development (“USAID”) throughout the development of this Compact. Specifically, MCC and
 USAID have discussed potential, complementary investments by USAlD through its “Sustainable
 Water and Sanitation in Africa Program,” which may include focused capacity building for NWASCO
@@ -1434,7 +1469,8 @@ under the Infrastructure Activity is expected to be reinforced by several factor
 the Project’s design. First, LWSC currently recovers 102 percent if its operating costs, and the
 new water connections anticipated under the Infrastructure Activity are expected to increase the
 financial health of the utility. In addition, the Government, with support from the World Bank,
-has implemented the “Water Sector Performance Improvement Project,” which has positively
+has implemented the “Water Sector Performance Improvement Project,” which
+has positively
 contributed to the financial performance of LWSC. Related to this, the Government and LWSC
 have agreed to enter into the LWSC Sustainability Agreement as a condition precedent to the entry
 into force of this Compact, which will set forth certain operational and financial performance
@@ -1461,7 +1497,8 @@ of the Program’s infrastructure investments and benefits over time.
 7. Policy, Legal and Regulatory Reforms
 The Government has been pursuing a reform agenda of privatization and deregulation of state
 owned enterprises since the advent of a new democratic government in 1991. Following this
-trend, the Government developed its first comprehensive National Water Policy in 1994. The
+trend, the Government developed its first comprehensive National Water Policy
+in 1994. The
 policy was followed by the enactment of the Water Supply and Sanitation Act in 1997, which led
 to the creation of NWASCO. To harmonize various water sector issues, the Government updated
 its National Water Policy in 2010, and also enacted the Water Resources Management Act in
@@ -1488,7 +1525,8 @@ GRZ Sanitation Connection Action Plan as a condition precedent to the entry into
 Compact, and satisfactory implementation of the GRZ Sanitation Connection Action Plan,
 including the commitment of appropriate funding by the Government, is a condition precedent to
 subsequent Disbursements of MCC Funding, as further described in the Program Implementation
-Agreement. The GRZ Sanitation Connection Action Plan must include, without limitation, a
+Agreement. The GRZ Sanitation Connection Action Plan must include, without
+limitation, a
 methodology for determining who qualifies for such assistance and a plan for administering such
 assistance and ensuring that such beneficiaries obtain household connections.
 C. IMPLEMENTATION FRAMEWORK
@@ -1501,7 +1539,8 @@ this Compact, set out certain rights, responsibilities, duties and other terms r
 implementation of the Program.
 2. MCC
 MCC will take all appropriate actions to carry out its responsibilities in connection with this
-Compact and the Program Implementation Agreement, including the exercise of its approval
+Compact and the Program Implementation Agreement, including the exercise of
+its approval
 rights in connection with the implementation of the Program.
 3. Accountable Entity
 The Government has established MCA-Zambia as a company limited by guarantee under the
@@ -1528,7 +1567,8 @@ terms acceptable to MCC, to manage the acquisition of the goods, works and servi
 required by MCA-Zambia to implement the activities funded by this Compact; and
 (vii) competitively engage one or more auditors to conduct audits of its accounts.
 The Government will take all the necessary actions to manage and operate MCA-Zambia in
-accordance with the applicable conditions precedent to the Disbursement of Compact
+accordance with the applicable conditions precedent to the Disbursement
+of Compact
 Implementation Funding set forth in Annex IV to this Compact.
 In accordance with the laws of Zambia, the Minister of Finance and the Secretary to the
 Treasury, Ministry of Finance and National Planning, will serve as the members of MCA-
@@ -1644,47 +1684,57 @@ for the Program (including administrative costs) and for the Project, projected 
 commitment and cash requirement basis.
 310,547,340
 5,841,000
-38,369,300 354,757,640
+38,369,300
+354,757,640
 1Pursuant to Section 2.2(b) of the Compact, MCC will directly administer and manage a portion of the compact Implementation funding
 Total
 45,524,334
 75,000
-6,587,500 52,186,834
+6,587,500
+52,186,834
 Year 5
 80,808,204
 177,000
-6,506,700 87,491,904
+6,506,700
+87,491,904
 This Annex II summarizes the Multi -Year Financial Plan for the Program.
 Year 4
 84,753,880
 2,052,000
-6,518,200 93,324,080
+6,518,200
+93,324,080
 Year 3
 MULTI-YEAR FINANCIAL-PLAN SUMMARY
 67,592,363
 1,852,000
-6,651,000 76,095,363
+6,651,000
+76,095,363
 Year 2
 EXHIBIT A
 (US$)
 21,307,520
 1,627,000
-7,436,000 30,370,522
+7,436,000
+30,370,522
 Year 1
 10,561,039
 58,000
-4,669,900 15,288,939
+4,669,900
+15,288,939
 CIF1
 1. Lusaka Water Supply, Sanitation
 B. Institutional Strengthening 2. Monitoring and Evaluation
-3. Program Administration and (A) Program Management and (B) Fiscal Agent/ Procurement
+3. Program Administration and
+(A) Program Management and
+(B) Fiscal Agent/ Procurement
 Monitoring and Evaluation
 A. Infrastructure Activity
 and Drainage Project
 GRAND TOTAL
 Component
 Subtotal
-Oversight (C) Audits
+Oversight
+(C) Audits
 Activity (M&E) Subtotal
 Subtotal
 Audit
@@ -1761,8 +1811,8 @@ Access to
 produced
 supply service
 water
-of service delivery
 services coverage
+of service delivery
 Improved quality
 Time savings for
 Improved water
@@ -1784,7 +1834,8 @@ Value
 Sanitation Infrastructure Rehabilitation and Expansion
 connections to sewerage network
 Total km of drainage channel
-Drainage Infrastructure Rehabilitation rehabilitation funded by the
+Drainage Infrastructure Rehabilitation
+rehabilitation funded by the
 Total length of the sewerage
 Number of new household made possible through the
 Definition
@@ -1825,7 +1876,8 @@ institutions. Such data quality reviews also will serve to identify where those 
 of quality are not possible, given the realities of data collection;
 (c) Management Information System: The M&E Plan will describe the information system
 that will be used to collect data, store, process and deliver information to relevant
-stakeholders in such a way that the Program information collected and verified
+stakeholders in such a way that the Program information collected
+and verified
 pursuant to the M&E Plan is at all times accessible and useful to those who wish to
 use it. The system development will take into consideration the requirement and
 data needs of the components of the Program, and will be aligned with existing MCC
@@ -1850,7 +1902,8 @@ Infrastructure Activity: An evaluation of this activity would focus on household
 impacts including health outcomes and expenditures; time savings; property values; and
 the availability and reliability of water, sanitation, and drainage services. Although a specific
 methodology has not been identified, due to the high potential for learning from these
-investments, MCC and MCA-Zambia will work together to develop as rigorous an
+investments, MCC and MCA-Zambia will work together to develop as
+rigorous an
 evaluation of the infrastructure investments as possible.
 Institutional Strengthening Activity. The Institutional Strengthening Activities would
 likely undergo performance evaluations aimed at assessing their effectiveness and contribution
@@ -1879,7 +1932,8 @@ Objective, outcome(s) and output(s) were or were not achieved;
 used for special studies, as necessary, funded through this Compact or by
 MCC. Plans for conducting the special studies will be determined jointly
 between the Government and MCC before the approval of the M&E Plan.
-The M&E Plan will identify and make provision for any other special
+The M&E Plan will identify and make provision for any
+other special
 studies, ad hoc evaluations, and research that may be needed as part of the
 monitoring and evaluating of this Compact. Either MCC or the Government
 may request special studies or ad hoc evaluations of the Project, the
@@ -1891,7 +1945,8 @@ non-biased results and the publication of results.
 independent evaluation or special study at the request of the Government for any
 reason, including for the purpose of contesting an MCC determination with respect
 to the Project or any Activity or to seek funding from other donors, no MCC
-Funding resources may be applied to such evaluation or special study without
+Funding resources may be applied to such evaluation or special
+study without
 MCC’s prior written approval.
 5. Other Components of the M and E Plan
 In addition to the monitoring and evaluation components, the M&E Plan will include the
@@ -1900,17 +1955,20 @@ roles and responsibilities of the relevant parties and providers:
 (a) Costs: A detailed cost estimate for all components of the M and E Plan; and
 (b) Assumptions and Risks: Any assumption or risk external to the Program that underlies
 the accomplishment of the Project Objective and Activity outcomes and outputs.
-However, such assumptions and risks will not excuse any Party’s performance
+However, such assumptions and risks will not excuse any Party’s
+performance
 unless otherwise expressly agreed to in writing by the other Party.
 6. Approval and Implementation of the M and E Plan
 The approval and implementation of the M&E Plan, as amended from time to time, will be in
-accordance with the Program Implementation Agreement, any other relevant Supplemental
+accordance with the Program Implementation Agreement, any other relevant
+Supplemental
 Agreement and the MCC Policy for Monitoring and Evaluation of Compacts and Threshold
 programme
 ANNEX IV
 CONDITIONS PRECEDENT
 To Disbursement of Compact Implementation Funding
-This Annex IV sets forth the conditions precedent applicable to Disbursements of Compact
+This Annex IV sets forth the conditions precedent applicable to Disbursements
+of Compact
 Implementation Funding other than Disbursements for MCC CIF Contracted Activities (each a
 “CIF Disbursement”). Capitalized terms used in this Annex IV and not defined in this Compact
 will have the respective meanings assigned thereto in the Program Implementation Agreement.
@@ -1941,7 +1999,8 @@ has received satisfactory evidence that—
 MCC, until such time as the Government provides to MCC a true and .complete
 copy of a Fiscal Agent Agreement, duly executed and in full force and effect, and the
 Fiscal Agent engaged thereby is mobilized.
-(d) Appointment of an entity or individual to provide procurement agent services, as
+(d) Appointment of an entity or individual to provide procurement agent
+services, as
 approved by MCC, until such tune as the Government provides to MCC a true and
 complete copy of the Procurement Agent Agreement, duly executed and in full force
 and effect, and the Procurement Agent engaged thereby is mobilized.
@@ -1958,12 +2017,14 @@ set forth in Section 2.7 of this Compact or in any applicable law or regulation;
 (iv) any Taxes paid with MCC Funding through the date 90 days prior to the start
 of the applicable Disbursement Period have been reimbursed by the
 Government in full in accordance with Section 2.8(c) of this Compact; and
-(v) the Government has satisfied all of its payment obligations, including any
+(v) the Government has satisfied all of its payment obligations,
+including any
 insurance, indemnification, tax payments or other obligations, and contributed
 all resources required from it, under this Compact and any other Supplemental
 Agreement.
 (f) For any CIF Disbursement occurring concurrently with or after the Initial Disbursement
-of Program Funding in accordance with Section 3.3 and 3.4 of the Program
+of Program Funding in accordance with Section 3.3 and 3.4 of
+the Program
 Implementation Agreement: MCC is satisfied, in its sole discretion, that—
 (i) MCC has received copies of any reports due from any technical consultants
 (including environmental auditors engaged by MCA-Zambia) for any
@@ -1981,7 +2042,8 @@ Social and Gender Integration Plan (including the targets set forth therein
 and any applicable reporting requirements set forth therein for the relevant
 Disbursement Period);
 (iv) there has been no material negative finding in any financial audit report
-delivered in accordance with this Compact and the Audit Plan, for the
+delivered in accordance with this Compact and the Audit
+Plan, for the
 prior two quarters (or such other period as the Audit Plan may require);
 (v) MCC does not have grounds for concluding that any matter certified to it in
 the related MCA Disbursement Certificate, the Fiscal Agent Disbursement
@@ -1990,8 +2052,10 @@ certified; and
 (vi) if any of the officers or key staff of MCA-Zambia have been removed or
 resigned and the position remains vacant, MCA-Zambia is actively engaged
 in recruiting a replacement.
-(g) MCC has not determined, in its sole discretion, that an act, omission, condition, or
-event has occurred that would be the basis for MCC to suspend or terminate, in
+(g) MCC has not determined, in its sole discretion, that an act, omission,
+condition, or
+event has occurred that would be the basis for MCC to suspend or
+terminate, in
 whole or in part, the Compact or MCC Funding in accordance with Section 5.1 of
 this Compact.
 ANNEX V
@@ -2046,7 +2110,8 @@ whole or in part, using MCC Funding;
 “LCC” has the meaning provided in paragraph 1 of Part B of Annex I;
 “LWSC” has the meaning provided in paragraph 1 of Part B of Annex I;
 “LWSC’s Retained Earnings” means, as calculated at the end of any fiscal year, the Retained
-Earnings at the beginning of such fiscal year plus the portion of net income retained after
+Earnings at the beginning of such fiscal year plus the portion of net income
+retained after
 payment of any dividends;
 “LWSC Sustainability Agreement” has the meaning provided in Section 7.2 (g);
 “LWSSD Project” has the meaning provided in paragraph 2 of Part A of Annex I;
@@ -2089,7 +2154,8 @@ Procurement Guidelines, the Reporting Guidelines, the MCC Policy for Monitoring 
 Evaluation of Compacts and Threshold Programs, the MCC Cost Principles for Government
 Affiliates Involved in Compact Implementation (including any successor to any of the foregoing)
 and any other guidelines, policies or guidance papers relating to the administration of MCC-
-funded compact programs, and, in each case, as from time to time published on the MCC
+funded compact programs, and, in each case, as from time to time published
+on the MCC
 Website;
 “Program Implementation Agreement” has the meaning provided in Section 3.1;
 “Project” means the LWSSD Project;
@@ -2129,7 +2195,8 @@ Funding, and any MCC Funding disbursed, directly or indirectly, to or for:
 (ii) any goods, works, services, technology and other assets and activities under the Program
 or the Project;
 (iii) any persons and entities, including without limitation any Implementing Entity,
-contractor (prime and subcontractors), consultant or grantees, that provide such
+contractor (prime and subcontractors), consultant or grantees, that
+provide such
 goods, works, services, technology and assets, or perform such activities (each, a
 “Vendor”); and/or
 (iv) any income, profits, and payments with respect to the foregoing, except as otherwise
@@ -2144,7 +2211,8 @@ For the purposes of this Annex VI, MCA-Zambia and any Vendor are referred to var
 In addition, for the purposes of this Annex VI, any Compact-related contracts, agreements or
 grants with an Eligible Entity or Eligible Individual are referred to as a “Compact Contract.”
 2. General Background
-For most Tax exemptions or Tax rebates, the applicable tax-related laws of Zambia (the
+For most Tax exemptions or Tax rebates, the applicable tax-related laws of
+Zambia (the
 “Applicable Acts”) have vested powers in the Minister of Finance and National Planning to grant
 such exemptions or rebates through the issuance of subsidiary legislation, each referred to as a
 “Statutory Instrument.” For every Statutory Instrument that is issued in respect of a tax exemption
@@ -2210,7 +2278,8 @@ withheld on any income derived from MCC Funding during the tax year.
 MCC Funding in Zambia in that tax year will file a tax return indicating that such
 income is not subject to taxation in Zambia in accordance with the Compact, the
 Statutory Instrument issued by the Minister of Finance and National Planning and
-the Compact Contract. The Eligible Entity will include a copy of the applicable
+the Compact Contract. The Eligible Entity will include a copy of
+the applicable
 Compact Contract and the Statutory Instrument with its tax return.
 (d) Any Eligible Entity earning both income derived from MCC Funding and non-Compact-
 related income in Zambia in any given tax year will:
@@ -2284,7 +2353,8 @@ of V AT. The zero rating will then be implemented through the issuance of Local
 Purchase Orders (each an “LPO”).
 (c) MCA-Zambia will provide the following information, on MCA-Zambia official
 letterhead, for each Compact Contract to the Permanent Secretary (Budget and
-Economic Affairs), Ministry of Finance and National Planning, P.O. Box 50062,
+Economic Affairs), Ministry of Finance and National Planning, P.O.
+Box 50062,
 Lusaka, Zambia:
 (i) Name of Eligible Entity or Eligible Individual;
 (ii) Name of the Project! Activity undertaken through Compact Contract;
@@ -2343,7 +2413,8 @@ Accordingly, all imports for official use by MCA-Zambia will be cleared free of 
 and tariffs by ZRA on the basis of MCA-Zambia being listed as exempt on the Third Schedule.
 (b) Goods imported by Eligible Entities and Eligible Individuals
 With regard to goods imported by Eligible Entities and Eligible Individuals, a letter of rebate
-confirmation will be issued by the Ministry of Finance and National Planning to ZRA. To
+confirmation will be issued by the Ministry of Finance and National Planning
+to ZRA. To
 facilitate issuance of this letter, MCA-Zambia will send a letter to the Ministry of Finance and
 National Planning confirming those entities or individuals eligible for the exemption, providing a
 copy of the applicable Compact Contract, including the approved bills of quantities.
@@ -2372,7 +2443,8 @@ Subject to the conditions indicated above, the procedure for the exemption of cu
 tariffs on machinery and equipment imported by Eligible Entities or Eligible Individuals for use on
 Compact-related activities or projects will be as follows:
 Importation of equipment on short term projects (i.e., twelve months or less): In such
-cases, machinery or equipment can be imported into the country through a Temporal
+cases, machinery or equipment can be imported into the country through
+a Temporal
 Import Permit. The applicable Eligible Entity or Eligible Individual will apply to ZRA by
 providing proof (normally a copy of the Compact Contract, together with confirmation
 from MCA-Zambia and any other documentation that may be required) that such entity or
@@ -2450,7 +2522,8 @@ RECITALS
 WHEREAS, the Millennium Challenge Compact between the United States of America, acting
 through MCC, and Zambia, acting through the Government, signed in Lusaka, Zambia on May
 10, 2012 (the “Compact”) sets forth the general terms on which MCC will provide assistance of
-up to Three Hundred and Fifty Four Million Seven Hundred and Fifty Seven Thousand Six
+up to Three Hundred and Fifty Four Million Seven Hundred and Fifty Seven
+Thousand Six
 Hundred and Forty United States Dollars (US$354,757,640) to the Government for a program to
 reduce poverty through economic growth in Zambia;
 WHEREAS, pursuant to Section 3.2 (b) of the Compact, the Government has designated MCA-
@@ -2487,7 +2560,8 @@ sequestration, (2) no Program Asset is subject to any lien, attachment, enforcem
 of judgment, pledge or encumbrance of any kind (including any lease or sub-lease, in
 whole or in part) (each a “Lien”), and (3) no Program Asset is sold, donated or
 otherwise disposed of, in whole or in part; except, in each of the foregoing cases,
-with MCC’s prior written approval. In the event any Lien not so approved is
+with MCC’s prior written approval. In the event any Lien not so
+approved is
 imposed, the Government will promptly seek the release of such Lien and, if such
 Lien is required by a final and non-appealable court order, will pay any amounts due
 in order to obtain such release; provided, however, that the Government must apply
@@ -2502,7 +2576,8 @@ Program and to exercise and perform the Government’s right and obligation
 to oversee, manage and implement the Program, including, without
 limitation, managing the implementation of the Project and its Activities,
 allocating resources and managing procurements (the “Designated Rights
-and Responsibilities”). The Government will remain ultimately
+and Responsibilities”). The Government will remain
+ultimately
 responsible for the performance of the Government’s obligations under or
 in relation to the Compact and this Agreement.
 (ii) The Government will ensure that MCA-Zambia is and remains throughout
@@ -2517,15 +2592,18 @@ hereby affirms to MCC as follows:
 (i) Power and Authorization. MCA-Zambia has the power and authority to—
 (1) bind the Government to the full extent of the Designated Rights and
 Responsibilities;
-(2) execute and deliver each agreement, certificate or instrument
+(2) execute and deliver each agreement, certificate or
+instrument
 contemplated by this Agreement, the Compact, any other
 Supplemental Agreement or the Program Guidelines; and
-(3) perform its obligations under this and each such other agreement,
+(3) perform its obligations under this and each such other
+agreement,
 certificate or instrument contemplated by this Agreement, the
 Compact, any other Supplemental Agreement or the Program
 Guidelines.
 (ii) Government Responsibilities. MCA-Zambia—
-(1) will properly and fully carry out the Designated Rights and
+(1) will properly and fully carry out the Designated
+Rights and
 Responsibilities (including all obligations specified as MCA-Zambia
 obligations in the Compact, this Agreement, any other Supplemental
 Agreement or the Program Guidelines);
@@ -2566,7 +2644,8 @@ With MCC’s prior consent, MCC Funding may be used to pay the costs
 of obtaining such insurance. MCA Zambia (or, as appropriate and with
 MCC’s prior approval, another entity) will be named as the payee on any
 such insurance and the beneficiary of any such guaranty or bonds. If not
-already named as the insured party, MCA-Zambia (and MCC, if it so
+already named as the insured party, MCA-Zambia (and
+MCC, if it so
 requests) will be named as additional insureds on any such insurance. The
 Government will promptly notify MCC of the payment of any proceeds
 from claims paid under such insurance or guaranty, and will ensure that
@@ -2582,8 +2661,10 @@ addition, the Government will indemnify and hold harmless each member
 of MCA-Zambia’s Board (including each Observer), each member of any
 Stakeholder Committee and each of MCA-Zambia’s Officers, employees
 and agents from any claim, loss, action, liability, cost, damage or expenses
-incurred by such person in the performance of its duties on behalf of
-MCA-Zambia; provided, however, that the Government will have no
+incurred by such person in the performance of its duties
+on behalf of
+MCA-Zambia; provided, however, that the Government
+will have no
 obligation to indemnify any such person if and to the extent that any such
 claims, losses, actions, liabilities, costs, damages or expenses are attributable
 to the fraud, gross negligence or wilful misconduct of such person; and
@@ -2614,7 +2695,8 @@ Section 2.1—Implementation Plan.
 The framework for implementation of the Program will be further elaborated in a set of documents,
 in form and substance approved by MCC, consisting of (i) a Work Plan, (ii) a Detailed Financial
 Plan, (iii) an Audit Plan, and (iv) a Procurement Plan (each, an “Implementation Plan Document”
-and collectively the “Implementation Plan”). MCA-Zambia will submit its proposed
+and collectively the “Implementation Plan”). MCA-Zambia will submit
+its proposed
 Implementation Plan for review and approval by MCC before the initial Disbursement of Program
 Funding and at least on an annual basis thereafter (or in such other interval as may be required by
 the Program Guidelines). MCC will review the proposed Implementation Plan and as necessary
@@ -2660,7 +2742,8 @@ MCC approval. Upon MCC’s approval of the BCS, MCA-Zambia will publish the
 BCS on the MCA-Zambia Website.
 Section 2.2—Fiscal Accountability Plan
 Except as MCC agrees otherwise, MCA-Zambia will develop, adopt and implement a manual
-(as approved by MCC) setting forth the principles, mechanisms and procedures (the “Fiscal
+(as approved by MCC) setting forth the principles, mechanisms and procedures
+(the “Fiscal
 Accountability Plan”) that MCA-Zambia will use to ensure appropriate fiscal accountability for
 the use of MCC Funding, including the process to ensure that open, fair and competitive procedures
 will be used in a transparent manner in the administration of grants or cooperative agreements and
@@ -2700,12 +2783,14 @@ to reflect lessons learned and project-specific analysis.
 Section 2.5—MCC Program Procurement Guidelines
 In accordance with Section 3.6 of the Compact, MCA-Zambia will comply with the MCC
 Program Procurement Guidelines in the procurement (including solicitation) of all goods, works
-and services and the award and administration of contracts in furtherance of the Compact. In
+and services and the award and administration of contracts in furtherance of the
+Compact. In
 addition, the Government will ensure that any bid challenges are conducted in accordance with the
 MCC Program Procurement Guidelines and the BCS.
 Section 2.6—Notice to Providers; Incorporation
 (a) MCA-Zambia will notify all Providers (and all other entities or individuals receiving
-MCC Funding in connection with the Program) of the requirements of Section 2.7
+MCC Funding in connection with the Program) of the requirements of
+Section 2.7
 of the Compact and will include, or ensure the inclusion of, the requirements of
 Section 2.7 of the Compact in all agreements with a Provider if MCC is not a party
 to such agreements.
@@ -2758,12 +2843,15 @@ in the M&E Plan and tracking MCA-Zambia’s progress against said
 indicators, substantially in the form of the “Indicator Tracking Table”
 posted on the MCC Website.
 (b) Unless MCC agrees otherwise in writing, on October 30 of each year of the Compact
-Term (or within thirty (30) days of any written request by MCC), MCA-Zambia
-will provide to MCC an annual supplemental report containing the following
+Term (or within thirty (30) days of any written request by MCC),
+MCA-Zambia
+will provide to MCC an annual supplemental report containing
+the following
 information:
 (i) the progress made by the Government toward achieving the Compact Goal,
 the Program Objective and the Project Objective;
-(ii) additional information on accomplishments not presented in the Periodic
+(ii) additional information on accomplishments not presented in
+the Periodic
 Reports;
 (iii) developments in Compact implementation related to the consultative process,
 donor coordination and lessons learned; and
@@ -2819,7 +2907,8 @@ indebtedness, or any guarantee, directly or indirectly of any indebtedness;
 (g) any decree, legislation, regulation, charter, contractual arrangement or other document
 establishing or governing (other than public laws of general application to all public
 institutions), or relating to the formation, organization or governance of, MCA-
-Zambia (including the By-laws and any staffing plan), and any amendment,
+Zambia (including the By-laws and any staffing plan), and any
+amendment,
 supplement, modification, repeal or other alteration thereof or thereto (each, a
 “Governing Document”);
 (h) any disposition, in whole or in part, liquidation, dissolution, winding up, reorganization
@@ -2918,7 +3007,8 @@ such references and markings on the MCA-Zambia Website or in any Government
 or MCA-Zambia publicity materials.
 (b) MCA-Zambia will make information concerning implementation of the Compact publicly
 available, including by posting the following documents in English, on the website
-operated by MCA-Zambia (the “MCA-Zambia Website”), all to the extent
+operated by MCA-Zambia (the “MCA-Zambia Website”), all
+to the extent
 contemplated by and in accordance with the Governance Guidelines:
 (i) Compact;
 (ii) this Agreement;
@@ -2930,7 +3020,8 @@ documents;
 (vi) all audit reports by an Auditor and any periodic reports or evaluations by a
 Reviewer;
 (vii) all Disbursement Requests;
-(viii) all reports required to be submitted to MCC under the terms of this
+(viii) all reports required to be submitted to MCC under the
+terms of this
 Agreement (including the quarterly reports pursuant to Section 2.7 (a)
 (i));
 (ix) all procurement policies and procedures (including standard documents,
@@ -2938,8 +3029,10 @@ procurement plans, contracts awarded and the BCS) and any other
 procurement documents required to be made publicly available under the
 MCC Program Procurement Guidelines;
 (x) a copy of any legislation or other documents related to the formation,
-organisation or governance of MCA-Zambia (except to the extent
-classified), including the Governing Documents and any amendments
+organisation or governance of MCA-Zambia (except
+to the extent
+classified), including the Governing Documents and any
+amendments
 thereto; and
 (xi) such other materials as MCC may request; provided, however, that any
 press release or announcement regarding MCC or the fact that MCC is
@@ -2998,7 +3091,8 @@ agrees otherwise, MCA-Zambia may submit only one Disbursement Request for
 Program Funding, and one Disbursement Request for Compact Implementation
 Funding, for each quarter (such quarter, or any other period of time as agreed by
 MCC, the “Disbursement Period”). Each Disbursement Request submitted must be
-accompanied by the Periodic Reports covering the corresponding Disbursement
+accompanied by the Periodic Reports covering the corresponding
+Disbursement
 Period.
 (b) Approval of Disbursement Requests; Release of Proceeds
 (i) Upon receipt of a Disbursement Request, MCC will determine the appropriate
@@ -3030,11 +3124,13 @@ of Zambia (the “Local Account”) at a financial institution acceptable to
 MCC. The Local Account will be a Permitted Account. MCC and MCA-
 Zambia also may mutually agree in writing to the establishment of additional
 Permitted Accounts from time to time at financial institutions acceptable
-to MCC. MCA-Zambia will notify MCC promptly if any account
+to MCC. MCA-Zambia will notify MCC promptly if
+any account
 information for a Permitted Account changes during the Compact Term
 and provide MCC with the updated information.
 (ii) Unless otherwise authorised by MCC, no funds will be co-mingled in a
-Permitted Account other than MCC Funding and accrued interest and
+Permitted Account other than MCC Funding and accrued
+interest and
 earnings thereon. MCC will have the right, among other things, to view
 any Permitted Account statements and activity directly on-line, and where
 such viewing is not feasible, MCA-Zambia will provide copies of such
@@ -3051,16 +3147,19 @@ earnings in accordance with the Bank Agreement. On a quarterly basis and
 upon the termination or expiration of the Compact or the Bank Agreement,
 MCA-Zambia will ensure the transfer of all accrued interest to MCC.
 (iv) Unless MCC agrees otherwise, if MCC Funding is held in any Permitted
-Account other than the Local Account, MCA-Zambia will ensure that
+Account other than the Local Account, MCA-Zambia will
+ensure that
 such MCC Funding will be denominated in the currency of the United
 States of America prior to its expenditure or transfer to the Local Account.
 To the extent that any amount of MCC Funding held in United States
 Dollars must be converted into the currency of Zambia for any purpose,
 MCA-Zambia will ensure that such amount is converted consistent with
-the requirements of the Bank Agreement or any other applicable
+the requirements of the Bank Agreement or any other
+applicable
 Supplemental Agreement.
 Section 3.2—Conditions Precedent to Disbursement of Compact Implementation Funding
-Prior to the initial Disbursement of Compact Implementation Funding or any subsequent
+Prior to the initial Disbursement of Compact Implementation Funding or any
+subsequent
 Disbursement of Compact Implementation Funding, the applicable conditions set forth in Annex
 IV to the Compact must have been met to MCC’s satisfaction.
 Section 3.3—Conditions Precedent to the Initial Disbursement of Program Funding
@@ -3076,7 +3175,8 @@ certificate substantially in the form provided by MCC, together with any require
 attachments thereto.
 (d) Fiscal Accountability Plan. MCA-Zambia has developed and, adopted the Fiscal
 Accountability Plan (or an interim version).
-(e) Implementation Plan. MCA-Zambia has developed and adopted a complete
+(e) Implementation Plan. MCA-Zambia has developed and adopted
+a complete
 Implementation Plan.
 (f) Implementing Entity Agreements. MCA-Zambia has duly executed an Implementing
 Entity Agreement, in form and substance satisfactory to MCC, and such
@@ -3100,7 +3200,8 @@ the related Disbursement Period;
 (ii) copies of any reports from any technical (including environmental) auditors
 engaged by MCA-Zambia for any Activity delivered since the previous
 Disbursement Request;
-(iii) except with respect to the initial Disbursement of Program Funding (for
+(iii) except with respect to the initial Disbursement of Program
+Funding (for
 which a separate certificate is required to be delivered pursuant to Section
 3.3(c) above), a certificate of MCA-Zambia, dated as of the date of such
 Disbursement Request, substantially in the form provided by MCC (the
@@ -3114,7 +3215,8 @@ MCC (the “Procurement Agent Disbursement Certificate”); and
 deferred or waived as provided in this Agreement;
 (ii) no material default or breach of any covenant, obligation or responsibility by
 the Government, MCA-Zambia or any Government entity has occurred
-and is continuing under this Agreement, the Compact or any other
+and is continuing under this Agreement, the Compact
+or any other
 Supplemental Agreement;
 (iii) the activities to be funded with such Disbursement will not violate any
 applicable law or regulation;
@@ -3154,8 +3256,10 @@ obligations set forth in Section 2.3 with respect to the establishment of an
 M & E Plan;
 (xiii) LWSC continues to reserve at least fifty percent (50 percent) of LWSC’s
 Retained Earnings for asset renewal and capital expansion pursuant to a
-resolution of LWSC’s board of directors (or any similar instrument
-proposed by the Government and acceptable to MCC), and such board
+resolution of LWSC’s board of directors (or any similar
+instrument
+proposed by the Government and acceptable to MCC), and
+such board
 resolution (or other instrument, as the case may be) remains in full force
 and effect without modification, alteration, rescission or suspension of
 any kind (except as approved by MCC);
@@ -3180,7 +3284,8 @@ the Government, with the authority to modify tariffs without requiring
 any further review or approval from the Government or any other
 Government entities.
 Section 3.5—Failure to Satisfy Conditions Precedent; Partial Disbursements
-MCC may, in its sole discretion, disapprove any Disbursement completely or reduce the
+MCC may, in its sole discretion, disapprove any Disbursement completely
+or reduce the
 amount of any Disbursement requested for the Project or any Activity for which the relevant
 conditions precedent have not been satisfied, waived or deferred.
 Section 3.6—Authorised Expenditures
@@ -3289,7 +3394,8 @@ would be a basis for termination or suspension of the Compact or MCC Funding
 under Section 5.1(b) of the Compact has occurred.
 (c) Unless terminated earlier in accordance with the terms hereof or the Compact, this
 Agreement will expire upon the expiration or termination of the Compact; provided,
-however, that, if MCC determines, consistent with Section 4.2 (b) or (c), that
+however, that, if MCC determines, consistent with Section 4.2 (b)
+or (c), that
 obligations incurred (and previously approved by MCC in a Disbursement Request)
 prior to the expiration or termination of the Compact remain to be paid, then the
 provisions of this Agreement will apply until such date as such obligations are
@@ -3426,7 +3532,8 @@ the MCC Gender Integration Guidelines and Operational Procedures.
 a comprehensive Social and Gender Integration Plan, in form and substance
 satisfactory to MCC.
 (c) Prior to any Disbursement of Program Funding on or after the commencement of year
-five (5) of the Compact Term, the Government will have presented a Compact
+five (5) of the Compact Term, the Government will have presented
+a Compact
 Closure Plan in accordance with MCC’s Guidance for the Program Closure of
 Millennium Challenge Compacts, or similar MCC guidance then in effect.
 2. Condition Precedent Related to the LWSSD Project
@@ -3511,7 +3618,8 @@ By:
 Name: Alexander B. Chikwanda
 Title: Minister of Finance
 Millenium Challege Compact
-[No. of 2013 91
+[No.
+of 2013 91
 SCHEDULE 1
 DEFINITIONS
 “Agreement” has the meaning provided in the Preamble.
@@ -3570,7 +3678,8 @@ Millenium Challege Compact
 “Work Plan” has the meaning provided in Section 2.1 (a).
 “Zambia” has the meaning provided in the Preamble.
 Millenium Challege Compact
-[No. of 2013 93
+[No.
+of 2013 93
 SCHEDULE 2
 CONDITIONS PRECEDENT TO PROGRAM FUNDING
 1. Introduction
@@ -3580,7 +3689,8 @@ as the case may be) (and, with respect to sub-clause (ii) hereof, prior to each 
 Disbursement thereafter), MCA-Zambia will have submitted to MCC evidence in
 form and substance satisfactory to MCC that—
 (i) an Environmental Social Impact Assessment (ESIA), an Environmental Social
-Management Plan (ESMP), and a Health and Safety Management
+Management Plan (ESMP), and a Health and Safety
+Management
 Plan(HSMP), each in accordance with MCC Environmental Guidelines
 and the IFC Performance Standards, and/or a Resettlement Action Plan
 (RAP), in accordance with IFC Performance Standard 5 on Land Acquisition
@@ -3610,7 +3720,8 @@ Plan; and
 satisfactory to MCC that such amount remains in place and available to LWSC or
 has been appropriately expended in accordance with the GRZ Sanitation Connection
 Action Plan.
-(b) (i) Prior to any Disbursement of Program Funding occurring one (1) year after the
+(b) (i) Prior to any Disbursement of Program Funding occurring one (1)
+year after the
 signing of the first contract for the construction of sanitation infrastructure, an
 additional Four Hundred Thousand United States Dollars (US$400,000) will be
 deposited into the dedicated bank account (or will be otherwise segregated in a
@@ -3632,8 +3743,10 @@ GRZ Sanitation Connection Action Plan; and
 satisfactory to MCC that such amount remains in place and available to LWSC or
 has been appropriately expended in accordance with the GRZ Sanitation Connection
 Action Plan. The amounts referred to in paragraph 2(a), paragraph 2(b), and this
-paragraph 2(c) of this Schedule 2 will be referred to collectively as the “LWSC
-Sanitation Connection Funds” and, for the avoidance of doubt, will total, in the
+paragraph 2(c) of this Schedule 2 will be referred to collectively as
+the “LWSC
+Sanitation Connection Funds” and, for the avoidance of doubt, will
+total, in the
 aggregate, One Million Six Hundred Thousand United States Dollars (US$1,600,000).
 (d) Prior to any Disbursement of Program Funding on or after the commencement of year
 five (5) of the Compact Term, the Government will have submitted to MCC a report
@@ -3648,7 +3761,8 @@ LWSC will have implemented such recommendations or findings to MCC’s
 satisfaction.
 (f) Prior to the initial Disbursement of Program Funding that includes, in whole or in part,
 any funding for the construction of drainage infrastructure, LCC will have adopted
-a binding budget allocation for the then current fiscal year equal to at least One
+a binding budget allocation for the then current fiscal year equal to
+at least One
 Million Five Hundred Thousand United States Dollars (US$1,500,000) (the “LCC
 Drainage Maintenance Amount’) for use by LCC for the repair and maintenance
 of the drainage infrastructure assets for which it is responsible.
