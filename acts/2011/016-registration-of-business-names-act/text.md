@@ -79,7 +79,8 @@ forenames; and
 (b) every individual or firm with a place of business in Zambia,
 who, or a member of which, has either before or after
 the commencement of this Act changed the individual’s
-or firm’s name, except in the case of a woman in
+or firm’s name, except in the case of a
+woman in
 consequence of marriage:
 Provided that—
 (i) where two or more individual partners
@@ -149,9 +150,11 @@ which the application is made—
 (b) is similar to, or is the same as, the name of another business
 name and is likely to mislead the public;
 (c) is repugnant or otherwise undesirable;
-(d) includes the word “Zambia”, “Government”, “State” or
+(d) includes the word “Zambia”, “Government”,
+“State” or
 any other word, abbreviation or initial which—
-(i) imports or suggests that the applicant enjoys the
+(i) imports or suggests that the applicant
+enjoys the
 patronage of the Head of State, the Government
 or administration of any foreign State or of any
 department or institution of the Government or
@@ -160,11 +163,13 @@ a foreign State; or
 the business is under Zambian ownership or
 control;
 (e) is calculated to deceive or to mislead the public or to
-cause annoyance or offence to any person or class of
+cause annoyance or offence to any person
+or class of
 persons or is suggestive of blasphemy or indecency; or
 (f) suggests or implies a connection with a political party or a
 leader of a political party.
-(2) The Registrar shall reject an application for a certificate
+(2) The Registrar shall reject an application for a
+certificate
 if—
 (a) the activity or business to be carried out contravenes any
 law in force;
@@ -172,7 +177,8 @@ law in force;
 revoked by the Registrar; or
 (c) the applicant submits false information in relation to the
 requirements for the application.
-(3) The Registrar shall, where the Registrar rejects an
+(3) The Registrar shall, where the Registrar
+rejects an
 application under subsection (1), inform the applicant accordingly
 and give the reasons therefor.
 Publication
@@ -247,7 +253,8 @@ Provided that—
 against the prohibition referred to in this subsection, and
 the court may, upon being satisfied that the default was
 accidental or due to inadvertence, or some other
-sufficient cause, or that on other grounds it is just and
+sufficient cause, or that on other grounds it
+is just and
 equitable to grant relief, grant the relief either generally,
 or as respects a particular contract, on condition that
 the costs of the application shall be paid by the individual
@@ -353,7 +360,8 @@ from the Register.
 (5) The Registrar may, where the Registrar sends a notice under
 subsection (4) and receives an answer from the individual or firm
 to the effect that the individual or firm is not carrying on business
-or does not within thirty days after sending the notice receive an
+or does not within thirty days after sending the notice
+receive an
 answer, remove the individual or firm from the Register.
 (6) The Registrar may, where a business name is removed from
 the Register or ceases to exist, restore the name on request by the
@@ -378,7 +386,8 @@ under subsection (1) may appeal to the High Court within thirty
 days of the Minister’s decision.
 PART III
 GENERAL PROVISIONS
-23. A person who, where required under this Act to furnish
+23. A person who, where required under this Act
+to furnish
 any information or other particulars, without any reasonable excuse,
 fails to furnish the information in the manner and within the time
 Penalty for
@@ -390,7 +399,8 @@ each day during which the default continues.
 information
 24. A person commits an offence who—
 (a) makes, signs or utters a false statement or declaration in
-support of an application or forges, defaces or alters a
+support of an application or forges, defaces
+or alters a
 Penalty for
 certificate; or
 false
