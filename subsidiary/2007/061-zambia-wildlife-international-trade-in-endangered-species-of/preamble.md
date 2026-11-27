@@ -6,10 +6,12 @@ for trade and industry and the Minister responsible for veterinary
 services, the following Regulations are hereby made:
 Title
 1. These Regulations may be cited as the Zambia Wildlife
-(International Trade in Endangered Species of Wild Fauna and
+(International Trade in Endangered Species of Wild
+Fauna and
 Flora) Regulations, 2007.
 Interpretation
-2. In these Regulations, unless the context otherwise
+2. In these Regulations, unless the context
+otherwise
 requires—
 Act No. 12 of
 “ Act ” means the Zambia Wildlife Act, 1998;
@@ -18,7 +20,8 @@ Act No. 12 of
 “artificially propagated” in relation to plants means plants
 grown under controlled conditions from seeds, cuttings,
 divisions, callus tissues or other plant tissues, spores or
-other propagules that either are exempt or have been
+other propagules that either are exempt or
+have been
 derived from cultivated parental stock;
 Act No. 12 of
 “ Authority ” means the Zambia Wildlife Authority established
@@ -45,7 +48,8 @@ particular species, that has boundaries designed to prevent
 animals, eggs or gametes of the species from entering or
 leaving the controlled environment, and the general
 characteristics of which may include but are not limited to,
-artificial housing, waste removal, health care, protection
+artificial housing, waste removal, health
+care, protection
 from predators and artificially supplied food;
 “ Convention ” means the Convention on International Trade
 in Endangered Species of Wild Fauna and Flora, concluded
@@ -61,28 +65,33 @@ grown under controlled conditions that are used for
 reproduction, and which must have been, to the satisfaction
 of the designated authorities of the exporting country
 established in accordance with the provisions of the
-Convention and relevant national laws, in a manner not
-detrimental to the survival of the species in the wild and
+Convention and relevant national laws,
+in a manner not
+detrimental to the survival of the species
+in the wild and
 maintained in sufficient quantities for propagation so as to
 minimize or eliminate the need for augmentation from the
 wild, with such augmentation occurring only as an exception
 and limited to the amount necessary to maintain the vigour
 and productivity of the plants;
 “ derivative ” in relation to an animal, plant or other organism,
-means any part, tissue or extract, of an animal, plant or
+means any part, tissue or extract, of an
+animal, plant or
 other organism, whether fresh, preserved or processed,
 and any chemical compound derived from such part, tissue
 or extract;
 “ domestic trade ” means any commercial activity, including,
 but not limited to, sale, purchase or manufacture, within
 Zambia;
-“ enforcement officer ” means a wildlife officer, a police
+“ enforcement officer ” means a wildlife
+officer, a police
 officer not below the rank of Assistant Inspector a customs
 3rd August, 2007
 Statutory Instruments
 officer or any other person authorised by the Authority to
 enforce these Regulations;
-“export” means the act of taking any specimen out of any
+“export” means the act of taking any specimen
+out of any
 place under the jurisdiction of Zambia;
 “import” means to land on or attempt to land on, bring into or
 introduce into, any place subject to the jurisdiction of Zambia
@@ -104,7 +113,8 @@ out compete natives and take over the new environments;
 “ label ” means a piece of paper, card, or other material bearing
 the acronym “ CITES ’ and issued or approved by the
 Management Directorate for the identification of contents
-as herbarium specimens, preserved, dried or embedded
+as herbarium specimens, preserved, dried or
+embedded
 museum specimens or live plant material for scientific study;
 “ legal acquisition finding ” means a finding by the
 Management Directorate of the State of export determining
@@ -116,7 +126,8 @@ Convention;
 “non-detriment finding ”means a finding by the Scientific
 Directorate advising that a proposed export or introduction
 from the sea of any specimen in the First Schedule will not
-be detrimental to the survival of the species and that a
+be detrimental to the survival of the species
+and that a
 proposed import of any specimen in Column I of the First
 Schedule is not for purposes that would be detrimental to
 the survival of the species;
@@ -124,7 +135,8 @@ Statutory Instruments
 3rd August, 2007
 “ offering for sale ” includes advertising or causing to be
 advertised for sale or an invitation to negotiate;
-“permit” means the official document used to authorise the
+“permit” means the official document used
+to authorise the
 import or export of specimens of species listed in the First
 Schedule to these Regulations and the Appendices to the
 Convention;
@@ -134,13 +146,17 @@ or are intended to form part of the individual’s normal
 possessions;
 “pre-Convention Certificate” means the certificate issued
 under regulation thirty-one;
-“ quota ”means the prescribed number or quantity of
+“ quota ”means the prescribed number
+or quantity of
 specimens that can be harvested, exported or otherwise
 used over a specific period of time;
-“ readily recognizable part or derivative ” includes any
+“ readily recognizable part or derivative
+” includes any
 specimen which appears from an accompanying document,
-the packaging or a mark or label, or from any other
-circumstances, to be a part or derivative of an animal or
+the packaging or a mark or label, or
+from any other
+circumstances, to be a part or derivative
+of an animal or
 plant of a species included in the First Schedule, unless
 such part or derivative is specifically exempted from the
 provisions of the Convention;
@@ -149,7 +165,8 @@ been imported;
 “ Rescue Centre ” means an institution designated by the
 Authority to look after the welfare of living specimens,
 particularly those that have been confiscated;
-“ Secretariat ” means the Secretariat of the Convention;
+“ Secretariat ” means the Secretariat of the
+Convention;
 “ Scientific Directorate ” means the unit exercising the
 scientific authority relevant for purposes of the Convention;
 “ sell ” includes to hire, barter or exchange;
@@ -160,7 +177,8 @@ separate population thereof;
 species included in the First Schedule to these
 Regulations; and
 (b) any part or derivative which appears from an
-accompanying document, the packaging or a
+accompanying document, the
+packaging or a
 mark or label or from any other circumstances,
 to be a part or derivative of an animal or plant
 of species included in the First Schedule to
@@ -229,8 +247,10 @@ other countries on scientific, administrative, enforcement
 and other matters relating to the implementation of the
 Convention;
 (c) maintain records of international trade in specimens,
-prepare an annual report concerning such trade, and
-submit the report to the Secretariat of the Convention
+prepare an annual report concerning
+such trade, and
+submit the report to the Secretariat of
+the Convention
 by 31 October of the year following the year to which
 the report refers;
 (d) prepare a biennial report on legislative, regulatory and
@@ -242,7 +262,8 @@ year period to which the report refers;
 of the Convention and these Regulations and co-operate
 with other relevant authorities in this regard;
 (f) consult with the Scientific Directorate on—
-(i) the issuance and acceptance of any documents
+(i) the issuance and acceptance of
+any documents
 relevant for purposes of these Regulations and
 the Convention;
 (ii) the nature and level of trade in listed species;
@@ -325,13 +346,15 @@ to health or cruel treatment.
 Application
 11. (1) A person shall not export any specimen of species
 for
-included in the First Schedule without the prior grant and
+included in the First Schedule without the
+prior grant and
 export permit
 presentation of an export permit.
 (2) An application for a permit to export shall be in Form I set
 out in the Second Schedule.
 Export
-12. (1) The Management Directorate shall grant an export
+12. (1) The Management Directorate shall
+grant an export
 permit
 permit if the following conditions are met:
 (a) the Management Directorate is satisfied that the specimen
@@ -339,9 +362,11 @@ concerned has been legally acquired;
 (b) the Management Directorate is satisfied that any living
 specimen will be prepared and shipped in accordance
 with the most recent edition of the Live Animals
-Regulations of the International Air Transport
+Regulations of the International
+Air Transport
 Association, regardless of the mode of transport, so as
-to safeguard the general well-being of the specimen
+to safeguard the general well-being
+of the specimen
 and minimize the risk of injury to the specimen;
 (c) in the case of a specimen of a species listed in the First
 Schedule, the Scientific Directorate has made a non-
@@ -562,7 +587,8 @@ certain
 authorised and purchased by the Authority.
 animal skins
 (2) The Authority shall purchase the tags referred to under
-subregulation (1) from a dealer authorised or approved in
+subregulation (1) from a dealer authorised
+or approved in
 accordance with the Convention.
 Transit and
 30. (1) Subject to subregulation (2), the Management
@@ -637,7 +663,8 @@ or artificially propagated;
 specimen will be transported and cared for in such a
 manner as to minimize the risk of injury, damage to health
 or cruel treatment; and
-(d) all imports shall require a sanitary or a phytosanitary
+(d) all imports shall require a sanitary or
+a phytosanitary
 certificate from the country of export or re-export.
 Confiscation,
 36. (1) An enforcement officer may, where any specimen is
@@ -668,13 +695,15 @@ five years, or to both.
 (3) An enforcement officer shall, where an invasive alien
 species or feral is introduced into Zambia contrary to these
 Regulations—
-(a) dispose of the species in such manner as the Authority
+(a) dispose of the species in such manner
+as the Authority
 may determine;
 (b) re-export the species within seven days of the introduction
 at the cost of the importer; or
 (c) detain the species under such terms and conditions as the
 Authority may determine.
-(4) In this Regulation, “ feral ” means an animal that has
+(4) In this Regulation, “ feral ” means an
+animal that has
 escaped from domestication and returned to the wild state.
 Costs for
 38. (1) The costs, expenses and responsibility for any action,
@@ -1155,7 +1184,8 @@ of Jujuy and Catamarca and the semi-captive
 populations of the Provinces of Jujuy, Salta,
 Catamarca, La Rioja and San Juan]; Bolivia
 [the whole population]; Chile [population of
-the Primera Región]; Peru [the whole
+the Primera Región]; Peru
+[the whole
 population]; all other populations are included
 in Appendix I)
 Moschidae Musk deer
@@ -1163,7 +1193,8 @@ Moschus spp. (Only the populations of
 Afghanistan, Bhutan, India, Myanmar,
 Nepal and Pakistan; all other populations are
 included in Appendix II)
-Moschus spp. (Except the populations of
+Moschus spp. (Except the
+populations of
 Afghanistan, Bhutan, India, Myanmar, Nepal
 and Pakistan, which are included in
 Appendix I)
@@ -1680,7 +1711,8 @@ Loxocemidae spp.
 Pythonidae Pythons
 Statutory Instruments
 3rd August, 2007
-Pythonidae spp. (Except the subspecies
+Pythonidae spp. (Except
+the subspecies
 included in Appendix I)
 Python molurus molurus
 Boidae Boas
@@ -2228,7 +2260,8 @@ For the exclusive purpose of allowing:
 1) trade in hunting trophies for non-commercial purposes;
 2) trade in live animals for in situ conservation programmes;
 3) trade in hides;
-4) trade in leather goods for non-commercial purposes for Botswana; for commercial or non-
+4) trade in leather goods for non-commercial purposes for Botswana; for
+commercial or non-
 commercial purposes for Namibia and South Africa;
 5) trade in hair for commercial or non-commercial purposes for Namibia;
 6) trade in individually marked and certified ekipas incorporated in finished jewellery for non-
@@ -2268,7 +2301,8 @@ For the exclusive purpose of allowing:
 All other specimens shall be deemed to be specimens of species included in Appendix I and the
 trade in them shall be regulated accordingly. To ensure that where a) destinations for live animals
 are to be appropriate and acceptable and/or b) the purpose of the import is to be non-commercial,
-export permits and re-export certificates may be issued only after the issuing Management
+export permits and re-export certificates may be issued only after the issuing
+Management
 Authority has received, from the Management Authority of the State of import, a certification
 to the effect that: in case a), in analogy to Article III, paragraph 3 (b) of the Convention, the
 holding facility has been reviewed by the competent Scientific Authority, and the proposed
@@ -2299,7 +2333,8 @@ For the exclusive purpose of allowing international trade in wool sheared from l
 cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side
 Statutory Instruments
 3rd August, 2007
-of the cloth must bear the logotype adopted by the range States of the species, which are
+of the cloth must bear the logotype adopted by the range States of the
+species, which are
 signatories to the Convenio para la Conservación y Manejo de la Vicuña, and the selvages the
 words 'VICUÑA-CHILE'. Other products must bear a label including the logotype and the
 designation 'VICUÑA-CHILE-ARTESANÍA'.
@@ -2414,14 +2449,17 @@ has today the ……..day of …………..20………….…inspected the items
 belonging to………………………………….…………………….…….………(Name of owner)
 of ………………………………………… ………………….……….……..(Business Address)
 of …………………………………………………………...… ………..…(Residential address)
-Species Description Quantity Source Condition Remarks
+Species Description Quantity Source Condition
+Remarks
 Statutory Instruments
 3rd August, 2007
 Scores of
-Full Names of Inspecting Officer…………………………...…...…. condition
+Full Names of Inspecting Officer…………………………...…...….
+condition
 1. Excellent
 2. Good
-Signature of Inspecting Officer……………………………………… 3. Fair
+Signature of Inspecting Officer………………………………………
+3. Fair
 4. Bad
 5. Deteriorating
 Full Names of Owner/Agent…………………………………………
@@ -2443,7 +2481,8 @@ Conscious of the ever-growing value of wild fauna and flora from aesthetic, scie
 recreational and economic points of view;
 Recognizing that peoples and States are and should be the best protectors of their own wild
 fauna and flora;
-Recognizing, in addition, that international co-operation is essential for the protection of
+Recognizing, in addition, that international co-operation is essential for the
+protection of
 certain species of wild fauna and flora against over-exploitation through international trade;
 Convinced of the urgency of taking appropriate measures to this end; Have agreed as follows:
 Article I
@@ -2458,7 +2497,8 @@ readily recognizable part or derivative thereof; and for species included in
 Appendix III, any readily recognizable part or derivative thereof specified
 in Appendix III in relation to the species; and
 (iii) in the case of a plant: for species included in Appendix I, any readily
-recognizable part or derivative thereof; and for species included in
+recognizable part or derivative thereof; and for species
+included in
 Appendices II and III, any readily recognizable part or derivative thereof
 specified in Appendices II and III in relation to the species;
 (c) “Trade” means export, re-export, import and introduction from the sea;
