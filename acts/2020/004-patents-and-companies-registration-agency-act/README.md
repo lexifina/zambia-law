@@ -9,8 +9,8 @@ Text layer: typeset.
 | Long title and enacting words | [preamble.md](preamble.md) |
 | 1. Short title and commencement | [sec-001.md](sec-001.md) |
 | 2. Interpretation | [sec-002.md](sec-002.md) |
-| 3. Continuation of Agency | [sec-003.md](sec-003.md) |
-| 4. Seal of Agency | [sec-004.md](sec-004.md) |
+| 3. Continuation of Agency to exist as if | [sec-003.md](sec-003.md) |
+| 4. that may be Seal of Agency | [sec-004.md](sec-004.md) |
 | 5. Functions of Agency | [sec-005.md](sec-005.md) |
 | 6. Board of Agency | [sec-006.md](sec-006.md) |
 | 7. Functions of Board | [sec-007.md](sec-007.md) |
@@ -22,7 +22,7 @@ Text layer: typeset.
 | 13. Disclosure of interest | [sec-013.md](sec-013.md) |
 | 14. Prohibition of publication or disclosure | [sec-014.md](sec-014.md) |
 | 15. Immunity of members of Board and staff of | [sec-015.md](sec-015.md) |
-| 16. Registrar | [sec-016.md](sec-016.md) |
+| 16. the Agency, Registrar Agency and | [sec-016.md](sec-016.md) |
 | 17. Deputy Registrar, Secretary and other | [sec-017.md](sec-017.md) |
 | 18. Emoluments and other conditions of service of | [sec-018.md](sec-018.md) |
 | 19. Funds of Agency | [sec-019.md](sec-019.md) |
