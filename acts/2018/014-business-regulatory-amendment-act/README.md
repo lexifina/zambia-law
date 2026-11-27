@@ -1,6 +1,6 @@
-# Business Regulatory (Amendment)Act, 2018 (No. 14 of 2018)
+# Business Regulatory (Amendment) Act, 2018 (No. 14 of 2018)
 
-Business Regulatory (Amendment)Act, 2018 (No. 14 of 2018): the text as passed, in force from 2018-12-26 (date printed under the long title: publication in the Gazette, from which an Act comes into operation unless it provides otherwise). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/business-regulatory-amendment-act-no-14-of-2018-lex-faoc185398/>): <https://faolex.fao.org/docs/pdf/zam185398.pdf>.
+Business Regulatory (Amendment) Act, 2018 (No. 14 of 2018): the text as passed, in force from 2018-12-26 (date printed under the long title: publication in the Gazette, from which an Act comes into operation unless it provides otherwise). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/business-regulatory-amendment-act-no-14-of-2018-lex-faoc185398/>): <https://faolex.fao.org/docs/pdf/zam185398.pdf>.
 
 Text layer: typeset.
 

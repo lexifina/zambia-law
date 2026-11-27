@@ -3,7 +3,7 @@
 SAVINGS AND TRANSITIONAL PROVISIONS
 1. (1) On or after the appointed date, there shall be transferred to, and vest in, or subsist against, the Agency by virtue of this Act and without further assurance—
 (a) the affairs of the former Agency;
-(b) any one-stop centre or shop established under any other law shall continue to exist as if established under this Act and shall be renamed regulatory services centres under the auspices of the Agency; and
+(b) any one-stop centre or shop established under any other law shall continue to exist as if established Act and shall be renamed regulatory services centres under the auspices of the Agency; and
 (c) subject to thisAct, all property, rights and obligations which immediately before the appointed date were the property, rights and obligations of the formerAgency.
 (2) In this Schedule, “former Agency” means the Business Regulatory Review Agency which served as the secretariat of the Committee.
 (3) Except as provided in this Act, every deed, bond and agreement (other than an agreement for personal service) to which the Government was a party immediately before the commencement of this Act in respect of the former Agency, whether in writing or not, and whether or not of such a nature that rights, liabilities and obligations thereunder could be assigned, shall, unless its subject matter or terms make it impossible that it should have effect as modified in the manner provided by this paragraph, have effect as from the date of the assignment thereof, as if—
