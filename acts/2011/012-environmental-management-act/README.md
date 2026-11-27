@@ -8,14 +8,14 @@ Text layer: typeset.
 | --- | --- |
 | Long title and enacting words | [preamble.md](preamble.md) |
 | 1. Short title | [sec-001.md](sec-001.md) |
-| 2. Interpretation | [sec-002.md](sec-002.md) |
+| 2. Interpretation removal of | [sec-002.md](sec-002.md) |
 | 3. Superiority of Act | [sec-003.md](sec-003.md) |
 | 4. Right to clean, safe and healthy environment | [sec-004.md](sec-004.md) |
-| 5. Duty to protect environment | [sec-005.md](sec-005.md) |
-| 6. Principles governing environmental management | [sec-006.md](sec-006.md) |
+| 5. Duty to protect activity or environment | [sec-005.md](sec-005.md) |
+| 6. Principles governing environmental present and management | [sec-006.md](sec-006.md) |
 | 7. Continuation and renaming of Council | [sec-007.md](sec-007.md) |
 | 8. Seal of Agency | [sec-008.md](sec-008.md) |
-| 9. Functions of Agency | [sec-009.md](sec-009.md) |
+| 9. Functions of Agency control of | [sec-009.md](sec-009.md) |
 | 10. Appropriate authority | [sec-010.md](sec-010.md) |
 | 11. Board of Agency | [sec-011.md](sec-011.md) |
 | 12. Functions of Board | [sec-012.md](sec-012.md) |

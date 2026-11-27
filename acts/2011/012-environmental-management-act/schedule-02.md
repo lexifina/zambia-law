@@ -1,11 +1,11 @@
 # SECOND SCHEDULE
 (Section 135 (2)) Savings and Transitional Provisions
-1. (1) For the avoidance of doubt, a person who, before the appointed date, was an officer or employee of the Council, shall continue to be an officer or employee of the Agency, as the case may be, as if appointed or employed under this Act.
+1. (1) For the avoidance of doubt, a person who, before the appointed date, was an officer or employee of the Council, shall continue to be an officer or employee of the Agency, may be, as if appointed or employed under this Act.
 (2) The service of the persons referred to in sub-paragraph (1) shall be treated as continuous service.
 (3) Nothing in this Act, affects the rights and liabilities of any person employed or appointed by the Council before the appointed date.
 2. (1) On or after the appointed date, there shall be transferred to, vest in and subsist against the Agency by virtue of this Act and without further assurance—
 (a) the affairs of the Council; and
-(b) subject to this Act, all property, rights and obligations which, immediately before the appointed date, were the property, rights and obligations of the Council.
+(b) subject to this Act, all property, rights and which, immediately before the appointed date, were the property, rights and obligations of the Council.
 (2) Except as provided in this Act, every deed, bond and agreement, other than an agreement for personnel service, to which the Council was a party immediately before the appointed date, whether or not of such a nature that rights, liabilities and obligations could be assigned, shall, unless its subject matter or terms make it impossible that it should have effect as modified, as provided under this paragraph, have effect as if— (a )Agency had been party to it;
 (b) for any reference to the Council there was substituted, with respect to anything falling to be done on or after the commencement of this Act, a reference to the Agency; or
 (c) for any reference to any officer of the Council, not being a party to it and beneficially interested, there were substituted, as respects anything falling to be done on or after the appointed date, a reference to such officer of the Agency as the Agency shall designate.
