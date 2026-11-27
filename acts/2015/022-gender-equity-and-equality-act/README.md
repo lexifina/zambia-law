@@ -14,11 +14,11 @@ Text layer: typeset.
 | 5. General powers of Minister for | [sec-005.md](sec-005.md) |
 | 6. Establishment of Commission | [sec-006.md](sec-006.md) |
 | 7. Seal of Commission | [sec-007.md](sec-007.md) |
-| 8. Autonomy of Commission | [sec-008.md](sec-008.md) |
+| 8. control or Autonomy of Commission | [sec-008.md](sec-008.md) |
 | 9. Functions of Commission | [sec-009.md](sec-009.md) |
 | 10. Board of Commission | [sec-010.md](sec-010.md) |
 | 11. Functions of Board | [sec-011.md](sec-011.md) |
-| 12. Committees of Board | [sec-012.md](sec-012.md) |
+| 12. Committees of Board necessary | [sec-012.md](sec-012.md) |
 | 13. Director, Secretary and other officers | [sec-013.md](sec-013.md) |
 | 14. Achieving gender equity and equality | [sec-014.md](sec-014.md) |
 | 15. Prohibition of discrimination | [sec-015.md](sec-015.md) |
@@ -62,6 +62,6 @@ Text layer: typeset.
 | 53. Disclosures and reports by Commission | [sec-053.md](sec-053.md) |
 | 54. Recommended action by Commission | [sec-054.md](sec-054.md) |
 | 55. Civic awareness and empowerment | [sec-055.md](sec-055.md) |
-| 56. General penalty | [sec-056.md](sec-056.md) |
+| 56. General penalty a fine not | [sec-056.md](sec-056.md) |
 | 57. Regulations | [sec-057.md](sec-057.md) |
 | SCHEDULE | [schedule-01.md](schedule-01.md) |
