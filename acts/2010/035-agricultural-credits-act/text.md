@@ -40,7 +40,8 @@ or indirectly from cultivation;
 approved by the Board to supply information on the credit
 476 No. 3S 0(2010)
 Agricultural Credits
-risk profile of any person for the purposes of this Act, and
+risk profile of any person for the
+purposes of this Act, and
 includes the authorised agency or any other agency
 approved under any written law to provide such
 infonnation;
@@ -49,7 +50,8 @@ designated by the Minister to carry out the functions of the
 Authority;
 " Authority " means the Warehouse Licensing Authority
 established under section three;
-" bailor" means the owner of the agricultural commodities
+" bailor" means the owner of the
+agricultural commodities
 who, directly or through their nominee, delivers goods to a
 warehouse operator for the purpose of storage in their name
 or the nominee's name;
@@ -144,7 +146,8 @@ the Lands and Deeds Registry Act;
 " related business" means an individual, a company, a
 cooperative, a partnership, an association and any group
 of persons acting in concert, whether or not incorporated,
-who or which, as the case may be, gives loans to farmers
+who or which, as the case may be,
+gives loans to farmers
 for the purchase of inputs or other items required for
 cultivation;
 " trader" means any person who, as a broker, dealer or
@@ -159,11 +162,13 @@ through which agricultural commodities are or may be
 handled or shipped, and includes all facilities used in
 connection with the operation of the warehouse;
 " warehouse operator" means any person who owns, controls,
-operates or manages a warehouse; and
+operates or manages a warehouse;
+and
 " warehouse receipt "means a receipt relating to agricultural
 commodities, whether negotiable or non-negotiable, issued
 under this Act.
-(2) In this Act, a person shall be taken to give value for any
+(2) In this Act, a person shall be taken
+to give value for any
 right if the person acquires it-
 (aj in return for a binding commitment to extend credit
 for the extension of immediately available credit,
@@ -221,11 +226,13 @@ Agricultural Credits
 under this Act-
 (a) investigate the storage, warehousing, classification,
 weighing and certification of agricultural commodities;
-(b) inspect any warehouse or cause it to be inspected for
+(b) inspect any warehouse or
+cause it to be inspected for
 purposes of this Act;
 (c) determine whether warehouses for which certificates are
 applied for, or have been issued under this Act are
-suitable for the proper storage of any agricultural
+suitable for the proper
+storage of any agricultural
 commodities;
 (d) classify warehouses according to their ownership, location,
 surroundings, capacity, conditions and other qualities and
@@ -239,14 +246,17 @@ of the agricultural commodities;
 (g) suspend or revoke any certificate for any contravention
 of, or failure to comply with, any provision of this Act or
 condition of the certificate;
-(h) charge, assess and collect fees for the examination or
+(h) charge, assess and collect
+fees for the examination or
 inspection of a warehouse and for the issue of
 certificates;
 (i) examine the books, records, documents and accounts
 relating to warehouses;
-(j) close a warehouse which is operated without a valid
+(j) close a warehouse which
+is operated without a valid
 certificate or contrary to the provisions of this Act; and
-(k) carry out any other function incidental or conducive to the
+(k) carry out any other function
+incidental or conducive to the
 carrying out of its functions under this Act.
 6. (I) The Minister may, by statutory instrument, appoint an
 Authorised
@@ -291,7 +301,8 @@ that person-
 (c) is declared to be of unsound mind; or
 (d) is convicted of an offence under this Act or any written
 law and been sentenced therefor to imprisonment for a
-period exceeding six months without the option of a
+period exceeding six months without the option
+of a
 fine.
 (4)
 A member shall hold office for a period of three years and
@@ -332,7 +343,8 @@ stored in warehouses certified under this Act;
 (e) take such action, or issue such orders, as are necessary to
 prevent any fraud by, or discrimination against, depositors
 of agricultural commodities in warehouses; and
-(j) perform such other functions as may be conferred or
+(j) perform such other functions as
+may be conferred or
 imposed on the Board under this Act or any other law.
 Director and
 9. (I) The Board shall appoint a Director on such terms and
@@ -344,7 +356,8 @@ for the day-to-day administration of the Authority.
 (3)The Director shall be an ex- officio member of the Board.
 (4) The Board may appoint, on such terms and conditions as it
 Agricultural Credits
-[No. 3S of2010 483
+[No. 3S
+of2010 483
 may determine, such other staff as it considers necessary for the
 performance of the Authority's functions under this Act.
 10. (I) The Board may appoint any suitable person to be an
@@ -395,7 +408,8 @@ computer system;
 (ii) reproduce any record from the data; or
 (iii) seize any output from the computer for
 examination and copying; and
-(g) attach and, if necessary, remove from the warehouse or
+(g) attach and, if necessary, remove
+from the warehouse or
 premises for examination and safeguarding any
 document or article that has a bearing on an investigation.
 (5)An inspector who removes any warehouse receipt, document
@@ -408,7 +422,8 @@ warehouse or premises; and
 as practicable after achieving the purpose for which it
 was removed.
 (6) A person who--
-(a) delays or obstructs an inspector in the performance of
+(a) delays or obstructs an inspector
+in the performance of
 the inspector's functions;
 (b) refuses to give an inspector such reasonable assistance
 as the inspector may require for the purpose of
@@ -431,11 +446,13 @@ person would in an action in a court be entitled to refuse to disclose
 or produce the information, warehouse receipt or document.
 PART III
 AGRICULTURAL CHARGES
-11. (I)An agricultural charge may be fixed or floating, or both. Agricultural
+11. (I)An agricultural charge may be fixed or floating, or both.
+Agricultural
 cliarge on
 (2) An agricultural charge may be in any form and made upon
 fannfug
-such conditions as the parties to the charge may agree, and any stock and
+such conditions as the parties to the charge may agree, and any
+stock and
 assets
 surety may be made a party to the charge.
 (3) A farmer may, individually or in association, create in favour
@@ -483,10 +500,12 @@ property subject to the charge to take possession ofthe
 property; and
 (b) where possession of any property has been taken, a right,
 after an interval of twenty-one days or such shorter
-period as may be specified by the charge, to sell the
+period as may be specified
+by the charge, to sell the
 property.
 (2) A holder shall, where the holder exercises the power of sale
-under paragraph (b) of subsection (I), apply the proceeds of the
+under paragraph (b) of subsection (I),
+apply the proceeds of the
 sale in or towards the discharge of the moneys and liabilities secured
 by the fixed charge and the costs of seizure and sale, and to pay
 the surplus, if any, of the proceeds to the farmer.
@@ -567,9 +586,11 @@ fixed charge to pay over to tbe holder the amount
 Agricultural Credits
 received by the holder by way of proceeds of sale, in
 respect of other agriculturalassets or additional assets
-under policies of insurance, or by way of
+under policies of
+insurance, or by way of
 compensation:
-Provided that it shall not be necessary for the
+Provided that it
+shall not be necessary for the
 farmer, trader or related business to comply with the
 obligations if and so far as the amount so received is
 expended in the purchase of farming stock which, on
@@ -601,7 +622,8 @@ before making, or causing to be made, any subsequent sale,
 shall notify that person of any agricultural charge which
 affects the agricultural commodity created by the farmer,
 trader or related business after the date of the written notice
-and such notice shall state the name and address of the
+and such notice shall state
+the name and address of the
 holder, the priority of the charge and the amount secured
 by the charge.
 (3) A notice given under the proviso to subsection (2) shall, for
@@ -624,7 +646,8 @@ business, in order of their priority, and the amount of each
 agricultural charge shall be reduced by the amount so paid.
 (7) Any payment made in accordance with subsection (4) shall
 discharge the buyer or person effecting the sale on behalf of the
-farmer, trader or related business, as the case may be, from any
+farmer, trader or related business, as the case may be, from
+any
 claim, howsoever arising, in respect of the proceeds of the sale.
 (8) A farmer, trader or related business who fails to give written
 notice in accordance with this section commits an offence and is
@@ -632,14 +655,15 @@ liable, upon conviction, to a fine not exceeding ten percent of the
 outstanding loan.
 15. (I) An agricultural charge shall have effect
 Supplementary
-notwithstanding anything contained in the Bills of Sale Acts, 1878
+notwithstanding anything contained in the Bills of Sale Acts,
 provisions in
 respect of
 and 1882, of the United Kingdom and an agricultural charge shall
 agricultural
 not be deemed to be a bill of sale within the meaning of those Acts.
 charges
-(2) Agricultural charges shall, in relation to one another, have
+(2) Agricultural charges shall, in relation to one another,
+have
 priority in accordance with the times at which they are respectively
 registered under this Act:
 Provided that an agricultural charge created solely to
@@ -649,13 +673,15 @@ not created for such purpose.
 (3) Where an agricultural charge creating a floating charge has
 been created, an agricultural charge purporting to create a fixed
 charge on any of the property comprised in the floating charge
-shall, as respects the property subject to the floating charge, have
+shall, as respects the property subject to the floating charge,
+have
 no effect so long as the floating charge remains in force.
 (4) Farming stock which is subject to an agriCUltural charge
 Cap. 82
 shall not, for the purpose of the Bankruptcy Act, be considered as
 goods in the possession, order or disposition of a farmer, trader or
-related business in the farmer's or trader's trade or business, by
+related business in the farmer's or trader's trade or business,
+by
 the consent and pennission of the true owner thereof, under such
 circumstances that the owner is the reputed owner thereof.
 (5) An agricultural charge shall not protect property which, but
@@ -760,7 +786,8 @@ way deprives a farmer of the farmers rights under this Act, the
 directors and managers of the business committing such violation
 shall be liable, upon conviction, to a fme not exceeding three hundred
 thousand penalty units or to imprisonment for a period not exceeding
-three years, or to both, unless they show that the offence was
+three years, or to both, unless they
+show that the offence was
 committed without their knowledge or consent.
 PART IV
 CONTRACfS FOR ADVANCES ON iNPuTs AND OTHER ITEMS
@@ -787,7 +814,8 @@ as part of the contract specified under subsection (1).
 (4) Notwithstanding any other law, a person who advances
 inputs or other items required for cultivation to a farmer and fails to
 fully disclose to the farmer the cost of the input or item, the interest
-to be paid by the farmer and any charges, fees or penalties as
+to be paid by the farmer and any charges, fees or penalties
+as
 required under this section shall be ineligible to register, under this
 Act, a charge created by the farmer on the basis of an agreement
 or contract, and such charge shall be void.
@@ -1014,7 +1042,8 @@ enter the names and other details relating to the warehouses.
 such places as the Board may determine, and shall be open for
 498 No. 35 of2010]
 Agricultural Credits
-inspection by the public at such times and on such conditions
+inspection by the public at such times
+and on such conditions
 including the payment offees for inspection, as may be determined
 by the Board.
 Closure of
@@ -1039,7 +1068,8 @@ of the certificate, or is offering services in excess of those permitted
 under the certificate of the warehouse, give the warehouse operator
 written notice of the violation.
 (3) The warehouse operator shall, where the warehouse operator
-receives a notice under subsection (2), within fourteen days of
+receives a notice under subsection (2),
+within fourteen days of
 receipt of the notice, provide the Board with a written plan of
 correction of the violation, indicating a schedule of dates by which
 corrective actions shall be taken.
@@ -1116,7 +1146,8 @@ five years, or to both.
 Deposit of
 40. A person who deposits agriculturaln commodities for
 agricultural
-storage in a warehouse shall be treated as having deposited the
+storage in a warehouse shall be treated
+as having deposited the
 commodities
 agricultural commodities subject to the terms of this Act.
 Agricultural
@@ -1136,7 +1167,8 @@ commodities pursuant to this section shall be maintained on an
 identity preserved basis at all times where in the possession of, or
 under the control of, the warehouse operator or seed processor.
 Form of
-42. (I) A warehouse receipt shall contain the following
+42. (I) A warehouse receipt shall
+contain the following
 warehouse
 information and terms:
 receipt
@@ -1150,7 +1182,8 @@ that specified persons order;
 (j) a short description of the agricultural commodities or of
 the packages containing them;
 (g) the rate of the storage and handling charges;
-(h) the signature of the warehouse operator;
+(h) the signature of the warehouse
+operator;
 (i) the net weight in metric scales together with the grading
 standards prescribed by theMinister;
 (j) the words "non-negotiable" or "negotiable according to
@@ -1224,11 +1257,14 @@ warehouse receipt, the purchaser or the purchasers agent took
 part in, or influenced, the alteration of the warehouse receipt.
 (3) A purchaser of an altered warehouse receipt who is found
 or who could be reasonably imputed with possession of notice of
-the alteration commits an offence and is liablel upon conviction, to
-a fine not exceeding three hundred thousana penalty units or to
+the alteration commits an offence and is liablel
+upon conviction, to
+a fine not exceeding three hundred thousana
+penalty units or to
 imprisonment for a period not exceeding three years, or to both.
 Lost or
-47. A warehouse operator shall report any loss, theft or
+47. A warehouse operator shall report
+any loss, theft or
 missing
 destruction of a warehouse receipt book to the Board.
 warehouse
@@ -1254,7 +1290,7 @@ duplicate warehouse receipt where a holder of the warehouse
 receipt fails to submit any information required under subsection
 (2).
 Agricultural Credits
-[No. 35 of2010 503
+[No. 35 of2010
 (4) A person aggrieved by a decision of the warehouse
 operator under subsection (3) may, within fourteen days of the
 receipt of such decision, appeal to tbe Board
@@ -1310,7 +1346,8 @@ receipt
 warehouse receipt was issued were owned by the
 504 No. 53 of 2010)
 Agricultural Credits
-warehouse operator at the time the warehouse receipt
+warehouse operator at the time
+the warehouse receipt
 was issued; or
 (d) the person issuing the document is not a warehouse
 operator, officer, agent or servant of the warehouse
@@ -1340,18 +1377,21 @@ of the holder of a warehouse receipt or the depositor, as the case
 with demand
 may be.
 of depositor
-(2) Where a warehouse operator refuses to deliver the
+(2) Where a warehouse operator
+refuses to deliver the
 agricultural commodities as demanded by the holder of a warehouse
 receipt or the depositor, the burden to establish the existence of
 any lawful excuse for the refusal shall lie on the warehouse operator.
-(3) Where a warehouse operator refuses to deliver the
+(3) Where a warehouse operator
+refuses to deliver the
 agricultural commodities as demanded by the holder of a warehouse
 receipt or the depositor because the warehouse receipt was altered,
 the holder ofthe warehouse receipt or the depositor who had notice
 of the alteration shall be estopped from demanding more or less
 proprietary rights in the warehouse receipt than those provided on
 the altered warehouse receipt.
-53. Subject to sections fifty-one and fifty-two. a warehouse
+53. Subject to sections fifty-one and
+fifty-two. a warehouse
 Justification
 for delivery
 operator shall deliver any agricultural commodities stored in the
@@ -1422,7 +1462,8 @@ Agricultural Credits
 57. (I) Except as provided under this Act, where a warehouse
 Liability for
 failure to
-operator delivers part of the agricultural commodities for which
+operator delivers part of the agricultural
+commodities for which
 cancel or
 the warehouse operator issued a negotiable warehouse receipt,
 mark
@@ -1477,9 +1518,10 @@ subsequent to, the deposit of the agricultural
 commodities; or
 (b) a lien.
 (3) Unless the title or right to possession of any agricultural
-commodities by a warehouse operator is obtained in accordance
+commodities by a warehouse operator is
+obtained in accordance
 with subsection (2), the title or rightto possession of the agricultural
-(No. 35 of 2010 507
+(No. 35 of 2010
 Agricultural Credits
 commodities shall not exonerate the warehouse operator from
 liability for refusing to deliver the agricultural commodities according
@@ -1533,7 +1575,8 @@ Agricultural Credits
 of a certain kind, or by words of like purport, though found to be
 true, shall notrender a warehouse operator liable.
 Warehouse
-62. (1) A warehouse operator shall exercise such care with
+62. (1) A warehouse operator
+shall exercise such care with
 operator's
 regard to any agricultural commodities kept by the warehouse
 duty of care
@@ -1560,7 +1603,8 @@ Cormningling
 of fungibles
 holder of a warehouse receipt or the depositor, commingle fungible
 agricultural commodities of the same kind and grade.
-(2) Where a warehouse operator commingles any agricultural
+(2) Where a warehouse operator
+commingles any agricultural
 commodities in accordance with subsection (I), the depositors of
 . the commingled agricultural commodities shall own the entire mass
 in common and each depositor shall be entitled to such portion
@@ -1568,7 +1612,8 @@ thereof as the amount deposited by that depositor bears to the
 whole.
 (3) A warehouse operator shall be severally liable to each
 depositor for the care and delivery of that depositors share of the
-mass to the same extent and under the same circumstances as if
+mass to the same extent and under
+the same circumstances as if
 the agricultural commodities had been kept separate.
 Warehouse
 65. (1) A warehouse operator's lien on any agricultural
@@ -1577,17 +1622,22 @@ commodities deposited or the proceeds thereof shall derive from
 right to lien
 (a) all lawful charges for the storage and preservation of the
 agricultural commodities;
-(b) lawful claims for money advanced, interest, insurance,
+(b) lawful claims for money
+advanced, interest, insurance,
 transportation, labour, weighing and other charges and
 expenses in relation to the agricultural commodities;
 (c) all reasonable charges and expenses incurred for notice
 and advertisements of sale; and
+Agricultural Credits [No. 35
+of 2010
 (d) the sale of the agricultural commodities where default is
 made in satisfying thewarehouse operators lien.
 (2) For the purposes of this Part, "warehouse operators lien"
 means the right of a warehouse operator to re-coup the expenses
-necessarily incurred for services rendered or supplied by the
-warehouse operator in accordance with subsection (1) and the
+necessarily incurred for services rendered or supplied by
+the
+warehouse operator in accordance with subsection (1) and
+the
 term "right oflien" shall be construed accordingly.
 66. A warehouse operator's lien may be enforced subject to
 Enforcement
@@ -1599,18 +1649,21 @@ claims with regard to which the lien is asserted; and
 (b) against all agricultural commodities belonging to others,
 which have been deposited by the person who is liable,
 as a debtor, for the claims to which the lien is asserted if
-such person has been entrusted with the
+such person has been entrusted with
+the
 agriculturalcommodities at the time of deposit just as a
 person who takes the agricultural commodities in good
 faith and for value.
-67. A warehouse operator shall lose the right of a lien on any
+67. A warehouse operator shall lose the right of a lien on
+any
 Loss aflien
 agricultural commodities by
 (a) surrendering possession thereof; or
 (b) refusing to deliver the agricultural commodities where a
 demand is made and which the warehouse operator is
 bound to comply with under the provisions of this Act.
-68. Where a negotiable warehouse receipt is issued for any
+68. Where a negotiable warehouse receipt is issued for
+any
 Statement of
 charges
 agricultural commodities, a warehouse operator shall not have a
@@ -1632,10 +1685,12 @@ agricultural commodities to that person until the lien is satisfied.
 commodities
 70. The fact that a warehouse operator has or does not have a
 Warehouse
-lien upon any agricultural commodities, shallnot affect any
+lien upon any agricultural commodities, shallnot affect
+any
 operator's
 lien does
-entitlement to any remedies available under any other law to a
+entitlement to any remedies available under any other law
+to a
 not
 creditor against a debtor, for the collection, from the depositor, of
 preclude
@@ -1671,7 +1726,8 @@ the warehouse.
 (2) Where a person to whom notice is given under subsection
 (I) fails to satisfy the lien upon the agricultural commodities, and to
 remove them from the warehouse, within the time so specified, the
-warehouse operator may sell the agricultural commodities at any
+warehouse operator may sell the agricultural
+commodities at any
 public or private sale, with or without advertising.
 (3) A warehouse operator may, where the warehouse operator
 is unable to sell any agricultural commodities, dispose ofthem in
@@ -1684,7 +1740,8 @@ Termination
 of storage at
 on whose account the agricultural commodities are held and any
 warehouse
-other person known to claim an interest in the agricultural
+other person known to claim an interest
+in the agricultural
 operator's
 option
 commodities, require payment of any charges and the removal of
@@ -1732,7 +1789,8 @@ any person, and for value.
 Effect of
 shall not render it negotiable.
 endorsement
-to non-
+to
+non-
 negotiable
 receipt
 77. A negotiable warehouse receipt may be negotiated by any
@@ -1783,16 +1841,19 @@ to hold possession of the agricultural commodities for that person
 according to the terms of the warehouse receipt as fully as if the
 warehouse operator had contracted directly with that person.
 Rights
-79. (I) A warehouse receipt may be transferred without
+79. (I) A warehouse receipt may be
+transferred without
 acquired in
 negotiation if it is transferred by-
 absence of
 negotiation
 (a) the holder of the warehouse receipt to another person
-under a separate arrangement or agreement; or
+under a separate arrangement or
+agreement; or
 (b) order of the court.
 Rights of
-80. (I) A transferee of a warehouse receipt which is not
+80. (I) A transferee of a warehouse
+receipt which is not
 transferee of
 negotiated shall acquire thereby, against the transferor, title to the
 warehouse
@@ -1868,7 +1929,8 @@ OFFENCES AND PENALTIES
 Issue of
 83. A warehouse operator, officer, agent or employee of a
 receipt for
-warehouse operator, who issues or aids in issuing a warehouse
+warehouse operator, who issues or aids in
+issuing a warehouse
 agricultural
 receipt knowing that the agricultural commodities for which such
 commodities
@@ -1899,7 +1961,8 @@ of a warehouse operator, who issues or aids in issuing a duplicate,
 duplicate
 or additional, negotiable warehouse receipt for the same agricultural
 receipts
-commodities or any part of them which is outstanding and
+commodities or any part of them which
+is outstanding and
 uncancelled, without plainly placing upon the face thereof the word
 "Duplicate" commits an offence and is liable, upon conviction, to a
 fine not exceeding five hundred thousand penalty units or to
@@ -1913,12 +1976,16 @@ receipt for
 operator any agricultural commodities which the warehouse
 warehouse
 operator's
-operator owns either solely, or jointly or in common with others,
+operator owns either solely, or jointly or in
+common with others,
 commodities
-then such warehouse operator, an agent or employee of the
+then such warehouse operator, an agent
+or employee of the
 warehouse operator who, knowing this ownership, issues or aids
-in issuing a negotiable warehouse receipt for such agricultural
-commodities and omits to state any fact with respect to the
+in issuing a negotiable warehouse receipt
+for such agricultural
+commodities and omits to state any fact
+with respect to the
 ownership, commits an offence and is liable, upon conviction, to a
 fine not exceeding two hundred thousand penalty units or to
 imprisonment for a period not exceeding two years, or to both.
@@ -2003,7 +2070,8 @@ negotiable warehouse receipt;
 (g) prescribe the form of a warehouse receipt;
 (h) prescribe the records to be kept by warehouse operators;
 (i) determine the standards or requirements for allowing a
-warehouse operator to sell or dispose of agricultural
+warehouse operator to sell or
+dispose of agricultural
 commodities, which are perishable or hazardous;
 (j) determine the manner of keeping agricultural commodities
 in a warehouse;
@@ -2027,7 +2095,8 @@ Repeal of Act
 No. 23 of
 Savings
 94. Notwithstanding section ninety-three-
-(a) any agreement executed under the repealed Act shall
+(a) any agreement executed under
+the repealed Act shall
 Act No. 23
 continue in force as if made under this Act; and
 of 1995
@@ -2086,12 +2155,15 @@ Committees
 2. (1) The Board may,for the purpose of performing its functions
 of Board
 under this Act, constitute a committee and delegate to the committee
-such functions of the Board as it considers necessary.
+such functions of the Board as it considers
+necessary.
 (2) Subject to subparagraph (1), the Board may appoint as
 members of a committee constituted under subparagraph (I),
-persons who are, or are not, members of the Board, except that at
+persons who are, or are not, members of the
+Board, except that at
 least one member of a committee shall be a member of the Board.
-(3) A person serving as a member of a committee shall hold
+(3) A person serving as a member of a
+committee shall hold
 office for such period as the Board may determine.
 (4) Subject to any specific or general direction of the Board, a
 committee may regulate its own procedure.
@@ -2139,7 +2211,8 @@ communicates the information to any other person, commits an
 offence and is liable, upon conviction, to a fine not exceeding two
 hundred thousand penalty units or to imprisonment for a period not
 exceeding two years, or to both.
-6. An action or other 'proceeding shall not lie or be instituted Immunity
+6. An action or other 'proceeding shall not lie or be instituted
+Immunity
 against a member of the Board, a committee of the Board or a
 member of staff of the Authority, for or in respect of any act or
 thing done or omitted to be done in good faith in the exercise or
@@ -2147,7 +2220,8 @@ performance, or purported exercise or performance, of any of the
 powers, functions or duties conferred under this Act.
 PART II
 FINANCIAL PROVISIONS
-7. (I) The funds of the Authority shall consist of such monies Funds of
+7. (I) The funds of the Authority shall consist of such monies
+Funds of
 Authority
 as may-
 (a) be appropriated to the Authority by Parliament for the
