@@ -31,14 +31,17 @@ PART I
 PRELIMINARY
 1. This Act may be cited as the Public-Private Partnership Act,
 Short title
-2009, and shall come into operation on such date as the Minister and
+2009, and shall come into operation on such date as the Minister
+and
 may, by statutory instrument, appoint.
 commen­
 cement
 80 |No. 14 of 2009
 Pub!ic-Private Partnership
 Application
--• This Act applies to infrastructure projects and facilities,
+This Act applies to infrastructure projects and
+facilities,
+-•
 and the provision of social sector services as may be prescribed by
 the Minister, implemented through the Public-Private Partnership
 Unit, but does not apply to the following infrastructure projects or
@@ -52,14 +55,17 @@ Ministry or department;
 or private sector entity on privatisation or dis-investment
 by any Government Ministry, department, statutory body,
 State corporation, local authority or agency; or
-(d) projects which have been expressly excluded from the
+(d) projects which have been expressly excluded
+from the
 provisions of this Act or which are not prescribed by
 the Minister.
-Interpretation 3. In this Act. unless the context otherwise requires—
+Interpretation
+3. In this Act. unless the context otherwise requires—
 "affordable" in relation to an agreement, means a contractual
 arrangement where a contracting authority is able to meet
 any financial commitment likely to be incurred under the
-agreement from its existing or future budgetary funds;
+agreement from its existing or future budgetary
+funds;
 '"agreement" means a public-private partnership agreement
 entered into in accordance with this Act which may
 incorporate any approvals, licences, permits and
@@ -81,9 +87,12 @@ by more than one person, and "bidding consortia" shall be
 construed accordingly;
 "concessionaire" means a person from the private sector who
 undertakes an infrastructure project or infrastructure facility
-or the provision of any social sector services under a public-
+or the provision of any social sector services under
+a public-
 private partnership agreement, other than a contracting
 authority;
+Public-Private Partnership
+[No. 14 of
 "contracting authority"' means the public authority that has
 the power to enter into an agreement for the implementation
 of an infrastructure project or infrastructure facility or
@@ -137,18 +146,22 @@ sector participation in an infrastructure project or
 infrastructure facility;
 "public-private partnership agreement" means a contractual
 arrangement between a contracting authority and a
-concessionaire, made in accordance with this Act, in which
+concessionaire, made in accordance with this Act,
+in which
 the concessionaire—
-(a) undertakes to perform or undertake any
+(a) undertakes to perform
+or undertake any
 infrastructure project or infrastructure facility as
 specified in the First Schedule or as prescribed;
 (b) undertakes to provide or provides such social sector
 services as may be prescribed;
 (c) assumes substantial financial, technical and
 operational risks in connection with the
-performance of the institutional function or use of
+performance of the institutional function
+or use of
 State property; and
-(d) receives consideration for performing a public
+(d) receives consideration for performing
+a public
 function or utilising State property, either by way
 of —
 (i) a fee from any revenue fund or a Ministry's
@@ -158,7 +171,8 @@ from users or customers for a service
 provided by it; or
 (iii) a combination of the consideration paid under
 sub-paragraphs (i) and (ii);
-"regulatory agency" means a public authority that is entrusted
+"regulatory agency" means a public authority that is
+entrusted
 with the power to issue and enforce the laws governing
 infrastructure development or the provision of services;
 "Technical Committee" means the Public-Private Partnership
@@ -168,11 +182,13 @@ under section four;
 ''"unsolicited proposal"' means any proposal relating to the
 implementation of an infrastructure project or infrastructure
 facility that is not submitted in response to a request or
-solicitation issued by the Unit or a contracting authority
+solicitation issued by the Unit or a contracting
+authority
 within the context of a competitive selection procedure;
 "user levy" means the right or authority granted to a
 concessionaire by the contracting authority to recover
-investment and a fair return on investment and includes
+investment and a fair return on investment and
+includes
 tolls, fees, tariffs, charges or other benefit whatsoever
 called;
 '"value for money" means the carrying out of the institutional
@@ -224,7 +240,8 @@ submitted to it and give its recommendations to the
 contracting authority as to whether the project or facility-
 (i) is affordable to a contracting authority;
 (ii) provides value for money; and
-(iii) presents optimum transfer of technical,
+(iii) presents optimum transfer
+of technical,
 operational and financial risks to the
 concessionaire;
 (g) examine the request for proposals to ensure conformity
@@ -239,7 +256,8 @@ prepare a road map for project development;
 (k) in liaison with the Zambia Development Agency, facilitate
 and market investment in public-private partnerships;
 (I) identify inter-sectoral linkages and facilitate approvals from
-the Ministry responsible for finance required under this
+the Ministry responsible for finance required
+under this
 Act;
 (m) approve terms of reference for consultancy assignments
 for a project and the consultant selection process for
@@ -248,7 +266,8 @@ such assignment in liaison with the Technical Committee;
 contingent liability for any project, as prescribed by the
 Minister;
 (o) monitor issues pertaining to user levies and recommend
-to the Council, in liaison with the appropriate regulatory
+to the Council, in liaison with the appropriate
+regulatory
 agency, mechanisms and procedures for setting, revising
 and collecting user levies and the settlement of disputes
 relating to user levies, notwithstanding any other law to
@@ -317,7 +336,8 @@ and
 (d) inspect, visit, review and monitor any project and its
 implementation, execution, operation and management.
 (5) The Council may —
-(a) request the chairperson, supervising officer or chief
+(a) request the chairperson, supervising officer
+or chief
 executive officer of a contracting authority to—
 (i) produce any records or other document relating to
 a project; and
@@ -330,7 +350,8 @@ paragraph (a) and take copies or extracts from them.
 (a) fails to comply with the request; or
 (b) refuses to answer or gives any false or misleading answer
 to any question lawfully put by the Council;
-commits an offence and is liable upon conviction, to a fine not
+commits an offence and is liable upon conviction, to a
+fine not
 exceeding five hundred thousand penalty units or to imprisonment
 for a term not exceeding five years, or to both.
 (7) Where the Council makes recommendations under
@@ -339,24 +360,30 @@ agreement shall be submitted by the contracting authority to the
 Council for final approval before the signing of the agreement.
 (8) The Council may delegate any of its functions to the
 Technical Committee.
-Composition 8. The Council shall consist of the following part-time
-ofCouncil members:
+Composition
+8. The Council shall consist of the following part-time
+ofCouncil
+members:
 (a) the Minister responsible for finance, who shall
 be the Chairperson;
 (b) four Ministers appointed by the President, one
 of whom shall be designated the Vice-
 Chairperson;
-(c) not more than four other persons who shall be
-appointed by the President on such
+(c) not more than four other persons who
+shall be
+appointed by the President
+on such
 conditions as the President may
 determine.
-9. (1) The Permanent Secretary in the Ministry
+9.
+(1) The Permanent Secretary in the Ministry
 Secretary to
 responsible for finance shall be the Secretary to the Council.
 Council
 (2) The Secretary shall be responsible for the day-to-day affairs
 of the Council under the general supervision of the Chairperson.
-10. (1) There is hereby constituted the Public-Private
+10.
+(1) There is hereby constituted the Public-Private
 Constitution
 Partnership Technical Committee, which shall consist of the
 of Public-
@@ -406,7 +433,8 @@ dishonesty or fraud under this Act or any other law;
 (h) upon the expiry of one month's notice of the member's
 intention to resign from office, given by the member to
 the Minister.
-(5) A member may resign from office by giving one month's
+(5) A member may resign from office by giving one
+month's
 notice in writing to the Minister.
 (6) Where a vacancy occurs in terms of subsection (4), the
 Minister shall appoint another person to replace the member who
@@ -414,20 +442,23 @@ vacates office, but that person shall hold office for the remainder
 of the outgoing member's term.
 (7) A member of the Technical Committee shall be paid such
 allowances as the Minister may determine.
-11. (1) The Technical Committee shall advise the Council
+11. (1) The Technical Committee shall advise the
+Council
 Functions of
 Technical
 and the Unit on all technical matters relating to public-private
 Committee
 partnerships and projects under this Act.
-(2) Notwithstanding the generality of subsection (1), the
+(2) Notwithstanding the generality of subsection
+(1), the
 Technical Committee shall—
 (a) recommend to the Council the award of agreements under
 this Act;
 (b) evaluate and select projects for award for recommendation
 to the Council;
 (c) recommend the approval of projects under this Act; and
-(d) perform such other functions provided for under this Act,
+(d) perform such other functions provided for under
+this Act,
 or as may be assigned by the Council.
 12. (1) Subjectto the other provisions of this Act, the Technical
 Proceedings
@@ -490,7 +521,8 @@ under, this Act.
 (3) The Public Service Commission shall appoint such other
 officers as are necessary for purposes of this Act.
 Conciliation,
-15. Notwithstanding section sixty four, the Council may act
+15.
+Notwithstanding section sixty four, the Council may act
 m e d i a t i o n
 as mediator, conciliator or arbiter with regard to any dispute, arising
 and
@@ -500,15 +532,18 @@ and a concessionaire at the request of the parties.
 Appointment
 16. Notwithstanding section fifteen, the Council may appoint
 of mediator
-a suitable person to act as mediator or arbitrator for the settlement
+a suitable person to act as mediator or arbitrator for the
+settlement
 or arbitrator
 of disputes on its behalf, in accordance with this Act or the
 Act No. 19 of
-Arbitration Act, and any action or decision of a person so appointed
+Arbitration Act, and any action or decision of a person so
+appointed
 shall be deemed to be an action or a decision of the Council.
 PART III
 PROJECT IDENTIFICATION AND FEASIBILITY STUDY
-17. Any person in the private sector may participate in the
+17.
+Any person in the private sector may participate in the
 Participation
 in project
 financing, construction, rehabilitation, maintenance, operation and
@@ -541,7 +576,8 @@ proposed agreement to the Technical Committee for evaluation.
 and the proposed agreement submitted under subsection (1) and
 submit the feasibility study, the project proposal and the proposed
 agreement to the Council which shall—
-(a) accept the project proposal and agreement with or without
+(a) accept the project proposal and agreement with
+or without
 amendments, within the prescribed time;
 (b) return the project proposal and agreement to the
 contracting authority for re-consideration and re
@@ -592,39 +628,53 @@ Pre-selection
 proceedings with a view to identifying bidders that are suitably
 proceedings
 qualified to implement the proposed project.
-Request for 22. (1) A contracting authority shall prepare a request for
-expression submission of expressions of interest, after the approval of the
-of interest feasibility study.
-(2) A contracting authority shall submit the request for
+Request for
+22. (1) A contracting authority shall prepare a
+request for
+expression
+submission of expressions of interest, after the approval of the
+of interest
+feasibility study.
+(2) A contracting authority shall submit the
+request for
 submission of expressions of interest prepared by it to the Unit for
-written authorisation to advertise, invite, solicit or call for bids for
+written authorisation to advertise, invite, solicit or call
+for bids for
 the purposes of engaging in pre selection proceedings.
 (3) A contracting authority shall not issue any bidding document
 for a public private partnership to any prospective bidder before
 obtaining the approval of the Unit.
-(4) The invitation for submission of expressions of interest shall
+(4) The invitation for submission of expressions of
+interest shall
 be published in accordance with regulations issued under it.
-(5) The invitation to submit expressions of interest for
+(5) The invitation to submit expressions of
+interest for
 participation in the pre selection proceedings shall include at least
 the following:
-(a) a description of the infrastructure project or facility;
-(b) an indication of other essential elements of the project,
+(a) a description of the infrastructure project or
+facility;
+(b) an indication of other essential elements of
+the project,
 such as the—
 (i) services to be delivered by the concessionaire; and
 (ii) financial arrangements envisaged by the
 contracting authority;
 (c) where already known, a summary of the main required
 terms of the agreement to be entered into;
-(d) the manner and place for the submission of applications
-for pre-selection and the deadline for the submission,
+(d) the manner and place for the submission of
+applications
+for pre-selection and the deadline for the
+submission,
 expressed as a specific date and time, allowing sufficient
-time for bidders to prepare and submit their expressions
+time for bidders to prepare and submit their
+expressions
 of interest;
 (e) the manner and place for solicitation of the pre selection
 bidding documents; and
 (f)&n appropriate statement to the effect that the contracting
 authority reserves the right to request proposals upon
-completion of the pre selection proceedings only from a
+completion of the pre selection proceedings
+only from a
 limited number of bidders that best meet the pre selection
 criteria.
 (6) The pre-selection bidding documents shall include at least
@@ -634,6 +684,8 @@ three;
 (b) whether the contracting authority intends to waive any
 limitation on the participation of consortia in accordance
 with section twenty-four;
+Public-Private Partnership
+[No. 14 of
 (c) whether the contracting authority intends to request only
 a limited number of pre selected bidders to submit
 proposals upon completion of the pre selection
@@ -682,7 +734,8 @@ selection bidding documents and this Act.
 Unit, as specified in section twenty-six, be invited by the contracting
 authority to submit proposals in accordance with this Act.
 Public-Private Partnership
-26. (1) After the evaluation of the pre selection bids, the
+26. (1) After the evaluation of the pre selection
+bids, the
 Single stage
 contracting authority shall submit a report for approval to the Unit,
 and two
@@ -698,12 +751,15 @@ technical
 proposals
 and their proposed mechanisms and procedures to
 effectively implement, manage, enforce, monitor and
-report on the proposed infrastructure project and facility;
+report on the proposed infrastructure project and
+facility;
 and
 .(b) that a satisfactory due diligence including a legal due
-diligence has been completed by the Unit and the selected
+diligence has been completed by the Unit and the
+selected
 concessionaires in relation to matters of their respective
-competence and capacity are qualified to enter into the
+competence and capacity are qualified to enter
+into the
 public private partnership agreement.
 27. (1) A contracting authority shall provide a set of the request
 Content of
@@ -715,7 +771,8 @@ proposals
 the price, if any, charged for those bidding documents.
 (2) Notwithstanding subsection (1), a contracting authority
 may use a two stage procedure to request for technical proposals
-from' pre selected bidders when the contracting authority does not
+from' pre selected bidders when the contracting authority
+does not
 consider it to be feasible to describe the characteristics of the project
 in the request for technical proposals.
 (3) Where a two stage procedure is used, the following shall
@@ -723,22 +780,26 @@ apply:
 (a) the initial request for technicalproposais shall call upon
 the bidders to submit, in the first stage of the procedure,
 initial proposals relating to project specifications,
-performance indicators, financing requirements or other
+performance indicators, financing requirements
+or other
 characteristics of the project as well as the main
 contractual terms proposed by the contracting authority
 or Unit;
-(b) the contracting authority may convene meetings and hold
+(b) the contracting authority may convene meetings
+and hold
 discussions with any of the bidders to clarify questions
 concerning the initial request for technical proposals or
 the initial technical proposals and accompanying
-documents submitted by the bidders which shall be
+documents submitted by the bidders which
+shall be
 recorded inminutes of the meeting or discussion; and
 (c) following evaluation of the technical proposals received,
 the contracting authority may review and, as appropriate,
 revise the initial request for technical proposals by
 removing, modifying or adding to any aspect of the initial
 project specifications, performance indicators, financing
-requirements or other characteristics of the project,
+requirements or other characteristics of the
+project,
 including the main contractual terms and any criterion
 for evaluating technical proposals and ascertaining the
 preferred bidder, as set out in the initial request for
@@ -806,14 +867,18 @@ of the agreement after the technical proposal has been
 accepted or to comply with any other condition prior to
 signing the agreement, as specified in the request for
 technical proposals.
-Clarifications 30. (1) A contracting authority may, whether on its own
+Clarifications
+30. (1) A contracting authority may, whether on its own
 and
 initiative or as a result of a request for clarification by a bidder,
-modifications review and, as appropriate, revise any element of the request for
+modifications
+review and, as appropriate, revise any element of the request for
 technical proposals as set out in section twenty eight.
 (2) A contracting authority shall indicate in the record of the
-selection proceedings to be kept pursuant to section thirty-nine
-the justification for any revision to the request for technical proposals
+selection proceedings to be kept pursuant to section
+thirty-nine
+the justification for any revision to the request for technical
+proposals
 and which shall be commdnicated to the bidders, in the same manner
 as the request for technical proposals, at a reasonable time prior to
 the deadline for submission of technical proposals.
@@ -836,6 +901,8 @@ contracting authority, if any;
 (c) the costs for design and construction activities, annual
 operation and maintenance costs, present value of capital
 costs and operating and maintenance costs;
+Public-Private Partnership
+[No. 14 of
 (d) the extent of financial support, if any, expected from a
 public authority in Zambia;
 (e) the soundness of the proposed financial arrangements;
@@ -896,7 +963,8 @@ with this section.
 Circumst­
 35. A contracting authority may negotiate an agreement, subject
 ances
-to the approval of the Unit, without using the procedure set out in
+to the approval of the Unit, without using the procedure
+set out in
 authorizing
 this Part in the following cases:
 award
@@ -906,7 +974,8 @@ competitive
 the provision of the service and engaging in the
 procedures
 procedures set out in this Part would be impractical:
-Provided that the circumstances giving rise to the
+Provided that the circumstances giving
+rise to the
 urgency were neither foreseeable by the
 contracting authority nor the result of any
 dilatory conduct on its part;
@@ -918,30 +987,36 @@ security;
 (d) where there is only one source capable of providing the
 required service, such as, when the provision of the
 service requires the use of intellectual property, trade
-secrets or other exclusive rights owned or possessed
+secrets or other exclusive rights owned or
+possessed
 by a certain person or persons;
 (e) where an invitation to the pre selection proceedings or a
 request for technical proposals has been issued but no
 proposals were submitted or all proposals failed to meet
-the evaluation criteria set out in the request for proposals
+the evaluation criteria set out in the request for
+proposals
 and if, in the opinion of the contracting authority, issuing
 a new invitation to the pre selection proceedings and a
 new request for technical proposals is not likely to result
-in an infrastructure project or facility award within the
+in an infrastructure project or facility award
+within the
 required time frame; or
 09 in any other case where the Unit authorises such an
 exception for compelling reasons of national or public
 interest.
-36. Where an agreement is negotiated without using the
+36. Where an agreement is negotiated without
+using the
 Procedure
 for
 procedures set out in this Part, a contracting authority shall —
 negotiation
 (a) except for an agreement negotiated pursuant to sub
 of agreement
-paragraph (c) of section thirty five, cause a notice, of
+paragraph (c) of section thirty five, cause a
+notice, of
 its intention to commence negotiations in respect of the
-agreement, to be published in the prescribed manner;
+agreement, to be published in the prescribed
+manner;
 (b) engage in negotiations with as many persons as the
 contracting authority considers capable of carrying out
 the project as circumstances permit; and
@@ -997,52 +1072,66 @@ concessionaire
 accordance with subsection (1), the bidder shall make a statement
 to that effect in the pre selection bidding documents or in the request
 for technical proposals, as appropriate.
-(3) Any requirement relating to the minimum capital of a legal
+(3) Any requirement relating to the minimum capital
+of a legal
 entity established under subsection (1) and the procedures for
 obtaining the approval of a contracting authority to the legal entity's
 Articles of Association or any significant changes in the Articles
 shall be set out in the agreement consistent with the terms of the
 request for proposals.
-Unsolicited 42. (1) A contracting authority may receive, consider, evaluate
-proposal and accept an unsolicited proposal for a public private partnership
+Unsolicited
+42. (1) A contracting authority may receive, consider, evaluate
+proposal
+and accept an unsolicited proposal for a public private partnership
 if the proposal —
-(a) is independently originated and developed by the proposer;
+(a) is independently originated and developed by the
+proposer;
 (b) shall be beneficial to the public;
-(c) has been prepared without the supervision of the Unit or a
+(c) has been prepared without the supervision of the
+Unit or a
 contracting authority; and
 (d) includes sufficient detail and information for a contracting
 authority to evaluate the proposal in an objective and
 timely manncr.
 (2) A contracting authority shall, within fourteen days after
 receiving an unsolicited proposal, undertake a preliminary evaluation
-of the unsolicited proposal to determine if the proposal complies
+of the unsolicited proposal to determine if the proposal
+complies
 with the requirements of subsection (1).
 (3) A contracting authority or the Unit shall take appropriate
 action to protect confidential or proprietary information that a person
 provides as part of an unsolicited proposal.
-(4) A contracting authority shall, where an unsolicited proposal
+(4) A contracting authority shall, where an unsolicited
+proposal
 does not comply with subsection (1), return the proposal without
 further action.
-(5) A contracting authority may, if an unsolicited proposal
+(5) A contracting authority may, if an unsolicited
+proposal
 complies with subsection (1), continue to evaluate the proposal in
 accordance with this section.
-(6) A contracting authority shall, if an unsolicited proposal
+(6) A contracting authority shall, if an unsolicited
+proposal
 complies with subsection (1), advertise the unsolicited proposal for
 the purpose of receiving competitive proposals for the same project.
 (7) An advertisement issued under subsection (6), shall outline
-the general nature and scope of the unsolicited proposal, including
+the general nature and scope of the unsolicited proposal,
+including
 the location of the project, if appropriate and the work to be
 performed on or in connection with the project and shall specify an
 address to which a competing proposal may be submitted.
 (8) An advertisement, issued under subsection (6), shall specify
-a reasonable time period by which competitors shall submit a
+a reasonable time period by which competitors shall
+submit a
 competing proposal to the contracting authority.
-(9) A contracting authority may charge, the original proposer
-or any competing proposer, a reasonable fee to cover its costs for
+(9)
+A contracting authority may charge, the original
+proposer
+or any competing proposer, a reasonable fee to cover its
+costs for
 processing, reviewing and evaluating an unsolicited proposal and
 any competing proposals, as the case may be.
 l
-Public-Private Partnership [No. 14 of 2009 10.1
+10.1
 (10) A contracting authority shall —
 (a) determine if any competing proposal is comparable in
 nature and scope to the original unsolicited proposal;
@@ -1096,11 +1185,14 @@ implemen­
 tation of
 services to be provided by the concessionaire;
 agreement
-(b) the conditions for provision of services and the extent of
+(b) the conditions for provision of services and the
+extent of
 exclusivity, if any, of the concessionaire's rights under
 the agreement;
-(c) the assistance that a contracting authority may provide to
-the concessionaire in obtaining licences and permits to
+(c) the assistance that a contracting authority may
+provide to
+the concessionaire in obtaining licences and
+permits to
 the extent necessary for the implementation of the
 project;
 (d) the return of assets, if any, to a contracting authority, at
@@ -1111,21 +1203,27 @@ specified in section forty five;
 designs, construction plans and specifications by the
 contracting authority and the procedures for testing and
 final inspection, approval and acceptance of the project;
-(f) the Unit's, contracting authority's or other regulatory
-agency's right to monitor the works to be performed
+(f) the Unit's, contracting authority's or other
+regulatory
+agency's right to monitor the works to be
+performed
 and services to be provided by the concessionaire and
 the conditions and extent to which the Unit, contracting
-authority or the regulatory agency may order variations
+authority or the regulatory agency may order
+variations
 in respect of the works and conditions of service or take
-such other reasonable actions as they may find
+such other reasonable actions as they
+may find
 appropriate to ensure that the project is properly operated
 and the services are provided in accordance with the
 applicable legal and contractual requirements;
 (g) the extent of the concessionaire's obligation to provide
-the Unit, contracting authority or regulatory agency, as
+the Unit, contracting authority or regulatory
+agency, as
 appropriate, with reports and other information on its
 operations;
-(h) mechanisms to deal with additional costs and other
+(h) mechanisms to deal with additional costs
+and other
 consequences that might result from any order issued
 by the Unit, contracting authority or another public
 authority under this Act including any compensation to
@@ -1178,9 +1276,11 @@ entity indicated by the contracting authority in
 accordance with the terms of the agreement;
 104 |No. 14 of 2009
 Public-Private Partnership
-(b) assets, if any, that the contracting authority, at its option,
+(b) assets, if any, that the contracting authority, at
+its option,
 may purchase from the concessionaire; and
-(c) assets, ifany, that the concessionaire may retain or dispose
+(c) assets, ifany, that the concessionaire may retain
+or dispose
 of upon expiry or termination of the agreement.
 46. (1) A contracting authority or other public authority, under
 Acquisition
@@ -1196,7 +1296,8 @@ of the project.
 for the implementation of a project shall be carried out in
 Cap. 189
 accordance with the Land Acquisition Act.
-47. A contracting authority or other public authority, under the
+47. A contracting authority or other public authority,
+under the
 Easements
 terms of any law and an agreement, shall make available to the
 concessionaire or, as appropriate, shall assist the concessionaire to
@@ -1211,7 +1312,8 @@ services in accordance with an agreement, which shall provide for
 methods and formulas for the establishment and adjustment of user
 levies in accordance with any rules established by the competent
 regulatory agency.
-(2) A contracting authority may agree to make direct payments
+(2) A contracting authority may agree to make direct
+payments
 to the concessionaire as a substitute for, or in addition to, user
 levies for the use of the project or its services.
 49. (1) Subject to any restriction that may be contained in an
@@ -1219,7 +1321,8 @@ Security
 interest
 agreement, a concessionaire shall have the right to create security
 interests over any of its assets, rights or interests, including those
-relating to the project, as shall be required to secure any financing
+relating to the project, as shall be required to secure any
+financing
 needed for the project, including, in particular, the following:
 (a) security over movable or immovable property owned
 by the concessionaire or its interests in project assets;
@@ -1227,7 +1330,8 @@ and
 (b) a pledge of the proceeds of, and receivables owed to the
 concessionaire for, the use of the project or the services
 it provides.
-(2) The shareholders of a concessionaire's company shall have
+(2) The shareholders of a concessionaire's company
+shall have
 the right to pledge or create any other security interest in their
 shares in the company.
 (3) No security under subsections (1) and (2) may be created
@@ -1289,9 +1393,13 @@ receives for such performance has substantially diminished, as
 compared with the costs and the value of performance originally
 foreseen, as a result of changes in legislation or regulations
 specifically applicable to the project or the services it provides.
-Revision of 54. (1) Without prejudice to section sixty three, an
-agreement agreement shall set out the extent to which a concessionaire is
-entitled to a revision of the agreement with a view to providing
+Revision of
+54. (1) Without prejudice to section sixty
+three, an
+agreement
+agreement shall set out the extent to which a concessionaire is
+entitled to a revision of the agreement with a view to
+providing
 compensation in the event that the cost of the concessionaire's
 performance of the agreement has substantially increased or that
 the value that the concessionaire receives for such performance
@@ -1311,9 +1419,12 @@ negotiated or have avoided or overcome their
 consequences.
 (2) An agreement shall establish procedures for revising the
 terms of the agreement following the occurrence of any changes.
-Takeover of 55. (1) A contracting authority shall have the right, under the
+Takeover of
+55. (1) A contracting authority shall have the right,
+under the
 project
-circumstances set out in an agreement, to temporarily take over
+circumstances set out in an agreement, to temporarily
+take over
 the operation of an infrastructure project or facility, for the purpose
 of ensuring the effective and uninterrupted delivery of a service or
 timely completion of the project, in the event of a material default
@@ -1321,14 +1432,16 @@ by the concessionaire in the performance of its obligations and to
 rectify the breach within a reasonable period of time after having
 been given notice by the contracting authority to do so.
 (2) In the event that a contracting authority elects to take over
-a project under subsection (1), the contracting authority —
+a project under subsection (1), the contracting authority
+—
 (a) shall collect and pay any revenues that are subject to lien
 to satisfy any obligation;
 (b) may develop and operate the project, impose user levies
 and comply with any service contract existing; and
 (c) may solicit proposals, as appropriate, for the construction,
 maintenance or operation of the infrastructure project.
-56. (1) The Unit may agree with any entity extending
+56. (1) The Unit may agree with any entity
+extending
 Substitution
 financing for a project and a concessionaire to provide for the
 of
@@ -1399,7 +1512,8 @@ revision of the agreement.
 60. Either party has the right to terminate an agreement by
 Termination
 of agreement
-mutual consent or if the performance of its obligations is rendered
+mutual consent or if the performance of its obligations is
+rendered
 by either
 impossible by circumstances beyond either party's reasonable
 party
@@ -1414,7 +1528,8 @@ of agreement
 for the fair value of works performed under the agreement, costs
 incurred or losses sustained by either party, including, as appropriate,
 lost profits.
-62. A contracting authority shall be responsible for ensuring
+62. A contracting authority shall be responsible for
+ensuring
 Management
 of public
 that the agreement is properly implemented, managed, enforced,
@@ -1424,7 +1539,8 @@ partnership
 63. An agreement shall provide, as appropriate, for —
 Winding up
 and transfer
-(a) mechanisms and procedures for the transfer of assets to
+(a) mechanisms and procedures for the transfer of
+assets to
 a contracting authority in case of a winding up;
 (b) the compensation to which the concessionaire may be
 entitled in respect of assets transferred to a contracting
@@ -1436,8 +1552,10 @@ project:
 successor concessionaire in the operation and
 maintenance of project; and
 (e) the provision, by the concessionaire, of continuing support
-services and resources, including the supply of spare
-parts, if required, for a reasonable period after the
+services and resources, including the supply
+of spare
+parts, if required, for a reasonable period
+after the
 transfer of the project to a contracting authority or to a
 successor concessionaire.
 PART VI
@@ -1485,10 +1603,12 @@ this Act shall comply with this Act.
 FIRST SCHEDULE
 (Sections 3 and 4)
 INFRASTRUCTURE PROJECTS AND FACILITIES
-The following public private partnership arrangements with their
+The following public private partnership arrangements
+with their
 variations and combinations may be entered into by the Unit or
 contracting authority for undertaking any project. The arrangements
-enumerated in this Schedule are indicative in nature and the Unit
+enumerated in this Schedule are indicative in nature and
+the Unit
 or contracting authority may evolve and arrive at such agreement
 or arrangement incorporating any of the arrangement enumerated
 hereinafter or any other arrangements as are necessary or expedient
@@ -1508,7 +1628,8 @@ authority.
 2. A contractual arrangement whereby a concessionaire
 Build Lease
 and
-undertakes to finance and construct any project and upon its
+undertakes to finance and construct any project and
+upon its
 Transfer
 completion hands it over to the Government or a contracting
 (BLT)
@@ -1524,15 +1645,18 @@ infrastructure facility, and the operation and maintenance thereof.
 (BOT)
 The concessionaire operates the facility over a fixed term during
 which the concessionaire is allowed to collect user levies fees,
-rentals and other charges not exceeding those proposed in the bid
+rentals and other charges not exceeding those proposed
+in the bid
 or as negotiated and incorporated in the agreement or regulations
 to enable the recovery of the investment in the project. The
 concessionaire transfers the project to the Government or the
-contracting authority concerned at the end of the fixed term that
+contracting authority concerned at the end of the fixed
+term that
 shall be specified in the agreement. This shall include a supply and
 operate situation which is a contractual arrangement whereby the
 supplier of equipment and machinery for a given project, if the
-interest of the Government or the contracting authority so requires,
+interest of the Government or the contracting authority so
+requires,
 operates the facility providing in the process technology transfer
 and training to Government, regulatory agency or the contracting
 authority nominated individuals.
@@ -1573,8 +1697,7 @@ commissioned satisfactorily, the concessionaire is
 given the right to operate the project and collect user levies under
 an agreement. The title of the project always vests with the
 Government or the contracting authority in this arrangement.
-7 .
-A contractual arrangement whereby the concessionaire adds
+7 . A contractual arrangement whereby the concessionaire adds
 Contract Add
 to an existing project which it rents from the Government or a
 and Operate
@@ -1593,19 +1716,22 @@ right to develop adjoining property and thus, enjoy some of the
 (DOT)
 benefits the investment creates such as higher property or rent
 values.
-9. A contractual arrangement whereby any existing facility is
+9.
+A contractual arrangement whereby any existing facility is
 Rehabilitate
 Operate and
 handed over to the private sector to refurbish, operate and collect
 T r a n s f e r
 user levies in the operation period to recover the investment and
 (ROT)
-maintain for a franchise period, at the expiry of which the facility is
+maintain for a franchise period, at the expiry of which the
+facility is
 turned over to the Government or a contracting authority. The
 term is also used to describe the purchase of an existing facility
 from abroad, importing, refurbishing, erecting and consuming it
 within the host country.
-10. A contractual arrangement whereby an existing facility is
+10. A contractual arrangement whereby an existing
+facility is
 Rehabilitate
 handed over to the concessionaire to refurbish and operate with no
 Own and
@@ -1616,7 +1742,8 @@ facility and collect user levies in perpetuity.
 Build Own
 11. A contractual arrangement whereby a concessionaire
 Operate and
-undertakes to finance, construct, operate and maintain a project
+undertakes to finance, construct, operate and maintain
+a project
 Maintain
 and whereby such project is to vest in the concessionaire for a
 contract
@@ -1643,7 +1770,8 @@ for consideration, to any person who shall after collecting the user
 charges pay the same to the Government or the contracting
 authority.
 Service
-14. A contractual arrangement whereby an existing project is
+14. A contractual arrangement whereby an existing
+project is
 Contract
 vested in a person to renovate, operate and maintain. The
 concessionaire shall be permitted to charge levies as specified in
@@ -1653,7 +1781,8 @@ Supply
 Operate and
 to provide services to the Government or contracting authority for
 Transfer
-a period. The Government or the contracting authority shall pay
+a period. The Government or the contracting authority
+shall pay
 the person an amount according to the agreed schedule.
 Public-Private Partnership
 [No. 14 of 200.9 1.13
@@ -1674,8 +1803,8 @@ ADMINISTRATION OF THE COUNCIL
 Tenure of
 member of the Council, shall hold office for a period of three years
 office and
-v a c a n c > '
 from the date of appointment and may be re-appointed for a further
+v a c a n c > '
 period of three years.
 (2) Subject to the other provisions of this Schedule, a member
 shall, on the expiration of the period for which the member is
@@ -1713,30 +1842,37 @@ least once in every three months at such places and times as the
 Chairperson may determine.
 (3) The Chairperson may, upon giving notice of not less than
 fourteen days, call a meeting of the Council and shall call a special
-meeting upon receiving a written request from at least five
+meeting upon receiving a written request from at
+least five
 members of the Council.
-(4) If the urgency of any particular matter does not permit the
-giving of the notice required under subparagraph (3), a special
+(4) If the urgency of any particular matter does not
+permit the
+giving of the notice required under subparagraph (3),
+a special
 meeting may be called by the Chairperson upon giving a shorter
 notice.
-(5) The quorum at a meeting of the Council shall be half of
+(5) The quorum at a meeting of the Council shall
+be half of
 the members of the Council.
 (6) There shall preside at any meeting of the Council—
 (a) the Chairperson;
 (b) in the absence of the Chairperson, the Vice-Chairperson;
 and
-(c) in the absence of both the Chairperson and the Vice-
+(c) in the absence of both the Chairperson and
+the Vice-
 Chairperson, such member as the members present may
 elect from amongst themselves for the purpose of that
 meeting.
 (7) A decision of the Council on any question shall be by a
 majority of votes of the members present and voting at the meeting
 and, in the event of an equality of votes, the person presiding at the
-meeting shall have, in addition to a deliberative vote, a casting
+meeting shall have, in addition to a deliberative vote,
+a casting
 vote.
 (8) The Council may invite any person whose presence in its
 opinion is desirable to attend and to participate in the deliberations
-of a meeting of the Council but such person shall have no vote.
+of a meeting of the Council but such person shall have
+no vote.
 (9) The validity of any proceedings, act or decision of the
 Council shall not be affected by any vacancy in the membership of
 the Council or by any defect in the appointment of any member or
@@ -1752,8 +1888,10 @@ functions under this Act, constitute any committee and delegate to
 any such committee such of its functions as it thinks fit.
 Council
 (2) The Council may appoint as members of a committee
-constituted under sub-paragraph (1), persons who are or are not
-members of the Council and such persons shall hold office for
+constituted under sub-paragraph (1), persons who are
+or are not
+members of the Council and such persons shall hold
+office for
 such period as the Council may determine.
 Public-Private Partnership
 [No. 14 of 2009 115
