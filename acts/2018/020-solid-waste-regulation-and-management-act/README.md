@@ -9,15 +9,15 @@ Text layer: typeset.
 | Long title and enacting words | [preamble.md](preamble.md) |
 | 1. Short title and commencement | [sec-001.md](sec-001.md) |
 | 2. Interpretation | [sec-002.md](sec-002.md) |
-| 3. Application | [sec-003.md](sec-003.md) |
+| 3. e-waste and Application | [sec-003.md](sec-003.md) |
 | 4. Relations and cooperation with | [sec-004.md](sec-004.md) |
-| 5. Key concepts and principles of solid waste | [sec-005.md](sec-005.md) |
+| 5. apply to the Key concepts and principles of solid waste | [sec-005.md](sec-005.md) |
 | 6. Management of solid waste by local | [sec-006.md](sec-006.md) |
 | 7. Solid waste services by local authorities | [sec-007.md](sec-007.md) |
 | 8. Resolution to establish solid waste | [sec-008.md](sec-008.md) |
 | 9. Incorporation of solid waste management | [sec-009.md](sec-009.md) |
 | 10. Name of solid waste management | [sec-010.md](sec-010.md) |
-| 11. Functions of Board | [sec-011.md](sec-011.md) |
+| 11. Functions of Board solid waste | [sec-011.md](sec-011.md) |
 | 12. Board charter and minimum service level | [sec-012.md](sec-012.md) |
 | 13. Functions of solid waste management company | [sec-013.md](sec-013.md) |
 | 14. General powers of solid waste management | [sec-014.md](sec-014.md) |
@@ -60,36 +60,36 @@ Text layer: typeset.
 | 51. Provision of solid waste services | [sec-051.md](sec-051.md) |
 | 52. Limiting number of licenced solid waste | [sec-052.md](sec-052.md) |
 | 53. Assessment of solid waste service providers | [sec-053.md](sec-053.md) |
-| 54. Feasibility study and business plan | [sec-054.md](sec-054.md) |
+| 54. Feasibility study and business plan making an | [sec-054.md](sec-054.md) |
 | 55. Monitoring performance of licenced solid waste | [sec-055.md](sec-055.md) |
 | 56. Power to obtain information and expert | [sec-056.md](sec-056.md) |
 | 57. Requirement to provide information, data and | [sec-057.md](sec-057.md) |
-| 58. Power to hold hearing | [sec-058.md](sec-058.md) |
-| 59. Register of licenced solid waste service providers, | [sec-059.md](sec-059.md) |
+| 58. Power to hold hearing solid waste | [sec-058.md](sec-058.md) |
+| 59. Register of licenced solid waste service solid waste providers, | [sec-059.md](sec-059.md) |
 | 60. Access to landfills and other disposal | [sec-060.md](sec-060.md) |
 | 61. Constraint of available space or capacity at | [sec-061.md](sec-061.md) |
 | 62. Functions and responsibilities of licenced | [sec-062.md](sec-062.md) |
-| 63. Service level agreements to supply solid waste | [sec-063.md](sec-063.md) |
+| 63. self-service Service level agreements to supply solid waste | [sec-063.md](sec-063.md) |
 | 64. Specific functions relating to licenced | [sec-064.md](sec-064.md) |
 | 65. Powers of licenced solid waste service | [sec-065.md](sec-065.md) |
 | 66. Performance of community obligations | [sec-066.md](sec-066.md) |
 | 67. Criteria for setting and approval of tariffs | [sec-067.md](sec-067.md) |
 | 68. Compulsory, generalised and additional | [sec-068.md](sec-068.md) |
 | 69. Administrative penalty for late payment of tariffs | [sec-069.md](sec-069.md) |
-| 70. Billing system and collection of tariffs | [sec-070.md](sec-070.md) |
+| 70. Billing system and solid waste collection of tariffs | [sec-070.md](sec-070.md) |
 | 71. Special solid waste tariffs | [sec-071.md](sec-071.md) |
 | 72. Notices relating to solid waste | [sec-072.md](sec-072.md) |
 | 73. Powers of inspector | [sec-073.md](sec-073.md) |
 | 74. Offences cognizable | [sec-074.md](sec-074.md) |
 | 75. Immunity of inspectors | [sec-075.md](sec-075.md) |
-| 76. Furnishing of reports | [sec-076.md](sec-076.md) |
+| 76. solid waste Furnishing self-service of reports | [sec-076.md](sec-076.md) |
 | 77. Enforcement notices | [sec-077.md](sec-077.md) |
 | 78. Enforcement powers | [sec-078.md](sec-078.md) |
 | 79. General offences related to solid waste | [sec-079.md](sec-079.md) |
-| 80. Offences by principal officer of body | [sec-080.md](sec-080.md) |
+| 80. Offences by principal knowledge, officer of shareholder, body | [sec-080.md](sec-080.md) |
 | 81. General penalty | [sec-081.md](sec-081.md) |
-| 82. Power of local | [sec-082.md](sec-082.md) |
+| 82. Power of local person has | [sec-082.md](sec-082.md) |
 | 83. Administrative penalties | [sec-083.md](sec-083.md) |
 | 84. Appeals | [sec-084.md](sec-084.md) |
 | 85. Regulations | [sec-085.md](sec-085.md) |
-| 86. Transitional provisions | [sec-086.md](sec-086.md) |
+| 86. of this Act, Transitional provisions | [sec-086.md](sec-086.md) |
