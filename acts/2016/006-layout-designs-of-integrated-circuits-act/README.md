@@ -14,7 +14,7 @@ Text layer: typeset.
 | 5. Supremacy of Act | [sec-005.md](sec-005.md) |
 | 6. Act to bind Republic | [sec-006.md](sec-006.md) |
 | 7. Administration of act and use of seal of | [sec-007.md](sec-007.md) |
-| 8. Functions of Registrar and delegation of | [sec-008.md](sec-008.md) |
+| 8. Functions of Registrar Companies and delegation of | [sec-008.md](sec-008.md) |
 | 9. Appointment of officers | [sec-009.md](sec-009.md) |
 | 10. Nonwarranty and non liability | [sec-010.md](sec-010.md) |
 | 11. Patent agents | [sec-011.md](sec-011.md) |
@@ -27,7 +27,7 @@ Text layer: typeset.
 | 18. Corrections and Amendments | [sec-018.md](sec-018.md) |
 | 19. Registration | [sec-019.md](sec-019.md) |
 | 20. Certificate of registration | [sec-020.md](sec-020.md) |
-| 21. Effect of registration of layoutdesign | [sec-021.md](sec-021.md) |
+| 21. shall be to Effect of registration of layoutdesign | [sec-021.md](sec-021.md) |
 | 22. Disclosure without qualified owner’s | [sec-022.md](sec-022.md) |
 | 23. Refusal to register | [sec-023.md](sec-023.md) |
 | 24. Duration of protection | [sec-024.md](sec-024.md) |
@@ -39,18 +39,18 @@ Text layer: typeset.
 | 30. Amendment of registered layoutdesign | [sec-030.md](sec-030.md) |
 | 31. Correction of Register | [sec-031.md](sec-031.md) |
 | 32. Grounds for revocation of registration | [sec-032.md](sec-032.md) |
-| 33. Inspection of register and evidentiary | [sec-033.md](sec-033.md) |
+| 33. payment of Inspection of register and evidentiary | [sec-033.md](sec-033.md) |
 | 34. Regulations on registration processes | [sec-034.md](sec-034.md) |
 | 35. Industrial property journal | [sec-035.md](sec-035.md) |
 | 36. Ownership of layoutdesign | [sec-036.md](sec-036.md) |
-| 37. Prospective ownership of layoutdesign | [sec-037.md](sec-037.md) |
+| 37. to a future Prospective ownership of layoutdesign | [sec-037.md](sec-037.md) |
 | 38. Exclusive rights of qualified owner | [sec-038.md](sec-038.md) |
 | 39. Compulsory licence | [sec-039.md](sec-039.md) |
 | 40. Transmission of layoutdesign | [sec-040.md](sec-040.md) |
 | 41. Registration of Assignments and | [sec-041.md](sec-041.md) |
 | 42. Registered Users | [sec-042.md](sec-042.md) |
 | 43. Registration as Registered User | [sec-043.md](sec-043.md) |
-| 44. Rights of exclusive assignee or | [sec-044.md](sec-044.md) |
+| 44. Rights of exclusive assignee or licensee | [sec-044.md](sec-044.md) |
 | 45. Cancellation of Registered User | [sec-045.md](sec-045.md) |
 | 46. Call for information relating to registered | [sec-046.md](sec-046.md) |
 | 47. Use for public noncommercial purpose | [sec-047.md](sec-047.md) |
@@ -79,10 +79,10 @@ Text layer: typeset.
 | 70. Infringement of rights | [sec-070.md](sec-070.md) |
 | 71. Appeals | [sec-071.md](sec-071.md) |
 | 72. References to High Court | [sec-072.md](sec-072.md) |
-| 73. Assessors to appear in High Court | [sec-073.md](sec-073.md) |
+| 73. Court may Assessors to appear in High Court | [sec-073.md](sec-073.md) |
 | 74. Lodging and authentication of documents | [sec-074.md](sec-074.md) |
 | 75. Expenses relating to administration | [sec-075.md](sec-075.md) |
-| 76. Use of “registered” | [sec-076.md](sec-076.md) |
+| 76. Use of “registered” implied, to | [sec-076.md](sec-076.md) |
 | 77. Authorisation to publish advertisement or notice | [sec-077.md](sec-077.md) |
 | 78. Falsification of entries in register | [sec-078.md](sec-078.md) |
 | 79. Falsely representing a layoutdesign as | [sec-079.md](sec-079.md) |
