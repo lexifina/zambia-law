@@ -7,7 +7,8 @@ IN EXEIWIS.IJl of the powert; contained in section fiJty-eight
 of the Registered Designs Act, tho following Rogulutions are
 hereby made:
 1. 'I'hose ltegula.tiollo ilia,)' ho (;it;{1d at.; t.1w
-j ~ogi8terod Tit.lt> aud
+j ~ogi8terod
+Tit.lt> aud
 Deaigus (Amendment.) HegulatioIlH, 1981, and shall be read
 I~PJlliolttiou
 as one with the !{ogister'ou Designs Rogulunlons (hereinafter
@@ -23,7 +24,8 @@ Sohedule
 First 'Schedule contained in tho Appendix hereto.
 H. CIWlU1.'.A,
 LUSAKA
-111 iuister of Commerce and lruZ,I£8try
+111 iuister of Commerce
+and lruZ,I£8try
 18th February, HISl
 [PfMD.I04jlj:·n
 APJ'j)lNDIX
@@ -31,7 +33,8 @@ APJ'j)lNDIX
 HItST SCJl.l!JD U1..1·;
 (Reglulllio7. 33)
 1·'JiJKb j'A\-AJJLF: '1'0 '.l'H.B DEtllONS OUUWII
-Tho Iollowing Iees shull UU puid ill respect of applioatiorlll, regiti~mtiollll und
+Tho Iollowing Iees shull UU puid ill respect of applioatiorlll,
+regiti~mtiollll und
 other IIlllotturo under tho Act. Such Ious must, ill all CIWl08 be paid before or a I,
 tho tirou of doing tho Ilmttlll' ill rospeet of which thoy aro to bo puid.
 UOrr<l81)01ullng
@@ -56,7 +59,8 @@ If m~le of lallt'
 15.00
 (e) Ull Ilppliollotioll to J'ogil:lWl' o"e dU8igu til h"
 appliod to a toxtilo 1ll'l.jul"
-1:1.00 I or 2
+1:1.00
+I or 2
 .)
 UII appliolttion to Itugilltl'aI' 1.0 IlLlloto
 grounds of decision und mutoriuis used
@@ -70,7 +74,8 @@ Oorrll8pOoomg
 Des1g1Wl
 llem
 Mutter
-Amount Form No.
+Amount
+Form No.
 K
 3. On request Ior extension of time within
 whieh an applicubiou for l'ogiatrlloLioll of
@@ -78,12 +83,13 @@ Il. design may be oompleted-
 NoL exceeding one month
 07.0°1
 Not oxooeding two ruunths
-13.00 ~ 10
+13.00 ~
 NoL exeeeding three mouths
 20.00)
 4. On application for extension of copyright
 under eoocion J6 (2)
-42.00 11 or 12
+42.00
+11 or 12
 (a) aeoond poriod of five YOllol'l:!
 60.00
 (b) third period of five years "
@@ -94,7 +100,7 @@ right-
 Not exceeding one month
 07.001
 Not exceeding two month!'
-13.00 ~ 13
+13.00 ~
 Not exceeding three months
 20.00)
 6. On request to enter subsequent proprietor­
@@ -102,17 +108,20 @@ ship, eto., under regulation 19 made
 wit'"n six months from date of uoquisi­
 tion of proprieuorship, etc.­
 In respeet of one design
-05.00 14 or 15
+05.00
+14 or 15
 Made .after six but within twelve
 months from the date of acquisi­
 tion of proprietorship, ek-
 In respeot of ana design
-10.00 14 or 15
+10.00
+14 or 15
 Made after expiration of twelve
 months from the date of acquisi­
 tion of proprietorship, eLe.­
 In respeot of ono design ..
-14,00 14 or Hi
+14,00
+14 or Hi
 On IIopplioOotion covering more than
 one design, for oaoh additional
 design similarly acquired..
@@ -176,9 +185,11 @@ error
 ~2
 14. On 8pplioa.tiou for eaneellebion of registra­
 tion under section 2G (2)
-•• • • 10.00
+•• • •
+10.00
 15. On appliollotion for 86do1'Oh under section 28
-when registrationnumblll' is supplied 02.00
+when registrationnumblll' is supplied
+02.00
 16. On applioatioll for BOI~roh under seotion 28
 when tho registration number is not
 supplied ..
