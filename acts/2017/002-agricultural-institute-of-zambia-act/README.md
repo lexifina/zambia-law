@@ -37,7 +37,7 @@ Text layer: typeset.
 | 28. Offences regarding registered agricultural | [sec-028.md](sec-028.md) |
 | 29. Display of practising certificate | [sec-029.md](sec-029.md) |
 | 30. Fees for Agricultural Services and Works | [sec-030.md](sec-030.md) |
-| 31. Renewal of practising certificate | [sec-031.md](sec-031.md) |
+| 31. annually in Renewal of practising prescribed certificate | [sec-031.md](sec-031.md) |
 | 32. Suspension and cancellation of practising | [sec-032.md](sec-032.md) |
 | 33. Prohibition of transfer of certificate of registration | [sec-033.md](sec-033.md) |
 | 34. Duplicate certificate of | [sec-034.md](sec-034.md) |

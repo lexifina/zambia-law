@@ -2,7 +2,7 @@
 (Sections 3 (2) and 8 (5))
 THE AGRICULTURAL INSTITUTE OF ZAMBIA PART I
 ADMINISTRATION OF THE COUNCIL
-1. (1)Amember of the Council shall, subject to the provisions of this Act, hold office for a term of three years and may be re-elected for a further and final term of three years.
+1. (1)Amember of the Council shall, subject to the provisions of this Act, hold office for a term of three years and elected for a further and final term of three years.
 (2) A member shall, upon the expiration of the term for which the member is elected or nominated, continue to hold office until another member is elected or nominated, but in no case shall any extension of the period exceed four months.
 (3) The office of a member becomes vacant if the member—
 (a) dies;
@@ -15,7 +15,7 @@ ADMINISTRATION OF THE COUNCIL
 (h) is convicted of an offence under this Act or any other written law and sentenced to imprisonment without the option of a fine.
 (4) The Council shall, where there is a vacancy in the membership of the Council before the expiry of the term of office, appoint another person to replace the member who vacates office, but that person shall only hold office for the remainder of the term.
 2. (1) Subject to the other provisions of this Act, the Council may regulate its own procedure.
-(2) The Council shall meet for the transaction of business at least once in every three months at such places and times as the Council may determine.
+(2) The Council shall meet for the transaction of least once in every three months at such places and times as the Council may determine.
 (3) A meeting of the Council may be called by the President upon giving notice of not less than fourteen days, and shall be called if one third of the members so request in writing, except that if the urgency of a particular matter does not permit the giving of notice, a special meeting may be called upon giving a shorter notice.
 (4) Eight members shall constitute a quorum at a meeting of the Council.
 (5) There shall preside at a meeting of the Council—
@@ -31,12 +31,12 @@ ADMINISTRATION OF THE COUNCIL
 (3) A member of a committee shall hold office for such period as the Council may determine.
 (4) Subject to any specific or general direction of the Council, a committee constituted under this paragraph may regulate its own procedure.
 4. A member of the Council or a committee of the Council shall be paid allowances that the Council may determine.
-5. (1) A member who is present at a meeting of the Council or a committee of the Council at which a matter is the subject of consideration, and in which matter that person or that person’s relative or associate is directly or indirectly interested in a private capacity shall, as soon as is practicable after the commencement of the meeting, disclose the interest and shall not, unless the Council or committee of the Council otherwise directs, take part in any consideration or discussion of, or vote on, any question relating to that matter.
+5. (1) A member who is present at a meeting of the Council or a committee of the Council at which a matter is the subject of consideration, and in which matter that person or that person’s relative or associate is directly or indirectly interested in a private capacity shall, as soon as is practicable after the commencement of the meeting, disclose the interest and shall not, unless the Council or committee of the Council otherwise directs, take consideration or discussion of, or vote on, any question relating to that matter.
 (2) A disclosure of interest made under this paragraph shall be recordedinthe minutesofthemeetingatwhichthedisclosure ismade.
-6. (1)Aperson shall not, without the consent, in writing, given byor on behalf of the Institute, publish or disclose to an unauthorised person, otherwise than in the course of that person’s duties, the contents of a document, communication or information which relates to, and which comes to that person’s knowledge in the course of that person’s duties under this Act.
+6. (1)Aperson shall not, without the consent, in writing, given byor on behalf of the Institute, publish or disclose to an unauthorised person, otherwise than in the course of that person’s contents of a document, communication or information which relates to, and which comes to that person’s knowledge in the course of that person’s duties under this Act.
 (2) A person who contravenes subparagraph (1) commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
 (3)Aperson who, having information which to the knowledge of that person has been published or disclosed in contravention of subparagraph (1), unlawfully publishes or communicates the information to another person, commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
-7. An action or other proceeding shall not lie or be instituted against a member of the Council or a committee of the Council, or a member of staff of the Institute, for or in respect of an act or thing done or omitted to be done in good faith in the exercise or performance of any function conferred under this Act.
+7. An action or other proceeding shall not lie or be instituted against a member of the Council or a committee of the Council, or a member of staff of the Institute, for or in respect of an act or thing done or omitted to be done in good faith in the performance of any function conferred under this Act.
 PART II
 FINANCIAL PROVISIONS
 8. (1) The funds of the Institute shall consist of such monies as may—
