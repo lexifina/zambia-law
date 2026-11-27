@@ -101,7 +101,8 @@ micro or small business enterprise.
 (2) Subject to section seventy-six, a licence, permit or
 certificate of registration is valid for a period often years from the
 date of issue.
-71. The Board may vary or amend any condition of a Variation or
+71. The Board may vary or amend any condition of a
+Variation or
 licence, permit or certificate of registration—
 amendment
 of licence,
@@ -159,7 +160,8 @@ or certificate of registration, renew the licence, permit or
 certificate of registration.
 Suspension
 75. (1)
-The Board may suspend or revoke a
+The Board may suspend
+or revoke a
 or revocation
 licence, permit or certificate of registration, after due
 of licence,
@@ -200,7 +202,8 @@ in subsection (1), that the licence, permit or certificate of
 registration should be suspended or revoked, the Board may,
 by notice in writing to the investor, suspend or revoke the
 licence, permit or certificate of registration.
-The Board shall not suspend or revoke a licence,
+The Board shall not suspend or revoke
+a licence,
 permit or certificate of registration where a holder takes
 remedial measures to the satisfaction of the Board, within
 such period as the Board may specify.
