@@ -1,6 +1,6 @@
-# Environmental Management (Licensing) Regulations (Statutory Instrument No. 112 of 2013)
+# Environmental Management (Licensing) Regulations, 2013 (Statutory Instrument No. 112 of 2013)
 
-Environmental Management (Licensing) Regulations (Statutory Instrument No. 112 of 2013), in force from 2013-11-22 (date of the Gazette the instrument was published with). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/environmental-management-licensing-regulations-si-no-112-of-2013-lex-faoc151531/>): <https://faolex.fao.org/docs/pdf/zam151531.pdf>.
+Environmental Management (Licensing) Regulations, 2013 (Statutory Instrument No. 112 of 2013), in force from 2013-11-22 (date of the Gazette the instrument was published with). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/environmental-management-licensing-regulations-si-no-112-of-2013-lex-faoc151531/>): <https://faolex.fao.org/docs/pdf/zam151531.pdf>.
 
 Text layer: typeset.
 
@@ -25,7 +25,7 @@ Text layer: typeset.
 | 16. National Waste Management Strategy | [sec-016.md](sec-016.md) |
 | 17. Integrated waste management plan | [sec-017.md](sec-017.md) |
 | 18. Application of Part | [sec-018.md](sec-018.md) |
-| 19. Hazardous waste licence | [sec-019.md](sec-019.md) |
+| 19. Hazardous waste licence in or export | [sec-019.md](sec-019.md) |
 | 20. Obligations of holder of hazardous waste licence | [sec-020.md](sec-020.md) |
 | 21. Storage of hazardous waste | [sec-021.md](sec-021.md) |
 | 22. Transportation of hazardous waste | [sec-022.md](sec-022.md) |
@@ -57,7 +57,7 @@ Text layer: typeset.
 | 48. Fire-fighting services | [sec-048.md](sec-048.md) |
 | 49. Labelling | [sec-049.md](sec-049.md) |
 | 50. Customs | [sec-050.md](sec-050.md) |
-| 51. Personal protective equipment | [sec-051.md](sec-051.md) |
+| 51. Personal protective licence shall equipment | [sec-051.md](sec-051.md) |
 | 52. Notice of arrival, possession, assignment | [sec-052.md](sec-052.md) |
 | 53. Notice of rejection of application | [sec-053.md](sec-053.md) |
 | 54. Validity period of licence | [sec-054.md](sec-054.md) |
@@ -69,12 +69,12 @@ Text layer: typeset.
 | 60. Suspension or cancellation of licence | [sec-060.md](sec-060.md) |
 | 61. Order to cease operation or activity | [sec-061.md](sec-061.md) |
 | 62. Notice of seizure | [sec-062.md](sec-062.md) |
-| 63. Receipt for removal of d o c u me n t , matter etc | [sec-063.md](sec-063.md) |
+| 63. Receipt for removal of d o c u me n t , substance or matter etc | [sec-063.md](sec-063.md) |
 | 64. Site restoration order | [sec-064.md](sec-064.md) |
 | 65. Prevention order | [sec-065.md](sec-065.md) |
 | 66. Protection order | [sec-066.md](sec-066.md) |
-| 67. Environmental restoration order | [sec-067.md](sec-067.md) |
-| 68. Compliance order | [sec-068.md](sec-068.md) |
+| 67. or pollutant Environmental restoration order | [sec-067.md](sec-067.md) |
+| 68. Compliance order in the First | [sec-068.md](sec-068.md) |
 | 69. Cost order | [sec-069.md](sec-069.md) |
 | 70. Notice of issuance of conditional order | [sec-070.md](sec-070.md) |
 | 71. Notice of intention to apply for court order | [sec-071.md](sec-071.md) |
