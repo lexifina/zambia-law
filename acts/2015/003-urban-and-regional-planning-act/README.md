@@ -42,11 +42,11 @@ Text layer: typeset.
 | 33. Consent for dealing with land | [sec-033.md](sec-033.md) |
 | 34. Loss of occupancy licence | [sec-034.md](sec-034.md) |
 | 35. Initiation of planning | [sec-035.md](sec-035.md) |
-| 36. Preparation of planning programme | [sec-036.md](sec-036.md) |
+| 36. Preparation of the planning planning programme | [sec-036.md](sec-036.md) |
 | 37. Public consultation of proposed | [sec-037.md](sec-037.md) |
 | 38. Consideration of planning programme | [sec-038.md](sec-038.md) |
 | 39. Preparation of integrated development | [sec-039.md](sec-039.md) |
-| 40. Public consultation and participation | [sec-040.md](sec-040.md) |
+| 40. Public consultation development and participation | [sec-040.md](sec-040.md) |
 | 41. Objections and submissions | [sec-041.md](sec-041.md) |
 | 42. Adoption of integrated development | [sec-042.md](sec-042.md) |
 | 43. Implementation of integrated development | [sec-043.md](sec-043.md) |
@@ -72,7 +72,7 @@ Text layer: typeset.
 | 63. Immunity of members of planning appeals | [sec-063.md](sec-063.md) |
 | 64. Planning inspectors | [sec-064.md](sec-064.md) |
 | 65. Enforcement notices and directions by planning | [sec-065.md](sec-065.md) |
-| 66. Register of enforcement notices | [sec-066.md](sec-066.md) |
+| 66. register for Register of enforcement notices | [sec-066.md](sec-066.md) |
 | 67. Enforcement and penalties | [sec-067.md](sec-067.md) |
 | 68. Compensation | [sec-068.md](sec-068.md) |
 | 69. Noncompensation for planning decisions | [sec-069.md](sec-069.md) |
