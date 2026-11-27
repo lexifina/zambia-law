@@ -1,5 +1,5 @@
 # FIRST SCHEDULE
-(Regulations 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23 and 24) Zambia Wildlife Act (Act No. 12 of 1998 Form ZAWA 1
+(Regulations 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23 and 24) Zambia Wildlife Act (Act No. 12 of 1998
 THE ZAMBIA WILDLIFE (Licences and Fees) Regulations, 2003
 APPLICATION FOR NON RESIDENT LICENCE (Regulation 2) To: The Director General – ZAWA
 1. Full name (Block capitals)………………………………………………….
@@ -64,9 +64,9 @@ Date:…………………………………..
 Name of Client:…………………………………………………………… Passport Number:……………………… Country of Residence:……………………… Firearm(s) import number(s):………………………………………...........
 Calibre of firearm(s):……………………………………………………….
 GLASSIC SAFARI GMA to be hunted Dates From To Species Number Species Number
-MINI SAFARI GMA to be hunted Dates From To Statutory Instruments 9th May, 2003 Species Number Species Number
+MINI SAFARI GMA to be hunted Dates From To Statutory Instruments 9th May, 2003 Species Number Species
 SPECIALISED SAFARI GMA to be hunted
-SECOND AREA Date from to GMA to be hunted Date from to Species Sex Number Species Sex Number NOTE:
+SECOND AREA Date from to GMA to be hunted Date from Species Sex Number Species NOTE:
 Safari hunting companies or their representatives are required to submit the non-resident hunting order form(s) to the Director General for inspection within ninety (90) days of the end of the hunting season. 9th May, 2003 Statutory Instruments
 REPUBLIC OF ZAMBIA Zambia Wildlife Act (No. 12 of 1998) Form ZAWA 4
 THE ZAMBIA WILDLIFE (Licenses and Fees) Regulations 2003
@@ -87,9 +87,10 @@ Date of Issue…………………………………............................
 Calibre weapon and serial No. of weapon……………..............................
 Date:………………………… ……………………………………..
 Signature of applicant Statutory Instruments 9th May, 2003
-REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998) Form ZAWA 5*
+REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998)
 THE ZAMBIA WILDLIFE (Licenses and Fees) Regulations 2003
-RESIDENT HUNTING LICENCE Regulation 3 Resident Hunting Licence No. - RHL……...... Date of Issue Station of Issue
+RESIDENT HUNTING LICENCE Regulation 3 Resident Hunting Licence No. - RHL……......
+Date of Issue Station of Issue
 DETAILS OF LICENSEE Full name of Licensee National registration card or Passport No.
 Postal Address Physical Address
 DETAILS OF FIREARMS Firearm Licence No.
@@ -97,7 +98,7 @@ Calibre of firearms(s) (1)
 (3)
 (2)
 (4) The above named Licence is authorised under section 37 of the Zambia Wildlife Act to hunt the following game animals and protected animals within the area of the following named Province or Hunting Block.
-Species of animals Number Sex Fees Species Number Sex Fees M/F/E* Zmk of animals M/F/E* Zmk *Male/Female/Either Total fees payable Hunting Block Or Open area Hunting period: From To Basic fee paid Zmk Receipt Total fees Zmk Receipt paid for No. this licence No. 9th May, 2003 Statutory Instruments ………………………… ..............................................
+Species of animals Number Sex Fees Species Number Sex M/F/E* Zmk of animals *Male/Female/Either Total fees payable Hunting Block Or Open area Hunting period: From To Basic fee paid Zmk Receipt Total fees Zmk Receipt paid for No. this licence 9th May, 2003 Statutory Instruments ………………………… ..............................................
 Issuing Officer Director General * This Licence will be issued from the National Office of the Zambia Wildlife Authority.
 CONDITIONS OF LICENCE
 1. This licence expires on the 31st December in the year of issue.
@@ -115,9 +116,10 @@ Copies of this licence shall be distributed as follows:
 (b) Yellow copy to be forwarded to the Director-General or to agent duly appointed in writing by the authority.
 (c) Blue copy to be retained in the book.
 Statutory Instruments 9th May, 2003
-REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998) Form ZAWA 6*
+REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998)
 THE ZAMBIA WILDLIFE (Licenses and Fees) Regulations 2003
-RESIDENT HUNTING LICENCE (Regulation 3) Resident Hunting Licence No. - RHL……...... Date of Issue Station of Issue
+RESIDENT HUNTING LICENCE (Regulation 3) Resident Hunting Licence No. - RHL……......
+Date of Issue Station of Issue
 DETAILS OF LICENSEE Full name of Licensee National registration card or Passport No.
 Postal Address Physical Address
 DETAILS OF FIREARMS Firearm Licence No.
@@ -125,7 +127,7 @@ Calibre of firearms(s) (1)
 (3)
 (2)
 (4) The above named Licence is authorised under section 37 of the Zambia Wildlife Act to hunt the following game animals and protected animals within the area of the following named Province or Hunting Block.
-Species of animals Number Sex Fees Species Number Sex Fees M/F/E* Zmk of animals M/F/E* Zmk *Male/Female/Either Total fees payable Hunting Block Or Open area Hunting period: From To Basic fee paid Zmk Receipt Total fees Zmk Receipt paid for No. this licence No. 9th May, 2003 Statutory Instruments *This licence will be issued from any District office of the Zambia Wildlife Authority designated for the purpose.
+Species of animals Number Sex Fees Species Number Sex M/F/E* Zmk of animals *Male/Female/Either Total fees payable Hunting Block Or Open area Hunting period: From To Basic fee paid Zmk Receipt Total fees Zmk Receipt paid for No. this licence 9th May, 2003 Statutory Instruments *This licence will be issued from any District office of the Zambia Wildlife Authority designated for the purpose.
 CONDITIONS OF LICENCE
 1. This licence expires on the 31st December in the year of issue.
 2. This licence is valid only for the hunting block or open area stated therein unless endorsed otherwise by the Director General.
@@ -142,9 +144,12 @@ Issuing Officer Signature of Director-General NOTE Copies of this licence shall 
 (b) Yellow copy to be forwarded to the Director-General or to an agent duly appointed writing by the authority.
 (c) Blue copy to be retained in the book.
 Statutory Instruments 9th May, 2003
-REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998) Form ZAWA 7
+REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998)
 THE ZAMBIA WILDLIFE (Licences and Fees) Regulations, 2003
-RECORDED OF GAME ANIMALS KILLED OR WOUNDED UNDER RESIDENT HUNTING LICENCE Regulations 3 and 5 DETAILS OF LICENCE HOLDER Name of Licence Holder NRC/Passport No. Postal Address DETAILS OF HUNTING LICENCE Please insert hunting licence details where appropriate and write “not applicable” where required National Hunting Licence No…… Date of Issue District Hunting Licence No…….
+RECORDED OF GAME ANIMALS KILLED OR WOUNDED UNDER RESIDENT HUNTING LICENCE Regulations 3 and 5
+DETAILS OF LICENCE HOLDER Name of Licence Holder NRC/Passport No.
+Address
+DETAILS OF HUNTING LICENCE insert hunting licence details where appropriate and write “not applicable” where required National Hunting Licence No…… Date of Issue District Hunting Licence No…….
 Date of Issue Special Hunting Licence No...…...
 Date of Issue
 DETAILS OF HUNT Hunting period from To
@@ -170,7 +175,7 @@ Calibre of weapon(s)(1)………………….(2)…………………………..
 (3)…………..……. (4)……………………………..........
 I HEREBY apply for a bird licence for………………………… Province for the year………………………… Date…………………… …………………………………….
 Signature of applicant Statutory Instruments 9th May, 2003
-REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998) Form ZAWA 9
+REPUBLIC OF ZAMBIA Zambia Wildlife Act (Act No. 12 of 1998)
 THE ZAMBIA WILDLIFE (Licences and Fees) Regulations, 2003
 BIRD LICENCE Regulation 4 To: The Director General – ZAWA Licence No:……………………………………………………………...............
 Station of issue………………………………………………………..................
@@ -200,8 +205,8 @@ Physical address……………………………………......................
 Statutory Instruments 9th May, 2003 I HEREBY apply for a special licence.
 Please answer the following questions.
 The questions must be answered in full, otherwise this application will not be considered.
-1. Are you a citizen/resident of Zambia YES NO
-2. Have you held a special licence before? YES NO
+1. Are you a citizen/resident of Zambia YES
+2. Have you held a special licence before? YES
 3. If the answer to question 2 is Yes, state the year and species hunted.
 4. For what reasons do you need the special license? ............................................................................................................................ ................................................................................................................................
 5. When do you need the licence? ............................................................................................................................ ..................................................................................................................................
