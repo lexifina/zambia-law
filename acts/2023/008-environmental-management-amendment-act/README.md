@@ -34,4 +34,4 @@ Text layer: typeset.
 | 25. Repeal and replacement of section | [sec-025.md](sec-025.md) |
 | 26. Amendment of section | [sec-026.md](sec-026.md) |
 | 27. Amendment of section | [sec-027.md](sec-027.md) |
-| 28. Amendment of First Schedule | [sec-028.md](sec-028.md) |
+| 28. amended in Amendment of First Schedule | [sec-028.md](sec-028.md) |
