@@ -34,7 +34,7 @@ Text layer: publisher OCR.
 | 25. | [sec-025.md](sec-025.md) |
 | 26. | [sec-026.md](sec-026.md) |
 | 27. | [sec-027.md](sec-027.md) |
-| 28. Provisional protection | [sec-028.md](sec-028.md) |
+| 28. Provisional protection of an | [sec-028.md](sec-028.md) |
 | 29. Registrable plant varieties | [sec-029.md](sec-029.md) |
 | 30. | [sec-030.md](sec-030.md) |
 | 31. | [sec-031.md](sec-031.md) |
@@ -62,4 +62,4 @@ Text layer: publisher OCR.
 | 53. | [sec-053.md](sec-053.md) |
 | 54. | [sec-054.md](sec-054.md) |
 | 55. | [sec-055.md](sec-055.md) |
-| 56. Regulations | [sec-056.md](sec-056.md) |
+| 56. make Regulations | [sec-056.md](sec-056.md) |
