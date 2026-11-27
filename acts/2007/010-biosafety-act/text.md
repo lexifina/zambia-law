@@ -31,7 +31,8 @@ Enactment
 PART I
 PRELIMINARY
 Short title
-1. This Act may be cited as the Biosafety Act, 2007, and
+1. This Act may be cited as the Biosafety Act,
+2007, and
 and
 shall come into force on such date as the Minister may, by statutory
 commencement
@@ -54,7 +55,8 @@ modified organisms to human health and safety and to the
 environment;
 “ biotechnology ” means the development of products by
 exploiting biological processes or substances using intact
-original or modified organism or by using active cell
+original or modified organism or by using
+active cell
 components;
 “ Cartagena Protocol ” means the Protocol on Biosafety under
 the Convention on Biological Diversity;
@@ -126,7 +128,8 @@ formed through the fusion of two or more cells;
 “ monitoring ” means the maintaining of regular surveillance,
 the checking of the warning about or the recording of a
 situation or process;
-“ notification ”means providing information to and, where
+“ notification ”means providing information to
+and, where
 appropriate, the lodging or depositing of samples with the
 Authority;
 “ organism ” means a biological entity, cellular or non-
@@ -148,7 +151,8 @@ this Act;
 environment, of a genetically modified organism or a
 product of a genetically modified organism for any
 commercial purpose, food aid, remediation, research
-purpose in any field experiment, use of a genetically
+purpose in any field experiment, use of a
+genetically
 modified organism or a product of a genetically modified
 organism in any greenhouse, aquaculture facility, animal
 accommodation, unless the facility is approved for
@@ -159,7 +163,8 @@ organism, the import, export or transport of any genetically
 modified organism or a product of a genetically modified
 organism;
 “ risk ”means the probability of incurring or
-causing a loss, injury, an adverse impact or a misfortune
+causing a loss, injury, an adverse impact or a
+misfortune
 on any human, plant or the environment;
 “ risk assessment ” means an evaluation of any direct or
 indirect, short, medium and long term risk to human or
@@ -244,13 +249,15 @@ modified organisms and products of genetically
 modified organisms intended for direct use as food or
 feed, or for research and production processing and
 make available such information to the public;
-(e) prescribe criteria, standards and guidelines as may be
+(e) prescribe criteria, standards and guidelines
+as may be
 necessary for the implementation of the provisions of
 this Act;
 (f) take into account the policy recommendations and other
 guidelines of the Scientific Advisory Committee in
 making decisions on the import, export, development,
-transit, research, contained use, release or placing on
+transit, research, contained use, release or
+placing on
 the market of any genetically modified organism or
 product of a genetically modified organism;
 (g) to cause the establishment and appointment of members
@@ -258,7 +265,8 @@ of institutional biosafety committees at relevant
 institutions and constitute any other organ of experts,
 as appropriate, as technical and scientific advisors on
 issues of biosafety;
-(h) to keep any genetically modified organism or any
+(h) to keep any genetically modified organism
+or any
 product of any genetically modified organism under
 review and where the Authority has reasonable grounds
 to believe that the genetically modified organism or
@@ -401,7 +409,8 @@ person’s ability to serve in an independent or impartial manner.
 regulations for—
 (a) the rules of procedure and the operations of the
 Scientific Advisory Committee and any sub-committee;
-(b) any matter necessary for the effective and transparent
+(b) any matter necessary for the effective and
+transparent
 operation of the Scientific Advisory Committee and any
 sub-committee;
 (c) the terms of reference and competence of the Scientific
@@ -482,7 +491,8 @@ or livestock of national importance and food security.
 12. A person shall not conduct the following activities:
 Prohibition
 (a) any gene therapy or somatic gene therapy for improving
-of certain
+of
+certain
 or enhancing any desired human characteristic for non-
 work on
 genetically
@@ -521,11 +531,13 @@ the genetically modified organism by any other country;
 (e) if the request for approval is for the purposes of research
 and development, the recommendations of the relevant
 institutional biosafety committee;
-(f) a clear and sequential description of the steps to be
+(f) a clear and sequential description of the
+steps to be
 taken in the implementation of the project, and the
 monitoring and evaluation that will be made at the end
 of each step and the method of disposing off any waste;
-(g) the place where and the purpose for which the
+(g) the place where and the purpose for
+which the
 genetically modified organism or the product of a
 genetically modified organism is planned to be
 developed, used, kept, released or marketed, including
@@ -540,7 +552,8 @@ accuracy and completeness; and
 Public
 14. (1) The Authority shall consult the public prior to the grant
 consultation,
-of any authorisation under this Part, in such manner and within
+of any authorisation under this Part, in such manner
+and within
 information
 such period as may be prescribed.
 and
@@ -554,7 +567,8 @@ the information referred to in section thirteen, avail the information
 to the public and any relevant government institution.
 (4) The public shall make comments on the application in
 the manner and within such period as may be prescribed.
-(5) The Authority shall, in making or reviewing its decision
+(5) The Authority shall, in making or reviewing
+its decision
 regarding any application, take into account the views or concerns
 of the public, any relevant institution or other stakeholder made in
 accordance with the provisions of this Act.
@@ -562,8 +576,10 @@ accordance with the provisions of this Act.
 matters:
 (a) information on any genetically modified organism or
 any product of a genetically modified organism which
-has been granted or denied authorization for import,
-transit, release, including the location of the release,
+has been granted or denied authorization
+for import,
+transit, release, including the location of
+the release,
 placing on the market or contained use;
 (b) any risk assessment report relating to a genetically
 modified organism or product of a genetically modified
@@ -628,7 +644,8 @@ forty eight hours from the time the information becomes available.
 (4) A permit issued under this Part shall be used solely by the
 person to whom it is issued and is not transferable to any other
 person.
-18. (1) No approval shall be given unless there is firm and
+18. (1) No approval shall be given unless there
+is firm and
 Criteria for
 decision
 sufficient evidence that the genetically modified organism or
@@ -643,7 +660,8 @@ biological diversity or the environment although there is lack of
 scientific evidence or certainty.
 (3) Lack of scientific evidence shall not be used as a basis for
 not taking preventive measures where there is reason to suspect
-threats of any damage to socio-economic conditions, human and
+threats of any damage to socio-economic conditions,
+human and
 animal health, non-genetically modified crop, biological diversity
 or the environment.
 (4) The Authority may reject an application under this Part
@@ -724,7 +742,8 @@ health, non-genetically modified crop, biological diversity or the
 environment.
 (4) The Authority shall, where the genetically modified
 organism or product of a genetically modified organism is a plant
-or seed, cause the sterilisation or decontamination of the soil, as
+or seed, cause the sterilisation or decontamination of
+the soil, as
 the case may be.
 22. (1) A permit holder may, where the Authority revokes
 Appeal
@@ -733,21 +752,25 @@ against
 revocation
 notice of revocation, appeal in writing to the Tribunal against the
 revocation.
-(2) The decision of the Tribunal on any appeal under this
+(2) The decision of the Tribunal on any appeal
+under this
 section shall be subject to further appeal to the High Court.
 Suspension,
 23. (1) The Authority may suspend, for any period, or cancel
 cancellation
 any permit issued under this Act, if in the opinion of the Authority,
 and
-any genetically modified organism or product of a genetically
+any genetically modified organism or product of a
+genetically
 loss of permit
-modified organism to which the permit relates poses any risk to
+modified organism to which the permit relates poses
+any risk to
 human or animal health, non-genetically modified crop, biological
 diversity or the environment.
 (2) Upon the suspension of any permit under subsection (1),
 the Authority shall notify the holder, in writing, of the period of
-the suspension and, during that period, the permit so suspended
+the suspension and, during that period, the permit so
+suspended
 shall be of no legal force or effect and shall be surrendered to the
 Authority.
 (3) Upon the cancellation of any permit under sub-section (1),
@@ -769,7 +792,8 @@ as the Authority may determine; or
 giving reasons for the refusal.
 (7) Any person whose permit has been suspended or cancelled
 under subsection (1) or to whom the Authority has refused to issue
-a duplicate permit under subsection (6) may, not later than thirty
+a duplicate permit under subsection (6) may, not later
+than thirty
 days after the receipt of the notice given under subsection (2) or
 (3), or the notice of refusal to issue a duplicate permit under
 subsection (5), as the case may be, appeal in writing to the Tribunal
@@ -839,7 +863,8 @@ Risk
 management
 (a) develop, maintain and use as the need arises, a risk
 management strategy for protecting human and animal
-health, non-genetically modified crop, biological
+health, non-genetically modified crop,
+biological
 diversity or the environment from accidents in genetic
 engineering, the use of any genetically modified
 organism or any product of a genetically modified
@@ -856,7 +881,8 @@ Authority may—
 period of observation commensurate with its life cycle
 or generation time, at the cost of the applicant, before
 and after it is put to its intended use;
-(b) prohibit the import, development, research on, transit,
+(b) prohibit the import, development, research
+on, transit,
 contained use, release or placing on the market of any
 genetically modified organism or a product of a
 genetically modified organism, if it contains any
@@ -905,7 +931,8 @@ placing on the market of a genetically modified
 organism or a product of a genetically modified
 organism that is being or is likely to be used for a hostile
 purpose.
-(3) The Authority shall, where it has reasonable grounds to
+(3) The Authority shall, where it has reasonable
+grounds to
 believe that any genetically modified organism or a product of a
 genetically modified organism has caused or is likely to cause
 serious danger or any adverse effect to human or animal health,
@@ -927,7 +954,8 @@ modified crop with any non-genetically modified crop.
 (2) A person who keeps or owns genetically modified livestock
 shall prevent any cross -breeding between genetically modified
 and non-genetically modified livestock.
-(3) Any person who contravenes subsections (1) or (2)
+(3) Any person who contravenes subsections
+(1) or (2)
 commits an offence and is liable upon conviction to a fine not
 exceeding five hundred thousand penalty units or to imprisonment
 for a term not exceeding ten years, or to both.
@@ -942,7 +970,8 @@ bred as the case may be.
 (a) the management measures to ensure non-contamination
 of non-genetically modified crops by genetically
 modified crops;
-(b) the measures to be taken during cultivation, harvesting,
+(b) the measures to be taken during cultivation,
+harvesting,
 transportation, storage and processing of any genetically
 modified crop;
 (c) the prevention and management of any accidental mixing
@@ -992,11 +1021,14 @@ organism that may or is likely to cause allergies or pose
 any other risk to human or animal health, non-
 genetically modified crop, biological diversity or the
 environment;
-(c) the measures to be taken by a producer, researcher,
+(c) the measures to be taken by a producer,
+researcher,
 importer, exporter or any other person dealing with any
-genetically modified organism so as to protect
+genetically modified organism so as
+to protect
 consumers;
-(d) the prevention of fraudulent practices in the packaging,
+(d) the prevention of fraudulent practices in the
+packaging,
 identification and labeling of any genetically modified
 organism or product of a genetically modified organism;
 (e) the segregation of genetically modified organisms from
@@ -1023,14 +1055,19 @@ genetically modified organism or product of a genetically modified
 organism that is banned by the laws of the exporting country.
 (4) An exporter shall —
 (a) package any genetically modified organism or a product
-of a genetically modified organism in the prescribed
+of a genetically modified organism in the
+prescribed
 manner so as to prevent any unintentional release in
 transit; and
 (b) comply with any other requirements imposed by the
-competent authority of the importer as to labeling or
-other relevant measures to protect human and animal
-health, non-genetically modified crops, biological
-diversity or the environment from any risk or adverse
+competent authority of the importer as to
+labeling or
+other relevant measures to protect human
+and animal
+health, non-genetically modified crops,
+biological
+diversity or the environment from any risk
+or adverse
 effect from any genetically modified organism or a
 product of a genetically modified organism.
 PART IX
@@ -1098,7 +1135,8 @@ in general, the environment; and
 subsection (2)—
 (a) ensure that a permit holder responsible for any accident
 takes measures to neutralise risks to human and animal
-health, non-genetically modified crop, biological
+health, non-genetically modified crop,
+biological
 diversity and the environment; and
 (b) inform relevant government and non-governmental
 organisations in countries likely to be affected and the
@@ -1121,7 +1159,8 @@ product of a genetically modified organism;
 (b) the name, address or other particulars of the applicant;
 (c) the purpose and location of the import, transit,
 development, research, production, contained use,
-release or placing on the market of a genetically
+release or placing on the market of a
+genetically
 modified organism or a product of a genetically
 modified organism;
 (d) any methods and plans for monitoring of a genetically
@@ -1180,7 +1219,8 @@ applicable, the costs of preventive measures.
 genetically modified organism or a product of a
 genetically modified organism to the economy or social
 cultural conditions;
-(b) any negative impacts on the livelihood or indigenous
+(b) any negative impacts on the livelihood or
+indigenous
 knowledge systems or technologies of any community;
 (c) any damage or destruction arising from any incidents of
 public disorder triggered by any genetically modified
@@ -1196,18 +1236,22 @@ system;
 a genetically modified organism or product of a genetically
 modified organism shall lapse after a reasonable period from the
 date on which the affected person or the community could
-reasonably be expected to have learned of the harm, taking due
+reasonably be expected to have learned of the harm,
+taking due
 account of—
 (a) the time the harm may take to manifest itself; and
 (b) the time that it may take to correlate the harm with the
 genetically modified organism or product of a
 genetically modified organism, having regard to the
-situation or circumstance of the person or community
+situation or circumstance of the person or
+community
 affected.
 (7) Any person, group of persons or any private or state
 organisation may bring a claim and seek redress in respect of the
-breach or threatened breach of any provision relating to damage
-to the environment, non-genetically modified crop, biological
+breach or threatened breach of any provision relating
+to damage
+to the environment, non-genetically modified crop,
+biological
 diversity, human and animal health or to socio economic conditions:
 (a) in that person’s or group of person’s interest;
 (b) in the interest of or on behalf of, a person who is, for
@@ -1268,13 +1312,16 @@ of a permit issued in terms of this Act; and
 (d) is imported, exported, in transit, released, placed on the
 market or otherwise dealt with, in contravention of the
 provisions of this Act.
-(2) An inspector shall not seize or destroy any genetically
+(2) An inspector shall not seize or destroy any
+genetically
 modified organism or a product of a genetically modified organism
 unlawfully imported, in transit or exported unless the inspector
 gives notice to the importer or exporter of the seizure or destruction
-of the genetically modified organism or product of a genetically
+of the genetically modified organism or product of a
+genetically
 modified organism and the reasons therefor.
-(3) An inspector shall, where the inspector has reasonable
+(3) An inspector shall, where the inspector has
+reasonable
 grounds to believe that any seized genetically modified organism
 or product of a genetically modified organism presents a risk to
 human and animal health, non-genetically modified crop, biological
@@ -1285,7 +1332,8 @@ person’s cost.
 39. The Authority may, where, after its entry into Zambia,
 Disposal of
 abandoned
-any genetically modified organism or product of a genetically
+any genetically modified organism or product of a
+genetically
 consignment
 modified organism is not claimed or abandoned at a port of entry
 within a period of fourteen days from the date of entry into Zambia,
@@ -1304,7 +1352,8 @@ Authority determines that it should take responsibility for the
 associated costs.
 (2) Where the person responsible for any harm or damage or
 in contravention of the provisions of this Act or the terms and
-conditions of a permit does not pay for any cost or fee for
+conditions of a permit does not pay for any cost
+or fee for
 inspection, disposal, remediation or other measure required under
 this Act, the genetically modified organism or product of a
 genetically modified organism shall be forfeited to the Authority
@@ -1362,7 +1411,8 @@ organism is being or has been transported;
 reasonable grounds to believe is harbouring any
 genetically modified organism or carrying out activities
 contrary to this Act;
-(h) order the application of measures which are reasonably
+(h) order the application of measures which are
+reasonably
 necessary or prescribed for purposes of this Act within
 a specified period;
 (i) order the destruction at any time of any genetically
@@ -1389,10 +1439,13 @@ wildlife officer, forestry officer, fisheries or other relevant officer.
 (4) Subject to subsection (5), an inspector may, in the course
 of an inspection carried out under this section—
 (a) seize, destroy, detain, treat or otherwise dispose of any
-plant, plant product, material, substance, appliance,
-equipment or document, or order that any such action
+plant, plant product, material, substance,
+appliance,
+equipment or document, or order that any
+such action
 be taken, at the expense of the owner;
-(b) obtain any sample of any plant, substance or product as
+(b) obtain any sample of any plant, substance or
+product as
 the inspector considers necessary; and
 (c) order an owner, occupier, person in charge or control to
 produce for inspection, or for purposes of obtaining
@@ -1426,7 +1479,8 @@ Appeals
 against
 any decision made by an inspector in terms of this Act may, within
 orders of
-seven days of the date of the decision, lodge with the Minister a destruction
+seven days of the date of the decision, lodge with the Minister a
+destruction
 notice of that person’s intention to appeal against the order.
 (2) There shall be no right of appeal against—
 (a) an order for the destruction of a genetically modified
@@ -1445,7 +1499,8 @@ under section forty-four a notice lodged in terms of subsection
 PART XIV
 APPEALS
 Appeals
-44. (1) Subject to subsection (2), any person making an
+44. (1) Subject to subsection (2), any person
+making an
 tribunal
 appeal under this Act shall lodge the appeal with the Minister and
 the Minister shall for the purpose of hearing and determining an
@@ -1457,7 +1512,8 @@ legal practitioner or magistrate; and
 (b) two other members which persons shall be experts with
 not less than five years experience and knowledge in
 matters relevant to this Act.
-(2) The Minister shall not appoint a tribunal unless the
+(2) The Minister shall not appoint a tribunal
+unless the
 appellant deposits with the Minister such sum as the Minister
 considers will be sufficient to pay the costs, including the
 allowances payable to the members of the tribunal, likely to be
@@ -1471,12 +1527,14 @@ of an appeal by the tribunal in terms of this section and to a person
 summoned to give evidence before a tribunal.
 (4) The Minister shall, on the determination of an appeal
 refund to the appellant the sum deposited by the appellant in terms
-of subsection (2) less the amount of the costs, if any, payable by
+of subsection (2) less the amount of the costs, if any,
+payable by
 the appellant in terms of subsection (5).
 (5) If an appeal is dismissed, the tribunal may order the
 appellant to pay to the Government the costs incurred by the
 Government in connection with the appeal.
-(6) A member of a tribunal shall be paid out of moneys
+(6) A member of a tribunal shall be paid out
+of moneys
 appropriated for the purpose by Parliament, such allowances to
 meet the reasonable expenses incurred by the member in connection
 with an appeal as the Minister may prescribe.
@@ -1537,7 +1595,8 @@ and
 (l) uses a genetically modified organism or a product of a
 genetically modified organism for hostile purposes;
 (m) obstructs or fails to assist the Authority or other authorised
-officers in the performance of their duties under this
+officers in the performance of their duties
+under this
 Act; or
 (n) fails to inform the Authority of an accident or emergency
 involving a genetically modified organism or a product
@@ -1557,13 +1616,15 @@ the time the offence was committed shall be liable to imprisonment
 unless the person shows—
 (a) that the offence was committed without the person’s
 connivance or consent; and
-(b) the person took necessary steps to prevent the offence
+(b) the person took necessary steps to prevent
+the offence
 from being committed.
 PART XVI
 Miscellaneous
 Regulations
 46. (1) The Minister may, in consultation with the Authority,
-by statutory instrument, prescribe all matters which by this Act
+by statutory instrument, prescribe all matters which
+by this Act
 are required or permitted to be prescribed, or which are necessary
 to be prescribed for carrying out or giving effect to the provisions
 of this Act.
@@ -1639,7 +1700,8 @@ Provisions
 Act, carries out any research, import, release, placing on the market,
 transit or contained use of a genetically modified organism or
 product of a genetically modified organism, shall within three
-months of the coming into force of this Act apply for a permit to
+months of the coming into force of this Act apply for
+a permit to
 the Authority in the manner prescribed under this Act.
 (2) A person who contravenes subsection (1) commits an
 offence, and is liable, upon conviction, to a fine not exceeding
@@ -1696,7 +1758,8 @@ other person generally or specifically authorised by the Authority
 in that behalf.
 (4) Any document purporting to be a document under the seal
 of the Authority or issued on behalf of the Authority shall be
-received in evidence and shall be executed or issued, as the case
+received in evidence and shall be executed or issued,
+as the case
 may be, without any further proof, unless the contrary is proved.
 Tenure of
 3. (1) Subject to the other provisions of this Act, a member
@@ -1710,7 +1773,8 @@ period.
 (a) upon the member’s death;
 (b) if the member is adjudged bankrupt;
 (c) if the member is absent from three consecutive meetings
-of the Authority of which the member has had notice,
+of the Authority of which the member has
+had notice,
 without the prior approval of the Authority;
 (d) upon the expiry of one month’s notice of the member’s
 intention to resign from office, given by the member in
@@ -1777,7 +1841,8 @@ of Authority
 to any such committee such of its functions as it thinks fit.
 184 No. 10 of 200]
 Biosafety
-(2) The Authority may appoint as members of a committee
+(2) The Authority may appoint as members of a
+committee
 constituted under sub-paragraph (1), persons who are or are not
 members of the Authority and such persons shall hold office for
 such period as the Authority may determine.
@@ -1792,8 +1857,10 @@ interest
 or any committee of the Authority and who is directly or indirectly
 interested in a matter that is the subject of consideration at the
 meeting shall, as soon as is practicable after the commencement
-of the meeting, disclose the interest and shall not, unless the
-Authority or the committee otherwise directs, take part in any
+of the meeting, disclose the interest and shall not,
+unless the
+Authority or the committee otherwise directs, take
+part in any
 consideration or discussion of, or vote on, any question relating to
 the matter.
 (2) A disclosure of interest made under this paragraph shall
@@ -1804,7 +1871,8 @@ and staff of
 experienced person as Registrar of the Authority who shall be the
 Authority
 chief executive officer of the Authority and who, subject to the
-general or special direction of the Authority, shall be responsible
+general or special direction of the Authority, shall be
+responsible
 for the carrying out of the provisions of this Act, and shall be
 responsible for the administration of the Act.
 (2) The Authority shall, with the approval of the Minister,
@@ -1817,9 +1885,11 @@ office of Registrar, the Authority shall designate a member of staff
 to act in that capacity for the duration of the absence until the
 Registrar resumes functions of office or until another Registrar is
 appointed in terms of sub-paragraph (1), and that person has, while
-so acting, such powers and shall perform such duties as may be
+so acting, such powers and shall perform such duties
+as may be
 delegated or assigned by the Authority.
-(5) The Authority may appoint, on such terms and conditions
+(5) The Authority may appoint, on such terms and
+conditions
 as the Authority may with the approval of the Minister determine,
 such other staff as it considers necessary for the performance of
 its functions under this Act.
@@ -1902,7 +1972,8 @@ Accounts
 13. The Authority shall cause to be kept proper books of
 accounts and other records relating to its accounts.
 Annual
-14. (1) As soon as practicable, but not later than six months
+14. (1) As soon as practicable, but not later than
+six months
 report
 after the expiry of each financial year, the Authority shall submit
 to the Minister a report concerning its activities during the financial
@@ -1960,7 +2031,8 @@ are used.
 (a) classification of hazard according to existing
 national rules concerning the protection of human
 and animal health and/or the environment;
-(b) generation time in natural ecosystem, sexual and
+(b) generation time in natural ecosystem,
+sexual and
 asexual reproductive cycle;
 (c) information on survival, including seasonability and
 the ability to form survival structures e.g.: seeds,
@@ -1984,10 +2056,12 @@ organic matter, respiration, etc.
 13. History of previous modifications.
 B. Characteristics of the Vector
 1. Nature and source of the vector.
-2. Sequence of transposons, vectors and other non-coding
+2. Sequence of transposons, vectors and other
+non-coding
 genetic segments used to construct the genetically modified
 organism (s) and products thereof and to make the
-introduced vector and insert function in the genetically
+introduced vector and insert function in the
+genetically
 modified organism (s) and products thereof.
 3. Frequency of mobilisation of inserted vector and/or genetic
 transfer capabilities and methods of determination.
@@ -2032,7 +2106,8 @@ material.Methods and sensitivity of measurement;
 (f) expression levels for the recipient’s genes situated
 as far as 100 kbp up and down stream from all
 DNA inserts;
-(g) sensitivity, reliability (in quantitative terms) and
+(g) sensitivity, reliability (in quantitative
+terms) and
 specificity of detection and identification
 techniques;
 (h) history of previous releases or uses of the genetically
@@ -2046,13 +2121,16 @@ products;
 (iii) comparison of the genetically modified
 organism (s) or products thereof to the
 donor, recipient or (where appropriate)
-parental organism regarding
+parental organism
+regarding
 pathogenicity;
 (iv) capacity for colonisation;
-(v) if the organisms is pathogenic to humans
+(v) if the organisms is pathogenic
+to humans
 who are immuno competent:
 (a) disease caused and mechanism of
-pathogenicity including
+pathogenicity
+including
 invasiveness and virulence;
 (b) communicability;
 (c) infective dose;
@@ -2140,10 +2218,12 @@ thereof into organisms in affected ecosystems;
 indigenous organisms to the genetically modified
 organism (s) or products thereof;
 4. Likelihood of post-release selection leading to the
-expression of unexpected and/or undesirable traits in the
+expression of unexpected and/or undesirable
+traits in the
 genetically modified organism (s) or products thereof.
 5. Measures employed to ensure and verify genetic stability.
-Description of genetic traits, which may prevent or
+Description of genetic traits, which may
+prevent or
 minimise dispersal or genetic material. Methods to verify
 stability.
 6. Routes of biological dispersal, known or potential modes
@@ -2202,8 +2282,10 @@ C. Waste Treatment
 3. Possible risks;
 4 Description of treatment envisaged.
 D. Emergency Response Plan
-1. Methods and procedures for controlling the genetically
-modified organism (s) or products thereof in case of
+1. Methods and procedures for controlling the
+genetically
+modified organism (s) or products thereof
+in case of
 unexpected spread.
 2. Methods for decontamination of the areas affected, e.g.
 eradication of the genetically modified organism (s) or
@@ -2227,7 +2309,8 @@ including address in the country;
 including, when appropriate, the type of environment and/
 or the geographical areas(s) of the country for which the
 product is suited.
-4. Type of expected use: industry, agriculture and skilled
+4. Type of expected use: industry, agriculture
+and skilled
 trades, consumers use by public at large.
 B. The following additional information shall be provided when
 required/relevant:
@@ -2280,13 +2363,15 @@ theory of hazards based on deductive, circumstantial as
 well as inductive evidence) to cause harm to biodiversity,
 ecosystems, human or animal health, the lack of full
 scientific certainty or consensus regarding the level of risk
-should not be interpreted as the lack of risk, or as
+should not be interpreted as the lack of
+risk, or as
 acceptable risk.
 2. The risk assessment should take into account, inter alia,
 all relevant scientific theory, evidence and experience,
 including previous risk assessments. This enables the risk
 assessment to evolve in the light of new evidence and
-knowledge; a genetically modified organism or product
+knowledge; a genetically modified organism
+or product
 thereof previously considered acceptable may no longer
 be acceptable, and vice versa.
 3. It shall be accepted as a principle underlying the risk
@@ -2299,11 +2384,14 @@ environmental conditions that it may encounter.
 4. The risk assessment should take into account, inter alia:
 (a) all relevant scientific theory, evidence and
 experience;
-(b) The general characteristics of both the genetically
+(b) The general characteristics of both the
+genetically
 modified organism or product thereof and the
-parent organisms, the vector(s) used, the genetic
+parent organisms, the vector(s) used,
+the genetic
 modifications and the novel trait(s), including
-marker traits(s) and other sequences even when
+marker traits(s) and other sequences
+even when
 not expressed;
 (c) the naive environments or host range of the recipient
 organism and donor organisms;
@@ -2378,7 +2466,8 @@ genetically modified;
 (g) natural and host range of vectors;
 (h) natural habitat and geographic distribution of natural
 and potential hosts;
-(i) potential impacts on human and animal health and
+(i) potential impacts on human and animal
+health and
 the environment
 (j) measures for counteracting adverse impacts;
 (k) potential to survive and multiply in the environment,
@@ -2392,7 +2481,8 @@ technology;
 new insert, including any marker gene(s);
 (c) purpose of the modification and intended use in
 relation to need or benefit;
-(d) method of modification and, in case of transgenic
+(d) method of modification and, in case of
+transgenic
 organisms, the methods for constructing inserts
 and to introduce them into the recipient organism;
 (e) whether introduced gene(s) are integrated or extra
@@ -2467,7 +2557,8 @@ organisms as well as the vector before it was disarmed or
 disabled in cases where it has been disarmed or disabled,
 regarding:
 (a) capacity for colonisation
-(b) if the genetically modified organism or product
+(b) if the genetically modified organism
+or product
 thereof is pathogenic to humans or animals the
 following information is required:
 (i) disease caused and mechanisms of
@@ -2518,9 +2609,11 @@ undesirable impacts on the environment.
 7. Socio-economic Considerations:
 (a) anticipated changes in the existing social and
 economic patterns resulting from the introduction
-of the genetically modified organism or product
+of the genetically modified organism
+or product
 thereof;
-(b) possible threats to biological diversity, traditional
+(b) possible threats to biological diversity,
+traditional
 crops or other products and, in particular, farmer’s
 varieties and sustainable agriculture;
 (c) impacts likely to be posed by the possibility of
@@ -2536,8 +2629,10 @@ or product thereof;
 (e) possible countries and/or communities to be affected
 in terms of disruptions to their social and economic
 welfare;
-(f) possible effects, which are contrary to the social,
-cultural, ethical and religious values of
+(f) possible effects, which are contrary to
+the social,
+cultural, ethical and religious
+values of
 communities arising from the use or release of the
 genetically modified organism or product thereof.
 FIFTH SCHEDULE
@@ -2602,7 +2697,8 @@ association with the genetically modified organism
 to ensure that virulence is not acquired by the
 genetically modified organism in question or by
 other micro-organisms;
-(d) trials on animals completely contained from their
+(d) trials on animals completely contained
+from their
 species and from related species and species
 known to be susceptible to the gene recipient
 micro-organism from which the genetically
@@ -2613,7 +2709,8 @@ vaccinated individuals live in their communities.
 for release:
 (a) the reports from releases in areas other than the State
 of Import shall be thoroughly evaluated by the
-Authority. Particular emphasis shall be given to
+Authority. Particular emphasis shall
+be given to
 whether the applicable regulations in the previous
 release have been adequate to ensure safety;
 (b) if the regulations mentioned in (a) have not been
@@ -2624,7 +2721,8 @@ have been rigorous enough, observations shall be
 made in experimental conditions completely
 contained from the outside environment, but
 otherwise kept at the same soil community,
-moisture, air temperature and plant and animal
+moisture, air temperature and plant
+and animal
 community conditions as the intended area of
 release;
 (d) the observations will include the health of the
@@ -2638,7 +2736,8 @@ procedures in place to deal with possible cases of
 escape.
 7. Imported animal genetically modified organism for lease:
 (a) the reports from releases in areas other than Zambia
-shall be thoroughly evaluated by the Authority.
+shall be thoroughly evaluated by the
+Authority.
 Particular emphasis shall be given to whether the
 applicable regulations in the previous release have
 been adequate to ensure safety;
@@ -2699,11 +2798,14 @@ for eventual release:
 transformation (or resuscitation if it is possible)
 and other phenomena will be carried out in
 complete containment;
-(b) methods of incubating the transformed generative
+(b) methods of incubating the transformed
+generative
 cell or the resuscitated animal will be carried out
 in complete containment;
-(c) the rearing of and observations on the genetically
-modified organism will be carried out under
+(c) the rearing of and observations on the
+genetically
+modified organism will be carried
+out under
 complete containment;
 (d) the genetically modified organism shall be observed
 under complete containment in an experimental
