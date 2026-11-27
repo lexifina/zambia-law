@@ -9,4 +9,4 @@ Text layer: publisher OCR.
 | Long title and enacting words | [preamble.md](preamble.md) |
 | 1. Short title and commencement | [sec-001.md](sec-001.md) |
 | 2. Amendment of Section 2 | [sec-002.md](sec-002.md) |
-| 3. | [sec-003.md](sec-003.md) |
+| 3. of Section 66 | [sec-003.md](sec-003.md) |
