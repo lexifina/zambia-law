@@ -955,7 +955,8 @@ promote disaster management research; and
 provide for any other matters as are relevant for purposes
 of this Act.
 (3) A national disaster management plan shall be supported
-by a disaster management manual containing the details,
+by a disaster management manual containing
+the details,
 responsibilities and procedures for disaster management.
 A national disaster management plan and a disaster
 management manual shall be reviewed and updated by the National
@@ -1022,7 +1023,8 @@ disasters in their field of operation.
 (3) A plan prepared under subsection (1) shall —
 include mitigation, preparedness, response and recovery
 measures; and
-be submitted to the Unit for approval before its
+be submitted to the Unit for approval
+before its
 implementation by the respective institution.
 (4) The Unit shall
 develop guidelines for the preparation, and regular review
