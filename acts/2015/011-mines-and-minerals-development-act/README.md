@@ -10,12 +10,12 @@ Text layer: typeset.
 | 1. Short title and. commencement | [sec-001.md](sec-001.md) |
 | 2. interpretation | [sec-002.md](sec-002.md) |
 | 3. Ownership of minerals | [sec-003.md](sec-003.md) |
-| 4. General principles for mining and | [sec-004.md](sec-004.md) |
+| 4. mining and General principles for mining and | [sec-004.md](sec-004.md) |
 | 5. Directors and other officers | [sec-005.md](sec-005.md) |
 | 6. Mining Licensing Committee | [sec-006.md](sec-006.md) |
 | 7. Honorary inspectors | [sec-007.md](sec-007.md) |
 | 8. Mining Cadastre Office | [sec-008.md](sec-008.md) |
-| 9. Execution and delegation of powers and | [sec-009.md](sec-009.md) |
+| 9. Execution and delegation of functions of powers and | [sec-009.md](sec-009.md) |
 | 10. Powers of Directors and authorised | [sec-010.md](sec-010.md) |
 | 11. Immunity | [sec-011.md](sec-011.md) |
 | 12. Prohibition of exploration, mining or | [sec-012.md](sec-012.md) |
@@ -41,10 +41,10 @@ Text layer: typeset.
 | 32. Mining licence | [sec-032.md](sec-032.md) |
 | 33. Deferment of commencement of mining | [sec-033.md](sec-033.md) |
 | 34. Duration of mining licence | [sec-034.md](sec-034.md) |
-| 35. Obligations of holder of mining licence | [sec-035.md](sec-035.md) |
+| 35. Obligations of holder of grant of the mining licence | [sec-035.md](sec-035.md) |
 | 36. Suspension of production or closure of | [sec-036.md](sec-036.md) |
 | 37. Suspension of production | [sec-037.md](sec-037.md) |
-| 38. Application for mineral processing licence | [sec-038.md](sec-038.md) |
+| 38. licence shall Application for mineral processing licence | [sec-038.md](sec-038.md) |
 | 39. Consideration of application for mineral | [sec-039.md](sec-039.md) |
 | 40. Mineral processing licence | [sec-040.md](sec-040.md) |
 | 41. Obligations of holder of mineral processing | [sec-041.md](sec-041.md) |
@@ -52,7 +52,7 @@ Text layer: typeset.
 | 43. Obligations of holder of gold panning | [sec-043.md](sec-043.md) |
 | 44. Prohibition of trading in minerals without | [sec-044.md](sec-044.md) |
 | 45. Application for mineral trading permit | [sec-045.md](sec-045.md) |
-| 46. Obligations of holder of mineral trading | [sec-046.md](sec-046.md) |
+| 46. Obligations of holder of mineral and separate trading | [sec-046.md](sec-046.md) |
 | 47. Importation and exportation of minerals | [sec-047.md](sec-047.md) |
 | 48. Duration of mineral export or import | [sec-048.md](sec-048.md) |
 | 49. Prohibition of acquisition, selling, etc. | [sec-049.md](sec-049.md) |
@@ -75,7 +75,7 @@ Text layer: typeset.
 | 66. Transfer of mining or mineral processing | [sec-066.md](sec-066.md) |
 | 67. Transfer of control of company | [sec-067.md](sec-067.md) |
 | 68. Alteration of exploration or mining area | [sec-068.md](sec-068.md) |
-| 69. Mergers or co-ordination of mining operations | [sec-069.md](sec-069.md) |
+| 69. Mergers or co-ordination of a mining of mining operations | [sec-069.md](sec-069.md) |
 | 70. Abandonment of land subject to mining or | [sec-070.md](sec-070.md) |
 | 71. Surrender of mining right or mineral processing | [sec-071.md](sec-071.md) |
 | 72. Suspension or revocation of mining right or | [sec-072.md](sec-072.md) |
@@ -104,19 +104,19 @@ Text layer: typeset.
 | 95. Prohibition of disposal of minerals | [sec-095.md](sec-095.md) |
 | 96. Notification of decisions | [sec-096.md](sec-096.md) |
 | 97. Appeal against decision of | [sec-097.md](sec-097.md) |
-| 98. Mining Appeals Tribunal | [sec-098.md](sec-098.md) |
+| 98. Mining Appeals appointed by Tribunal | [sec-098.md](sec-098.md) |
 | 99. Decision of Tribunal | [sec-099.md](sec-099.md) |
 | 100. Appeals to High Court | [sec-100.md](sec-100.md) |
 | 101. Rules | [sec-101.md](sec-101.md) |
 | 102. Failure to appoint manager | [sec-102.md](sec-102.md) |
 | 103. Notice of accidents | [sec-103.md](sec-103.md) |
 | 104. Endangering safety and health of | [sec-104.md](sec-104.md) |
-| 105. Working in suspended or closed mine | [sec-105.md](sec-105.md) |
+| 105. in a mine in Working in suspended or closed mine | [sec-105.md](sec-105.md) |
 | 106. Prohibition of conduct with dangerous | [sec-106.md](sec-106.md) |
 | 107. Obstruction of holder of mining or non-mining | [sec-107.md](sec-107.md) |
 | 108. Offences relating to records and reports | [sec-108.md](sec-108.md) |
 | 109. Permitting unqualified person to prepare | [sec-109.md](sec-109.md) |
-| 110. Use of false certificates | [sec-110.md](sec-110.md) |
+| 110. Use of false certificates certificate or | [sec-110.md](sec-110.md) |
 | 111. Offences related to mining | [sec-111.md](sec-111.md) |
 | 112. General penalty | [sec-112.md](sec-112.md) |
 | 113. Mingling samples of ore | [sec-113.md](sec-113.md) |
