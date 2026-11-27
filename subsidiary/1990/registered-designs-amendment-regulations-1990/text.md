@@ -53,7 +53,8 @@ to l>H applied to 11 textile article
 Registrar to state
 grounds 01 decision and materials used
 Wider regulation 14
-o 'piu of this ,Stt.uutory I fj,//jrume".l can be obl.t,i,leI1 fro", the Gover"",e'T£t Primer
+o 'piu of this ,Stt.uutory I fj,//jrume".l can be obl.t,i,leI1 fro", the
+Gover"",e'T£t Primer
 P.O. lJU;J; 30136. 10100, Lu8uka. Price Kl.OO each.
 '
 ~---­
@@ -137,7 +138,8 @@ nationality of registered proprietor ill the
 register-
 In respect of one design
 OO'l'f'eaponding
-Amount Designs
+Amount
+Designs
 Item
 Matter or Proceeding
 K
@@ -154,7 +156,7 @@ lation under section 25 (1)
 14. On application for cancellation of regiatra­
 tion under section 25 (2)
 15. On application for search under section 28
-when the registration number is supplied 48
+when the registration number is supplied
 16. On application for search under section 28
 when the registration number 1S not
 supplied
