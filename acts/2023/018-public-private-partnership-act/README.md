@@ -18,7 +18,7 @@ Text layer: typeset.
 | 9. Constitution of Technical Committee | [sec-009.md](sec-009.md) |
 | 10. Functions of Technical Committee | [sec-010.md](sec-010.md) |
 | 11. Project identification and conceptua- | [sec-011.md](sec-011.md) |
-| 12. Submission of project list | [sec-012.md](sec-012.md) |
+| 12. project list Submission of project list | [sec-012.md](sec-012.md) |
 | 13. Conceptualisation of project by contracting | [sec-013.md](sec-013.md) |
 | 14. Project identification and conceptuali- | [sec-014.md](sec-014.md) |
 | 15. Variation of project list | [sec-015.md](sec-015.md) |
@@ -31,17 +31,17 @@ Text layer: typeset.
 | 22. Evaluation committee | [sec-022.md](sec-022.md) |
 | 23. Disqualification of bidder | [sec-023.md](sec-023.md) |
 | 24. Approval of evaluation report by | [sec-024.md](sec-024.md) |
-| 25. Request for proposals under single | [sec-025.md](sec-025.md) |
+| 25. Request for proposals under single in a request | [sec-025.md](sec-025.md) |
 | 26. Request for proposals under two- | [sec-026.md](sec-026.md) |
 | 27. Content of request for proposal | [sec-027.md](sec-027.md) |
 | 28. Bid securities | [sec-028.md](sec-028.md) |
 | 29. Clarifications and modifications | [sec-029.md](sec-029.md) |
-| 30. Evaluation criteria | [sec-030.md](sec-030.md) |
+| 30. aspect of a Evaluation criteria | [sec-030.md](sec-030.md) |
 | 31. Evaluation of proposal | [sec-031.md](sec-031.md) |
 | 32. Negotiations | [sec-032.md](sec-032.md) |
-| 33. Approval of negotiation report by | [sec-033.md](sec-033.md) |
-| 34. Notification of approval of public- | [sec-034.md](sec-034.md) |
-| 35. Execution of publicprivate | [sec-035.md](sec-035.md) |
+| 33. Approval of negotiation report by partnership | [sec-033.md](sec-033.md) |
+| 34. Notification of approval of publiccontracting | [sec-034.md](sec-034.md) |
+| 35. contracting Execution of partnership publicprivate | [sec-035.md](sec-035.md) |
 | 36. Notice of award | [sec-036.md](sec-036.md) |
 | 37. Confidentiality | [sec-037.md](sec-037.md) |
 | 38. Record of selection and award | [sec-038.md](sec-038.md) |
@@ -52,7 +52,7 @@ Text layer: typeset.
 | 43. Evaluation of unsolicited proposals | [sec-043.md](sec-043.md) |
 | 44. Preliminary approval | [sec-044.md](sec-044.md) |
 | 45. Due diligence | [sec-045.md](sec-045.md) |
-| 46. Procurement of unsolicited | [sec-046.md](sec-046.md) |
+| 46. approves an Procurement of unsolicited | [sec-046.md](sec-046.md) |
 | 47. Conditions for changing unsolicited | [sec-047.md](sec-047.md) |
 | 48. Circumstances authorising award | [sec-048.md](sec-048.md) |
 | 49. Procedure for direct procurement | [sec-049.md](sec-049.md) |
@@ -72,7 +72,7 @@ Text layer: typeset.
 | 63. Acquisition of rights related to project site | [sec-063.md](sec-063.md) |
 | 64. Compulsory acquisition of land | [sec-064.md](sec-064.md) |
 | 65. Easement | [sec-065.md](sec-065.md) |
-| 66. Collection of prescribed fees or levies | [sec-066.md](sec-066.md) |
+| 66. to charge, Collection of prescribed use of an fees or levies | [sec-066.md](sec-066.md) |
 | 67. Security interest | [sec-067.md](sec-067.md) |
 | 68. Assignment of PublicPrivate Partnership | [sec-068.md](sec-068.md) |
 | 69. Transfer of controlling interest in concessionaire | [sec-069.md](sec-069.md) |
@@ -82,14 +82,14 @@ Text layer: typeset.
 | 73. Substitution of concessionaire | [sec-073.md](sec-073.md) |
 | 74. Winding-up and handback | [sec-074.md](sec-074.md) |
 | 75. Duties of contracting authority | [sec-075.md](sec-075.md) |
-| 76. Project implementation | [sec-076.md](sec-076.md) |
-| 77. Contract manager | [sec-077.md](sec-077.md) |
+| 76. Project implementaa project tion | [sec-076.md](sec-076.md) |
+| 77. a contract Contract manager | [sec-077.md](sec-077.md) |
 | 78. Inspection | [sec-078.md](sec-078.md) |
 | 79. Financial Management and Reporting | [sec-079.md](sec-079.md) |
 | 80. Small and medium scale PublicPrivate | [sec-080.md](sec-080.md) |
 | 81. Small and medium scale PublicPrivate | [sec-081.md](sec-081.md) |
 | 82. Establishment of the PublicPrivate | [sec-082.md](sec-082.md) |
-| 83. Purpose of Fund | [sec-083.md](sec-083.md) |
+| 83. Purpose of Fund the initial | [sec-083.md](sec-083.md) |
 | 84. Remission of funds | [sec-084.md](sec-084.md) |
 | 85. Management of Fund | [sec-085.md](sec-085.md) |
 | 86. Accounts and audit of Fund | [sec-086.md](sec-086.md) |
@@ -99,8 +99,8 @@ Text layer: typeset.
 | 90. Appeals | [sec-090.md](sec-090.md) |
 | 91. Local content | [sec-091.md](sec-091.md) |
 | 92. Registers | [sec-092.md](sec-092.md) |
-| 93. Offences and penalties | [sec-093.md](sec-093.md) |
-| 94. Participation in tenders under Act | [sec-094.md](sec-094.md) |
+| 93. Offences and penalties a duty or | [sec-093.md](sec-093.md) |
+| 94. Participation in tenders indirectly, under Act | [sec-094.md](sec-094.md) |
 | 95. Regulations | [sec-095.md](sec-095.md) |
 | 96. Repeal of | [sec-096.md](sec-096.md) |
 | FIRST SCHEDULE | [schedule-01.md](schedule-01.md) |

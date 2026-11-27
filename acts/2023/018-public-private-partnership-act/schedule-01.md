@@ -2,16 +2,16 @@
 (Sections 7(3) and 9(3))
 ADMINISTRATION OF THE COUNCIL AND TECHNICAL COMMITTEE
 1. (1) A member of the Council and Technical Committee shall, subject to other provisions of this Act, hold office for a term of three years and may be reappointed for a further and final term of two years from the date of appointment except for the members referred to under section 7(1)(a), (b) and (c).
-(2) A member of the Technical Committee and a member referred to under section 7(1)(d) may, on the expiration of a term for which a member is appointed, continue to hold office until another member is appointed but in no case shall an extension of the period exceed three months.
-(3) The office of a member of the Council or Technical Committee becomes vacant if the member—
+(2) A member of the Technical Committee and referred to under section 7(1)(d) may, on the expiration of a term for which a member is appointed, continue to hold office until another member is appointed but in no case shall an extension of the period exceed three months.
+(3) The office of a member of the Council or Committee becomes vacant if the member—
 (a) dies;
 (b) is adjudged bankrupt under any written law;
 (c) resigns by giving one month’s notice, in writing —
 (i) in the case of the Council, to the President; and
 (ii) in the case of the Technical Committee, to the Minister;
 (d) is legally disqualified from performing the functions of a member of the Council or Technical Committee;
-(e) is absent, without reasonable excuse, from three consecutive meetings of the Council or Technical Committee of which the member has had notice without the prior approval of the Council or Technical Committee; or
-(f) is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a term of six months without the option of a fine.
+(e) is absent, without reasonable excuse, from three consecutive meetings of the Council or Committee of which the member has had notice without the prior approval of the Council or Committee; or
+(f) is convicted of an offence under this Act or written law and sentenced to imprisonment of six months without the option of a fine.
 (4) The President shall, where the office of a member of the Council becomes vacant before the expiry of the term of office, appoint another member to replace the member who vacates office but that person shall only hold office for the unexpired term of that office.
 (5) The Minister shall, where the office of a member of the Technical Committee becomes vacant before the expiry of the term of office, appoint another member to replace the member who vacates office but that person shall only hold office for the unexpired term of that office.
 2. (1) Subject to the other provisions of this Act, the Council may regulate its own procedure.
@@ -30,10 +30,10 @@ ADMINISTRATION OF THE COUNCIL AND TECHNICAL COMMITTEE
 (2) The Technical Committee shall meet for the transaction of business at least once in every three months at a place and time as the chairperson may determine.
 (3) The chairperson may, on giving notice of not less than fourteen days, call for a meeting of the Technical Committee, or where one third or more of the Technical Committee members so request, in writing, except that if the urgency of a particular matter does not permit the giving of a notice, a special meeting may be called on giving a shorter notice.
 (4) Five members of the Technical Committee shall form a quorum at a meeting of the Technical Committee.
-(5) There shall preside at a meeting of the Technical Committee—
+(5) There shall preside at a meeting of the Committee—
 (a) the chairperson;
 (b) in the absence of the chairperson, the vice chairperson; or
-(c) in the absence of both the chairperson and vice chairperson, a member of the Technical Committee as the members of the Technical Committee present may elect for the purpose of that meeting.
+(c) in the absence of both the chairperson chairperson, a member of the Technical Committee as the members of the Technical Committee present may elect for the purpose of that meeting.
 (6) A decision of the Technical Committee on any question shall be by a majority of the members of the Technical Committee present and voting at the meeting, and in the event of an equality of votes, the person presiding at the meeting shall have a casting vote in addition to that person’s deliberative vote.
 (7) The Technical Committee may invite a person whose presence is in the Technical Committee’s opinion desirable to attend and participate in the deliberations of the meeting, but that person shall have no vote.
 (8) The validity of any proceedings, acts or decisions of the Technical Committee shall not be affected by a vacancy in the membership of the Technical Committee or any defect in the appointment of a member of the Technical Committee or by reason that a person not entitled to do so took part in the proceedings.

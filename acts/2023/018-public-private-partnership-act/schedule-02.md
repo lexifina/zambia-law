@@ -15,7 +15,7 @@ PUBLIC-PRIVATE PARTNERSHIP MODELS
 (2) During the operation period, the concessionaire may be permitted to charge user levies specified in the agreement to recover the investment made in the project.
 (3) The concessionaire is liable to transfer the project to the contracting authority after the expiry of the specified period of operation.
 7. (1) A contractual model where the contracting authority contracts out a project to a concessionaire to construct the facility on a turn key basis, assuming costs overruns, delays and specified performance risks.
-(2) Once the facility meets the standards and is commissioned, the concessionaire shall be given the right to operate the project and collect user fees under an agreement.
+(2) Once the facility meets the standards and is commissioned, the concessionaire shall be given the right to operate and collect user fees under an agreement.
 (3) The certificate of title vests with the contracting authority in the model.
 8. (1) A contractual model where the concessionaire adds to an existing project which it rents from the contracting authority and operates the expanded project.
 (2) A concessionaire collects user levies to recover the investment over an agreed franchise period.
