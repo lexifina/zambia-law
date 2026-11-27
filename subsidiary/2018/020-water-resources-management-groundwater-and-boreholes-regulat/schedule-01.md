@@ -1,13 +1,13 @@
 # FIRST SCHEDULE
-(Regulations 2) Form I (Regulation 3 ( I) Water Resources Management Authority The Water Rcsou recs Management Act (ActNo.21 of2011) The 'Water Resources Management (Groundwater and Boreholes) Regulations, 2018
+(Regulations 2) (Regulation 3 ( I) Water Resources Management Authority The Water Rcsou recs Management Act (ActNo.21 of2011) The 'Water Resources Management (Groundwater and Boreholes) Regulations, 2018
 NOTJCE TO DRILL BOREHOLE Please complete in block Shaded fields Licence Code letters for official use only Date and ~ime Information Required Information Provided
-ENTERPRISE INFORMATION .,j I. Full name of enterprise
+ENTERPRISE INFORMATION I. Full name of enterprise
 2. Postal Address Email Address
 4. Physical address Plot No:
 Street.
 Province Town Tel A person wishing to object to the grant of approval may do so in writing stating reasons fo r the objection, within thirty days o f the date o f publication of the notice.
-Objections sho u Id be sent to the Authority, catchment counci l or sub-catchment council Note: The Form must be attached to the application to drill 7th March, 2018 Statutory Instruments Form II (Regulation 3 (2) Water Resources Management Authority The Water Resources Management Act (Act No. 21 of2011) The Water Resources Management (Groundwate,· and Boreholes) Regulations, 2018
-APPLICATION TO DRILL BOREHOLE Please complete in block Shaded fields Licence Code letters for official use only Date and Time ' , Informalion Required information Provided " 1.
+Objections sho u Id be sent to the Authority, catchment counci l or sub-catchment council Note: The Form must be attached to the application to drill 7th March, 2018 Statutory Instruments (Regulation 3 (2) Water Resources Management Authority The Water Resources Management Act (Act No. 21 of2011) The Water Resources Management (Groundwate,· and Boreholes) Regulations, 2018
+APPLICATION TO DRILL BOREHOLE Please complete in block Shaded fields Licence Code letters for official use only Date and Time ' , Informalion Required information Provided 1.
 Surname of Applicant Forename(s) Registration No.
 Nationality NRC/Passport No.
 Email address
@@ -19,8 +19,8 @@ Email address
 4. Owner of property Anticipated use: Residential D Commercial o 5.
 Irrigation D Industrial D (Other) ....................................................................................... .... . ....................... (denote intended use) Will water withdrawn be greater than I 0,000 I itres per day? D Yes DNo
 6. Drilling Contractor:
-Licence No: ... ................................................. . ....... ..... .. 7th March, 2018 Statutmy Instruments Form II (Regulation 3 (2) Water Resources Management Authority The Water Resources Management Act (Act No. 21 of2011) The \\later Resources Management (Groundwater and Boreholes) Regulations, 2018
-APPLICATION TO DRILL BOREHOLE Please complete in block Shaded fields Licence Code letters for official use ..., only Date and Time Informalion Required Information Provided I. Surname of Applicant '1 Forename(s) Registration No.
+Licence No: ... ................................................. . ....... ..... .. 7th March, 2018 Statutmy Instruments (Regulation 3 (2) Water Resources Management Authority The Water Resources Management Act (Act No. 21 of2011) The \\later Resources Management (Groundwater and Boreholes) Regulations, 2018
+APPLICATION TO DRILL BOREHOLE Please complete in block Shaded fields Licence Code letters for official use ..., only Date and Time Informalion Required Information Provided I. Surname of Applicant Forename(s) Registration No.
 Nationality NRC/Passport No.
 Emai l address
 2. Licence/Permit No.
@@ -50,7 +50,8 @@ D Attach proof of consent from landowner or certified title deeds or letter of p
 Sign the borehole registration form Approved/ Not approved:
 Reasons for rejection:
 FOR OFFICIAL USE ONLY Received by ............ .. .. .. ... . .. .. ··· ··· RECE IPT No ...
-I OFFICIAL STAMP I ... ...... ... . .. .. ..... . ..
+I OFFICIAL
+STAMP I ... ...... ... . .. .. ..... . ..
 Date Received: . . . . . . . . . . . ...
 Amount Received. ........ ...... . .. ........ ... , ··· ···· Signature: .......... . .. ....... ... . .... ........ ..... ..... . . 7th March, 2018 Statutory Instruments Form Ill (Regulation 3 (3)) Water Resources Management Authority The Water Resources Management Act (Act No. 21 of2011) The Water Resources Management (Groundwater and Boreholes) Regulations, 2018
 NOTICE OF GRANT TO DRILL BOREHOLE To: ............................................................... ...................................................................... .
@@ -64,7 +65,7 @@ IN THE MATTER OF: ......... .... ............... .......... .............. .....
 FOR OFFICIAL USE ONLY Received by: ................................... . REC EIPT No ... ......................................... ....... . . (Name of Officer)
 I OFFICIAL STAMP I Date Received: ............................................... .
 Amount Received. .................... ..................... .
-Statutory Instruments 7th March, 2018 Form IV (Regulation 3 (4)) Water Resources Management Authority The \~ater Resources Management Act (Act No. 21 of2011) The Water Resources Management (Groundwater and Boreholes) Regulations, 2018
+Statutory Instruments 7th March, 2018 (Regulation 3 (4)) Water Resources Management Authority The \~ater Resources Management Act (Act No. 21 of2011) The Water Resources Management (Groundwater and Boreholes) Regulations, 2018
 NOTICE OF REFUSAL TO DRILL BOREHOLE (!) Here To: ( 1) ........... ................................................ .. ................ ................................. . insert name and address ',
 (2) Insert IN THE MATTER OF ............................................... ......... (2) ......................... .. the reference No. ofthe Notice
 (3) Here You are notified that your application for (3) ....................... ........................... . insert type has been rejected on the following grounds: of application (a) ..
@@ -73,7 +74,7 @@ NOTICE OF REFUSAL TO DRILL BOREHOLE (!) Here To: ( 1) ........... ..............
 (d)
 (4) Signature ( 4) .. .... ............. .. .... ... .... ..... .... . of Director-Director-General
 OFFICIAL ST AMP General 7th March, 2018 Statutory Instruments Form V (Regulation 6 ( I ) \,Vater Resources Management Authority The Water Resources Management Act (Act No. 21 of20ll) The Water Resources Management (Groundwater and Boreholes) Regulations, 2018
-BOREHOLE REGISTRATION FORM Shaded fields for I Licence Code I Please complete in block letters official use only I Date and Time I " informatio n Required information Provided I.,
+BOREHOLE REGISTRATION FORM Shaded fields for I Licence Code Please complete in block letters official use only I Date and Time informatio n Required information Provided I.,
 I APPLICANT INFORMATION Surname of Applicant Forename(s) Address City/Town Province:
 NRC/Passport No:
 Telephone Cell No:
@@ -108,7 +109,7 @@ FOR OFFICIAL USE ONLY Received by:.....................................
 RECEIPT No .................................................. .
 Ojjicer(Name and Signature) Date Received: ........................................ ..... .. OFFICIAL STAMP Amount Received. ...... ................................... .
 Serial No. of Applicant: ................................ ..
-Statutory Instruments 7th March, 2018 Form VI (Regulation 7) Water Resources Management Authority The Water Resources Management Act (Act No. 21 of201 I) The \Vater Resources Management (Groundwater and Boreholes) Regulations, 2018
+Statutory Instruments 7th March, 2018 (Regulation 7) Water Resources Management Authority The Water Resources Management Act (Act No. 21 of201 I) The \Vater Resources Management (Groundwater and Boreholes) Regulations, 2018
 DEFECTIVE BOREHOLE REPORT Please complete in block Shaded fields Licence Code lettc rs for official use on ly Date and Tinie Information Required Information Provided I. Name of Applicant: 2.
 Type of Applicant:
 Company Partnership Co-operative Individual Company Name : (if applicable) Owner of property:
@@ -119,7 +120,6 @@ City/Town Province::
 Phone Nos: Home:
 Work:
 Cell No:
-Fax:
 South: ... . ... 3.
 GPS Location of borehole: WGS 84 East: . . . . . . . . . ......... 7th March, 2018 Statutory Instruments Thresholds for toxic in a defective borehole Toxic substances mg/L Pesticides µg/1 Others µg/1 Arsenic (As) > 0.01 Aldrin/dieldrin >0.01 Polychlorinated >0.05 biphenyls (PCBs) Mercury (Hg) >0.002 Chlordane >0.002 Dioxins >0.0000003 Cadmium (Cd) >0.005 Dichloro-> 1 Perchlorate >2 Di pheny l-Trichloroethane (DDT) Barium (Ba) > 2.0 Endonsulfan >2 Methyl tertiary- >20 butyl ether (MtBE) Chromium (Cr) > 0.1 Endrin >0.002 Cobalt (Co) >0.5 Heptachlor and >0.0002 heptachlor epoxide Cyanide (CN-) >0.2 Hexachloro- > 0.001 benzene l Fl uoride (F-) >4.0 Lindane >0.0002 (Gamma BHC) Lead (Pb) >0.0 1 Methoxychlor >0.04 Aluminium (Al) >0.5 Toxaphene >0.003 Manganese (Mn) >0.1 Nitrates (N0-3) > 10 Nitrite (N0-2) > 1.0 Selenium (Se) >0.05 Si lver (Ag) > 0.05 State any other chemicals or substances
 FOR OFFICIAL USE ONLY Received by. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................. RECEIPT No. ............. ........ . ..... ' ...... ..
