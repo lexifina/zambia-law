@@ -126,8 +126,10 @@ capable of suing and being sued in its corporate name and with
 power, subject to this Act, to do all such acts and things as a body
 corporate may, by law, do or perform.
 Seal of Bureau
-4. (1) The seal of the Bureau shall be such device as may be
-determined by the Bureau and shall be kept by the Executive
+4. (1) The seal of the Bureau shall be such device
+as may be
+determined by the Bureau and shall be kept by the
+Executive
 Director.
 (2) The affixing of the seal shall be authenticated by the
 Chairperson or the Vice-Chairperson and the Executive Director
@@ -202,8 +204,10 @@ Minister:
 of commerce respectively; and
 (d) three persons with experience and knowledge in matters
 relevant to this Act.
-(2) The Minister shall appoint the Chairperson of the Board
-from amongst the members of the Board who are not public
+(2) The Minister shall appoint the Chairperson of
+the Board
+from amongst the members of the Board who are
+not public
 officers.
 (3) The members of the Board shall elect the Vice-Chairperson
 from amongst themselves.
@@ -236,7 +240,8 @@ of performing the functions of a member.
 the member is appointed, continue to hold office until a successor
 is appointed, but in no case shall the further period exceed four
 months.
-(9) The Minister shall, whenever the office of a member
+(9) The Minister shall, whenever the office of
+a member
 becomes vacant before the expiring of the term of office, appoint
 another person in place of that member but that person shall hold
 office as a member only for the unexpired part of the term of the
@@ -284,7 +289,8 @@ the Board.
 (a) the Chairperson;
 (b) in the absence of the Chairperson, the Vice-Chairperson;
 and
-(c) in the absence of the Chairperson and the Vice-
+(c) in the absence of the Chairperson and
+the Vice-
 Chairperson, such other member as the members present
 may elect for the purpose of that meeting.
 (6) Adecisionof theBoardonanyquestionshallbebyamajority
@@ -315,12 +321,14 @@ may determine.
 (2) The Board may appoint as members of a committee,
 persons who are or are not members, except that at least one
 member of a committee shall be a member of the Board.
-(3) A person serving as a member of a committee shall hold
+(3) A person serving as a member of a committee
+shall hold
 office for such period as the Board may determine.
 (4) Subject to any specific or general direction of the Board, a
 committee may regulate its own procedure.
 Emoluments
-10. A member of the Board or any committee of the Board
+10. A member of the Board or any committee of
+the Board
 shall be paid such emoluments as the Emoluments Commission
 may determine.
 Executive
@@ -382,7 +390,8 @@ or discussion of, or vote on, any question relating to, that matter.
 be recorded in the minutes of the meeting at which it is made.
 (3) A person who contravenes subsection (1) commits an
 offence and is liable, upon conviction, to a fine not exceeding two
-hundred thousand penalty units or imprisonment for a term not
+hundred thousand penalty units or imprisonment for
+a term not
 exceeding two years, or to both.
 Prohibition
 14. (1) Aperson shall not, without the consent, in writing, given
@@ -390,7 +399,8 @@ of
 by or on behalf of the Bureau, publish or disclose to an unauthorised
 publication
 or disclosure
-person, otherwise than in the course of that person’s duties, the
+person, otherwise than in the course of that person’s
+duties, the
 of
 contents of a document, communication or information which relates
 information
@@ -499,7 +509,8 @@ manner or form a document or part of the document in which the
 copyright vests in the Bureau, without the authorisation of the
 Bureau.
 Restriction
-21. (1) A person shall not claim or declare that a product or
+21. (1) A person shall not claim or declare that a
+product or
 on
 service conforms with a Zambian National Standard or other
 certain
@@ -566,7 +577,8 @@ by statutory instrument—
 (a) establish product certification schemes to be administered
 by the Bureau; and
 (b) declare a mark to be a certification mark for the purposes
-of certifying conformity of a product with a declared
+of certifying conformity of a product with
+a declared
 standard.
 (2) A certification mark shall not be declared which so closely
 Cap. 401
@@ -582,10 +594,12 @@ of a product that conforms with the relevant standard.
 otherwise use in connection with the supply or promotion of a
 product or commodity, a mark that so closely resembles a
 certification mark as to be likely to be mistaken for the certification
-mark, unless it was registered as a trade mark before the
+mark, unless it was registered as a trade mark
+before the
 Cap. 416
 commencement of the repealed Act.
-(6) A person shall not, in connection with the supply or
+(6) A person shall not, in connection with the
+supply or
 promotion of a product or commodity, make any reference to the
 Board or the Bureau or to any certification mark, except to the
 extent authorised under subsection (3).
@@ -593,7 +607,8 @@ extent authorised under subsection (3).
 and is liable, upon conviction, to a fine not exceeding three hundred
 thousand penalty units.
 System
-25. (1) The Minister may, on recommendation of the Board,
+25. (1) The Minister may, on recommendation of
+the Board,
 certification
 by statutory instrument—
 (a) establish a system certification scheme to be administered
@@ -603,7 +618,8 @@ of providing independent evidence of conformity of a
 company, process or body with a management system
 standard.
 Standards
-[No. of 2017 113
+[No.
+of 2017 113
 (2) A certification mark shall not be declared which
 so closely resembles a trade mark registered under the Trade Marks
 Cap. 401
@@ -685,7 +701,8 @@ be appended to that report
 (b) an audited statement of comprehensive income; and
 (c) such other information as the Minister may require.
 (3) The Minister shall, not later than seven days after the first
-sitting of the National Assembly next after receipt of the report
+sitting of the National Assembly next after receipt of
+the report
 referred to in subsection (1), lay the report before the National
 Assembly.
 PART VI
@@ -806,7 +823,8 @@ Legal
 2. (1) Any legal proceedings or application of the Zambia
 Proceedings
 Bureau of Standards pending immediately before the commence-
-ment of this Act by or against the Zambia Bureau of Standards
+ment of this Act by or against the Zambia Bureau of
+Standards
 may be continued by or against the Bureau.
 (2) After the commencement of this Act, proceedings in re-
 spect of any right, liability or obligation which was vested in, held,
