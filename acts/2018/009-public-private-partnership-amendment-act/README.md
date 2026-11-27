@@ -1,6 +1,6 @@
-# Public-Private Partnership (Amendment)Act, 2018 (No. 9 of 2018)
+# Public-Private Partnership (Amendment) Act, 2018 (No. 9 of 2018)
 
-Public-Private Partnership (Amendment)Act, 2018 (No. 9 of 2018): the text as passed, in force from 2018-07-31 (date printed under the long title: publication in the Gazette, from which an Act comes into operation unless it provides otherwise). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/public-private-partnership-amendment-act-no-9-of-2018-lex-faoc185400/>): <https://faolex.fao.org/docs/pdf/zam185400.pdf>.
+Public-Private Partnership (Amendment) Act, 2018 (No. 9 of 2018): the text as passed, in force from 2018-07-31 (date printed under the long title: publication in the Gazette, from which an Act comes into operation unless it provides otherwise). Secondary copy: the full text FAOLEX (FAO) holds for this record (record <https://www.ecolex.org/details/legislation/public-private-partnership-amendment-act-no-9-of-2018-lex-faoc185400/>): <https://faolex.fao.org/docs/pdf/zam185400.pdf>.
 
 Text layer: typeset.
 
@@ -16,7 +16,7 @@ Text layer: typeset.
 | 7. Repeal and replacement of section 10 | [sec-007.md](sec-007.md) |
 | 8. Repeal and replacement of section 14 | [sec-008.md](sec-008.md) |
 | 9. Repeal and replacement of sections 26, 27, 28, | [sec-009.md](sec-009.md) |
-| 10. Amendment of section 43 | [sec-010.md](sec-010.md) |
+| 10. in paragraph Amendment of section 43 | [sec-010.md](sec-010.md) |
 | 11. Insertion of new section 65A | [sec-011.md](sec-011.md) |
 | 12. Amendment of section | [sec-012.md](sec-012.md) |
 | 13. Amendment of Second Schedule | [sec-013.md](sec-013.md) |
