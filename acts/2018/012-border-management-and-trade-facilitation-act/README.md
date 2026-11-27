@@ -12,7 +12,7 @@ Text layer: typeset.
 | 3. Application | [sec-003.md](sec-003.md) |
 | 4. Legislation related to one-stop border post | [sec-004.md](sec-004.md) |
 | 5. Lead agency for coordinating operations | [sec-005.md](sec-005.md) |
-| 6. Functions of lead Agency | [sec-006.md](sec-006.md) |
+| 6. Functions of lead Agency and services | [sec-006.md](sec-006.md) |
 | 7. Constitution and composition of National | [sec-007.md](sec-007.md) |
 | 8. Functions of National Committee on Trade | [sec-008.md](sec-008.md) |
 | 9. National Committee on Trade Facilitation | [sec-009.md](sec-009.md) |
@@ -25,16 +25,16 @@ Text layer: typeset.
 | 16. Publication of border agreement | [sec-016.md](sec-016.md) |
 | 17. Establishment and designation of control | [sec-017.md](sec-017.md) |
 | 18. Exclusive use areas within control | [sec-018.md](sec-018.md) |
-| 19. Traffic control | [sec-019.md](sec-019.md) |
+| 19. Traffic control of traffic in | [sec-019.md](sec-019.md) |
 | 20. Operating days and hours | [sec-020.md](sec-020.md) |
-| 21. Equipment for official use | [sec-021.md](sec-021.md) |
+| 21. appropriate Equipment for official use out official | [sec-021.md](sec-021.md) |
 | 22. Communication equipment in control zones | [sec-022.md](sec-022.md) |
 | 23. Border controls in control | [sec-023.md](sec-023.md) |
 | 24. Joint controls | [sec-024.md](sec-024.md) |
 | 25. Use of single window system | [sec-025.md](sec-025.md) |
 | 26. Simplified trading arrangements | [sec-026.md](sec-026.md) |
 | 27. Access to control zones by | [sec-027.md](sec-027.md) |
-| 28. of functions in control zones | [sec-028.md](sec-028.md) |
+| 28. Performance of functions in control zones | [sec-028.md](sec-028.md) |
 | 29. Communication with offices | [sec-029.md](sec-029.md) |
 | 30. Laws of adjoining State to apply in | [sec-030.md](sec-030.md) |
 | 31. Criminal acts for nonborder control laws | [sec-031.md](sec-031.md) |
