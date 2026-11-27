@@ -4,7 +4,7 @@ THE NATIONAL WATER SUPPLY AND SANITATION COUNCIL Seal of Council 1. (1) The seal
 (2) The affixing of the seal shall be authenticated by the Chairperson or the Vice Chairperson and the Secretary or any other person authorised in that behalf by a resolution of the Council.
 Water Supply and Sanitation
 (3) Any document purporting to be a document under the seal of Council or issued on behalf of Council shall be received in evidence and shall be deemed to be so executed or issued, as the case may be, without further proof unless the contrary is proved.
-2. (1) The Council shall consist of the following members appointed by the Minister- Composition of Council
+2. (1) The Council shall consist of the following members appointed by the Minister-
 (a) a representative of the Environmental Council of Zambia;
 (b) a representative of the Zambia Chambers of Commerce and Industry;
 (c) a representative of the Association of Consulting Engineers of Zambia;
@@ -49,12 +49,12 @@ Water Supply and Sanitation
 (7) The Council may invite any person whose presence is in its opinion, desirable to attend and participate in the deliberations of a meeting but that person shall have no vote.
 (8) The validity of any proceedings, act or decision of the Council shall not be affected by any vacancy in its membership or by any defect in the appointment of any member or because any person not entitled to do so took part in the proceedings.
 (9) The Council shall cause to be kept minutes of the proceedings of every meeting of the Council and of every meeting of any committee constituted by the Council.
-5. (1) The Council may for the purpose of performing its functions under this Act Committees of constitute any committee, the Chairperson of which shall be a member of the Council Council, and may delegate to that committee any of its functions.
+5. (1) The Council may for the purpose of performing its functions under this Act constitute any committee, the Chairperson of which shall be a member of the Council, and may delegate to that committee any of its functions.
 (2) The Council may appoint as members of a committee established under subsection
 (1), persons who are or are not members of the Council and such persons shall hold office for such period as Council may determine:
 Provided that at least half of the members of a committee shall be members of Council.
 (3) Subject to any specific or general directions of the Council any committee established under subsection (1), may regulate its own procedure.
-6. (1) If any person is present at a meeting of the Council or a committee at which any Disclosure of matter, in which that person or any member of their immediate family is directly or interest indirectly interested in a private capacity, is the subject of consideration, that person shall, as soon as is practicable after commencement of the meeting, disclose that interest and shall not, unless the Council or the committee otherwise directs, take part in any consideration or discussion of, or vote on any question relating to that matter.
+6. (1) If any person is present at a meeting of the Council or a committee at which any matter, in which that person or any member of their immediate family is directly or indirectly interested in a private capacity, is the subject of consideration, that person shall, as soon as is practicable after commencement of the meeting, disclose that interest and shall not, unless the Council or the committee otherwise directs, take part in any consideration or discussion of, or vote on any question relating to that matter.
 Water Supply and Sanitation
 (2) A disclosure of interest made under this section shall be recorded in the minutes of the meeting at which it is made.
 (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding one thousand penalty units.
@@ -78,11 +78,11 @@ Water Supply and Sanitation
 (a) the salaries and allowances, and loans to the staff of the Council;
 (b) such reasonable travelling and other allowances for members or members of any committee when engaged on the business of the Council at such rates as the Council may determine; and
 (c) any other expenses incurred by the Council in the performance of its functions.
-10. (1) The Council may invest in such manner as it considers necessary any of its funds Investment of funds which it does not immediately require for the performance of its functions.
+10. (1) The Council may invest in such manner as it considers necessary any of its funds which it does not immediately require for the performance of its functions.
 (2) The Council may establish a Devolution Trust Fund, from moneys appropriated by Parliament, for the purpose of assisting utilities established by local authorities under this Act.
-11. The financial year of the Council shall be a period of twelve months ending on 31st Financial year December in each year.
-12. The Council shall cause to be kept proper books of account and other records relating Accounts to its accounts.
-13. (1) As soon as is practicable, but not later than three months after the expiry of each Annual report financial year, the Council shall submit to the Minister a report concerning its activities during such financial year.
+11. The financial year of the Council shall be a period of twelve months ending on 31st December in each year.
+12. The Council shall cause to be kept proper books of account and other records relating to its accounts.
+13. (1) As soon as is practicable, but not later than three months after the expiry of each financial year, the Council shall submit to the Minister a report concerning its activities during such financial year.
 (2) The report referred to in subsection (1) shall include information on the financial affairs of the Council and there shall be appended to the report-
 (a) an audited balance sheet;
 (b) an audited statement of income and expenditure; and Water Supply and Sanitation

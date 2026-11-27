@@ -6,4 +6,3 @@ general regulation of the National Water Supply and Sanitation Council; and to p
 matters connected with or incidental to the foregoing.
 [14th November, 1997
 ENACTED by the Parliament of Zambia.
-Enactment
