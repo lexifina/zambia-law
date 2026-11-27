@@ -7,6 +7,6 @@ Text layer: typeset.
 | Provision | File |
 | --- | --- |
 | Long title and enacting words | [preamble.md](preamble.md) |
-| 1. | [sec-001.md](sec-001.md) |
-| 2. | [sec-002.md](sec-002.md) |
+| 1. Title | [sec-001.md](sec-001.md) |
+| 2. Repeal and replacement of First Schedule | [sec-002.md](sec-002.md) |
 | FIRST SCHEDULE | [schedule-01.md](schedule-01.md) |
