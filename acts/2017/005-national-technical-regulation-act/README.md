@@ -14,7 +14,7 @@ Text layer: typeset.
 | 5. Establishment of Department of | [sec-005.md](sec-005.md) |
 | 6. Functions of Department | [sec-006.md](sec-006.md) |
 | 7. Director and other staff | [sec-007.md](sec-007.md) |
-| 8. International co-operation on technical | [sec-008.md](sec-008.md) |
+| 8. foreign and International co-operation on technical | [sec-008.md](sec-008.md) |
 | 9. Structure and content of technical regulation | [sec-009.md](sec-009.md) |
 | 10. Scope of technical regulation | [sec-010.md](sec-010.md) |
 | 11. Essential safety requirements | [sec-011.md](sec-011.md) |
