@@ -25,13 +25,13 @@ Text layer: typeset.
 | 16. Restriction of movement | [sec-016.md](sec-016.md) |
 | 17. Notification of suspected disease | [sec-017.md](sec-017.md) |
 | 18. Isolation and separation of diseased animal | [sec-018.md](sec-018.md) |
-| 19. Power of entry into farm, ranch, etc. | [sec-019.md](sec-019.md) |
+| 19. Power of entry into enclosure or farm, ranch, etc. | [sec-019.md](sec-019.md) |
 | 20. Power to order assembly of animals for | [sec-020.md](sec-020.md) |
 | 21. Identification and traceability of animals | [sec-021.md](sec-021.md) |
 | 22. Declaration of disease control zone | [sec-022.md](sec-022.md) |
 | 23. Declaration of quarantine area | [sec-023.md](sec-023.md) |
-| 24. Designation of animal quarantine stations | [sec-024.md](sec-024.md) |
-| 25. Lifting of quarantine | [sec-025.md](sec-025.md) |
+| 24. as an animal Designation of animal quarantine stations | [sec-024.md](sec-024.md) |
+| 25. on an owner Lifting of quarantine | [sec-025.md](sec-025.md) |
 | 26. Permit to manufacture or sell virus, vaccine, etc. | [sec-026.md](sec-026.md) |
 | 27. Import of animal, animal product or | [sec-027.md](sec-027.md) |
 | 28. Importation for scientific, educational or research | [sec-028.md](sec-028.md) |
@@ -46,23 +46,23 @@ Text layer: typeset.
 | 37. Permit for slaughterhouse | [sec-037.md](sec-037.md) |
 | 38. Power of entry | [sec-038.md](sec-038.md) |
 | 39. Regulations in respect of livestock slaughtering | [sec-039.md](sec-039.md) |
-| 40. Declaration of livestock cleansing area | [sec-040.md](sec-040.md) |
+| 40. Declaration of livestock area. cleansing area | [sec-040.md](sec-040.md) |
 | 41. Obligation of owner of livestock cleansing | [sec-041.md](sec-041.md) |
 | 42. Exemption to cleanse livestock | [sec-042.md](sec-042.md) |
 | 43. Powers of officer in livestock cleansing | [sec-043.md](sec-043.md) |
 | 44. Owner of land to provide cleansing | [sec-044.md](sec-044.md) |
-| 45. Provision of tick control facilities | [sec-045.md](sec-045.md) |
+| 45. or livestock Provision of tick control facilities | [sec-045.md](sec-045.md) |
 | 46. Government to provide dipping tanks or | [sec-046.md](sec-046.md) |
 | 47. Tick destroying agent to conform to | [sec-047.md](sec-047.md) |
 | 48. Interpretation | [sec-048.md](sec-048.md) |
 | 49. Declaration of tsetse fly area | [sec-049.md](sec-049.md) |
-| 50. Powers of Minister in respect of private land | [sec-050.md](sec-050.md) |
+| 50. Powers of Minister in land of any respect of private land such land to | [sec-050.md](sec-050.md) |
 | 51. Regulations on tsetse fly control | [sec-051.md](sec-051.md) |
 | 52. Zoosanitary border posts and internal check points | [sec-052.md](sec-052.md) |
 | 53. System for disease control | [sec-053.md](sec-053.md) |
 | 54. Declaration of disease free zone | [sec-054.md](sec-054.md) |
 | 55. Prohibition of use of pesticides, etc. an | [sec-055.md](sec-055.md) |
-| 56. Restriction on bee keeping | [sec-056.md](sec-056.md) |
+| 56. bee or hive Restriction on bee keeping | [sec-056.md](sec-056.md) |
 | 57. Prevention and control of fish diseases | [sec-057.md](sec-057.md) |
 | 58. Prohibition of herding or grazing near public road | [sec-058.md](sec-058.md) |
 | 59. Restriction on importation, manufacture | [sec-059.md](sec-059.md) |
@@ -78,7 +78,7 @@ Text layer: typeset.
 | 69. Regulatory powers with respect to compensation | [sec-069.md](sec-069.md) |
 | 70. Claim for compensation | [sec-070.md](sec-070.md) |
 | 71. Compensation to be withheld in certain | [sec-071.md](sec-071.md) |
-| 72. Appeals | [sec-072.md](sec-072.md) |
+| 72. made by an Appeals | [sec-072.md](sec-072.md) |
 | 73. General offences | [sec-073.md](sec-073.md) |
 | 74. General penalty | [sec-074.md](sec-074.md) |
 | 75. Prohibition of disclosure of | [sec-075.md](sec-075.md) |
@@ -87,5 +87,5 @@ Text layer: typeset.
 | 78. Disposal of seized animals, etc. | [sec-078.md](sec-078.md) |
 | 79. Surrender of permit on conviction | [sec-079.md](sec-079.md) |
 | 80. Regulations | [sec-080.md](sec-080.md) |
-| 81. Repeal of | [sec-081.md](sec-081.md) |
+| 81. Repeal of repealed. | [sec-081.md](sec-081.md) |
 | FIRST SCHEDULE | [schedule-01.md](schedule-01.md) |
