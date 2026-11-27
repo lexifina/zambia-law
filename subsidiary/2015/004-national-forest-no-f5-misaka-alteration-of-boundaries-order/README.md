@@ -7,7 +7,7 @@ Text layer: publisher OCR.
 | Provision | File |
 | --- | --- |
 | Long title and enacting words | [preamble.md](preamble.md) |
-| 1. | [sec-001.md](sec-001.md) |
-| 2. | [sec-002.md](sec-002.md) |
-| 3. | [sec-003.md](sec-003.md) |
+| 1. Title | [sec-001.md](sec-001.md) |
+| 2. Alteration of boundaries G N. No. 72 | [sec-002.md](sec-002.md) |
+| 3. Amendment ofG N. No. 72 of 1946 | [sec-003.md](sec-003.md) |
 | SCHEDULE | [schedule-01.md](schedule-01.md) |
