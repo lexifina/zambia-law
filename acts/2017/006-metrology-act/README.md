@@ -31,37 +31,37 @@ Text layer: typeset.
 | 22. Regulations for controlled measuring | [sec-022.md](sec-022.md) |
 | 23. Technical requirements of controlled measuring | [sec-023.md](sec-023.md) |
 | 24. Type approval of measuring instruments | [sec-024.md](sec-024.md) |
-| 25. Placement into service and verification | [sec-025.md](sec-025.md) |
+| 25. Placement into service and inform the verification | [sec-025.md](sec-025.md) |
 | 26. Calibration and inspection services | [sec-026.md](sec-026.md) |
 | 27. Designated legal metrology organisations | [sec-027.md](sec-027.md) |
 | 28. Regulations for controlled pre-packaged | [sec-028.md](sec-028.md) |
 | 29. Prepackaged commodities | [sec-029.md](sec-029.md) |
-| 30. Registration and responsibilities of pre- | [sec-030.md](sec-030.md) |
+| 30. Registration and by this Act responsibilities of pre- | [sec-030.md](sec-030.md) |
 | 31. Establishment of Metrology Fund | [sec-031.md](sec-031.md) |
 | 32. Administration of Fund and accounts | [sec-032.md](sec-032.md) |
 | 33. Annual report and statement of income and | [sec-033.md](sec-033.md) |
 | 34. Appointment of metrologists | [sec-034.md](sec-034.md) |
 | 35. Powers of entry and search | [sec-035.md](sec-035.md) |
 | 36. Powers of inspection and seizure | [sec-036.md](sec-036.md) |
-| 37. Inspection by joint committee | [sec-037.md](sec-037.md) |
-| 38. Conduct of inspections and assessments | [sec-038.md](sec-038.md) |
-| 39. Rebuttable presumptions regarding measuring | [sec-039.md](sec-039.md) |
+| 37. Inspection by joint inspection committee | [sec-037.md](sec-037.md) |
+| 38. Conduct of inspections and not comply assessments | [sec-038.md](sec-038.md) |
+| 39. Rebuttable presumptions regarding measuring measuring | [sec-039.md](sec-039.md) |
 | 40. Samples and information | [sec-040.md](sec-040.md) |
 | 41. Noncompliance with legal metrology | [sec-041.md](sec-041.md) |
-| 42. Prohibition of publication or disclosure | [sec-042.md](sec-042.md) |
+| 42. in writing, Prohibition of publication or disclosure | [sec-042.md](sec-042.md) |
 | 43. Offences by officers or employees of Agency | [sec-043.md](sec-043.md) |
 | 44. Certification of technician, fitter and contractor | [sec-044.md](sec-044.md) |
 | 45. Prohibition of employment of | [sec-045.md](sec-045.md) |
 | 46. General offences | [sec-046.md](sec-046.md) |
 | 47. Offence by body corporate or unincorporate | [sec-047.md](sec-047.md) |
-| 48. Admission of guilt | [sec-048.md](sec-048.md) |
+| 48. person has Admission of guilt | [sec-048.md](sec-048.md) |
 | 49. General penalty | [sec-049.md](sec-049.md) |
 | 50. Consent of Director of Public Prosecutions | [sec-050.md](sec-050.md) |
 | 51. Appeals | [sec-051.md](sec-051.md) |
 | 52. Presumption as to importer of measuring | [sec-052.md](sec-052.md) |
 | 53. Use of repaired measuring instruments | [sec-053.md](sec-053.md) |
-| 54. Acts not to be interpreted as | [sec-054.md](sec-054.md) |
-| 55. Burden of proof | [sec-055.md](sec-055.md) |
+| 54. Acts not to be interpreted this Act in as | [sec-054.md](sec-054.md) |
+| 55. which it is Burden of proof | [sec-055.md](sec-055.md) |
 | 56. Judicial notice | [sec-056.md](sec-056.md) |
 | 57. Forfeiture | [sec-057.md](sec-057.md) |
 | 58. Limitation of liability | [sec-058.md](sec-058.md) |

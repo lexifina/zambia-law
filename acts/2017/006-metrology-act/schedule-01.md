@@ -12,10 +12,10 @@ THE ZAMBIA METROLOGY AGENCY ADMINISTRATION OF AGENCY
 (f) is removed by the Minister; or
 (g)has a mental or physical disabilitywhich makes the member incapable of performing the functions of a member.
 (4) A member shall, on the expiration of the period for which the member is appointed, continue to hold office until a successor is appointed, but in no case shall the further period exceed four months.
-(5) The Minister shall, whenever the office of a member becomes vacant before the expiry of the term of office, appoint another person in place of that member but that person shall hold office as a member only for the unexpired part of the term of the Board.
+(5) The Minister shall, whenever the office of becomes vacant before the expiry of the term of office, appoint another person in place of that member but that person shall hold office as a member only for the unexpired part of the term of the Board.
 (6) The Minister shall, as far as practicable when appointing members of the Board in accordance with subsection (1), ensure that there is fifty percent representation of each gender.
 2. (1) Subject to the other provisions of this Act, the Board may regulate its own procedure.
-(2) The Board shall meet for the transaction of business at least once in every three months at such places and times as the Board may determine.
+(2) The Board shall meet for the transaction of least once in every three months at such places and times as the Board may determine.
 (3) A meeting of the Board may be called by the Chairperson upon giving notice of not less than fourteen days, and shall be called by the Chairperson if one-third or more of the members so request in writing, except that if the urgency of any particular matter does not permit the giving of such notice, a special meeting may be called upon giving a shorter notice.
 (4) Five members shall constitute a quorum at a meeting of the Board.
 (5) There shall preside at a meeting of the Board—
@@ -29,7 +29,7 @@ THE ZAMBIA METROLOGY AGENCY ADMINISTRATION OF AGENCY
 (10) The Board shall cause minutes to be kept of the proceedings of every meeting of the Board and every meeting of any committee of the Board.
 3. (1) The Board may, for the purposes of performing its functions, establish such committees as it considers necessary and delegate to any of those committees any of its functions.
 (2) The Board may appoint as members of a committee persons who are or are not members of the Board, except that at least one member of the Board shall be a member of a committee.
-(3) Despite the generality of subsections (1) and (2), the Board may appoint special committees, composed of some members of the Board and persons representing relevant regulatory agencies, to carry out inspections under this Act or perform such other regulatory functions that require collaborative effort with other regulatory agencies.
+(3) Despite the generality of subsections (1) and (2), the Board may appoint special committees, composed of some members of the Board and persons representing relevant regulatory agencies, to carry out inspections under this Act or perform regulatory functions that require collaborative effort regulatory agencies.
 (4) A person serving as a member of a committee shall hold office for such period as the Board may determine.
 (5) Subject to any specific or general direction of the Board, a committee may regulate its own procedure.
 4. A member of the Board or any committee of the Board shall be paid such emoluments as the Emoluments Commission may determine.
