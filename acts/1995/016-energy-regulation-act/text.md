@@ -35,7 +35,7 @@ Minister, by statutory instrument, prescribes;
 "inspector" means a person appointed under section four to be
 an inspector for the purposes of this Act;
 Energy Regulation
-[CAP. 436 5
+[CAP. 436
 "undertaking" means any commercial undertaking, whether
 public or private, for
 (a) the production, generation, transmission, distribution or supply
@@ -90,10 +90,13 @@ adjustments made, or services provided, by any undertaking,
 and regulate such adjustments and services by the attachment
 of appropriate conditions to licences held by undertakings;
 (c) receive and investigate complaints concerning the location or
-construction of any common carrier or any energy or fuel
+construction of any common carrier or any energy or
+fuel
 facility or installation or the carrying out of any works by any
-undertaking, and regulate such location and construction by
-the attachment of appropriate conditions to licences held by
+undertaking, and regulate such location and construction
+by
+the attachment of appropriate conditions to licences held
+by
 undertakings;
 (d) in conjunction with the Zambia Competition Commission
 established by the Competition and Fair Trading Act, monitor
@@ -107,7 +110,8 @@ the Standards Act, design standards with regard to the quality,
 safety and reliability of supply of energy and fuels;
 Cap 416
 if) in conjunction with other Government agencies, formulate
-measures to minimise the environmental impact of the
+measures to minimise the environmental impact of
+the
 production and supply of energy and the production,
 transportation, storage and use of fuels and enforce such
 measures by the attachment of appropriate conditions to
@@ -115,16 +119,20 @@ licences held by undertakings; and
 (g) make recommendations to the Minister as to the measures
 to be taken through regulations to be made under this Act.
 (2) The Board shall have and may exercise and perform such other
-powers and functions as are conferred or imposed on it by or under this
+powers and functions as are conferred or imposed on it by or under
+this
 Act or any other written law.
 Delegation
-7. The Board may, by instrument in writing, delegate to a person for
+7. The Board may, by instrument in writing, delegate to a person
+for
 the time being holding or acting in a specified position in the staff
-establishment of the Board, or to any committee of the Board, the
-exercise of such of the functions of the Board as are specified in the
+establishment of the Board, or to any committee of the Board,
+the
+exercise of such of the functions of the Board as are specified in
+the
 instrument.
 Energy Regulation
-[CAP. 436 7
+[CAP. 436
 PART III
 ~
 LICENSING OF CERTAIN UNDERTAKINGS
@@ -175,14 +183,17 @@ shall be accompanied by the objection fee so prescribed.
 evidence as the objector desires to furnish in support of the objection.
 8 CAP. 436]
 Energy Regulation
-(3) The objection, and any supporting documentation, shall be
+(3) The objection, and any supporting documentation, shall
+be
 rejected if it is not lodged within the time allowed by the notice pub­
 lished under section nine in relation to the application:
-Provided that the Board, at any time before granting a licence in
+Provided that the Board, at any time before granting a licence
+in
 pursuance of the application, may at its discretion entertain an objection
 made out of time.
 (4) The Board shall furnish the applicant for the licence with
-particulars of any objection made to the grant of the licence, and the
+particulars of any objection made to the grant of the licence, and
+the
 applicant may, if he or she so desires, reply to the objection in writing
 addressed to the Board.
 Determination
@@ -193,17 +204,21 @@ shall take into account
 undertaking to which the application relates; and
 (b) the merits of any objection made to the grant of a licence in
 pursuance of an application.
-(2) The Board may, if it thinks fit, convene a meeting with the
+(2) The Board may, if it thinks fit, convene a meeting with
+the
 applicant and any objectors to discuss the application; and if the number
 of objectors is large, or if the Board considers that the circumstances
-warrant such action, the meeting so convened may be opened to the
+warrant such action, the meeting so convened may be opened to
+the
 public, but in either case the procedure at any such meeting shall be as
 the Board may, in its absolute discretion, determine.
 (3) The Board may grant or refuse to grant the licence; and where it
-decides to grant the licence, the Board shall notify the applicant of the
+decides to grant the licence, the Board shall notify the applicant of
+the
 conditions intended to be attached to the licence.
 Conditions of
-12. (1) A licence is subject to such conditions as may be imposed by
+12. (1) A licence is subject to such conditions as may be imposed
+by
 licences
 the Board and specified in the licence when it is granted or when it is
 varied in accordance with subsection (3).
@@ -211,17 +226,19 @@ varied in accordance with subsection (3).
 (a) requiring the payment to the Board of a fee on grant of the
 licence and of annual or other periodic licence fees:
 Provided that no such fee shall exceed one­half of one per centum of
-the annual turnover of the undertaking, except with the consent of the
+the annual turnover of the undertaking, except with the consent of
+the
 Minister;
 (b) making provision with respect to the fees and and charges
 imposed in respect of energy, fuel or any service to be proved
 in the course of the licensed undertaking, and the adjustment
 of such fees and charges;
 (c) requiring the publication by the licensee of notices specifying
-the method of calculating or otherwise determining any
+the method of calculating or otherwise determining
+any
 charges referred to in paragraph (b);
-[CAP. 436 9
 Energy Regulation
+[CAP. 436
 (d) requiring the licensee or any other person concerned in the
 undertaking authorised by the licence to furnish to the Board,
 in such manner and at such times as the Board may reasonably
@@ -410,10 +427,12 @@ organisation;
 (e) any other expenses incurred by the Board in the perfor
 mance of the Board's functions.
 Application of
-21. (1) Amounts payable as fees under this Act shall be paid to the
+21. (1) Amounts payable as fees under this Act shall be paid to
+the
 licence fees, etc.
 general revenues of the Republic.
-(2) Moneys paid to the general revenues under this section shall be
+(2) Moneys paid to the general revenues under this section shall
+be
 applied to the development of the energy sector in Zambia.
 Energy Regulation
 [CAP. 436 13
@@ -481,7 +500,8 @@ the person's name or address;
 by addressing the notice to the person having that interest in
 the premises (specifying the premises and the interest
 concerned) and by delivering it to some person on the
-premises, or if there is no person on the premises to whom it
+premises, or if there is no person on the premises to whom
+it
 can be delivered, by affixing it, or a copy of it, to some
 conspicuous part of the premises.
 Regulations
@@ -498,7 +518,8 @@ application or objection;
 supply of energy and fuels and related installations;
 (c) securing the safety of the public from personal injury or
 damage to property arising from the production, transmission,
-transportation, transformation, storage, distribution, supply or
+transportation, transformation, storage, distribution, supply
+or
 use of energy or fuel;
 (d) reporting of and inquiries into accidents involving the oper­
 ation of any undertaking or associated plant, equipment or
@@ -616,7 +637,8 @@ as practicable thereafter at a subsequent meeting.
 Committees
 4. (1) The Board may, for the purpose of performing its functions, establish committees.
 (2) The Board may appoint a person as a member of a committee whether or not the
-person is a member of the Board, and any person so appointed shall hold office for such
+person is a member of the Board, and any person so appointed shall
+hold office for such
 period as the Board may determine.
 (3) Subject to any specific or general direction of the Board, a committee may regulate
 its own procedure.
@@ -628,8 +650,8 @@ Remuneration
 5. A full­time member of the Board shall be paid such salary, allowances and other
 benefits as may be determined by an agreement governing the terms of the member's
 appointment.
-[CAP. 436 17
 Energy Regulation
+[CAP. 436 17
 6. A part­time member of the Board and a member of any committee
 Allowances
 of the Board shall be paid such travelling and subsistence allowances as
