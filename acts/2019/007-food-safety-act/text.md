@@ -40,14 +40,16 @@ Act No. 27 of
 theAnimal Health Act, 2010;
 “ appeals committee ” means an ad hoc appeals committee
 constituted under section 61;
-“ appropriate enforcement authority ” means the Ministry
+“ appropriate enforcement authority ” means
+the Ministry
 responsible for health, the Ministry responsible for animal
 health, the Ministry responsible for agriculture, the Ministry
 responsible for higher education, the Ministry responsible
 for trade, industry and consumer protection or a local
 authority and any other Ministry or institution that the
 Minister may specify, by statutory instrument;
-“ approved laboratory ” means any laboratory undertaking
+“ approved laboratory ” means any laboratory
+undertaking
 the functions relating to food safety established under any
 other written law;
 “article” includes—
@@ -63,12 +65,14 @@ environmental health officer, health inspector, plant health
 inspector, veterinary officer,veterinaryinspector as assigned
 in the Animal Health Act, 2010 and any other suitably
 Act No. 27 of
-qualified officer appointed as such by the Minister, by
+qualified officer appointed as such by the
+Minister, by
 statutory instrument, for the purposes of this Act, and
 includes—
 (a) a police officer and an officer of the Department of
 Customs and Excise authorised in that behalf by the
-Commissioner-General responsible for Customs and
+Commissioner-General responsible for
+Customs and
 Excise; and
 (b) principal officer as defined in the Local GovernmentAct,
 2019;
@@ -109,7 +113,8 @@ instrument, apparatus or contrivance, manufactured, sold
 or intended for use in the preparation, preservation,
 packaging, storage or transportation of any food;
 “environmental health officer” means a person registered as
-an environmental health officer under the Health
+an environmental health officer under
+the Health
 Professions Act, 2009;
 Act No. 24 of
 “ food ” means any substance, whether processed, semi-
@@ -121,7 +126,8 @@ treatment of food;
 in the processing of food as a preservative, antioxidant or
 emulsifier in order to preserve or add flavour, colour or
 texture to processed food, but does not include
-contaminants or substances added to food for maintaining
+contaminants or substances added to food for
+maintaining
 or improving nutritional qualities;
 “ food control system ” means an organised mandatory
 regulatory system of enforcement by national or local
@@ -197,7 +203,8 @@ partly placed or packed whether open or closed;
 with the land on which the building, tent or structure is
 situated and any adjoining land used in connection with
 the building, tent or structure, or a vehicle, conveyance
-or vessel used for the manufacture, processing,
+or vessel used for the manufacture,
+processing,
 preparation, treatment, packing, packaging or storage
 of an article; and
 (b) for the purpose of section 18, a street, open space or
@@ -291,7 +298,8 @@ Committee
 by the Minister:
 (a) a representative of the Ministry responsible for health,
 who shall be the Chairperson;
-(b) one representative each of the Ministries responsible
+(b) one representative each of the Ministries
+responsible
 for—
 (i) animal health;
 (ii) commerce;
@@ -305,7 +313,8 @@ for—
 (iii) the Zambia Chamber of Commerce and Industry;
 and
 (iv) the Zambia Association of Manufacturers.
-(4) The members referred to in subsection (3) shall be
+(4) The members referred to in subsection
+(3) shall be
 nominated by their respective institutions.
 (5) The members shall elect the Vice Chairperson from among
 themselves.
@@ -472,7 +481,8 @@ is contained inanyof the publications specified in the Third Schedule
 commits an offence unless the food—
 (a) is in accordance with the prescribed standard under
 which it is labelled, packaged, sold or advertised; and
-(b) does not resemble, in a manner likely to deceive, any
+(b) does not resemble, in a manner likely to
+deceive, any
 food for which a standard has been prescribed or which
 is contained in any of the publications specified in the
 Third Schedule.
@@ -496,7 +506,8 @@ consuming it; and
 same composition on the health of a person consuming
 it in ordinary quantities.
 (3) In this Part, “ injury ”, in relation to health, includes an
-impairment, whether permanent or temporary, and “injurious to
+impairment, whether permanent or temporary, and
+“injurious to
 health” shall be construed accordingly.
 Selling food
 13. (1) A person commits an offence if that person—
@@ -583,7 +594,8 @@ device
 Standards for
 devices
 person who labels, packages, sells or advertises an article in a
-manner that is likely to be mistaken for the device commits an
+manner that is likely to be mistaken for the device
+commits an
 offence, unless the article complies with the prescribed standard.
 20. (1) Subject to subsection (2), a person shall not import an
 Importation
@@ -619,7 +631,8 @@ Act and the terms and conditions of the licence, permit,
 certificate or regulatory health requirement;
 (b) require a manufacturer, an importer, exporter, distributor
 or seller of an article to submit that information, records
-or articles that may be necessary to enable the
+or articles that may be necessary to
+enable the
 enforcement authority to monitor compliance with this
 Act;
 (c) collect samples of an article from a manufacturer, an
@@ -671,12 +684,14 @@ mentioned in paragraph (b).
 section commits an offence and is liable, on conviction, to a fine
 not exceedingtwo hundred thousand penalty units or imprisonment
 for a term not exceeding two years, or to both.
-(4) A person shall not disclose any proprietary information
+(4) A person shall not disclose any proprietary
+information
 supplied to the enforcement authority in pursuance of a notice
 under subsection (1) except—
 (a) with the written consent of the person who supplied the
 information;
-(b) in accordance with the directions of the enforcement
+(b) in accordance with the directions of the
+enforcement
 authority; or
 (c) for the purposes of any proceedings under thisAct or any
 other written law.
@@ -710,7 +725,8 @@ Application
 for health
 to operate a business that requires regulatory health clearance shall
 inspection
-apply to the local authority or regulatory services centre in the
+apply to the local authority or regulatory services
+centre in the
 report and
 prescribed manner and form on payment of the prescribed fee, for
 certificate of
@@ -762,7 +778,8 @@ valid licence, permit or certificate issued to the applicant under any
 other law.
 (3) A local authority or regulatory services centre shall grant
 a certificate of compliance in respect of a business if—
-(a) it determines that the premises in respect of which the
+(a) it determines that the premises in respect
+of which the
 application is made are structurally designed or adapted
 to be used for the purpose without creating a health
 hazard;
@@ -802,7 +819,8 @@ give the reasons for the rejection.
 Conditions of
 28. (1) A local authority or regulatory services centre may
 certificate of
-impose any or all of the following conditions on a certificate of
+impose any or all of the following conditions on a
+certificate of
 compliance
 compliance issued under section 26:
 (a) the holder shall allow the inspection of the premises and
@@ -879,7 +897,8 @@ Renewal of
 certificate of
 thirty days before the expiration of the period of validity of that
 compliance
-certificate of compliance, apply to the local authority or regulatory
+certificate of compliance, apply to the local authority
+or regulatory
 services centre for the renewal of the certificate of compliance in
 the prescribed manner and form on payment of the prescribed fee.
 (2) A local authority or regulatory services centre shall, within
@@ -968,9 +987,11 @@ to which the offence was committed.
 36. A person shall not import, export, manufacture, label, store,
 Health
 clearance
-promote, transport, advertise, pack, package, sell, distribute or
+promote, transport, advertise, pack, package, sell,
+distribute or
 certificate
-dispose of an article or any material or substance used for the
+dispose of an article or any material or substance
+used for the
 manufacture of an article except under, and in accordance with, a
 health clearance certificate issued by the Committee in the
 prescribed manner and form.
@@ -1071,8 +1092,10 @@ premises or conveyance where an article is
 manufactured, prepared, preserved, packaged or stored
 for sale or sold, examine the article and take samples of
 the article for purposes of an investigation;
-(b) examine anything used or capable of being used for the
-manufacture, preparation, preservation, packaging or
+(b) examine anything used or capable of being
+used for the
+manufacture, preparation, preservation,
+packaging or
 storing of an article;
 (c) demand froma person, the production of a health inspection
 report, health clearance permit or certificate of
@@ -1092,9 +1115,11 @@ four hours; and
 (ii) without undue delay, have the person so arrested
 brought before a court of competent jurisdiction;
 (e) open and examine a container, conveyance, package or
-wrapping suspected to contain an article to which this
+wrapping suspected to contain an article
+to which this
 Act applies to ensure compliance with this Act;
-(f) inspect articles destined for import into, or export from,
+(f) inspect articles destined for import into, or
+export from,
 the Republic to determine whether the consignment is
 compliant with the provisions of thisAct;
 (g) stop, inspect and examine any conveyance which the
@@ -1156,9 +1181,11 @@ other information concerning any matter relevant to the
 administration of thisAct; and
 (d) suspend one or more activities or temporarily, partially or
 completely close inspected premises.
-(5) An inspector who removes a document or article from
+(5) An inspector who removes a document or
+article from
 any premises in accordance with subsection (1) (k) and (l) shall—
-(a) issue a receipt for the article to the owner or person in
+(a) issue a receipt for the article to the owner
+or person in
 control of the premises; and
 (b) return the article as soon as practicable after achieving
 the purpose for which it was removed.
@@ -1215,12 +1242,15 @@ conveyance, any sample or specimen of an article for
 analysis by a public analyst under this Act; and
 (c) apply other tests that the authorised officer considers
 necessary.
-(2) An authorised officer may, for the purpose of obtaining
+(2) An authorised officer may, for the purpose
+of obtaining
 statistics of articles weigh, measure and check any article, and
 any person in charge of the article shall, on demand being made to
-that person by an authorised officer, produce that article to the
+that person by an authorised officer, produce that
+article to the
 authorised officer for that purpose.
-(3) Where an authorised officer takes a sample or specimen
+(3) Where an authorised officer takes a sample
+or specimen
 of an article for analysis, the article shall not be delivered to the
 importer, exporter, manufacturer or seller until the public analyst
 has reported on the samples taken.
@@ -1229,9 +1259,11 @@ or the analyst that the sale of the article—
 (a)would be in contravention of thisAct if sold in the Republic,
 the article shall not be admitted in the Republic for use
 as an article; and
-(b) would not be in contravention of this Act if sold in the
+(b) would not be in contravention of this Act
+if sold in the
 Republic, the article shall, subject to the provisions of
-any other law, be admitted in the Republic for use as an
+any other law, be admitted in the Republic
+for use as an
 article.
 Arrest
 45. (1) An authorised officer may arrest a person, without
@@ -1249,7 +1281,8 @@ of the authorised officer’s duties.
 (1) shall, without undue delay, have the person arrested brought to
 a police station.
 Demanding
-46. An authorised officer may demand from any person
+46. An authorised officer may demand from
+any person
 production
 engaged in doing or causing to be done anything for which a licence
 of certificate
@@ -1313,7 +1346,8 @@ or the contamination of food; and
 of food so as to determine the immediate and long term
 effects of contamination and unsuitable food on human
 health and life.
-(2) An authorised officer may enter on any land or premises for
+(2) An authorised officer may enter on any land or
+premises for
 the purposes of monitoring the effects of any activities carried out
 on that land or premises on food safety and quality.
 Protection
@@ -1326,10 +1360,12 @@ hazard the appropriate enforcement authority may serve a protection
 order on that person.
 (2) A protection order served on a person under subsection
 (1) may require that person to—
-(a) prepare a written emergency response plan to reduce or
+(a) prepare a written emergency response plan
+to reduce or
 eliminate the risk and provide a copy of the plan to the
 appropriate enforcement authority;
-(b) have any necessary equipment, facilities and trained
+(b) have any necessary equipment, facilities
+and trained
 personnel available to deal with the risk;
 (c) on an identified event or set of circumstances occurring,
 implement the plan; and
@@ -1339,7 +1375,8 @@ emergency can be effectively dealt with.
 with the requirements of the order by the date or dates specified in
 the order and if no date is specified, the person shall comply with
 the order immediately.
-(4) A person who contravenes subsection (3) commits an
+(4) A person who contravenes subsection (3)
+commits an
 offence and is liable, on conviction, to a fine not exceeding one
 hundred thousand penalty units or to imprisonment for a term not
 exceeding one year, or to both, and where the person fails to comply
@@ -1347,7 +1384,8 @@ with a requirement specified in the protection order within the
 specified time, to a further fine not exceeding one thousand penalty
 units for each day or part of a day after the date specified in the
 order during which the offence continues.
-51. (1) An appropriate enforcement authority may issue a
+51. (1) An appropriate enforcement authority
+may issue a
 Prevention
 order
 prevention order to a person where the enforcement authority
@@ -1407,7 +1445,8 @@ breach within the period stipulated in the compliance order.
 (2) A compliance order issued under subsection (1) may—
 (a) suspend the certificate, permit or licence with immediate
 effect if the enforcement authority considers that the
-suspension is necessary to prevent or mitigate an
+suspension is necessary to prevent or
+mitigate an
 imminent risk of significant adverse impact to human
 health or life; or
 (b) require a person to take specified measures to prevent or
@@ -1418,11 +1457,13 @@ fails to comply with a compliance order—
 the cost from the holder in accordance with section 59;
 (b) vary the conditions of the certificate, permit or licence; or
 (c) revoke the certificate, permit or licence.
-(4) A person on whom a compliance order is served shall
+(4) A person on whom a compliance order is
+served shall
 comply with the requirements of the compliance order by the date
 or dates specified in the compliance order and if no date is specified,
 the person shall comply with the compliance order immediately.
-(5) A person who contravenes subsection (4) commits an
+(5) A person who contravenes subsection (4)
+commits an
 offence and is liable, on conviction, to a fine not exceeding three
 hundred thousand penalty units or to imprisonment for a term not
 exceeding three years, or to both.
@@ -1511,10 +1552,12 @@ likely to arise from, the offence; and
 authority to take those measures, and requiring the
 person to pay the Government’s costs of so doing.
 Seizure of
-59. A law enforcement officer or an authorised person may,
+59. A law enforcement officer or an authorised
+person may,
 property
 where that officer or authorised person reasonably believes that an
-offence has been committed, any article collected or removed
+offence has been committed, any article collected
+or removed
 contrary to the provisions of thisAct and any tool, instrument, plant,
 machinery, equipment, vehicles, and other property suspected of
 having been used in the commission of the offence may seize and
@@ -1593,10 +1636,12 @@ body
 corporate
 that body corporate or unicorporate body, that director, manager,
 or
-partner or shareholder commits an offence and is liable, on
+partner or shareholder commits an offence and
+is liable, on
 unincorporate
 body
-conviction, to the penalty or term of imprisonment specified for
+conviction, to the penalty or term of imprisonment
+specified for
 that offence.
 64. (1) The Minister may, on the recommendation of the
 Regulations
@@ -1606,7 +1651,8 @@ carrying out of the provisions of this Act.
 (2) Despite the generality of subsection (1), regulations made
 under subsection (1) may provide for—
 (a) the declaration of an article as unsafe, adulterated or
-contaminated if any specified substance is present in
+contaminated if any specified substance
+is present in
 the article;
 (b) declare a laboratory as an approved laboratory;
 (c) the labelling, packing, offering, exposing and advertising
@@ -1684,7 +1730,8 @@ notice, in writing, to the Minister.
 (a) dies;
 (b) resigns;
 (c)isabsent, withoutreasonableexcuse,fromthreeconsecutive
-meetings of the Committee of which the member has
+meetings of the Committee of which the
+member has
 had notice without the approval of the Committee;
 (d) is adjudged bankrupt;
 (e) is convicted of an offence under this Act or any other law
@@ -1692,7 +1739,8 @@ and sentenced to imprisonment for a period exceeding
 six months without the option of a fine;
 (f)is removed by the Minister for good cause on the following
 grounds:
-(i) the member acts dishonourably, improperly,
+(i) the member acts dishonourably,
+improperly,
 fraudulently, dishonestly or disorderly;
 (ii) the institution which the member represents
 withdraws its support of the member as its
@@ -1702,7 +1750,8 @@ accordingly; or
 of a member.
 (4) A member shall, on the expiration of the period for which
 the member is appointed, continue to hold office until a successor
-is appointed but in no case shall the further period exceed three
+is appointed but in no case shall the further period
+exceed three
 months.
 (5) Whenever the office of a member becomes vacant, before
 the expiring of the term of office, the Minister may appoint another
@@ -1799,7 +1848,8 @@ to
 the course of that person’s duties under this Act.
 unauthorised
 persons
-(2) A person who contravene subsection (1) commits an
+(2) A person who contravene subsection (1)
+commits an
 offence and is liable, on conviction, to a fine not exceeding two
 hundred thousand penalty units or to imprisonment for a term not
 exceeding two years, or to both.
@@ -1827,7 +1877,8 @@ Board
 Transfer of
 3. (1) On or after the commencement of this Act, there shall
 assets and
-be transferred to, vest in and subsist against the State by virtue of
+be transferred to, vest in and subsist against the State
+by virtue of
 liabilities
 thisAct and without further assurance, all assets, rights, liabilities
 and obligations which immediatelybefore that date were the assets,
@@ -1837,10 +1888,12 @@ agreement, other than an agreement for personal service, to which
 the Board was a party immediately before the commencement of
 this Act whether or not of such a nature that rights, liabilities and
 obligations could be assigned, shall, unless its subject matter or
-terms make it impossible that it should have effect as modified,
+terms make it impossible that it should have effect
+as modified,
 provided under this paragraph, have effect as if—
 (a) the State had been party to it;
-(b) for any reference to the Board there were substituted,
+(b) for any reference to the Board there were
+substituted,
 with respect to anything falling to be done on or after
 the commencement of thisAct, a reference to the State;
 or
