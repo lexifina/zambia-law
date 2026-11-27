@@ -7,5 +7,5 @@ Text layer: publisher OCR.
 | Provision | File |
 | --- | --- |
 | Long title and enacting words | [preamble.md](preamble.md) |
-| 1. | [sec-001.md](sec-001.md) |
-| 2. | [sec-002.md](sec-002.md) |
+| 1. Short title and | [sec-001.md](sec-001.md) |
+| 2. Amendment of section 5 | [sec-002.md](sec-002.md) |
