@@ -14,13 +14,13 @@ Text layer: typeset.
 | 5. Functions of Agency | [sec-005.md](sec-005.md) |
 | 6. Board of Agency | [sec-006.md](sec-006.md) |
 | 7. Functions of Board | [sec-007.md](sec-007.md) |
-| 8. Tenure of office and vacancy | [sec-008.md](sec-008.md) |
+| 8. to the other Tenure of office and vacancy | [sec-008.md](sec-008.md) |
 | 9. Proceedings of Board | [sec-009.md](sec-009.md) |
 | 10. Committees of Board | [sec-010.md](sec-010.md) |
 | 11. Allowances | [sec-011.md](sec-011.md) |
 | 12. Disclosure of interest | [sec-012.md](sec-012.md) |
 | 13. DirectorGeneral, Secretary and other | [sec-013.md](sec-013.md) |
-| 14. Funds of Agency | [sec-014.md](sec-014.md) |
+| 14. monies that Funds of Agency | [sec-014.md](sec-014.md) |
 | 15. Financial year | [sec-015.md](sec-015.md) |
 | 16. Accounts | [sec-016.md](sec-016.md) |
 | 17. Annual report | [sec-017.md](sec-017.md) |
