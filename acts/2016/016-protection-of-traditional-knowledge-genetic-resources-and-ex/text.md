@@ -34,7 +34,8 @@ Protection of Traditional Knowledge, Genetic
 452 [ No. 16 of 2016 Resources and Expressions of Folklore
 Traditional Knowledge and Expressions of Folklore, 2010,
 the World Trade Organisation Trade-Related Intellectual
-Property Rights Agreement (TRIPS), 1994 and any other
+Property Rights Agreement (TRIPS), 1994 and
+any other
 relevant international treaty or convention to which
 Zambia is a State Party; and to provide for matters
 incidental to, or connected with, the foregoing.
@@ -44,7 +45,8 @@ ENACTED by the Parliament of Zambia.
 PART I
 PRELIMINARY PROVISIONS
 Short title
-1. This Act may be cited as the Protection of Traditional
+1. This Act may be cited as the Protection of
+Traditional
 Knowledge, Genetic Resources and Expressions of Folklore Act,
 2016, and shall come into operation on such date as the Minister
 may, by statutory instrument, appoint.
@@ -67,7 +69,8 @@ Companies Registration Agency Act;
 of 2010
 “ appropriate institution ” means any Ministry having
 responsibility for, or such public or statutory officer or body
-having powers under any other law over, the regulation,
+having powers under any other law over, the
+regulation,
 collection, use, compilation or dissemination of, traditional
 knowledge, genetic resources and expressions of folklore
 and includes a Government agency responsible for
@@ -75,7 +78,6 @@ administering or having special technical expertise on a
 specific sector of traditional knowledge, genetic resources
 and expressions of folklore;
 Protection of Traditional Knowledge, Genetic
-Resources and Expressions of Folklore [ No. 16 of 2016 453
 “ ARIPO ” means the African Regional Intellectual Property
 Organisation;
 “ benefits ” means the value, privileges, consideration, profit
@@ -121,13 +123,15 @@ Protection of Traditional Knowledge, Genetic
 the traditional context; or
 (ii) carrying out the acts referred to under
 paragraph (a) with respect to a product
-that is a direct result of the use of the
+that is a direct result of the
+use of the
 method or process;
 “ exploration ” means an activity to find out the existence or
 the status of a given genetic resource;
 “ exploration permit ” means a permit granted by the Agency
 in accordance with section thirty-nine;
-“ exploration permit holder ” means a person holding an
+“ exploration permit holder ” means a person
+holding an
 exploration permit;
 “ expressions of folklore ” means any form, whether tangible
 or intangible, in which traditional culture and knowledge is
@@ -146,7 +150,8 @@ reduced to a material form;
 drawings, designs, paintings, body painting,
 carvings, sculptures, pottery, terracotta, mosaic,
 woodwork, metal ware, jewelry, baskets, needle-
-work, textiles, glassware, carpets, costumes,
+work, textiles, glassware, carpets,
+costumes,
 handicrafts, musical instruments and architectural
 forms; and
 (e) any other output of creative and cumulative
@@ -154,8 +159,10 @@ intellectual activity characteristic of a traditional
 community’s distinctive cultural identity and
 traditional heritage developed and maintained by
 that traditional community, individuals or groups
-who have the right or responsibility to do so in
-accordance with customary laws and practices;
+who have the right or responsibility
+to do so in
+accordance with customary laws and
+practices;
 “ ex-situ ” means a condition in which a genetic resource is
 found outside of its natural habitat or ecosystem;
 Protection of Traditional Knowledge, Genetic
@@ -201,13 +208,15 @@ the prior understanding and acceptance by a traditional
 community, individual or group to use their traditional
 knowledge, genetic resource or expression of folklore in
 accordance with this Act;
-Protection of Traditional Knowledge, Genetic
+Protection of Traditional Knowledge,
+Genetic
 456 [ No. 16 of 2016 Resources and Expressions of Folklore
 “ protected area ” means a geographic area that is protected
 in accordance with any other law;
 “ Register ” means the Register of Traditional Knowledge,
 Genetic Resources and Expressions of Folklore established
-and maintained in accordance with section eleven and
+and maintained in accordance with section
+eleven and
 includes the Register as maintained in electronic form;
 “ Registrar ” means the person appointed as Registrar in
 accordance with the Patents and Companies Registration
@@ -215,7 +224,8 @@ Agency Act, 2010;
 Act No. 15
 of 2010
 “ sustainable use ” means the use of components of biological
-diversity in a way and at a rate that does not lead to the
+diversity in a way and at a rate that does not
+lead to the
 long-term decline of biodiversity, thereby maintaining its
 potential to meet the needs and aspirations of present and
 future generations;
@@ -231,8 +241,10 @@ genetic resource or expression of folklore and the words
 accordingly;
 “ traditional context ” means knowledge, practices, know-
 how, learning, skill, process and method which traditionally
-or through custom and culture was or is developed,
-sustained and passed on from generation to generation
+or through custom and culture was or is
+developed,
+sustained and passed on from generation to
+generation
 within a traditional community or by individuals or groups
 in the community, and which forms part of a community’s
 cultural or spiritual identity and includes agricultural,
@@ -242,7 +254,8 @@ to a specific subject area, technical or medical field
 associated with genetic resources, originating from a
 traditional community, individual or group that is the result
 of intellectual activity and insight in a traditional context
-and where the knowledge is embodied in the traditional
+and where the knowledge is embodied in the
+traditional
 lifestyle of a traditional community or is codified in
 knowledge systems and passed on from one generation to
 another;
@@ -301,7 +314,8 @@ principles
 expressions of folklore;
 (b) traditional knowledge and expressions of folklore against
 misappropriation, misuse and unlawful exploitation;
-(c) an equitable balance between the rights and interests of
+(c) an equitable balance between the rights and
+interests of
 holders and users;
 (d) genetic resources found in-situ and ex-situ against
 misappropriation and illegal exploitation; and
@@ -314,7 +328,8 @@ prior informed consent of the holder, including all other rights,
 remedies and actions available to a holder as specified in this Act.
 (3) This Act shall not be construed as limiting or defining the
 diverse and holistic conceptions relating to traditional knowledge,
-genetic resources and expressions of folklore in the traditional
+genetic resources and expressions of folklore in the
+traditional
 context but shall be construed and enforced taking into account the
 dynamic and evolving nature of traditional knowledge, genetic
 resources and expressions of folklore.
@@ -331,8 +346,10 @@ expressions of folklore with ARIPO and obtain benefits
 arising from the commercial use of such knowledge and
 folklore;
 (e) be able to use the alternative dispute settlement procedures
-at ARIPO to settle disputes arising from traditional
-knowledge and expressions of folklore shared by
+at ARIPO to settle disputes arising from
+traditional
+knowledge and expressions of folklore
+shared by
 different traditional communities across national
 boundaries; and
 Protection of Traditional Knowledge, Genetic
@@ -375,7 +392,8 @@ how traditional communities develop, hold and transmit
 traditional knowledge, including the custodianship of
 traditional knowledge, genetic resources and expressions
 of folklore.
-Protection of Traditional Knowledge, Genetic
+Protection of Traditional Knowledge,
+Genetic
 460 [ No. 16 of 2016 Resources and Expressions of Folklore
 PART II
 ADMINISTRATION
@@ -388,7 +406,8 @@ Registrar
 (2) The Registrar shall exercise the powers and perform the
 functions assigned to the Registrar by this Act.
 Functions of
-6. Without prejudice to the generality of section five and subject
+6. Without prejudice to the generality of section five
+and subject
 Registrar
 to the other provisions of this Act, the functions of the Registrar
 are to—
@@ -399,7 +418,8 @@ of folklore;
 (b) collect, analyse and disseminate to holders and users
 information on access;
 (c) advise and assist holders in enforcing their rights;
-(d) where a dispute arises between a traditional community
+(d) where a dispute arises between a traditional
+community
 and a community outside Zambia, regarding ownership
 of traditional knowledge, genetic resources, or
 expressions of folklore, where applicable refer the
@@ -407,7 +427,8 @@ dispute to a regional or an international body for
 resolution upon exhaustion of local remedies;
 (e) monitor and ensure that access is carried out in accordance
 with this Act;
-(f) prepare model access agreements and, where necessary,
+(f) prepare model access agreements and, where
+necessary,
 collect from users benefits on behalf of holders and other
 beneficiaries; and
 (g) maintain registers and publish journals as required under
@@ -488,7 +509,8 @@ resources and expressions of folklore that are protected in
 Journal
 accordance with this Act and any matter which the Registrar may
 consider desirable relating to such matters.
-Protection of Traditional Knowledge, Genetic
+Protection of Traditional Knowledge,
+Genetic
 462 [ No. 16 of 2016 Resources and Expressions of Folklore
 (2) The Registrar may sell copies of the Intellectual Property
 Journal at such price and in such manner as the Board may approve.
@@ -524,7 +546,8 @@ and the preservation of traditional knowledge, and subject to relevant
 policies, laws and procedures and the needs and aspirations of
 holders, establish and maintain various registers or other records
 on traditional knowledge.
-(3) The registers established, in accordance with subsection
+(3) The registers established, in accordance with
+subsection
 (2), may be associated with specific forms of protection and shall
 not comprise the status of undisclosed traditional knowledge or the
 interests of holders in relation to undisclosed elements of their
@@ -534,10 +557,13 @@ Zambia share the same traditional knowledge, the Registrar shall
 register the holder of the traditional knowledge in the Register and
 maintain relevant records.
 (5) A registration effected, in accordance with this Act, shall
-have a declaratory function and shall not involve or require the
-documentation, recording or public disclosure of the traditional
+have a declaratory function and shall not involve or
+require the
+documentation, recording or public disclosure of the
+traditional
 knowledge but such registration may serve as evidence in legal
-proceedings as to the identity and legal status of the traditional
+proceedings as to the identity and legal status of the
+traditional
 knowledge as registered.
 Protection of Traditional Knowledge, Genetic
 Resources and Expressions of Folklore [ No. 16 of 2016 463
@@ -612,7 +638,8 @@ Extent of
 benefit-
 sharing arising from the commercial or industrial use of the holder’s
 sharing
-traditional knowledge as determined by an access agreement
+traditional knowledge as determined by an access
+agreement
 between the holder and user.
 (2) The Court may, in the absence of an access agreement, as
 specified in subsection (1), determine the extent of benefit sharing
@@ -622,7 +649,8 @@ benefits, such as contributions to community development depending
 on the material needs and cultural preferences expressed by the
 traditional community.
 Acknowledg-
-21. A person who uses traditional knowledge beyond its
+21. A person who uses traditional knowledge
+beyond its
 ement of
 traditional context shall acknowledge the holder, indicate its source
 holder
@@ -645,9 +673,9 @@ knowledge
 Compulsory
 licence
 accordance with this Act, is not being sufficiently exploited by the
-holder or where the holder refuses to grant access subject to
+holder or where the holder refuses to grant access
+subject to
 Protection of Traditional Knowledge, Genetic
-Resources and Expressions of Folklore [ No. 16 of 2016 465
 reasonable commercial terms and conditions, the Minister may, in
 the interest of public security or public health, grant a compulsory
 licence to fulfill a national need.
@@ -710,7 +738,8 @@ be approved by the Agency and if not so approved is void.
 (3) The Agency shall keep a register of all access agreements,
 authorisations, assignments and licences granted in accordance with
 subsection (1).
-Protection of Traditional Knowledge, Genetic
+Protection of Traditional Knowledge,
+Genetic
 466 [ No. 16 of 2016 Resources and Expressions of Folklore
 29. (1) The rights of a traditional community to regulate access
 Right to
@@ -725,7 +754,8 @@ to its genetic resources;
 access shall be detrimental to the integrity of its cultural
 or natural heritage;
 (c) the right to withdraw or place restriction on any prior
-informed consent given for access to its genetic
+informed consent given for access to
+its genetic
 resources where the consent is likely to be detrimental
 to its socioeconomic life or natural or cultural heritage;
 and
@@ -742,7 +772,8 @@ Right to use
 or exchange with other traditional communities its genetic resources
 for sustaining its livelihood systems in accordance with customary
 laws and practices.
-(2) A legal restriction shall not be placed on the traditional
+(2) A legal restriction shall not be placed on the
+traditional
 systems of a traditional community for the use and exchange of
 genetic resources, except where the holder refuses to grant a licence
 on reasonable commercial terms and conditions.
@@ -753,9 +784,11 @@ the interest of public security or public health, grant a compulsory
 licence to fulfill a national need.
 (4) Where a compulsory licence has been granted, in
 accordance with subsection (3), the Minister shall fix an appropriate
-amount of compensation in the absence of an access agreement
+amount of compensation in the absence of an access
+agreement
 between the parties.
-31. (1) The rights of a traditional community over its genetic
+31. (1) The rights of a traditional community over
+its genetic
 Protection of
 community
 resources shall be protected in accordance with this Act.
@@ -809,7 +842,8 @@ permit
 institution, examine the application in accordance with the terms,
 conditions and procedures specified in regulations issued under this
 Act.
-Protection of Traditional Knowledge, Genetic
+Protection of Traditional Knowledge,
+Genetic
 468 [ No. 16 of 2016 Resources and Expressions of Folklore
 (3) The Agency shall grant an access permit to an application
 if it is satisfied that the application meets the requirements of this
@@ -858,11 +892,13 @@ appropriate institution in the district where the genetic
 holder
 resource is to be collected and show the access permit
 on request;
-(b) not to deplete planting stock or wild species or remove
+(b) not to deplete planting stock or wild species
+or remove
 significant genetic varieties from the local gene pool
 during collection;
 (c) where the genetic resource is to be collected from a
-protected area, to observe the rules and regulations
+protected area, to observe the rules and
+regulations
 Protection of Traditional Knowledge, Genetic
 Resources and Expressions of Folklore [ No. 16 of 2016 469
 governing the protected area;
@@ -909,10 +945,12 @@ traditional knowledge has been accessed in an
 application for protection of the product developed from
 the genetic resource;
 (m) share the benefits derived from the utilisation of the genetic
-resource that has been accessed with the traditional
+resource that has been accessed with the
+traditional
 community; and
 (n) respect the customary laws and practices of the traditional
-community and any written laws relating to sanitary
+community and any written laws relating
+to sanitary
 control, biosafety, plants and seeds and protection of
 the environment.
 Exploration
@@ -996,7 +1034,6 @@ resource;
 or future access agreements on the same genetic
 resource or traditional knowledge;
 Protection of Traditional Knowledge, Genetic
-472 [No. 16 of 2016 Resources and Expressions of Folklore
 (h) relevant institution designated by the Agency that is to
 participate in the collection of the genetic resource and
 monitor the implementation of the access agreement;
@@ -1018,9 +1055,11 @@ be determined on a case by case basis.
 (2) The non-monetary benefits to be derived by a holder from
 the exploitation of genetic resources or traditional knowledge shall
 be specified in an access agreement taking into account the nature
-of benefits, except that the benefits derived by a traditional
+of benefits, except that the benefits derived by a
+traditional
 community from the utilisation of a genetic resource or traditional
-knowledge shall be put to the common benefit of the traditional
+knowledge shall be put to the common benefit of the
+traditional
 community.
 Types of
 43. The benefits to be derived by a holder from the exploitation
@@ -1034,7 +1073,8 @@ combination of the following:
 (e) research and development funding;
 (f) joint ownership of intellectual property;
 (g) employment opportunity;
-(h) participation of Zambian nationals, the Agency or
+(h) participation of Zambian nationals, the
+Agency or
 appropriate institution designated by the Agency in the
 research, and development based on the genetic resource
 or traditional knowledge;
@@ -1091,7 +1131,8 @@ holders;
 Protection of Traditional Knowledge, Genetic
 474 [ No. 16 of 2016 Resources and Expressions of Folklore
 (c) regular reports by any person or individual interested in
-the preservation, conservation or use of genetic
+the preservation, conservation or use
+of genetic
 resources, traditional knowledge and the environment;
 and
 (d) any other mechanisms considered by the Agency or an
@@ -1103,8 +1144,10 @@ periodic reports to the Agency or an appropriate institution designated
 by the Agency on the collection, the progress of the research and
 the findings relating to the research.
 (3) The Agency shall inform the holder of the progress of the
-research, findings from the search or utilisation of the genetic
-resources accessed and the benefits shared from the research or
+research, findings from the search or utilisation of
+the genetic
+resources accessed and the benefits shared from the
+research or
 the utilisation of the genetic resources.
 PART VI
 EXPRESSIONS OF FOLKLORE
@@ -1118,8 +1161,10 @@ of folklore
 such as collective creativity or individual creativity where
 the identity of the individual is unknown; and
 (b) characteristics of a traditional community’s cultural identity
-and traditional heritage which has been developed,
-maintained or used by the community in accordance
+and traditional heritage which has been
+developed,
+maintained or used by the community in
+accordance
 with customary laws and practices.
 Formalities
 47. (1) The protection of expressions of folklore shall not be
@@ -1136,7 +1181,8 @@ expressions
 of folklore
 evidence, take measures for the protection of expressions of folklore
 that may require certain categories of expressions that have been
-notified to the Agency, particularly those with special cultural or
+notified to the Agency, particularly those with special
+cultural or
 spiritual value or significance or that are sacred in character.
 Protection of Traditional Knowledge, Genetic
 Resources and Expressions of Folklore [ No. 16 of 2016 475
@@ -1195,10 +1241,12 @@ rights over the expression of folklore or
 adaptations to the expression of folklore;
 (b) in respect of words, signs, names and symbols, any use of
 the expression of folklore, derivative of the expression
-of folklore or acquisition or exercise of intellectual
+of folklore or acquisition or exercise of
+intellectual
 property rights over the expression of folklore or
 derivative which disparages, offends or falsely suggests
-a connection with a traditional community or brings a
+a connection with a traditional community
+or brings a
 traditional community into contempt or disrepute.
 (3) The following acts are prohibited in relation to the use and
 exploitation of expressions of folklore:
@@ -1210,7 +1258,8 @@ upon or evoke the expression of folklore of a traditional
 community or suggests any endorsement by, or linkage
 with, that community; and
 (c) use or exploitation for gainful intent without equitable
-remuneration or benefit sharing on terms determined
+remuneration or benefit sharing on terms
+determined
 and agreed with the traditional community or, in default,
 as determined by the Agency in consultation with the
 traditional community.
@@ -1228,7 +1277,8 @@ of folklore
 by members of the traditional community as determined
 by customary laws and practices;
 (b) extend only to uses of expressions of folklore taking place
-outside the traditional context, whether or not for
+outside the traditional context, whether
+or not for
 commercial exploitation; and
 (c) be subject to exceptions which relate to non-commercial
 uses, such as education, research, personal or private
@@ -1305,7 +1355,8 @@ and certifying that an entry, which the Registrar is authorised by or
 entries and
 under this Act to make, has or has not been made, or that any other
 documents
-thing which the Registrar is so authorised to do, has or has not
+thing which the Registrar is so authorised to do, has
+or has not
 been done, shall be prima facie evidence of the matters so certified.
 (2) A copy of any entry in the Register or any other register
 maintained in accordance with this Act or any document or an
@@ -1410,7 +1461,8 @@ giving notice to the parties, refer the matter to the High Court for
 determination and the Registrar shall act in accordance with the
 decision of the High Court.
 Assessors
-66. In any proceeding before the High Court, the court may
+66. In any proceeding before the High Court, the
+court may
 to appear in
 call assessors who are experts in intellectual property or the relevant
 High Court
@@ -1424,7 +1476,8 @@ community from using its traditional knowledge, genetic
 resources and expressions of folklore beyond their
 traditional context without prior informed consent;
 (b) prohibit any person who does not belong to the traditional
-community from exploring, exploiting, accessing,
+community from exploring, exploiting,
+accessing,
 collecting or taking genetic resources from its locality
 without prior informed consent; and
 (c) require any person who does not belong to the traditional
@@ -1501,7 +1554,8 @@ be false;
 any document issued by the Registrar;
 (h) makes or submits a false statement or representation,
 whether orally or in writing, to the Registrar or Agency
-Protection of Traditional Knowledge, Genetic
+Protection of Traditional Knowledge,
+Genetic
 482 [ No. 16 of 2016 Resources and Expressions of Folklore
 knowing the same to be false;
 (i) having innocently made a false statement or representation,
@@ -1537,7 +1591,8 @@ regulations made by the Minister may provide for—
 the implementation of this Act and any relevant
 international treaty or convention to which Zambia is a
 State Party;
-(b) procedures for applications for any permit or licence
+(b) procedures for applications for any permit
+or licence
 required under this Act;
 (c) forms to be used for purposes of this Act;
 (d) fees to be charged for purposes of this Act;
