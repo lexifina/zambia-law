@@ -39,10 +39,12 @@ rights and knowhow;
 Protection
 “ bid rigging ” means a horizontal agreement between
 enterprises where—
-(a) one or more parties to the agreement agrees not to
+(a) one or more parties to the agreement
+agrees not to
 submit a bid in response to a call for bids; or
 (b) the parties to the agreement agree upon the price,
-terms or conditions of a bid to be submitted in
+terms or conditions of a bid to be
+submitted in
 response to a call for bids;
 “ Board ” means the Board of the Commission constituted
 under paragraph 1 of the First Schedule;
@@ -63,12 +65,14 @@ or industrial information that belongs to an enterprise, has
 a particular economic value and is not generally available
 to, or known by, others;
 “ consumer ” means—
-(a) for the purposes of Part III, any person who
+(a) for the purposes of Part III, any
+person who
 purchases or offers to purchase goods or services
 supplied by an enterprise in the course of business,
 and includes a business person who uses the
 product or service supplied as an input to its own
-business, a wholesaler, a retailer and a final
+business, a wholesaler, a retailer
+and a final
 consumer; and
 (b) for the purposes of the other Parts of this Act, other
 than Part III, any person who purchases or offers
@@ -133,7 +137,8 @@ the Commission that an otherwise anti-competitive conduct
 can be allowed under conditions specified by the
 Commission;
 “ per se ” in relation to a prohibited practice, means a practice
-which is prohibited in all circumstances so that it is not
+which is prohibited in all circumstances so
+that it is not
 necessary for the Commission to demonstrate that it has
 anticompetitive effects;
 “ price ” means a charge of any description;
@@ -149,10 +154,12 @@ the dealer when re-selling goods to customers;
 Government department that exercises functions of
 prudential, technical or economic regulation on the basis
 of statutory powers;
-“ repealed Act ” means the Competition and Fair Trading
+“ repealed Act ” means the Competition and
+Fair Trading
 Cap. 417
 Act, 1994;
-“ sale ” includes an agreement to sell or offer for sale, the
+“ sale ” includes an agreement to sell or offer
+for sale, the
 furnishing of a quotation, whether verbally or in writing,
 and any other act or notification by which willingness to
 enter into any transaction for sale is expressed;
@@ -220,7 +227,8 @@ of any service within a market that is open to participation by other
 enterprises.
 (3) This Act shall not apply to—
 (a) an agreement or conduct insofar as it relates to intellectual
-property rights including the protection, licensing or
+property rights including the protection,
+licensing or
 assignment of rights under, or existing by virtue of, a
 law relating to copyright, design rights, patents or trade
 marks;
@@ -228,7 +236,8 @@ marks;
 are party, insofar as it relates to the remuneration, terms
 or conditions of employment of the employees;
 (c) activities of trade unions and other associations directed
-at advancing the terms and conditions of employment
+at advancing the terms and conditions of
+employment
 of their members;
 (d) concerted conduct designed to achieve a non-commercial
 socio-economic objective or similar purpose; and
@@ -239,9 +248,11 @@ Provided that—
 (i) the enterprise does not enter into an
 agreement that has the purpose of
 restricting competition;
-(ii) the conduct of the enterprise does not, in
+(ii) the conduct of the enterprise
+does not, in
 itself or in conjunction with another
-enterprise,amount to an abuse of a
+enterprise,amount to an
+abuse of a
 dominant position; or
 (iii) the enterprise, if it wishes to enter into a
 merger transaction, is in compliance with
@@ -304,7 +315,8 @@ and consumer protection and on any other matter relating
 to competition and consumer protection;
 (k) co operate with and assist any association or body of
 persons to develop and promote the observance of
-standards of conduct for the purpose of ensuring
+standards of conduct for the purpose
+of ensuring
 compliance with the provisions of this Act; and
 (l) do all such acts and things as are necessary, incidental or
 conducive to the better carrying out of its functions under
@@ -327,14 +339,16 @@ Inspectors
 inspector for the purposes of ensuring compliance with this Act, on
 such terms and conditions as the Board may determine.
 (2) The Board shall provide an inspector with a certificate of
-appointment in the prescribed form which shall be prima facie
+appointment in the prescribed form which shall be
+prima facie
 evidence of the inspector’s appointment as such.
 (3) An inspector shall, in performing any function under this
 Act—
 (a) be in possession of the certificate of appointment referred
 to under
 subsection (2); and
-(b) show the certificate of appointment to any person who
+(b) show the certificate of appointment to any
+person who
 requests to see it or is subject to an investigation under
 this Act.
 Protection
@@ -383,19 +397,23 @@ Protection
 (a) delays or obstructs an inspector in the performance of
 the inspector’s functions;
 (b) refuses to give an inspector such reasonable assistance
-as the inspector may require for the purpose of
+as the inspector may require for the
+purpose of
 exercising the inspector’s powers; or
 (c) gives an inspector false or misleading information in answer
 to an inquiry made by the inspector;
-commits an offence and is liable, upon conviction, to a fine not
+commits an offence and is liable, upon conviction,
+to a fine not
 exceeding two hundred thousand penalty units or to imprisonment
 for a period not exceeding two years, or to both.
 (7) An inspector shall furnish the Commission with a written
 report and any other information relating to an inspection, as the
 Commission may require.
 (8) Nothing in this section requires a person to disclose or
-produce information or a document, if the person would in an
-action in a court be entitled to refuse to disclose or produce the
+produce information or a document, if the person
+would in an
+action in a court be entitled to refuse to disclose or
+produce the
 information or document.
 PART III
 RESTRICTIVE BUSINESS AND ANTI-COMPETITIVE TRADE PRACTICES
@@ -405,7 +423,8 @@ of anti-
 which has as its object or effect, the prevention, restriction or
 competitive
 practice,
-distortion of competition to an appreciable extent in Zambia is
+distortion of competition to an appreciable extent
+in Zambia is
 agreement or
 anti-competitive and prohibited.
 decision
@@ -417,7 +436,8 @@ prohibited
 per se
 (a) fixes, directly or indirectly, a purchase or selling price or
 any other trading conditions;
-(b) divides markets by allocating customers, suppliers or
+(b) divides markets by allocating customers,
+suppliers or
 territories
 specific types of goods or services;
 (c) involves bid rigging, unless the person requesting the bid
@@ -507,12 +527,14 @@ supply
 or services in Zambia, if—
 threshold for
 establishing
-(a) thirty percent or more of those goods or services are
+(a) thirty percent or more of those goods or
+services are
 existence of
 supplied or acquired by one enterprise; or
 dominant
 position
-(b) sixty percent or more of those goods or services are
+(b) sixty percent or more of those goods or
+services are
 supplied or acquired by not more than three enterprises.
 16. (1) An enterprise shall refrain from any act or conduct if,
 Prohibition
@@ -529,7 +551,8 @@ includes—
 prices or other unfair trading conditions;
 (b) limiting or restricting production, market outlets or market
 access, investment, technical development or
-technological progress in a manner that affects
+technological progress in a manner
+that affects
 competition;
 Protection
 (c) applying dissimilar conditions to equivalent transactions
@@ -598,7 +621,8 @@ Amendment
 of exemption
 section nineteen, if—
 (a) some other enterprise has succeeded to the interest in the
-enterprise exempted, by substituting the name of the
+enterprise exempted, by substituting the
+name of the
 enterprise with the name of the successor;
 (b) the name of the enterprise has changed, by substituting
 the name so changed; or
@@ -608,13 +632,15 @@ Revocation
 21. (1) The Commission may revoke an exemption, if—
 of
 exemption
-(a) the exemption was granted on materially incorrect or
+(a) the exemption was granted on materially
+incorrect or
 misleading information;
 (b) there has been a material change of circumstances since
 the exemption was granted; or
 (c) the enterprise exempted fails to comply with any condition
 upon which the exemption was granted.
-(2) The Commission shall, where it proposes to revoke an
+(2) The Commission shall, where it proposes
+to revoke an
 exemption under subsection (1), give notice, in writing, of the
 proposed action to the enterprise to which the exemption was
 granted and request the enterprise to submit to the Commission,
@@ -697,7 +723,8 @@ to another enterprise;
 another enterprise; or
 (c) where a joint venture occurs between two or more
 independent enterprises.
-(3) For purposes of subsection (1), a person controls an
+(3) For purposes of subsection (1), a person
+controls an
 enterprise if that person—
 (a) beneficially owns more than one half of the issued share
 capital of the enterprise;
@@ -768,7 +795,8 @@ Protection
 (d) the merger is concluded outside Zambia and has
 consequences in Zambia that require further
 consideration; or
-(e) as a result of the merger, there is, or is likely to be,
+(e) as a result of the merger, there is, or is
+likely to be,
 competition and public interest factors which require to
 be considered.
 (2) The Commission may, where it determines that a merger
@@ -784,11 +812,14 @@ Negative
 clearance
 as to whether the proposed merger requires the authorisation of
 the Commission under section twenty-six or is subject to review by
-the Commission under section twenty-seven, may apply to the
+the Commission under section twenty-seven, may
+apply to the
 Commission for negative clearance in the prescribed manner and
 form upon payment of the prescribed fee.
-(2) Negative clearance, if given, does not commit the
-Commission if new information becomes available showing that
+(2) Negative clearance, if given, does not
+commit the
+Commission if new information becomes available
+showing that
 such clearance is not appropriate.
 Market
 29. The Commission shall, upon receipt of a proposed merger
@@ -866,7 +897,8 @@ days before the expiry of the ninety days.
 Undertakings
 33. The Commission may consider any undertakings offered
 on proposed
-by a party to a proposed merger, in order to address any concern
+by a party to a proposed merger, in order to address
+any concern
 merger
 relating to the proposed merger that has arisen, or may be expected
 to arise, during the assessment of the proposed merger.
@@ -888,12 +920,14 @@ Revocation of
 35. (1) The Commission may, at any time, revoke an approved
 merger
 merger if—
-(a) a party to the merger submitted materially incorrect or
+(a) a party to the merger submitted materially
+incorrect or
 misleading
 information in support of the merger; or
 (b) a party to the merger fails to comply with any condition
 of an approval of the merger.
-(2) The Commission shall, where it proposes to revoke an
+(2) The Commission shall, where it proposes
+to revoke an
 approved merger under subsection (1), give notice, in writing, of
 the proposed action to every party to the merger, and to any other
 person who is likely to have an interest in the matter, and call upon
@@ -965,7 +999,8 @@ inquiry
 Protection
 (2) The Commission shall, where it finds as a result of an inquiry
 that the adverse effects for competition specified in paragraph (a)
-of section thirty-nine exist in relation to a sector or a type of
+of section thirty-nine exist in relation to a sector
+or a type of
 agreement and that paragraph (b) of section thirty-nine does not
 apply, or applies to a limited extent —
 (a) insofar as particular practices identified by the inquiry are
@@ -978,7 +1013,8 @@ Act relating to such matters; or
 remedied under this Act, or are the result of other
 applicable laws, make recommendations to the Minister
 for such further action, including amendments to
-applicable laws as is required to provide an effective
+applicable laws as is required to provide
+an effective
 remedy.
 PART VI
 SECTOR REGULATED ACTIVITIES
@@ -1082,14 +1118,16 @@ are normally used or for the purpose that the consumer indicated
 goods and
 to the person or the enterprise.
 services
-(2) A person who, or an enterprise which, contravenes
+(2) A person who, or an enterprise which,
+contravenes
 subsection (1) commits an offence and is liable, upon conviction—
 (a) to a fine not exceeding five hundred thousand penalty
 units; and
 (b) to pay the Commission, in addition to the penalty stipulated
 under paragraph (a), a fine not exceeding ten percent
 of that person’s or enterprise’s annual turnover.
-(3) A person who, or an enterprise which, contravenes
+(3) A person who, or an enterprise which,
+contravenes
 subsection (1), shall
 (a) within seven days of the supply of the goods concerned,
 refund the consumer the price paid for the goods; or
@@ -1104,13 +1142,17 @@ under subsections (2) and (3)—
 (b) order the person or enterprise concerned, to pay a fine
 not exceeding ten percent of that person’s or enterprise’s
 annual turnover or three hundred thousand penalty units,
-whichever is higher, where the recalled product re-
+whichever is higher, where the recalled
+product re-
 appears on the market.
-(5) A person or an enterprise shall supply a service to a
-consumer with reasonable care and skill or within a reasonable
+(5) A person or an enterprise shall supply a
+service to a
+consumer with reasonable care and skill or within
+a reasonable
 time or, if a specific time was agreed, within a reasonable period
 around the agreed time.
-(6) A person who, or an enterprise which, contravenes
+(6) A person who, or an enterprise which,
+contravenes
 subsection (5) is liable to pay the Commission a fine not exceeding
 ten percent of that person’s or enterprise’s annual turnover.
 (7) In addition to the penalty stipulated under subsection (6),
@@ -1160,13 +1202,15 @@ subsection (1) is liable to pay the Commission a fine not exceeding
 ten percent of that person’s or enterprise’s annual turnover.
 Protection
 Consumer
-52. (1) A person or an enterprise shall not sell any goods to
+52. (1) A person or an enterprise shall not sell
+any goods to
 product
 consumers unless the goods conform to the mandatory safety
 safety
 standard for the class of goods set by the Zambia Bureau of
 Standards or other relevant competent body.
-(2) A person who, or an enterprise which, contravenes
+(2) A person who, or an enterprise which,
+contravenes
 subsection (1) commits an offence and is liable, upon conviction—
 (a) to a fine not exceeding five hundred thousand penalty
 units or to imprisonment for a period not exceeding five
@@ -1178,7 +1222,8 @@ of that person’s or enterprise’s annual turnover.
 stipulated under subsection (2), be liable for any loss or damage,
 including any indirect or consequential loss or damage, arising as a
 result of—
-(a) the lack of conformity of the goods with the relevant
+(a) the lack of conformity of the goods with
+the relevant
 standard; or
 (b) the defect or dangerous characteristic on account of which
 the goods have been declared unsafe.
@@ -1195,7 +1240,8 @@ the supplier, who shall meet any expenses of the recall
 as well as paying compensation to the consumer from
 whom the goods are recalled.
 Unfair
-53. (1) In a contract between an enterprise and a consumer,
+53. (1) In a contract between an enterprise and
+a consumer,
 contract
 the contract or a term of the contract shall be regarded as unfair if
 term
@@ -1262,9 +1308,11 @@ person or, in the case of a body corporate, by a director
 or member or other competent officer, employee or agent
 of the body corporate, within the time and in the manner
 specified in the notice, any information pertaining to any
-matter specified in the notice which the Commission
+matter specified in the notice which the
+Commission
 considers relevant to the investigation;
-(b) produce to the Commission, or to a person specified in
+(b) produce to the Commission, or to a person
+specified in
 the notice, any document or article, as specified in the
 notice, which relates to any matter which the Commission
 considers relevant to theinvestigation; or
@@ -1272,7 +1320,8 @@ considers relevant to theinvestigation; or
 in the notice, at a time and place specified in the notice,
 to give evidence or to produce any document or article
 specified in the notice.
-(5) A person who, or an enterprise which, contravenes
+(5) A person who, or an enterprise which,
+contravenes
 subsection (4) commits an offence and is liable, upon conviction, to
 a fine not exceeding one hundred thousand penalty units or to
 imprisonment for a period not exceeding one year, or to both.
@@ -1364,7 +1413,8 @@ to be paid.
 than the end of the period within which an appeal against the order
 may be brought under section
 sixty-one.
-(7) Where a penalty has not been paid within the specified
+(7) Where a penalty has not been paid within
+the specified
 date and—
 (a) an appeal against the order is not made under section
 sixty; or
@@ -1433,7 +1483,8 @@ of a merger has resulted, or is likely to result, in a substantial lessening
 of competition within a market for goods or services, give the
 enterprise such directions as it considers necessary, reasonable and
 practicable to—
-(a) remedy, mitigate or prevent the substantial lessening of
+(a) remedy, mitigate or prevent the substantial
+lessening of
 competition; and
 (b) remedy, mitigate or prevent any adverse effects that have
 resulted from, or are likely to result from, the substantial
@@ -1458,14 +1509,16 @@ condition of maintaining or proceeding with the merger.
 Interim
 62. (1) Where—
 measures
-(a) the Commission has reasonable grounds to suspect that
+(a) the Commission has reasonable grounds to
+suspect that
 an enterprise is a party to a prohibited agreement and
 has not completed its examination of the matter, but
 believes that there is the risk of serious or irreparable
 injury to a particular person as a consequence of the
 agreement;
 (b) an enterprise is a party to an agreement which is subject
-to review, to a monopoly situation or to a merger, on
+to review, to a monopoly situation or to
+a merger, on
 which the Commission has opened but not completed
 an investigation, and the Commission is satisfied that—
 Protection
@@ -1566,7 +1619,8 @@ Tribunal
 ence, who shall be the Chairperson;
 (b) a representative of the Attorney-General, who shall be
 the Vice-Chairperson; and
-(c) three other members who shall be experts, with not less
+(c) three other members who shall be experts,
+with not less
 than five years experience and knowledge, in matters
 relevant to this Act.
 (2) Subject to subsection (5), a member of the Tribunal shall
@@ -1636,7 +1690,8 @@ any matter is the subject of consideration, and in which matter the
 person or that person’s spouse is directly or indirectly interested in
 a private capacity, that person shall, as soon as is practicable after
 the commencement of the meeting, disclose the interest and shall
-not, unless the Tribunal otherwise directs, take part in any
+not, unless the Tribunal otherwise directs, take
+part in any
 consideration or discussion of, or vote on, any question relating to
 that matter.
 (6) A disclosure of interest made under this section shall be
@@ -1827,7 +1882,8 @@ the State and shall be summarily recoverable as a civil debt.
 to the annual turnover of a person or an enterprise, the percentage
 to be retained by the Commission shall be as may be prescribed in
 accordance with subsection (3).
-(3) The Minister responsible for finance may, by statutory
+(3) The Minister responsible for finance may,
+by statutory
 instrument, prescribe the percentage of the turnover paid by a
 person or an enterprise that is to be retained by the Commission.
 Regulations
@@ -1846,13 +1902,15 @@ applications to be made under this Act;
 under which it is issued;
 (e) the threshold for prior notification to the Commission of a
 merger transaction;
-(f) the manner and form of lodging appeals or reports with
+(f) the manner and form of lodging appeals or
+reports with
 the Commission;
 (g) the manner and form of serving notices on any person;
 (h) the manner and form of service of a notice requiring the
 attendance of a person before the Commission and the
 production of any book, record, document or thing;
-(i) the manner in which the Commission shall carry out an
+(i) the manner in which the Commission shall
+carry out an
 investigation under this Act;
 (j) the manner and form in which the Commission shall insti-
 tute an inquiry under this Act; and
@@ -1889,7 +1947,8 @@ commerce;
 (b) a representative of the Attorney General; and
 (c) five other members, with experience and knowledge in
 matters relevant to this Act, appointed by the Minister.
-(2) The Chairperson and the Vice-Chairperson of the Board
+(2) The Chairperson and the Vice-Chairperson
+of the Board
 shall be appointed by the Minister from amongst the members of
 the Board.
 (3) A person shall not be eligible for appointment as a member
@@ -2078,8 +2137,10 @@ the Commission;
 (b) reasonable travelling, transport and subsistence allowances
 for members of the Commission or members of any
 committee of the Commission when engaged in the
-business of the Commission, at such rates as the
-Commission may, with the approval of the Minister,
+business of the Commission, at such
+rates as the
+Commission may, with the approval of
+the Minister,
 determine; and
 (c) any other expenses incurred by the Commission in the
 performance of the Commission’s functions.
@@ -2141,7 +2202,8 @@ rights, liabilities and obligations of the former Commission.
 agreement, other than an agreement for personnel service, to which
 the former Commission was a party immediately before the
 Protection
-commencement of this Act whether or not of such a nature that
+commencement of this Act whether or not of such
+a nature that
 rights, liabilities and obligations could be assigned, shall, unless its
 subject matter or terms make it impossible that it should have effect
 as modified, as provided under this paragraph, have effect as if—
@@ -2154,16 +2216,19 @@ to the Commission; or
 not being a party to it and beneficially interested, there
 were substituted, as respects anything falling to be done
 on or after the commencement of this Act, a reference
-to such officer of the Commission as the Commission
+to such officer of the Commission as the
+Commission
 shall designate.
 (3) Where under this Act, any assets, rights, liabilities and
 obligations of the former Commission are deemed to be transferred
-to the Commission in respect of which transfer a written law
+to the Commission in respect of which transfer a
+written law
 provides for registration, the Commission shall make an application
 in writing to the appropriate registration authority for registration
 of the transfer.
 (4) The registration authority, referred to in subparagraph (2),
-shall make such entries in the appropriate register as shall give
+shall make such entries in the appropriate register
+as shall give
 effect to the transfer and, where applicable, issue to the transferee
 concerned a certificate of title in respect of the property or make
 necessary amendments to the register and shall endorse the deeds
