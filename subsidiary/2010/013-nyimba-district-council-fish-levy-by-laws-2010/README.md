@@ -10,6 +10,6 @@ Text layer: publisher OCR.
 | 1. Title | [sec-001.md](sec-001.md) |
 | 2. Interpretation | [sec-002.md](sec-002.md) |
 | 3. Imposition offish levy | [sec-003.md](sec-003.md) |
-| 4. No sale or | [sec-004.md](sec-004.md) |
+| 4. No sale or export of fish without | [sec-004.md](sec-004.md) |
 | 5. | [sec-005.md](sec-005.md) |
 | 6. | [sec-006.md](sec-006.md) |
