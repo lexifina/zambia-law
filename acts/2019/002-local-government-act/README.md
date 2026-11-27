@@ -20,7 +20,7 @@ Text layer: typeset.
 | 11. Tenure of office of deputy mayor or | [sec-011.md](sec-011.md) |
 | 12. Oaths | [sec-012.md](sec-012.md) |
 | 13. Discharge of functions of mayor or council | [sec-013.md](sec-013.md) |
-| 14. Validity of discharge of functions | [sec-014.md](sec-014.md) |
+| 14. by a person Validity of discharge of functions | [sec-014.md](sec-014.md) |
 | 15. Meetings and proceedings of council | [sec-015.md](sec-015.md) |
 | 16. Functions of local authority | [sec-016.md](sec-016.md) |
 | 17. General provision | [sec-017.md](sec-017.md) |
@@ -42,7 +42,7 @@ Text layer: typeset.
 | 33. Technical support | [sec-033.md](sec-033.md) |
 | 34. Guidance by Minister to local authority | [sec-034.md](sec-034.md) |
 | 35. Local authority to furnish Minister | [sec-035.md](sec-035.md) |
-| 36. Establishment of Ward Development Committee | [sec-036.md](sec-036.md) |
+| 36. Establishment of Ward Development or Council Committee | [sec-036.md](sec-036.md) |
 | 37. Functions of Ward Development Committee | [sec-037.md](sec-037.md) |
 | 38. Ward Development Executive Committee | [sec-038.md](sec-038.md) |
 | 39. Dissolution of Ward Development Committee | [sec-039.md](sec-039.md) |
@@ -71,9 +71,9 @@ Text layer: typeset.
 | 62. Confirmation of by-laws | [sec-062.md](sec-062.md) |
 | 63. Power of Minister to amend or revoke by- | [sec-063.md](sec-063.md) |
 | 64. Power to make regulations | [sec-064.md](sec-064.md) |
-| 65. Application of regulations | [sec-065.md](sec-065.md) |
+| 65. Application consultation of regulations | [sec-065.md](sec-065.md) |
 | 66. Regulations to prevail over bylaws or | [sec-066.md](sec-066.md) |
-| 67. Reference in other laws | [sec-067.md](sec-067.md) |
+| 67. Reference in other laws reference to | [sec-067.md](sec-067.md) |
 | 68. Provincial Local Government | [sec-068.md](sec-068.md) |
 | 69. General offences | [sec-069.md](sec-069.md) |
 | 70. Inspection of documents | [sec-070.md](sec-070.md) |
@@ -83,7 +83,7 @@ Text layer: typeset.
 | 74. Evidence | [sec-074.md](sec-074.md) |
 | 75. Power of arrest | [sec-075.md](sec-075.md) |
 | 76. Validity of discharge of functions by officers | [sec-076.md](sec-076.md) |
-| 77. Powers of Minister to approve, confirm or | [sec-077.md](sec-077.md) |
+| 77. to approve, Powers of Minister to approve, confirm or | [sec-077.md](sec-077.md) |
 | 78. Inquiries | [sec-078.md](sec-078.md) |
 | 79. Authority to issue guidelines | [sec-079.md](sec-079.md) |
 | 80. Regulations | [sec-080.md](sec-080.md) |

@@ -45,12 +45,12 @@ CODE OF ETHICS Paragraph
 (2) The declaration shall cover the period commencing twelve months prior to the current term of office.
 (3) A councillor shall notify the Principal Officer where the details under subparagraph (1) change.
 (4) Subject to theAnti-CorruptionAct, 2012, a councillor shall declare to the Chief Resident Magistrate, gifts received by a councillor in the performance of that councillor’s duties.
-11. (1) The Chief Resident Magistrate shall on receiving a declaration of interest and assets under paragraph 11 cause the particulars of the declaration to be entered in a Register.
+11. (1) The Chief Resident Magistrate shall on declaration of interest and assets under paragraph 11 cause the particulars of the declaration to be entered in a Register.
 (2) The Register shall be kept and maintained by the Chief Resident Magistrate in the prescribed manner and form and shall be available for inspection by members of the public at all reasonable times at a prescribed fee.
 12. A councillor shall not do anything that is inconsistent with the principle of the collective responsibility of councillors for the conduct of council affairs, and in particular shall not—
 (a) publicly contradict or disassociate oneself from any resolution adopted by Council;
 (b) issue public statements criticising another councillor; or
-(c) make unauthorised disclosures of council discussions, resolutions or documents.
+(c) make unauthorised disclosures of council resolutions or documents.
 13. A declaration made under paragraph 11 is a statutory declaration for the purposes of the Constitution and the Act.
 14. (1) A person who has reasonable grounds to believe that a councillor has breached this Code may lodge a complaint with the Principal Officer.
 (2) The Principal Officer shall, on receipt of a complaint submitted under this paragraph refer the complaint to the council.

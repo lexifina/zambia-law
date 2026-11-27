@@ -1,7 +1,7 @@
 # THIRD SCHEDULE
 (Section 15)
 PROCEEDINGS OF COUNCIL
-1. (1) A council shall hold an ordinary meeting for the transaction of business at least once in every three months at a place, on a day and at a time that the council may appoint.
+1. (1) A council shall hold an ordinary meeting for the transaction of business at least once in every three place, on a day and at a time that the council may appoint.
 (2) Despite subparagraph (1), a newly established council shall hold its first ordinary meeting within three months from the date of its establishment.
 (3) Amayor or council chairperson may, with the approval of theProvincialLocal GovernmentOfficer, convenea special meeting of the council at any time, and shall convene a special meeting within twenty one days, or a lesser period that may be prescribed by the standing orders of the council, after the mayor receives a written request for a meeting signed by not less than one third of the councillors and stating the reasons for the special meeting.
 2. (1) The principal officer of a council shall, at least twenty four hours before the time appointed for the holding of a meeting of a council, notify every councillor, in writing, of the place, day and time of the meeting and of the business proposed to be transacted at the meeting.
@@ -37,12 +37,12 @@ PROCEEDINGS OF COUNCIL
 (2) If at any meeting of a council a quorum is not present, the councillorspresent or,ifthereare nocouncillorspresent, the principal officer of the council shall adjourn the meeting and may appoint for the adjourned meeting place, day and time that may be considered suitable.
 8. (1) Subject to the provisions of sub-paragraph (2), all meetings of a council or a committee shall be open to the public.
 (2) A council or committee may, by resolution, exclude the public from a meeting whenever publicity would be prejudicial to the public interest byreason of the confidential nature of the business to be transacted or for other special reasons stated in the resolution and arising from the nature of that business or of the proceedings.
-(3) The provision of this paragraph shall be without prejudice to any power of exclusion conferred by the standing orders of a council for preserving order at meetings of the council and nothing in this section contained shall be construed as requiring a council to permit the taking of photographs of any proceedings, or the use of any means to enable persons not present to see or hear any proceedings or the making of any oral report on any proceedings as they take place.
-9. (1) A council shall cause minutes to be kept in the English language of the proceedings at every meeting of the council and shall cause to be recorded therein the names of the councillors present at that meeting.
+(3) The provision of this paragraph shall be without prejudice to any power of exclusion conferred by the standing orders of a council for preserving order at meetings of the council and nothing in this section contained shall be construed as requiring a council to permit the taking of photographs of any proceedings, or the use of any means to enable persons not present to see proceedings or the making of any oral report on any proceedings as they take place.
+9. (1) A council shall cause minutes to be kept in the English language of the proceedings at every meeting of the shall cause to be recorded therein the names of the present at that meeting.
 (2) The minutes of the proceedings of a council shall, after amendment if necessary, be confirmed by the council as a true record of the proceedings and signed by the person presiding at the same or the next meeting of the council.
 (3) Within one month after the minutes of any proceedings of a council have been confirmed and signed, there shall be furnished to the Minister a number of copies thereof that the Minister may determine.
 (4) The minutes of the proceedings of a council, other than proceedings fromwhich the public have been excluded in pursuance of a resolution adopted under paragraph (2), shall, at all reasonable times, be open to the inspection of any interested person.
-10. (1) A council may establish standing and occasional committees consisting of a number of members that the council may determine, for the purpose of examining and reporting on any matter and of discharging any functions of the council delegated to them under this Act.
+10. (1) A council may establish standing and committees consisting of a number of members that may determine, for the purpose of examining and reporting on any matter and of discharging any functions of the council delegated to them under this Act.
 (2) A council consisting of more than six councillors shall in the exercise of the powers conferred by subsection (1), establish a standing committee for the purpose of—
 (a) advising the council on financial matters; and
 (b) discharging functions of the council relating to finance that may be delegated to it under this Act or as may be conferred or imposed on it by or under any other written law.
@@ -63,11 +63,11 @@ PROCEEDINGS OF COUNCIL
 (4) There shall preside at any meeting of a committee
 (a) the chairperson; or
 (b) in the absence of the chairperson, a member of the committee that the committee may elect for that meeting.
-(5) Any question proposed for decision by a committee shall be determined by a majority of the votes of the members present and voting at a meeting of the committee at which a quorum is present.
+(5) Any question proposed for decision by a committee shall be determined by a majority of the votes of the members present and voting at a meeting of the committee at which present.
 (6) At all meetings of a committee, each member present shall have one vote on a question proposed for decision by the committee and, in the event of an equality of votes, the person presiding at the meeting shall have, in addition to a deliberative vote, a casting vote.
 (7) subparagraph 6 applies in respect of members of a committee with the necessary modifications.
 13. (1) A committee shall cause minutes to be kept in the English language of the proceedings at every meeting of the committee and shall cause to be recorded therein the names of the members of the committee present at that meeting.
-(2) The minutes of the proceedings of a committee shall, after amendment if necessary, be confirmed by the committee as a true record of the proceedings and signed by the person presiding at the same or the next meeting of the committee.
+(2) The minutes of the proceedings of a committee shall, after amendment if necessary, be confirmed by the committee as a true record of the proceedings and signed by the person the same or the next meeting of the committee.
 (3) Within one month after the minutes of any proceedings of a committee are confirmed and signed, there shall be furnished to the Minister a number of copies thereof as the Minister may determine.
 (4) The minutes of proceedings at a meeting of a committee that relate to the discharge of functions delegated to it by the council shall, at all reasonable times, be open to the inspection of any interested person, except that, the provisions of this subsection shall not apply to the minutes of any proceedings the disclosure of which is deemed by the committee to be prejudicial to the public interest.
 14. (1) Subject to the other provisions of this paragraph, a council may delegate, either absolutely or conditionally, to a committee or to any officer of the council the power to discharge any function of the council on behalf of the council.

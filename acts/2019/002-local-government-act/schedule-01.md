@@ -26,13 +26,13 @@ FUNCTIONS OF LOCAL AUTHORITY
 4. A local authority shall, in relation to a public street and street—
 (a) establish and maintain roads;
 (b) exercise general control, care and maintenance of all public roads, streets, avenues, lanes, sanitary lanes and footwalks forming part thereof, bridges, squares, ferries and water courses and to remove all obstacles therefrom;
-(c) prohibit and control the erection and laying in, under or over, and the removal from, streets and other public places of—
+(c) prohibit and control the erection and laying in, under or over, and the removal from, streets and places of—
 (i) posts, wires, pipes, conduits, cable and other apparatus;
 (ii) temporary platforms, seats and other structures; and
 (iii) street decorations;
 (d) control traffic and the parking of vehicles and establish and maintain parking meters and premisses for the parking of vehicles; and
 (e) take measures for the promotion of road safety.
-5. A local authority shall, in relation to community development—
+5. A local authority shall, in relation to development—
 (a) prepare and administer schemes for the encouragement of and participation in, community development;
 (b) establish and maintain a system of lighting in street and other public places;
 (c) establish and maintain firefightingand prevention services, and take and cause the taking of measures for the protection of life, property and natural resources from damages by fire;
