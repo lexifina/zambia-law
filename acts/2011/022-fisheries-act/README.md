@@ -14,8 +14,8 @@ Text layer: typeset.
 | 5. Honorary fisheries officers | [sec-005.md](sec-005.md) |
 | 6. Powers of authorised officers | [sec-006.md](sec-006.md) |
 | 7. Power to carry out tests and to take statistics | [sec-007.md](sec-007.md) |
-| 8. Release, seizure and destruction | [sec-008.md](sec-008.md) |
-| 9. Arrest without warrant | [sec-009.md](sec-009.md) |
+| 8. Release, seizure and seized, the destruction | [sec-008.md](sec-008.md) |
+| 9. Arrest without grounds to warrant | [sec-009.md](sec-009.md) |
 | 10. Obstruction of authorised officer or honorary | [sec-010.md](sec-010.md) |
 | 11. Immunity | [sec-011.md](sec-011.md) |
 | 12. General principles of management | [sec-012.md](sec-012.md) |
@@ -28,7 +28,7 @@ Text layer: typeset.
 | 19. Restriction on introduction of fish | [sec-019.md](sec-019.md) |
 | 20. Power to control introduction and spread of | [sec-020.md](sec-020.md) |
 | 21. Offences related to fish disease | [sec-021.md](sec-021.md) |
-| 22. Emergency measures | [sec-022.md](sec-022.md) |
+| 22. Emergency measures life, or any or part of a | [sec-022.md](sec-022.md) |
 | 23. Import of fish or fish product | [sec-023.md](sec-023.md) |
 | 24. Importation for scientific, educational | [sec-024.md](sec-024.md) |
 | 25. Export of fish or fish product | [sec-025.md](sec-025.md) |
@@ -40,7 +40,7 @@ Text layer: typeset.
 | 31. Misuse of money of committee | [sec-031.md](sec-031.md) |
 | 32. Submission of report and minutes | [sec-032.md](sec-032.md) |
 | 33. Zone and village fisheries management | [sec-033.md](sec-033.md) |
-| 34. Prescribed areas | [sec-034.md](sec-034.md) |
+| 34. Prescribed declare any areas | [sec-034.md](sec-034.md) |
 | 35. Special fishing licence | [sec-035.md](sec-035.md) |
 | 36. Declaration of commercial | [sec-036.md](sec-036.md) |
 | 37. Registration of boats | [sec-037.md](sec-037.md) |

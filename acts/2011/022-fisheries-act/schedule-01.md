@@ -15,9 +15,9 @@ Provided that if the urgency of any particular matter does not permit the giving
 (7) A committee may invite any person whose presence in its opinion is desirable to attend and to participate in the deliberations of a meeting of the committee but such person shall have no vote.
 (8) The validity of any proceedings, act or decision of a committee shall not be affected by any vacancy in the membership of the committee or by any defect in the appointment of any member or by reason that any person not entitled so to do, took part in the proceedings. 418 [ No. 22 of 2011 Fisheries
 (9) A committee shall cause minutes to be kept of the proceedings of every meeting of the committee.
-2. (1) A committee shall establish a fund to enhance the economic and social well being of the local riparian community within a fisheries management area.
+2. (1) A committee shall establish a fund to enhance the economic and social well being of the local riparian within a fisheries management area.
 (2) There shall be paid into the fund of a committee referred to in subparagraph (1)—
-(a) such moneys from the revenues payable in respect of fishing and aquaculture licences issued under this Act and services rendered from the use of fisheries resources within a fisheries management area as the Minister may, after consultation with the Minister responsible for finance by regulations prescribe; and
+(a) such moneys from the revenues payable in respect of fishing and aquaculture licences issued under this Act and services rendered from the use of fisheries resources within a fisheries management Minister may, after consultation with the Minister responsible for finance by regulations prescribe; and
 (b) such moneys as the committee may, with the approval of the Minister, accept by way of grants and donations from any source within or outside Zambia.
 (3) A committee shall cause to be kept proper books of accounts and other records relating to its accounts.
 (4) The accounts referred to in subparagraph (3) shall be open for inspection by the Director or any member of the local riparian community concerned.
