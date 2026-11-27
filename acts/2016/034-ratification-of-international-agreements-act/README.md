@@ -13,7 +13,7 @@ Text layer: typeset.
 | 4. Consideration of proposal for ratification | [sec-004.md](sec-004.md) |
 | 5. Approval of proposal for ratification by National | [sec-005.md](sec-005.md) |
 | 6. Ratification of amendment to, or | [sec-006.md](sec-006.md) |
-| 7. Ratification of protocols to international | [sec-007.md](sec-007.md) |
+| 7. necessary Ratification of protocols to international | [sec-007.md](sec-007.md) |
 | 8. Deposit of instruments of ratification | [sec-008.md](sec-008.md) |
 | 9. Grant of full powers | [sec-009.md](sec-009.md) |
 | 10. Suspension of operation of, or withdrawal | [sec-010.md](sec-010.md) |
