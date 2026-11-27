@@ -56,7 +56,8 @@ or service is certified by a proprietor in respect of
 origin, material, mode of manufacture of a good or
 the performance of a service, quality, accuracy or
 other characteristics;
-“collective association” means a body of persons,
+“collective association” means a body
+of persons,
 whether incorporated or not, that has, or is able to
 have, members and is established for the joint
 benefit of the members who can be ascertained;
@@ -158,7 +159,8 @@ Act, 2017;
 appointed in accordance with the
 Act No. 9 of
 Corporate Insolvency Act, 2017;
-(c) person appointed under a power of
+(c) person appointed under a
+power of
 attorney;
 (d) person recognised by law, representing a
 deceased or bankrupt person; or
@@ -226,20 +228,25 @@ name appears in the Register as proprietor;
 (b) registered collective mark, the collective
 association whose name appears in the
 Register as proprietor;
-(c) registered certification mark, the person
-whose name appears in the Register as
+(c) registered certification mark,
+the person
+whose name appears in the
+Register as
 being responsible for certifying a good or
 service to which the certification mark
 relates;
-(d) well known mark, a person entitled to
+(d) well known mark, a person
+entitled to
 protection under Article 6bis of the Paris
-Convention or Article 16 of the TRIPS
+Convention or Article 16 of
+the TRIPS
 Agreement; or
 (e) registered geographical indication, a
 producer who is in an area where a
 certificate of registration has been issued
 for that geographical indication;
-“Register” means the Register of trade marks and
+“Register” means the Register of trade
+marks and
 geographical indication established and maintained
 in accordance with section 133;
 “register of trade mark agents” means a register
@@ -300,7 +307,8 @@ well known in the Republic as being the trade mark
 of a person who is a national of a Convention
 country or domiciled in, or has a real and effective
 industrial or commercial establishment in the
-Convention country, whether or not the person
+Convention country, whether or not
+the person
 carries on business in the Republic.
 Application
 3. (1) This Act applies to a registered trade mark, geographical
@@ -392,7 +400,8 @@ of the application for registration of a trade mark with the Registrar.
 Classification
 9. The Registrar shall, for purposes of registration of a trade
 of good or
-mark, determine the classification of a good or service, in
+mark, determine the classification of a good or
+service, in
 service
 accordance with international best practice.
 Single
@@ -404,7 +413,8 @@ services, treat that application as a single application for registration
 classes
 of the goods or services specified under that application.
 Division of
-11. (1) An applicant may, before a trade mark is registered,
+11. (1) An applicant may, before a trade mark is
+registered,
 application
 apply to the Registrar for the division of an application for the
 registration of a trade mark in a prescribed manner and form on
@@ -417,10 +427,12 @@ of a trade mark; or
 registration of a trade mark.
 (2) The Registrar may grant or reject an application under
 subsection (1).
-(3) The Registrar shall, where the Registrar rejects an
+(3) The Registrar shall, where the Registrar
+rejects an
 application under subsection (2), inform the applicant, and give
 reasons for the rejection.
-(4) The Registrar shall, where the Registrar grants an
+(4) The Registrar shall, where the Registrar
+grants an
 application under subsection (2), treat the part that is divided as—
 (a) independent of the original application for registration
 of a trade mark; and
@@ -486,7 +498,8 @@ prescribed manner and form on payment of a prescribed fee.
 (4) The Registrar shall, where an applicant does not make the
 necessary amendments after the request under subsection (2), treat
 the application as abandoned.
-16. (1) The Registrar shall, where the Registrar is satisfied
+16. (1) The Registrar shall, where the Registrar
+is satisfied
 Substantive
 examination
 after a formality examination under section 15 that an application
@@ -494,7 +507,8 @@ of
 application
 for registration of a trade mark meets the requirements specified
 in this Act, conduct a substantive examination to determine whether
-a mark is capable of being registered as a trade mark under this
+a mark is capable of being registered as a trade mark
+under this
 Act.
 (2) The Registrar shall, on completion of the substantive
 examination under subsection (1), produce a report.
@@ -507,13 +521,15 @@ of the intention to reject the registration and require the applicant,
 within sixty days of the notification to—
 (a) take remedial measures; or
 (b) show cause why the application should not be rejected.
-(5) The Registrar shall, where the Registrar rejects an
+(5) The Registrar shall, where the Registrar
+rejects an
 application for registration of a trade mark under subsection (3),
 notify the applicant, in writing, of the Registrar’s decision and give
 reasons for the rejection.
 (6) The Registrar shall not reject an application for registration
 of a trade mark under this section where an applicant takes remedial
-measures to the satisfaction of the Registrar within the period
+measures to the satisfaction of the Registrar within
+the period
 specified in subsection (4).
 (7) The Registrar shall, in making a final determination on an
 application for registration of a trade mark, consider the submissions
@@ -599,7 +615,8 @@ trade mark on—
 (b) the ground that the application for registration of the
 trade mark was made in bad faith.
 Counter
-21. (1) An applicant who intends to respond to a notice of
+21. (1) An applicant who intends to respond to
+a notice of
 statement to
 notice of
 opposition to the application for registration of a trade mark under
@@ -624,7 +641,8 @@ registration
 of trade
 Registrar evidence in reply.
 mark
-23. (1) The Registrar shall hear an application to oppose the
+23. (1) The Registrar shall hear an application to
+oppose the
 Hearing
 registration of a trade mark filed under section 19 in a prescribed
 manner.
@@ -635,7 +653,8 @@ respect of a good or service specified in the application.
 Dismissal of
 24. (1) The Registrar may dismiss an opposition to the
 notice
-application for registration of a trade mark without hearing an
+application for registration of a trade mark without
+hearing an
 of
 opposition
 applicant where the Registrar considers that the opposition is
@@ -703,13 +722,16 @@ Registration
 of separate
 trade marks
 right to the use of a part of a trade mark may apply to the Registrar
-to register the whole, or part, of that trade mark, as a separate
+to register the whole, or part, of that trade mark, as
+a separate
 trade mark.
-(2) Subject to subsection (1), each separate trade mark shall
+(2) Subject to subsection (1), each separate trade
+mark shall
 satisfy the requirements for registration of a trade mark under this
 Act.
 Registration
-30. The Registrar may register a trade mark as a series in
+30. The Registrar may register a trade mark as
+a series in
 of series of
 one registration where a person who seeks to register a trade mark
 trade marks
@@ -734,7 +756,8 @@ or application for registration of a trade mark where the trade mark
 trade mark
 is—
 (a) in the name of the same proprietor;
-(b) in respect of the same or similar good or service or
+(b) in respect of the same or similar good or
+service or
 description of a good or service; and
 (c) identical with, or similar to, another trade mark that is
 registered or is the subject of an application for
@@ -791,7 +814,8 @@ concurrent
 use
 application or registration of a trade mark where the applicant shows
 to the satisfaction of the Registrar that—
-(a) there has been an honest concurrent use in the course
+(a) there has been an honest concurrent use in
+the course
 of trade of the trade mark for which registration is sought
 in the Republic; and
 (b) due to special circumstances, it is proper for the trade
@@ -850,14 +874,17 @@ or TRIPS Agreement; or
 (c) an official sign or hallmark—
 (i) adopted by a Convention country;
 (ii) that indicates control and
-warranty adopted by a
+warranty adopted
+by
+a
 Convention country in relation to
 a good or service of the same or
 similar kind as that good or
 service in respect of which the
 trade mark is to be registered; and
 (iii) that is protected under the Paris
-Convention or TRIPS
+Convention or
+TRIPS
 Agreement.
 (2) This section applies to a mark that imitates or contains a
 representation of a flag, armorial bearing, state emblem, official
@@ -922,7 +949,8 @@ concerned has notified the Republic in accordance with
 paragraph (3) of Article 6ter of the Paris Convention, or
 under that Article as applied by the TRIPS Agreement,
 that the Convention country or international organisation
-desires to protect the armorial bearing, flag, state
+desires to protect the armorial bearing,
+flag, state
 emblem, emblem, official sign, hallmark, abbreviation
 or name;
 (b) the notification remains in force; and
@@ -930,13 +958,15 @@ or name;
 objection, to the notification in accordance with
 paragraph (4) of Article 6ter of the Paris Convention or
 under that Article as applied by the TRIPS Agreement.
-(2) A communication under subsection (1) shall have effect
+(2) A communication under subsection (1) shall
+have effect
 in relation to an application for registration of a trade mark that is
 made after two months from the date of receipt of the
 communication.
 (3) The Registrar shall keep and make available for public
 inspection, during normal working hours, a list of an armorial bearing,
-flags, other emblems, state emblems, official signs, hallmarks,
+flags, other emblems, state emblems, official signs,
+hallmarks,
 abbreviations and names of Convention countries and international
 organisations protected under the Paris Convention in accordance
 with notifications specified in subsection (2).
@@ -1190,13 +1220,15 @@ of a trade mark in the Intellectual Property Journal.
 be effective when the cancellation is entered in the Register and
 published in accordance with subsection (8).
 Removal of
-48 . (1) A person affected by a registered trade mark may
+48 . (1) A person affected by a registered trade
+mark may
 trade mark
 apply to the Registrar, in a prescribed manner and form on payment
 from
 Register
 of a prescribed fee, for the removal of that trade mark from the
-Register in respect of any of the good or service for which that
+Register in respect of any of the good or service for
+which that
 trademark is registered on the ground that—
 (a) the trade mark has not been used by a proprietor or
 licensee for a continuous period of five years or more;
@@ -1205,7 +1237,8 @@ licensee for a continuous period of five years or more;
 (d) the trade mark was fraudulently entered in the Register.
 (2) Despite subsection (1) (a), the Registrar shall not remove
 a trade mark from the Register if it is proved that special
-circumstances exist that have prevented a proprietor or licensee
+circumstances exist that have prevented a proprietor
+or licensee
 from using the trade mark.
 (3) The Registrar shall not remove a trade mark from the
 Register without providing a proprietor or a licensee an opportunity
@@ -1218,7 +1251,8 @@ the trade mark from the Register, publish the removal of the trade
 mark from the Register in the Intellectual Property Journal.
 (6) A removal of a trade mark from the Register shall be
 effective after the date of the removal is entered in the Register
-and published in the Intellectual Property Journal in accordance
+and published in the Intellectual Property Journal in
+accordance
 with subsection (5).
 Acquiescence
 49. Where a proprietor of an earlier registered trade mark or
@@ -1318,7 +1352,8 @@ mark; and
 (c) conferred in respect of each component that is registered
 as a separate trade mark.
 Protection
-53. A proprietor is not, under this Act, entitled to interfere
+53. A proprietor is not, under this Act, entitled
+to interfere
 of
 with, or restrain, the use by a person of a trade mark, which is
 vested rights
@@ -1384,7 +1419,8 @@ the Registry established under the Movable Property (Security
 Interest) Act, 2016.
 (4) Where a charge or security on a trade mark has been
 registered under subsection (3), the Registrar shall record in respect
-of that trade mark an endorsement on the Register as prescribed.
+of that trade mark an endorsement on the Register as
+prescribed.
 Transfer of
 56. (1) A transfer of a trade mark may be partial and shall
 trade mark
@@ -1409,7 +1445,8 @@ assignment with goodwill, record the assignment in the
 Register and issue a certificate of assignment; or
 (b) in the case of an application for registration of an
 assignment without goodwill, cause the proprietor to
-publish a notice of the assignment in the Intellectual
+publish a notice of the assignment in the
+Intellectual
 Property Journal within six months of the date of
 assignment or within a period that the Registrar may
 determine.
@@ -1465,7 +1502,8 @@ or limited.
 in respect of—
 (a) all or any of the goods or services for which the trade
 mark is registered; or
-(b) the use of the trade mark in a particular manner or
+(b) the use of the trade mark in a particular
+manner or
 locality.
 Registration
 60. (1) A person with permitted use of a registered trade mark
@@ -1479,7 +1517,8 @@ by a licence agreement or a duly authenticated copy of that
 agreement.
 (4) The Registrar shall, where an application under subsection
 (2) meets the requirements of this Act, register a person with
-permitted use as a licensee in respect of a registered trade mark
+permitted use as a licensee in respect of a registered
+trade mark
 and—
 (a) enter the particulars of the registration of a licensee in
 the Register; and
@@ -1499,7 +1538,8 @@ licensee
 by an amended licence agreement or a duly authenticated copy of
 that agreement.
 Cancellation
-62. (1) The Registrar may, on the Registrar’s own motion, in
+62. (1) The Registrar may, on the Registrar’s own
+motion, in
 of
 the prescribed manner and form, cancel the registration of a licensee,
 registration
@@ -1569,8 +1609,10 @@ trade mark has a reputation in the Republic and the use
 of the mark, takes unfair advantage of, or is detrimental
 to, the distinctive character or repute of the registered
 trade mark.
-(2) A person infringes a registered trade mark if the person
-knowingly, or having reason to believe that the trade mark is not
+(2) A person infringes a registered trade mark if
+the person
+knowingly, or having reason to believe that the trade
+mark is not
 authorised by the proprietor or licensee, uses an infringing material.
 (3) Despite subsection (1), a person shall not be prevented from
 using a registered trade mark for purposes of identifying a good or
@@ -1647,7 +1689,8 @@ proceedings
 registration of a trade mark is issued and sealed by the Registrar in
 accordance with this Act.
 (2) Infringement proceedings under subsection (1), may be
-brought by a person who is a joint proprietor, except that a joint
+brought by a person who is a joint proprietor, except
+that a joint
 proprietor may not, without leave of the Court, proceed with the
 action unless each of the proprietors is joined to the proceedings.
 Request by
@@ -1677,7 +1720,8 @@ not constitute an infringement act under section 65.
 the following reliefs:
 (a) a declaration that the threat is unjustifiable;
 (b) an injunction against the continuation of the threat;
-(c) damages in respect of any loss sustained as a result of
+(c) damages in respect of any loss sustained as
+a result of
 the threat; or
 (d) any other relief that the Court may consider appropriate.
 (3) A person who is threatened in accordance with subsection
@@ -1693,7 +1737,8 @@ subsection (1), is entitled to the relief claimed under subsection (2)
 if that person proves to the Court that the registration of the trade
 mark is no longer valid.
 (5) An application under subsection (1) shall not be commenced,
-or if commenced may not proceed, if a proprietor or licensee
+or if commenced may not proceed, if a proprietor
+or licensee
 commences infringement proceedings of a trade mark, within thirty
 days of a threat being made against a person threatened.
 72. (1) A proprietor or licensee has, in infringement proceedings,
@@ -1776,7 +1821,8 @@ an interest in an infringing good, material or article—
 (a) direct that the infringing good, material or article be sold
 or otherwise dealt with, and the proceeds divided among
 the interested persons; or
-(b) make any other order that the Court considers
+(b) make any other order that the Court
+considers
 appropriate.
 (5) The Court shall, in deciding the order to grant under this
 section, consider—
@@ -1819,7 +1865,8 @@ imminent;
 (b) order an applicant to provide security that is sufficient to
 protect the respondent; and
 (c) require an applicant to provide other information
-necessary for the identification of a good, material or
+necessary for the identification of a good,
+material or
 article.
 (4) A Court may make an order for a provisional measure
 without giving the respondent an opportunity to be heard where—
@@ -1832,7 +1879,8 @@ of the date of an order for a provisional measure.
 (6) The Court may, after hearing the respondent under
 subsection (5), confirm, modify or revoke an order for a provisional
 measure.
-(7) The Court may, where a provisional measure is revoked
+(7) The Court may, where a provisional measure
+is revoked
 under subsection (6), on the request of the respondent, order a
 proprietor to compensate that respondent for injury or loss caused
 by an order for a provisional measure.
@@ -1859,7 +1907,8 @@ mark
 (2) An application made under subsection (1) shall be
 accompanied by the rules governing the use of a collective mark.
 (3) The rules referred to in subsection (2) shall specify—
-(a) the conditions and requirements governing the use of
+(a) the conditions and requirements governing
+the use of
 the collective mark; and
 (b) any other matters as may be prescribed.
 (4) The Registrar shall, where the rules governing the use of
@@ -1920,7 +1969,8 @@ mark;
 (d) it is not in the public interest for the collective mark to be
 registered.
 Infringement
-82. (1) Subject to any agreement to the contrary between a
+82. (1) Subject to any agreement to the contrary
+between a
 proceedings
 member of a collective association and the proprietor, that member
 of the collective association may, with the consent of the proprietor,
@@ -1956,7 +2006,8 @@ mark
 (2) An application made under subsection (1) shall be
 accompanied by rules governing the use of the certification mark
 which shall specify—
-(a) the conditions and requirements governing the use of
+(a) the conditions and requirements governing
+the use of
 the certification mark;
 (b) the procedure for certification of a good or service by a
 proprietor; and
@@ -2024,10 +2075,12 @@ certification mark to a good or service certified by the proprietor.
 certification
 mark
 (2) An authorised user has the right to use the certification
-mark in accordance with the rules governing the use of the
+mark in accordance with the rules governing the
+use of the
 certification mark under section 84.
 Rights of
-90. An authorised user does not have the same rights as a
+90. An authorised user does not have the same
+rights as a
 authorised
 licensee under this Act in relation to an infringement of a certification
 user in
@@ -2066,7 +2119,8 @@ reasonably necessary in order to indicate that the good
 or service is so adapted and the purpose or effect of the
 use of the certification mark indicates that the good or
 service is certified by a proprietor.
-(2) Where a certification mark is one of two or more trade
+(2) Where a certification mark is one of two or
+more trade
 marks registered under this Act that are identical or similar, the use
 of any of those trade marks, shall not be considered to be an
 infringement of the other trade marks.
@@ -2134,7 +2188,8 @@ proprietor of a certification mark, the Court may, in determining
 the matter—
 (a) take into account loss suffered or likely to be suffered
 by an authorised user; and
-(b) grant any other order the Court considers appropriate
+(b) grant any other order the Court considers
+appropriate
 to safeguard the interest of an authorised user.
 PART IX
 GEOGRAPHICAL INDICATIONS
@@ -2150,9 +2205,11 @@ indication
 Act if that geographical indication—
 excluded
 from
-(a) designates a good where the given quality, reputation
+(a) designates a good where the given quality,
+reputation
 protection
-or other characteristic of that good is not essentially
+or other characteristic of that good is not
+essentially
 attributable to the geographical origin of the good;
 (b) is a generic name or a name that is generally used in the
 trading of that good;
@@ -2244,7 +2301,8 @@ of
 and issue a certificate of registration to the applicant in a prescribed
 geographical
 indication
-manner and form on payment of a prescribed fee, where the
+manner and form on payment of a prescribed fee,
+where the
 Registrar is satisfied that the applicant has complied with the
 requirements of this Act and that there is—
 (a) no opposition to the registration of a geographical
@@ -2261,7 +2319,8 @@ geographical indication in the Intellectual Property Journal.
 (3) The Registrar may reject an application for the registration
 of a geographical indication if the application does not comply with
 the requirements of this Act.
-(4) The Registrar shall, where the Registrar rejects an
+(4) The Registrar shall, where the Registrar
+rejects an
 application for the registration of a geographical indication under
 subsection (3), notify the applicant, in writing, of the decision and
 the reasons for the rejection.
@@ -2326,7 +2385,8 @@ indication
 accordance with the Customs and Excise Act.
 Cap. 322
 Transfer of
-106. (1) A proprietor who intends to transfer a registered
+106. (1) A proprietor who intends to transfer a
+registered
 registered
 geographical indication to another person may apply to the Registrar
 geographical
@@ -2426,7 +2486,8 @@ transit.
 (3) The Commissioner-General shall, on receipt of the notice
 made under subsection (1), in writing, request the Registrar to verify
 whether—
-(a) the person submitting the notice is the registered
+(a) the person submitting the notice is the
+registered
 proprietor or licensee of the trade mark in respect of the
 counterfeit good; and
 (b) the trade mark is valid.
@@ -2435,7 +2496,8 @@ counterfeit good; and
 Commissioner-General within the prescribed period.
 (5) The Commissioner-General shall, on the Registrar’s written
 verification of the information under subsection (3)—
-(a) inform the applicant in writing within the prescribed
+(a) inform the applicant in writing within the
+prescribed
 period—
 (i) that the application for border measures has been
 approved; and
@@ -2533,7 +2595,8 @@ offence and is liable, on conviction, to a fine not exceeding seven
 hundred thousand penalty units or to imprisonment for a term not
 exceeding seven years, or to both.
 Prohibition
-115. (1) A person shall not set up a business as trade mark
+115. (1) A person shall not set up a business as
+trade mark
 of
 agent unless that person is registered under this Act.
 establishment
@@ -2556,7 +2619,8 @@ of at least five years.
 (3) Despite subsection (2), a person who has passed a qualifying
 examination approved by the Registrar as prescribed, is eligible to
 be registered as a trade mark agent.
-(4) A person is not eligible to be registered as a trade mark
+(4) A person is not eligible to be registered as a
+trade mark
 agent if that person is—
 (a) not a citizen or holder of a residence permit;
 (b) legally disqualified;
@@ -2613,7 +2677,8 @@ which the certificate was issued;
 (c) becomes bankrupt;
 (d) obtained the certificate through fraud, misrepresentation
 or concealment of a material fact;
-(e) in case of a legal practitioner, is no longer entitled to
+(e) in case of a legal practitioner, is no longer
+entitled to
 practice as a legal practitioner;
 (f) is convicted of fraud, forgery or uttering a forged
 document; or
@@ -2635,7 +2700,8 @@ Counterfeiting
 122. (1) A person commits an offence if that person
 trade mark
 knowingly—
-(a) has in possession or control in the course of trade a
+(a) has in possession or control in the course
+of trade a
 counterfeit trade mark good;
 (b) manufactures, produces or makes in the course of trade
 a counterfeit trade mark good;
@@ -2735,7 +2801,8 @@ causes to be made a false entry in the Register or register of trade
 Register
 mark agents, or a document purporting to be a copy of an entry in
 the Register or register of trade mark agents, or produces, tenders
-or causes to be produced or tendered in evidence a document,
+or causes to be produced or tendered in evidence a
+document,
 knowing the entry or document to be false.
 (2) A person convicted of an offence under subsection (1) is
 liable to a fine not exceeding two hundred thousand penalty units or
@@ -2815,7 +2882,8 @@ police station.
 (3) An authorised officer may, with a warrant, at any reasonable
 time—
 (a) enter and search any premises or private dwelling where
-that authorised officer has reasonable cause for
+that authorised officer has reasonable
+cause for
 suspecting that there is a—
 (i) good that is the subject of an offence under this
 Part;
@@ -2838,7 +2906,8 @@ that good, material, article or document was at the time of seizure
 and detention if criminal proceedings are not commenced within
 the period specified in subsection (4).
 (6) Where it is not reasonably practicable to return a seized
-and detained good, material, article or document, the seized and
+and detained good, material, article or document, the
+seized and
 detained good, material, article or document shall be dealt with in
 accordance with any written law relating to the detention and
 disposal of seized and detained property.
@@ -2893,7 +2962,8 @@ rectify the Register by—
 of a proprietor;
 (b) entering a change in the name, address or description of
 a proprietor;
-(c) striking out a good from those in respect of which a
+(c) striking out a good from those in respect
+of which a
 trade mark is registered; or
 (d) entering a disclaimer or statement relating to a registered
 trade mark.
@@ -2932,7 +3002,8 @@ Correction
 of error in
 error in a document filed with the Agency on request by an applicant
 document
-in the prescribed manner and form on payment of the prescribed
+in the prescribed manner and form on payment of the
+prescribed
 fee.
 (2) The Registrar shall, where an error in a document filed
 with the Agency is identified by the Registrar, notify an applicant, in
@@ -3012,9 +3083,11 @@ may direct;
 reasonable and direct how the costs are to be paid, and
 the costs awarded shall be taxed by the Court and the
 payment of the costs may be enforced in the same
-manner as if the costs were awarded by the Court; or
+manner as if the costs were awarded by the
+Court; or
 (i) exercise any other power as the Registrar considers
-appropriate for the performance of the Registrar’s
+appropriate for the performance of the
+Registrar’s
 functions under this Act.
 (2) The Registrar may make an order as the Registrar considers
 appropriate regarding any matter under subsection (1).
@@ -3146,7 +3219,8 @@ by the Minister may make provision for—
 the implementation of this Act and any relevant
 international treaty or convention to which the Republic
 is a State Party;
-(b) procedures and conditions for applications for a trade
+(b) procedures and conditions for applications
+for a trade
 mark and geographical indication in accordance with this
 Act;
 (c) forms to be used for purposes of this Act;
@@ -3234,7 +3308,8 @@ accordance
 with
 repealed Act
 Approvals
-9. An approval given or authorisation granted before the
+9. An approval given or authorisation granted
+before the
 and
 commencement of this Act or any act or thing done in accordance
 authorisations
