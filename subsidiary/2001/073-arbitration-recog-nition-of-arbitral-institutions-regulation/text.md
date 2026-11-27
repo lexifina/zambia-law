@@ -15,7 +15,8 @@ tions.
 3. (1) An application for a recognition order shall be made in
 Application
 for recogni-
-Form ARB 1 and, in addition to the constitution or evidence of
+Form ARB 1 and, in addition to the constitution
+or evidence of
 tion order
 authority under which it is constituted referred to in subsection (3)
 of section twenty-three, it shall be accompanied by-
@@ -37,11 +38,14 @@ Minister, within a specified period of not less than twenty-one days,
 and
 documents
 with any of the following:
-(a) information as to the property, movable or immovable,
+(a) information as to the property, movable
+or immovable,
 and the financial position of the applicant;
-( b) the balance sheet of the applicant for the financial year
+( b) the balance sheet of the applicant for the
+financial year
 preceding the application or for any other financial year;
-{ c) a list of names of members and office bearers of the
+{ c) a list of names of members and office
+bearers of the
 applicant or any of its committees;
 ( d) the books of account of the applicant;
 ( e) minutes or written records of the preceedings of the
@@ -172,7 +176,8 @@ of the Constitution or authority constituting the professional. body or organisa
 Statutory Instruments
 7. Status of the body or organisation (state whether it is a body corporate,
 association, society or other type of entity) .................................................................. ..
-8. The professional body or organisation was established, incorporated or
+8. The professional body or organisation was established, incorporated
+or
 registered on the ............................... day of ................................................. ..
 9. The name of eac~ body or organisation established within or outside Zambia
 of which the professional body or organisation is a branch or .is affiliated to
@@ -190,7 +195,8 @@ support)· .....................................................................
 ( c) Present number of members: ...................................................................... .
 12. Certification of Arbitrators (State the body, organisation or institution,
 recognised by the body or organisation, which certifies members as arbitrators.
-Attach any relevant Rules or other documents in
+Attach any relevant Rules or other documents
+in
 support)· ......................................................................................................... .
 13. The following Rules or provisions apply to the body or organisation to
 ensure the effective monitoring and enforcement of compliance with proper
