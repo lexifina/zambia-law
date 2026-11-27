@@ -9,7 +9,8 @@ Act referred to as the principal Act.
 (a) in subsection (1) by the deletion of the words " or corporal
 punishment"; and
 (b) by the deletion of subsection (2).
-Copies of this Act can be obtainedfrom the Government Printer,
+Copies of this Act can be obtainedfrom the Government
+Printer,
 P.O. 30136, 10101 Lusaka PriceK 500 each
 Rural Electrification
 [No. 20 of 2003 173
